@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: Amigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: "Portugu\xEAs-Brasil"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: Siga-nos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: "Relat\xF3rios de bugs"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Global
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: "Placar de l\xEDderes desativado em dupla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Produtor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: Design de jogos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Programador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Arte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: "Arte t\xE9cnica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: Marketing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: Mensagem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: Digite o texto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: "Insira o c\xF3digo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: "Design de interface do usu\xE1rio"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: Encontrar/Pintar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: Dica
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: Abrir para pintar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: "Movimento da c\xE2mera"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: Aproximar/Afastar o zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: Selecionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: Mouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: Teclado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Controle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: Segure
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: Tem certeza de que deseja sair do jogo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: Sair do jogo?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: "Tem certeza? Isso ir\xE1 reiniciar todo o seu progresso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Carregando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: Sim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: "N\xE3o"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: "Parab\xE9ns!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: Continue para o modo de cor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Tempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Um jogador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: Duo / Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: "Voc\xEA pode navegar na tela com as teclas W-A-S-D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: "Voc\xEA pode mov\xEA-lo segurando o bot\xE3o direito do mouse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: "Voc\xEA pode encontrar os gatos com um clique esquerdo do mouse."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: "Voc\xEA pode obter ajuda pressionando ''H'' ou o bot\xE3o de dica
+      no canto superior esquerdo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: "Parab\xE9ns, agora voc\xEA pode mudar para o modo de pintura nesta
+      fase!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: "A paleta ir\xE1 ajud\xE1-lo com a sua pintura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: "Ou voc\xEA pode selecionar e pintar pressionando e segurando."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: "Agora voc\xEA est\xE1 pronto para pintar e encontrar gatos. Divirta-se!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: "Outros mapas estar\xE3o dispon\xEDveis na vers\xE3o completa."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee05ca45c30fada479d330a98b163f67, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  id: radio_meditasyon
+  RadName: Meditation
+  clips:
+  - {fileID: 8300000, guid: be13dd3be944f4549ae30d18bcbd2439, type: 3}
+  - {fileID: 8300000, guid: fc02d723809785141a3385433d1a45ea, type: 3}
+  - {fileID: 8300000, guid: fb220316ae7d0ca459c6fd367a82cfea, type: 3}
+  - {fileID: 8300000, guid: 9670d1a57baa8914283b800b323986d8, type: 3}
+  - {fileID: 8300000, guid: 66d3a202fc3eb3045a637339cd29154a, type: 3}
+  - {fileID: 8300000, guid: e32bb94f7b211064f8bd16681cd6aa9e, type: 3}
+  - {fileID: 8300000, guid: 254f43377cf8851419dca3d0ffeb9408, type: 3}
+  - {fileID: 8300000, guid: 4552595a18e274342803fbf326ef75de, type: 3}

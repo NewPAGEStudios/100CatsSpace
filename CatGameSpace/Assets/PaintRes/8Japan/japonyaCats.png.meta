@@ -1,0 +1,2340 @@
+fileFormatVersion: 2
+guid: cb895a16696776943b6292bf1f28a65f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: japonyaCats_0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2835
+        width: 73
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0be80e53602646b225018c3106bd6
+      internalID: 2066048501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_1
+      rect:
+        serializedVersion: 2
+        x: 3816
+        y: 2856
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5561aacbaefa468738488a8f8dc54
+      internalID: -798721160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_2
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 2756
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40db39ff0d35c14ab414b9dd4a2f8c6
+      internalID: -749191430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_3
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 2662
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d48f3663ab0ca46b249d3b6d1133cf
+      internalID: -1674515489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_4
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 2585
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af3ae96673203a4ea006403e293e30b
+      internalID: 1952007198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_5
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 2618
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a948c26acd854583ab70f334a3520
+      internalID: 862230202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_6
+      rect:
+        serializedVersion: 2
+        x: 4786
+        y: 2479
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97716c8d3b134104ba54b509b248a738
+      internalID: 985416858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_7
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2360
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d595b158edd6984cb40202db5d8963a
+      internalID: -210509052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_8
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 2378
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5d412cfc258824b90b786f1047f9c0
+      internalID: -1400898196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_9
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2346
+        width: 97
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3d5d83a7bb1524aa44eee7653fd86f
+      internalID: 392377276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_10
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 2274
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53218a5a801c17b42bfaa2e24b763fb5
+      internalID: -403327777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2300
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463bfae66fb94c04592d3eb49c6fabc2
+      internalID: -287774358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_12
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 2332
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583feb99d9a14bf46b11b1a17986ace3
+      internalID: -1876993211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_13
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 2234
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b48c17ed4b16c41b2af55db887df09
+      internalID: -423988649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_14
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 2228
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b203b372477381449886c55a091b24b6
+      internalID: 1244946318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2151
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a37fbbb3186d946adc61d417337e3d
+      internalID: 666466314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_16
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2129
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e8efd3f5d9f054180c9e0e394c92c7
+      internalID: -1758221597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_17
+      rect:
+        serializedVersion: 2
+        x: 3626
+        y: 2162
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe754ecccf7d1d45a081a7986723df4
+      internalID: 439373957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_18
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 1990
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665167283c6aa2843a662b8871e1b175
+      internalID: 821478709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_19
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1919
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b9b6bbf8e2ce42b028ff5643d662f
+      internalID: -1710610063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_20
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 1939
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4439ac8307dcba644b54391c769090b2
+      internalID: -1409859097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1843
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d415fbb2ffd538d44ba77b8d1604f7bf
+      internalID: -191775677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_22
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 1880
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181992693c3aece41ba2c7542eb3fe22
+      internalID: 358945913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1834
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7d16f56304dc4db5b0b28f7edd93e
+      internalID: -548983594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_24
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1831
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbaffc25cf12704c893bb27e6198b3f
+      internalID: 890391891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_25
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1827
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b410aa4290e8e874b98fca9a7045bf38
+      internalID: -453845098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1717
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03361e82d639111458f21ef07bc65523
+      internalID: 434354683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_27
+      rect:
+        serializedVersion: 2
+        x: 4779
+        y: 1725
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef1b33d908532443b7b56df05564f75
+      internalID: 396496303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_28
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1688
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735652743ba873a4f99fac0b0a0baa94
+      internalID: -1582462085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1617
+        width: 86
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d850b0c15b85d4eb6436e15fcf5ac8
+      internalID: 1503818533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_30
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 1649
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f1cc4d56bc64348a95693ca5aa10a6
+      internalID: -625893986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_31
+      rect:
+        serializedVersion: 2
+        x: 3885
+        y: 1602
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e3263fe39561c4d8db687cd7cc786b
+      internalID: -1981333581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1530
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2593a4fcbb3d5414cbb680412a452f86
+      internalID: 1424130767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_33
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 1509
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9abc36bbcea1b499a88de38df6145f
+      internalID: 1738243334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_34
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1480
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce9fea4f668ab847a5ddd92871c9355
+      internalID: 771531807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_35
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1454
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57745a17dd8b0d84c8b65e6373673336
+      internalID: 1809570119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_36
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1403
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862f0e09e6d88234895ab2e02b8ec44d
+      internalID: 1551660876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_37
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 1313
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5156915a4c8f7458c6f0145b06116c
+      internalID: 370584969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_38
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1328
+        width: 234
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873781fde51be0d4db15886ab7ac6aab
+      internalID: -1013792148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_39
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1302
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b454c8058d78e941a65aad9ebcbbce4
+      internalID: -1235271205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_40
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1292
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76ad914aa10ae4aac60bc440bf27de
+      internalID: -1409489533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_41
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1144
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855f8634e2abb604a9b895ebc3b9cb33
+      internalID: -965447224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_42
+      rect:
+        serializedVersion: 2
+        x: 4770
+        y: 1150
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592812e3a73923d48892416f0a016954
+      internalID: 2044796187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_43
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1060
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e3e85d2e7fbb84db56d3fa9773144a
+      internalID: 1566768177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_44
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 1058
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319bd08b5f2f6ba4b9d9ab2b0b3f9fa9
+      internalID: -452794819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_45
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1060
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5578803912e69d545bbd29ec3942e799
+      internalID: 251078098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_46
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 1065
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a5bb6ced383d3459808d8a4a99e840
+      internalID: 1293697232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_47
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 978
+        width: 85
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4235a547f190c47b890ed5e8107a65
+      internalID: 1187291616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_48
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1030
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2a2e9ac44071a40aeb14b0f89266f2
+      internalID: -442596504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_49
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 997
+        width: 61
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a8a55bd4dfa694ea3a6824b1040ef0
+      internalID: 108461228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_50
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 1030
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6a86018285e824b95826b23a2203a9
+      internalID: 189351529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_51
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 966
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ed3e9ed6646b548996c829ec28ca14
+      internalID: 501744359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_52
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 906
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7703320e5abe2c14a87df15917210472
+      internalID: 732555357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_53
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 924
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22cb9d5a6254e984d993b2a01aa967df
+      internalID: -536271716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_54
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 870
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1186ce148942d94418fa85683d7195ac
+      internalID: 152094675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_55
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 889
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebebbc5755eb40f44835e4920153d548
+      internalID: 2071586983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_56
+      rect:
+        serializedVersion: 2
+        x: 3154
+        y: 837
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1112ff4de49289f4abe754740b4ee592
+      internalID: 1242481241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_57
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 851
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073f8c879bb585e49b463bc4572b71af
+      internalID: 279026601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_58
+      rect:
+        serializedVersion: 2
+        x: 4926
+        y: 845
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae2ec44c432f36459847227ab4d18e8
+      internalID: 872028501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_59
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 784
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7c26b30bc108741be7702b3cefb678
+      internalID: 1791575050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_60
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 820
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab7b93d0000d8f478bc53babc960592
+      internalID: 507503044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_61
+      rect:
+        serializedVersion: 2
+        x: 4337
+        y: 783
+        width: 86
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c21303b7ade0d4cb9c6c238a49c10f
+      internalID: -132780427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_62
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 757
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f38c9ad88e26dc4790a2a89bc057e51
+      internalID: 79260830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_63
+      rect:
+        serializedVersion: 2
+        x: 4563
+        y: 787
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b963d8756c5f9494f88e60277e8d8611
+      internalID: -185723483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_64
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 693
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec9d458c267cc54488cc2b60f0a39f4
+      internalID: -930072100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_65
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 718
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d58c4276e46184d9cb089cb33d7159
+      internalID: 276377704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_66
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 710
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deb12cf7de52914bbcd973de572f64b
+      internalID: -48464382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_67
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 608
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf2008bb17407b49ab7fb5cb8c0fe1f
+      internalID: -470730372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_68
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 607
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a630b781a8c54ba5dea329ecbad31
+      internalID: -911943807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_69
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 634
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f0f4d48d8bc74c9a68f774414d907
+      internalID: 2067254853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_70
+      rect:
+        serializedVersion: 2
+        x: 4171
+        y: 588
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9923b02ec33e8c34fafd3ce589b9f5fc
+      internalID: 564196378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_71
+      rect:
+        serializedVersion: 2
+        x: 4565
+        y: 589
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8070b5b363776b849b0162e4dbc94bda
+      internalID: 1225661774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_72
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 510
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719bbc32dbea491419184ff3a6114629
+      internalID: 349318057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_73
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 549
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ba8bc43218684d8ff50344f47ad5b
+      internalID: 1235635746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_74
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 542
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2722d6b6f7ee8844d89f37cb54c642db
+      internalID: 1146020425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_75
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 500
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b765d411d6b7cc4bb9802d4b0c13642
+      internalID: 631687475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_76
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 502
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2b9d1f9051f6c4e9a36e4f948d0827
+      internalID: -170942332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_77
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 407
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130213806de417844842cd2998806738
+      internalID: -1531439834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_78
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 450
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fef31a3c2b77204aa11eceb6452b523
+      internalID: -16001193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_79
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 444
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8532ab014123744a6297cf0347fe69
+      internalID: 1858741544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_80
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 412
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff90b080caae18428b5c567dac03b7b
+      internalID: 53854776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_81
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 428
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e7061a862aee0458488b43cf0c3543
+      internalID: -1647713546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_82
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 408
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e554a87634ca1fc4b82f54b8cf1c35dc
+      internalID: 1621903038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_83
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 352
+        width: 79
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3233bcce89d78a94fa7001a0ecc0af97
+      internalID: -1988150654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_84
+      rect:
+        serializedVersion: 2
+        x: 4238
+        y: 330
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d55dadae0330469c3d0df2150a56e
+      internalID: -1722883339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_85
+      rect:
+        serializedVersion: 2
+        x: 4788
+        y: 354
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d5eb1135a5b3348b97d538b97e13e0
+      internalID: 1249945171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 280
+        width: 192
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d95653cb79659c4098c5eed0c03bb07
+      internalID: -31015925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_87
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 258
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff24eabf4be04c4d9e67c890bf1c960
+      internalID: -182374206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_88
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 258
+        width: 61
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d431e3f4b767448bd391acbcb3a518
+      internalID: 799404856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_89
+      rect:
+        serializedVersion: 2
+        x: 2624
+        y: 279
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d709c9542bea459d7b0e50f177fa5
+      internalID: 257957375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_90
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 284
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0decb34805e85e44f975effe4896ee58
+      internalID: 1135078103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_91
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 191
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f634b0a23610704f9ea26d5bb94bf31
+      internalID: 1772306978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_92
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 175
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b057d0330ca3344fa066fd7022a9f60
+      internalID: 365411384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_93
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 139
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5850093fe0b93264b815dd02c55cec2f
+      internalID: -2011092428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_94
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 144
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eedc2b1cdbce54697c13d5cff7a4a2
+      internalID: -601845263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_95
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 141
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375153e1c22b071408a899d8fe9c60c6
+      internalID: -376580260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_96
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 110
+        width: 67
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f14c721d0d8a549a2d186a8b6c0d73
+      internalID: -1607566692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_97
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 58
+        width: 82
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2205e3ffa40cedf4e9d7428f2650d272
+      internalID: 378002356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_98
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 54
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee46ec30415b394bb14fbd097198d52
+      internalID: -409665204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japonyaCats_99
+      rect:
+        serializedVersion: 2
+        x: 3681
+        y: 40
+        width: 75
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3cef0cb07da9489822dd21decd750
+      internalID: 861041774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      japonyaCats_0: 2066048501
+      japonyaCats_1: -798721160
+      japonyaCats_10: -403327777
+      japonyaCats_11: -287774358
+      japonyaCats_12: -1876993211
+      japonyaCats_13: -423988649
+      japonyaCats_14: 1244946318
+      japonyaCats_15: 666466314
+      japonyaCats_16: -1758221597
+      japonyaCats_17: 439373957
+      japonyaCats_18: 821478709
+      japonyaCats_19: -1710610063
+      japonyaCats_2: -749191430
+      japonyaCats_20: -1409859097
+      japonyaCats_21: -191775677
+      japonyaCats_22: 358945913
+      japonyaCats_23: -548983594
+      japonyaCats_24: 890391891
+      japonyaCats_25: -453845098
+      japonyaCats_26: 434354683
+      japonyaCats_27: 396496303
+      japonyaCats_28: -1582462085
+      japonyaCats_29: 1503818533
+      japonyaCats_3: -1674515489
+      japonyaCats_30: -625893986
+      japonyaCats_31: -1981333581
+      japonyaCats_32: 1424130767
+      japonyaCats_33: 1738243334
+      japonyaCats_34: 771531807
+      japonyaCats_35: 1809570119
+      japonyaCats_36: 1551660876
+      japonyaCats_37: 370584969
+      japonyaCats_38: -1013792148
+      japonyaCats_39: -1235271205
+      japonyaCats_4: 1952007198
+      japonyaCats_40: -1409489533
+      japonyaCats_41: -965447224
+      japonyaCats_42: 2044796187
+      japonyaCats_43: 1566768177
+      japonyaCats_44: -452794819
+      japonyaCats_45: 251078098
+      japonyaCats_46: 1293697232
+      japonyaCats_47: 1187291616
+      japonyaCats_48: -442596504
+      japonyaCats_49: 108461228
+      japonyaCats_5: 862230202
+      japonyaCats_50: 189351529
+      japonyaCats_51: 501744359
+      japonyaCats_52: 732555357
+      japonyaCats_53: -536271716
+      japonyaCats_54: 152094675
+      japonyaCats_55: 2071586983
+      japonyaCats_56: 1242481241
+      japonyaCats_57: 279026601
+      japonyaCats_58: 872028501
+      japonyaCats_59: 1791575050
+      japonyaCats_6: 985416858
+      japonyaCats_60: 507503044
+      japonyaCats_61: -132780427
+      japonyaCats_62: 79260830
+      japonyaCats_63: -185723483
+      japonyaCats_64: -930072100
+      japonyaCats_65: 276377704
+      japonyaCats_66: -48464382
+      japonyaCats_67: -470730372
+      japonyaCats_68: -911943807
+      japonyaCats_69: 2067254853
+      japonyaCats_7: -210509052
+      japonyaCats_70: 564196378
+      japonyaCats_71: 1225661774
+      japonyaCats_72: 349318057
+      japonyaCats_73: 1235635746
+      japonyaCats_74: 1146020425
+      japonyaCats_75: 631687475
+      japonyaCats_76: -170942332
+      japonyaCats_77: -1531439834
+      japonyaCats_78: -16001193
+      japonyaCats_79: 1858741544
+      japonyaCats_8: -1400898196
+      japonyaCats_80: 53854776
+      japonyaCats_81: -1647713546
+      japonyaCats_82: 1621903038
+      japonyaCats_83: -1988150654
+      japonyaCats_84: -1722883339
+      japonyaCats_85: 1249945171
+      japonyaCats_86: -31015925
+      japonyaCats_87: -182374206
+      japonyaCats_88: 799404856
+      japonyaCats_89: 257957375
+      japonyaCats_9: 392377276
+      japonyaCats_90: 1135078103
+      japonyaCats_91: 1772306978
+      japonyaCats_92: 365411384
+      japonyaCats_93: -2011092428
+      japonyaCats_94: -601845263
+      japonyaCats_95: -376580260
+      japonyaCats_96: -1607566692
+      japonyaCats_97: 378002356
+      japonyaCats_98: -409665204
+      japonyaCats_99: 861041774
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee05ca45c30fada479d330a98b163f67, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  id: radio_miyav_fm
+  RadName: Meow fm
+  clips:
+  - {fileID: 8300000, guid: 69d1c520b042ff84cbbb8cee9b49daff, type: 3}
+  - {fileID: 8300000, guid: 3165a6f932ae2d34f958cc041d779bd0, type: 3}
+  - {fileID: 8300000, guid: d56c9b93a4618354bae0e9c86aa62401, type: 3}
+  - {fileID: 8300000, guid: ba88ca2ab4d9a7e44bfde9e72b65b8ab, type: 3}
+  - {fileID: 8300000, guid: 57a085d304df5604aa2ecff0e1de74fb, type: 3}
+  - {fileID: 8300000, guid: e82085bd1262cff4e8a353684a1c70cd, type: 3}
+  - {fileID: 8300000, guid: 8438e9f1c5ce41e44924edcdb9a22a86, type: 3}
+  - {fileID: 8300000, guid: f282a63cca4bb9740afd930b588e4304, type: 3}
+  - {fileID: 8300000, guid: 12fc170b58ae6244194dba73e156cf47, type: 3}
+  - {fileID: 8300000, guid: f31f5866e5b0a07458d30dbf8f83a4dc, type: 3}

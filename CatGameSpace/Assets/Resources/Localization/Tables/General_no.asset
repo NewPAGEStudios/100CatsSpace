@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_no
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: no
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: Venner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: Norsk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: "F\xF8lg oss"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: Feilrapporter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Global
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: "Ledertavlen er deaktivert p\xE5 duo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Produsent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: Spilldesign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Programmerer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Kunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: Teknisk kunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: "Markedsf\xF8ring"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: Musikk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: Melding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: Skriv inn tekst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: Skriv inn kode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: UI-design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: Finn/Mal
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: "\xC5pne for \xE5 male"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: Kamerabevegelse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: Zoom inn/ut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: Tilbake
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: Velg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: Mus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: Tastatur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Spillkontroller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: Hold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: Avslutt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Fortsett
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: "Er du sikker p\xE5 at du vil avslutte spillet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: Avslutte spillet?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: Er du sikker? Dette vil tilbakestille all fremgangen din
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Laster...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: Nei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: Gratulerer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: Fortsett til fargemodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Tid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Enspiller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: Duo / Vert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Avbryt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: "Du kan navigere p\xE5 skjermen med W-A-S-D-tastene"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: "Du kan flytte den ved \xE5 holde nede h\xF8yre museknapp"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: Du kan finne kattene med et venstre museklikk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: "Du kan f\xE5 hjelp ved \xE5 trykke p\xE5 'H' eller hintknappen
+      \xF8verst til venstre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: "Gratulerer, du kan n\xE5 bytte til malingsmodus p\xE5 dette stadiet!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: Paletten vil hjelpe deg med maleriet ditt.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: "Eller du kan velge og male ved \xE5 trykke og holde."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: "Du er n\xE5 klar til \xE5 male og finne katter. Ha det g\xF8y!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: "Andre kart vil v\xE6re tilgjengelige i fullversjonen."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

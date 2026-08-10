@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee05ca45c30fada479d330a98b163f67, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  id: radio_Kpop
+  RadName: K-Pop FM
+  clips:
+  - {fileID: 8300000, guid: 67e93436d75f4f344b0ba4f14758eb2e, type: 3}
+  - {fileID: 8300000, guid: 3f9379f0f9fd8844d9ba9d0ffddc3788, type: 3}
+  - {fileID: 8300000, guid: 438d6a5606c2c73478b30d183020e626, type: 3}
+  - {fileID: 8300000, guid: e8986c2143e80824fa45e6489a44ceab, type: 3}
+  - {fileID: 8300000, guid: 2b790c73add23f646b5c14e42d01541a, type: 3}
+  - {fileID: 8300000, guid: 3866fec1fe27dd34b9526d85c8dcc831, type: 3}

@@ -1,0 +1,234 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_pl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pl
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: Przyjaciele
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: Polski
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: Obserwuj nas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: "Zg\u0142oszenia b\u0142\u0119d\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Globalny
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: "Ranking wy\u0142\u0105czony w trybie duo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Producent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: Projektowanie gier
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Programista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Sztuka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: Sztuka techniczna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: Marketing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: Muzyka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: "Wiadomo\u015B\u0107"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: "Wprowad\u017A tekst"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: "Wprowad\u017A kod"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: Projekt UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: "Znajd\u017A/Pomaluj"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: "Wskaz\xF3wka"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: "Otw\xF3rz do malowania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: Ruch kamery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: "Powi\u0119ksz/Pomniejsz"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: Wstecz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: Wybierz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: Mysz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: Klawiatura
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: Przytrzymaj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: "Wyjd\u017A"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Kontynuuj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: "Czy na pewno chcesz wyj\u015B\u0107 z gry"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: "Zako\u0144czy\u0107 gr\u0119?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: "Jeste\u015B pewien? Spowoduje to zresetowanie wszystkich twoich
+      post\u0119p\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Wczytywanie...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: Tak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: Nie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: Gratulacje!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: "Przejd\u017A do trybu kolor\xF3w"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Czas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Jeden gracz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: Duet / Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Anuluj
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: "Mo\u017Cesz porusza\u0107 si\u0119 po ekranie za pomoc\u0105 klawiszy
+      W-A-S-D"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: "Mo\u017Cesz go przesuwa\u0107, przytrzymuj\u0105c prawy przycisk
+      myszy"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: "Mo\u017Cesz znale\u017A\u0107 koty lewym przyciskiem myszy."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: "Mo\u017Cesz uzyska\u0107 pomoc, naciskaj\u0105c \u201EH\u201D lub
+      przycisk podpowiedzi w lewym g\xF3rnym rogu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: "Gratulacje, na tym etapie mo\u017Cesz teraz przej\u015B\u0107 do
+      trybu malowania!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: "Paleta pomo\u017Ce ci w malowaniu."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: "Lub mo\u017Cesz wybra\u0107 i malowa\u0107, naciskaj\u0105c i przytrzymuj\u0105c."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: "Jeste\u015B teraz gotowy do malowania i znajdowania kot\xF3w. Baw
+      si\u0119 dobrze!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: "Pozosta\u0142e mapy b\u0119d\u0105 dost\u0119pne w pe\u0142nej
+      wersji."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

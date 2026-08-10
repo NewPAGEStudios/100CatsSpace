@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4db626ad063b13545924a9839ac5fa83, type: 3}
+  m_Name: Deneme
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 39b2812f03df2604db5f930b21c93f5d, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 8630606b2ef49e9459b557644315ed57, type: 2}
+  - {fileID: 11400000, guid: 2d160c949156b9842996b37cdbc242f6, type: 2}
+  - {fileID: 11400000, guid: 096837bbd86c61649aebdd47f27d02ae, type: 2}
+  - {fileID: 11400000, guid: 5f874acd981c4744aae869f6e3f5877b, type: 2}
+  - {fileID: 11400000, guid: 54d858b278b7c1348a92d41a48346ae0, type: 2}
+  - {fileID: 11400000, guid: 332f483af0b94464b8c5fcbd4af5184c, type: 2}
+  - {fileID: 11400000, guid: 84a8413e0d6392d42abf6349c40b4c58, type: 2}
+  - {fileID: 11400000, guid: 86d19790c6c8dda43bb3b9b10f3a55d7, type: 2}
+  - {fileID: 11400000, guid: b6f08b96058a4ea4fb714d6998ddd479, type: 2}
+  - {fileID: 11400000, guid: e8088185174a62a4591e683d54b651ae, type: 2}
+  - {fileID: 11400000, guid: 66a799f59b4095d44a93a183b30c0471, type: 2}
+  - {fileID: 11400000, guid: be142de1e3c17754ea8ec59b180a1828, type: 2}
+  - {fileID: 11400000, guid: be0d21cf80bc53247abd79f2ce92705f, type: 2}
+  - {fileID: 11400000, guid: 59365848485475240856e7cb8c00dfdc, type: 2}
+  - {fileID: 11400000, guid: ea977fcd22c233d44bb5efeae6651fae, type: 2}
+  - {fileID: 11400000, guid: cc03fba6ed7439c4298e4551a6597d9b, type: 2}
+  - {fileID: 11400000, guid: e3bb7ab751192db4d9d1b3b0e913e9fa, type: 2}
+  - {fileID: 11400000, guid: a9f20a95996ae9f4f9eb6868cd8d0fe5, type: 2}
+  - {fileID: 11400000, guid: a60919ee3de6d1740bf7d79e3dcdd7ad, type: 2}
+  - {fileID: 11400000, guid: 994382df03f999841a52e8602b45ef55, type: 2}
+  - {fileID: 11400000, guid: 4ac24f34c283ebb45a8be16a2edae808, type: 2}
+  - {fileID: 11400000, guid: bd7ac9d088e3a28498f7ca6352d41185, type: 2}
+  - {fileID: 11400000, guid: 6dfd582b4d3cfb74b9ec8d8d483fe2b0, type: 2}
+  - {fileID: 11400000, guid: a14a529a0f993bb43a06289ed616309c, type: 2}
+  - {fileID: 11400000, guid: 7bbf417149fd725438bd3d74c36a28c5, type: 2}
+  - {fileID: 11400000, guid: 8b52da9bffdf6c44387ccb976c31771b, type: 2}
+  - {fileID: 11400000, guid: f806403ea8f7b774a9d6241a4308db99, type: 2}
+  m_Extensions: []
+  m_Group: Asset Table
+  references:
+    version: 2
+    RefIds: []

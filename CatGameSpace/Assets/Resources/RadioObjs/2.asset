@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee05ca45c30fada479d330a98b163f67, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  id: radio_jazz
+  RadName: Jazz
+  clips:
+  - {fileID: 8300000, guid: 60260b1127f781b488a0265338bfc284, type: 3}
+  - {fileID: 8300000, guid: 4c5a4ca1530411f42b96eda7901aa22e, type: 3}
+  - {fileID: 8300000, guid: 364279ccf98832546aabf253e2e927b8, type: 3}
+  - {fileID: 8300000, guid: b240a40fbd14cd641aee25d60dbbd73e, type: 3}
+  - {fileID: 8300000, guid: bc1ccd77ed14ceb478ac267ab3a5c6ac, type: 3}
+  - {fileID: 8300000, guid: faa60209f792e054381ed3f41673dbff, type: 3}

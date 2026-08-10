@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: General Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: General
+  m_TableCollectionNameGuidString: 4b7d92d44845ccc4cbefece77d7c7d48
+  m_Entries:
+  - m_Id: 1554486876508160
+    m_Key: menuTut_Page1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Key: menuTut_Page1_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Key: menuTut_Page2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Key: menuTut_Page2_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Key: menuTut_Page3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Key: menuTut_Page4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Key: menuTut_Page4_1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Key: menuTut_Page5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Key: menuMain_Follow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Key: menuMain_bug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Key: menuLead_Glo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686577199419392
+    m_Key: menuLead_Fri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Key: menuSet_Lan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Key: menuMap_douDis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Key: menuCredit_Pro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Key: menuCredit_GD
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Key: menuCredit_Progr
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Key: menuCredit_Art
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Key: menuCredit_TechArt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Key: menuCredit_Mark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Key: menuCredit_Mus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Key: lobby_Mes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Key: gen_EnterText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Key: menuHO_ECode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Key: menuCredit_UID
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Key: setBind_FP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Key: setBind_Hi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Key: setBind_OtP
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Key: setBind_CM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Key: setBind_Zoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Key: setBind_Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Key: setBind_Sel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Key: setBind_Mou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Key: setBind_Keyboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Key: setBind_Gmpad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Key: gen_Hold
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Key: menuAYS_Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Key: menuAYS_Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Key: menuAYS_Dec0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Key: menuAYS_Dec1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Key: menuAYSaveWipe_Dec0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Key: gen_Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Key: gen_Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Key: gen_No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Key: gen_Cong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Key: gen_ContCol
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Key: gen_Time
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Key: menuSoloDuo_Solo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Key: menuSoloDuo_DH
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Key: menuAYS_Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Key: general_ComSoon
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 420316046862319640
+  references:
+    version: 2
+    RefIds:
+    - rid: 420316046862319640
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1752155073648

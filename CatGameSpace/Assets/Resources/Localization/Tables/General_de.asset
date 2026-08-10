@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: Freunde
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: Deutsch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: Folgen Sie uns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: Fehlerberichte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Global
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: Bestenliste im Duo deaktiviert
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Produzent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: Spieldesign
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Programmierer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Kunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: Technische Kunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: Marketing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: Musik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: Nachricht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: Text eingeben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: Code eingeben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: UI-Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: Suchen/Malen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: Hinweis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: "Zum Malen \xF6ffnen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: Kamerabewegung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: "Vergr\xF6\xDFern/Verkleinern"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: "Zur\xFCck"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: "Ausw\xE4hlen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: Maus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: Tastatur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: Halten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: Beenden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Weiter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: "Sind Sie sicher, dass Sie das Spiel beenden m\xF6chten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: Spiel beenden?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: "Bist du sicher? Dadurch wird dein gesamter Fortschritt zur\xFCckgesetzt"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Wird geladen...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: Nein
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: "Herzlichen Gl\xFCckwunsch!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: Weiter zum Farbmodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Zeit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Einzelspieler
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: Duo / Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Abbrechen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: "Mit den W-A-S-D-Tasten k\xF6nnen Sie auf dem Bildschirm navigieren"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: "Sie k\xF6nnen es bewegen, indem Sie die rechte Maustaste gedr\xFCckt
+      halten"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: "Mit einem Linksklick mit der Maus k\xF6nnen Sie die Katzen finden."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: "Sie k\xF6nnen Hilfe erhalten, indem Sie ''H'' oder die Hinweistaste
+      oben links dr\xFCcken"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: "Herzlichen Gl\xFCckwunsch, Sie k\xF6nnen jetzt in den Malmodus
+      wechseln!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: Die Palette wird Ihnen beim Malen helfen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: "Oder Sie k\xF6nnen ausw\xE4hlen und malen, indem Sie gedr\xFCckt
+      halten."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: "Sie sind jetzt bereit, Katzen zu malen und zu finden. Viel Spa\xDF!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: "Weitere Karten werden in der Vollversion verf\xFCgbar sein."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

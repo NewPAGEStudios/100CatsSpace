@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_es-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es-ES
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: Amigos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: "Espa\xF1ol-Espa\xF1a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: "S\xEDguenos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: Informes de errores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Global
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: "Tabla de clasificaci\xF3n deshabilitada en d\xFAo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Productor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: "Dise\xF1o de juegos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Programador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Arte
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: "Arte t\xE9cnico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: Marketing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: "M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: Mensaje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: Introduzca texto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: "Introducir c\xF3digo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: "Dise\xF1o de interfaz de usuario"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: Buscar/Pintar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: Pista
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: Abrir para pintar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: "Movimiento de c\xE1mara"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: Acercar/Alejar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: "Atr\xE1s"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: Seleccionar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: "Rat\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: Teclado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Mando
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: Mantener
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: Salir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Continuar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: "\xBFEst\xE1s seguro de que quieres salir del juego"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: "\xBFSalir del juego?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: "\xBFEst\xE1s seguro? Esto restablecer\xE1 todo tu progreso"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Cargando...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: "S\xED"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: "\xA1Felicidades!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: Continuar al modo de color
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Tiempo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Un jugador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: "D\xFAo / Anfitri\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Cancelar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: Puede navegar por la pantalla con las teclas W-A-S-D
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: "Puede moverlo manteniendo presionado el bot\xF3n derecho del rat\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: "Puedes encontrar a los gatos con un clic izquierdo del rat\xF3n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: "Puede obtener ayuda presionando la ''H'' o el bot\xF3n de pista
+      en la parte superior izquierda"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: "\xA1Felicidades, ya puedes cambiar al modo de pintura en esta etapa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: "La paleta te ayudar\xE1 con tu pintura."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: O puedes seleccionar y pintar manteniendo presionado.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: "Ya est\xE1s listo para pintar y encontrar gatos. \xA1Que te diviertas!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: "Los dem\xE1s mapas estar\xE1n disponibles en la versi\xF3n completa."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

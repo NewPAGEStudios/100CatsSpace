@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_fi
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fi
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: "Yst\xE4v\xE4t"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: Suomi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: "Seuraa meit\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: Virheraportit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Maailmanlaajuinen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: "Tulostaulukko pois k\xE4yt\xF6st\xE4 duossa"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Tuottaja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: Pelisuunnittelu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Ohjelmoija
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Taide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: Tekninen taide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: Markkinointi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: Musiikki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: Viesti
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: "Sy\xF6t\xE4 teksti"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: "Sy\xF6t\xE4 koodi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: "K\xE4ytt\xF6liittym\xE4suunnittelu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: Etsi/Maalaa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: Vihje
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: Avaa maalattavaksi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: Kameran liike
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: "L\xE4henn\xE4/Loitonna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: Takaisin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: Valitse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: Hiiri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: "N\xE4pp\xE4imist\xF6"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Peliohjain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: "Pid\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: Lopeta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Jatka
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: "Haluatko varmasti poistua pelist\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: Lopeta peli?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: "Oletko varma? T\xE4m\xE4 nollaa kaiken edistymisesi"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Ladataan...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: "Kyll\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: Ei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: Onnittelut!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: "Jatka v\xE4ritystilaan"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Aika
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Yksinpeli
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: "Duo / Is\xE4nt\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Peruuta
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: "Voit liikkua n\xE4yt\xF6ll\xE4 W-A-S-D-n\xE4pp\xE4imill\xE4"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: "Voit siirt\xE4\xE4 sit\xE4 pit\xE4m\xE4ll\xE4 hiiren oikeaa painiketta
+      painettuna"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: "L\xF6yd\xE4t kissat hiiren vasemmalla napsautuksella."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: "Voit saada apua painamalla ''H''-n\xE4pp\xE4int\xE4 tai vasemmassa
+      yl\xE4kulmassa olevaa vihjepainiketta"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: "Onnittelut, voit nyt siirty\xE4 maalaustilaan t\xE4ss\xE4 vaiheessa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: Paletti auttaa sinua maalauksessasi.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: "Tai voit valita ja maalata painamalla pitk\xE4\xE4n."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: "Olet nyt valmis maalaamaan ja etsim\xE4\xE4n kissoja. Pid\xE4 hauskaa!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: "Muut kartat ovat saatavilla t\xE4ysversiossa.\n\n"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

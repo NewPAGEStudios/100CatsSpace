@@ -1,0 +1,227 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: General_nl
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: nl
+  m_SharedData: {fileID: 11400000, guid: 4b7d92d44845ccc4cbefece77d7c7d48, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 686577199419392
+    m_Localized: Vrienden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686711043854336
+    m_Localized: Nederlands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686172990148608
+    m_Localized: Volg ons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686336324734976
+    m_Localized: Bug reports
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686487504228352
+    m_Localized: Wereldwijd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 686874902728704
+    m_Localized: Scorebord uitgeschakeld in duo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692463812808704
+    m_Localized: Producent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692545085837312
+    m_Localized: Game Design
+    m_Metadata:
+      m_Items: []
+  - m_Id: 692954479267840
+    m_Localized: Programmeur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694147582595072
+    m_Localized: Kunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694220521541632
+    m_Localized: Technische kunst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694665923072000
+    m_Localized: Marketing
+    m_Metadata:
+      m_Items: []
+  - m_Id: 694753743409152
+    m_Localized: Muziek
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695000028745728
+    m_Localized: Bericht
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695138520469504
+    m_Localized: Voer tekst in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 695220611387392
+    m_Localized: Voer code in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 697863589138432
+    m_Localized: UI-ontwerp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698355476140032
+    m_Localized: Zoek/Verf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698489962303488
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698585680515072
+    m_Localized: Openen om te schilderen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698751183556608
+    m_Localized: Camerabeweging
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698871266480128
+    m_Localized: In-/uitzoomen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 698956498931712
+    m_Localized: Terug
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699007065460736
+    m_Localized: Selecteren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699082504212480
+    m_Localized: Muis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699135130144768
+    m_Localized: Toetsenbord
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699221184679936
+    m_Localized: Gamepad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 699352596418560
+    m_Localized: Houd ingedrukt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737005425463296
+    m_Localized: Afsluiten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737141148946432
+    m_Localized: Doorgaan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737568418500608
+    m_Localized: Weet je zeker dat je het spel wilt verlaten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 737591646556160
+    m_Localized: Spel afsluiten?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 738020157624320
+    m_Localized: Weet je het zeker? Hierdoor wordt al je voortgang gereset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 739566224216064
+    m_Localized: Laden...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742582608269312
+    m_Localized: Ja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 742604867440640
+    m_Localized: Nee
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746477204082688
+    m_Localized: Gefeliciteerd!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 746807211921408
+    m_Localized: Ga verder naar de kleurmodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1032047838957568
+    m_Localized: Tijd
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140293790666752
+    m_Localized: Singleplayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1140296089145344
+    m_Localized: Duo / Host
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1149502238298112
+    m_Localized: Annuleren
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554486876508160
+    m_Localized: U kunt op het scherm navigeren met de W-A-S-D-toetsen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554596477865984
+    m_Localized: U kunt het verplaatsen door de rechtermuisknop ingedrukt te houden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554614278492160
+    m_Localized: U kunt de katten vinden met een linkermuisklik.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554639259766784
+    m_Localized: U kunt hulp krijgen door op 'H' of de hintknop linksboven te drukken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554657253330944
+    m_Localized: Gefeliciteerd, u kunt nu in dit stadium overschakelen naar de schildermodus!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554669383258112
+    m_Localized: Het palet helpt je met schilderen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554685136063936
+    m_Localized: Of u kunt selecteren en schilderen door ingedrukt te houden.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1554703000604672
+    m_Localized: Je bent nu klaar om te schilderen en katten te zoeken. Veel plezier!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2453087265820672
+    m_Localized: Andere maps zijn beschikbaar in de volledige versie.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
