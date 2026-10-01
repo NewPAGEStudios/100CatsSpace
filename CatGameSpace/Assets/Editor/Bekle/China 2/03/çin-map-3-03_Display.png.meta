@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 582351dc399bcd041bdb73544020d314
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3546987469705098804
+    second: "\xE7in-map-3-03_Display_0"
+  - first:
+      213: -2176270353014404169
+    second: "\xE7in-map-3-03_Display_1"
+  - first:
+      213: -7484870349401771468
+    second: "\xE7in-map-3-03_Display_2"
+  - first:
+      213: 8332002997901848751
+    second: "\xE7in-map-3-03_Display_3"
+  - first:
+      213: 3985233609830660753
+    second: "\xE7in-map-3-03_Display_4"
+  - first:
+      213: -1011832701239397133
+    second: "\xE7in-map-3-03_Display_5"
+  - first:
+      213: -206148968914306349
+    second: "\xE7in-map-3-03_Display_6"
+  - first:
+      213: 6011735536534412824
+    second: "\xE7in-map-3-03_Display_7"
+  - first:
+      213: -1465302921295101796
+    second: "\xE7in-map-3-03_Display_8"
+  - first:
+      213: 5065789406820484000
+    second: "\xE7in-map-3-03_Display_9"
+  - first:
+      213: 5336838567646918149
+    second: "\xE7in-map-3-03_Display_10"
+  - first:
+      213: 9099899211228509655
+    second: "\xE7in-map-3-03_Display_11"
+  - first:
+      213: 734022851706978758
+    second: "\xE7in-map-3-03_Display_12"
+  - first:
+      213: -7034049070993248166
+    second: "\xE7in-map-3-03_Display_13"
+  - first:
+      213: -5572966775218495112
+    second: "\xE7in-map-3-03_Display_14"
+  - first:
+      213: -2531403239486532757
+    second: "\xE7in-map-3-03_Display_15"
+  - first:
+      213: 2522837232702780561
+    second: "\xE7in-map-3-03_Display_16"
+  - first:
+      213: 4238590361896654797
+    second: "\xE7in-map-3-03_Display_17"
+  - first:
+      213: -770450429606804003
+    second: "\xE7in-map-3-03_Display_18"
+  - first:
+      213: 4235388733579873476
+    second: "\xE7in-map-3-03_Display_19"
+  - first:
+      213: 8354239555095566952
+    second: "\xE7in-map-3-03_Display_20"
+  - first:
+      213: 552595848377514266
+    second: "\xE7in-map-3-03_Display_21"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1142
+        width: 5000
+        height: 1858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9477560b196cec0800000000000000
+      internalID: -3546987469705098804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1131
+        width: 97
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbcc51f4a55cc1e0800000000000000
+      internalID: -2176270353014404169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 104
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432bd02e216602890800000000000000
+      internalID: -7484870349401771468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_3"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1113
+        width: 212
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0fd6de49831a370800000000000000
+      internalID: 8332002997901848751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_4"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1034
+        width: 181
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a77ec7ad46e4730800000000000000
+      internalID: 3985233609830660753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_5"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 929
+        width: 492
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f47086e48f35f1f0800000000000000
+      internalID: -1011832701239397133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_6"
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 915
+        width: 502
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dabc01ea9c932df0800000000000000
+      internalID: -206148968914306349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_7"
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 588
+        width: 1123
+        height: 698
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ed9b27e99fd6350800000000000000
+      internalID: 6011735536534412824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_8"
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1014
+        width: 278
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c900ddfa1c23aabe0800000000000000
+      internalID: -1465302921295101796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_9"
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 970
+        width: 406
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3c87430ac4d4640800000000000000
+      internalID: 5065789406820484000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_10"
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 831
+        width: 335
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506f238c662401a40800000000000000
+      internalID: 5336838567646918149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_11"
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 972
+        width: 289
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5f1298e16594e70800000000000000
+      internalID: 9099899211228509655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_12"
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1069
+        width: 175
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1830505e5cf2a00800000000000000
+      internalID: 734022851706978758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_13"
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1019
+        width: 335
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50f7ce43a9026e90800000000000000
+      internalID: -7034049070993248166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_14"
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 714
+        width: 425
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8712c0aae38d8a2b0800000000000000
+      internalID: -5572966775218495112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_15"
+      rect:
+        serializedVersion: 2
+        x: 3312
+        y: 1049
+        width: 1426
+        height: 1445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d1276a26aedcd0800000000000000
+      internalID: -2531403239486532757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_16"
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 648
+        width: 617
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194f069b81be20320800000000000000
+      internalID: 2522837232702780561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5000
+        height: 1078
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc79e352a7f72da30800000000000000
+      internalID: 4238590361896654797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_18"
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 429
+        width: 405
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd54d329a6fce45f0800000000000000
+      internalID: -770450429606804003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_19"
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 1040
+        width: 102
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc48b6fc9f17ca30800000000000000
+      internalID: 4235388733579873476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_20"
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 729
+        width: 153
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a1df9dc9830f370800000000000000
+      internalID: 8354239555095566952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-3-03_Display_21"
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 637
+        width: 681
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19b5ee0ff63ba700800000000000000
+      internalID: 552595848377514266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\xE7in-map-3-03_Display_0": -3546987469705098804
+      "\xE7in-map-3-03_Display_1": -2176270353014404169
+      "\xE7in-map-3-03_Display_10": 5336838567646918149
+      "\xE7in-map-3-03_Display_11": 9099899211228509655
+      "\xE7in-map-3-03_Display_12": 734022851706978758
+      "\xE7in-map-3-03_Display_13": -7034049070993248166
+      "\xE7in-map-3-03_Display_14": -5572966775218495112
+      "\xE7in-map-3-03_Display_15": -2531403239486532757
+      "\xE7in-map-3-03_Display_16": 2522837232702780561
+      "\xE7in-map-3-03_Display_17": 4238590361896654797
+      "\xE7in-map-3-03_Display_18": -770450429606804003
+      "\xE7in-map-3-03_Display_19": 4235388733579873476
+      "\xE7in-map-3-03_Display_2": -7484870349401771468
+      "\xE7in-map-3-03_Display_20": 8354239555095566952
+      "\xE7in-map-3-03_Display_21": 552595848377514266
+      "\xE7in-map-3-03_Display_3": 8332002997901848751
+      "\xE7in-map-3-03_Display_4": 3985233609830660753
+      "\xE7in-map-3-03_Display_5": -1011832701239397133
+      "\xE7in-map-3-03_Display_6": -206148968914306349
+      "\xE7in-map-3-03_Display_7": 6011735536534412824
+      "\xE7in-map-3-03_Display_8": -1465302921295101796
+      "\xE7in-map-3-03_Display_9": 5065789406820484000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4901 @@
+fileFormatVersion: 2
+guid: 1a5dc9d05897faf4a9fb75882732d60a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4758528683287428806
+    second: thai_01_Display_0
+  - first:
+      213: 6257772967597635913
+    second: thai_01_Display_1
+  - first:
+      213: 3529686287449279561
+    second: thai_01_Display_2
+  - first:
+      213: -1001998055562013891
+    second: thai_01_Display_3
+  - first:
+      213: 6928210733436795301
+    second: thai_01_Display_4
+  - first:
+      213: -6456209326693391642
+    second: thai_01_Display_5
+  - first:
+      213: -3018890878604706579
+    second: thai_01_Display_6
+  - first:
+      213: -1994751916042004547
+    second: thai_01_Display_7
+  - first:
+      213: -2627706799573814828
+    second: thai_01_Display_8
+  - first:
+      213: -3424886871235857606
+    second: thai_01_Display_9
+  - first:
+      213: -3879998975761604026
+    second: thai_01_Display_10
+  - first:
+      213: 3940220623973438424
+    second: thai_01_Display_11
+  - first:
+      213: 6469441301753402680
+    second: thai_01_Display_12
+  - first:
+      213: -104872761733468633
+    second: thai_01_Display_13
+  - first:
+      213: 8238097956102230725
+    second: thai_01_Display_14
+  - first:
+      213: 102198764514666894
+    second: thai_01_Display_15
+  - first:
+      213: 1284916763133600040
+    second: thai_01_Display_16
+  - first:
+      213: 6230938015565542354
+    second: thai_01_Display_17
+  - first:
+      213: 8289639376973620452
+    second: thai_01_Display_18
+  - first:
+      213: -1409081042987321731
+    second: thai_01_Display_19
+  - first:
+      213: -3604614089893686310
+    second: thai_01_Display_20
+  - first:
+      213: -2485688179859550384
+    second: thai_01_Display_21
+  - first:
+      213: 3011648232246006612
+    second: thai_01_Display_22
+  - first:
+      213: -659865035789942346
+    second: thai_01_Display_23
+  - first:
+      213: -3520388103601532
+    second: thai_01_Display_24
+  - first:
+      213: 225472692667410049
+    second: thai_01_Display_25
+  - first:
+      213: 7716361377780954218
+    second: thai_01_Display_26
+  - first:
+      213: 2828491588219229002
+    second: thai_01_Display_27
+  - first:
+      213: -6334945681618048755
+    second: thai_01_Display_28
+  - first:
+      213: 3919932427326511969
+    second: thai_01_Display_29
+  - first:
+      213: -4787576981835640972
+    second: thai_01_Display_30
+  - first:
+      213: 6462360142555042753
+    second: thai_01_Display_31
+  - first:
+      213: 2916301036956383099
+    second: thai_01_Display_32
+  - first:
+      213: 769539765586035095
+    second: thai_01_Display_33
+  - first:
+      213: -6341947780494192732
+    second: thai_01_Display_34
+  - first:
+      213: 2545077787623514735
+    second: thai_01_Display_35
+  - first:
+      213: 8715823371238877147
+    second: thai_01_Display_36
+  - first:
+      213: 1856630338703747287
+    second: thai_01_Display_37
+  - first:
+      213: -8713375584405064890
+    second: thai_01_Display_38
+  - first:
+      213: -1116088893051037885
+    second: thai_01_Display_39
+  - first:
+      213: -3340427450871502100
+    second: thai_01_Display_40
+  - first:
+      213: -5569902450372568762
+    second: thai_01_Display_41
+  - first:
+      213: -4922062204610642227
+    second: thai_01_Display_42
+  - first:
+      213: -4722620217859677629
+    second: thai_01_Display_43
+  - first:
+      213: -9166080041260014242
+    second: thai_01_Display_44
+  - first:
+      213: -3770572975836322556
+    second: thai_01_Display_45
+  - first:
+      213: 1849621045415675557
+    second: thai_01_Display_46
+  - first:
+      213: 5082572237846402692
+    second: thai_01_Display_47
+  - first:
+      213: -1076685332708066137
+    second: thai_01_Display_48
+  - first:
+      213: -5442970634154422875
+    second: thai_01_Display_49
+  - first:
+      213: 4505969510235273295
+    second: thai_01_Display_50
+  - first:
+      213: -3353473736283950729
+    second: thai_01_Display_51
+  - first:
+      213: 8577643355200395430
+    second: thai_01_Display_52
+  - first:
+      213: -5894857010458530410
+    second: thai_01_Display_53
+  - first:
+      213: -6801139183982560097
+    second: thai_01_Display_54
+  - first:
+      213: -2016898138489823064
+    second: thai_01_Display_55
+  - first:
+      213: 6886052217789710048
+    second: thai_01_Display_56
+  - first:
+      213: 5432276998894306719
+    second: thai_01_Display_57
+  - first:
+      213: -5988477567752975020
+    second: thai_01_Display_58
+  - first:
+      213: -972912172985020399
+    second: thai_01_Display_59
+  - first:
+      213: 3676433928098982786
+    second: thai_01_Display_60
+  - first:
+      213: -1866035344619629676
+    second: thai_01_Display_61
+  - first:
+      213: 1009006080799040831
+    second: thai_01_Display_62
+  - first:
+      213: -3720564601565549486
+    second: thai_01_Display_63
+  - first:
+      213: -930303065178972213
+    second: thai_01_Display_64
+  - first:
+      213: 556835047768454301
+    second: thai_01_Display_65
+  - first:
+      213: 308890326732693710
+    second: thai_01_Display_66
+  - first:
+      213: -7657804288357689334
+    second: thai_01_Display_67
+  - first:
+      213: 7696991561813969129
+    second: thai_01_Display_68
+  - first:
+      213: -6543049079946679152
+    second: thai_01_Display_69
+  - first:
+      213: -3901081977423061760
+    second: thai_01_Display_70
+  - first:
+      213: 201063754843434188
+    second: thai_01_Display_71
+  - first:
+      213: -1658726055818585966
+    second: thai_01_Display_72
+  - first:
+      213: -8600562820703922688
+    second: thai_01_Display_73
+  - first:
+      213: 2182352799992597494
+    second: thai_01_Display_74
+  - first:
+      213: 8985634423068773370
+    second: thai_01_Display_75
+  - first:
+      213: -6707115807042990852
+    second: thai_01_Display_76
+  - first:
+      213: 6570249284912434462
+    second: thai_01_Display_77
+  - first:
+      213: 698341507186368400
+    second: thai_01_Display_78
+  - first:
+      213: 4693130215218690125
+    second: thai_01_Display_79
+  - first:
+      213: 8109059673087881559
+    second: thai_01_Display_80
+  - first:
+      213: -4886847422257534500
+    second: thai_01_Display_81
+  - first:
+      213: -819650988208647643
+    second: thai_01_Display_82
+  - first:
+      213: 3922391634821555123
+    second: thai_01_Display_83
+  - first:
+      213: -403967286556549057
+    second: thai_01_Display_84
+  - first:
+      213: 6400330244862290336
+    second: thai_01_Display_85
+  - first:
+      213: 2550603542097835375
+    second: thai_01_Display_86
+  - first:
+      213: -1184710443464123641
+    second: thai_01_Display_87
+  - first:
+      213: 7809335307554852947
+    second: thai_01_Display_88
+  - first:
+      213: -400913271709441742
+    second: thai_01_Display_89
+  - first:
+      213: 1471970253608945890
+    second: thai_01_Display_90
+  - first:
+      213: 3170485947843445084
+    second: thai_01_Display_91
+  - first:
+      213: -5063485535836346552
+    second: thai_01_Display_92
+  - first:
+      213: -558940187255323037
+    second: thai_01_Display_93
+  - first:
+      213: 2959353960079737675
+    second: thai_01_Display_94
+  - first:
+      213: -4392053693577054567
+    second: thai_01_Display_95
+  - first:
+      213: -2007606655208588235
+    second: thai_01_Display_96
+  - first:
+      213: 3817524818299891212
+    second: thai_01_Display_97
+  - first:
+      213: 8180921421516958708
+    second: thai_01_Display_98
+  - first:
+      213: -4437471702087871294
+    second: thai_01_Display_99
+  - first:
+      213: 139729386922853078
+    second: thai_01_Display_100
+  - first:
+      213: 2239997120587035522
+    second: thai_01_Display_101
+  - first:
+      213: -5511122122163826540
+    second: thai_01_Display_102
+  - first:
+      213: 2973149254944239332
+    second: thai_01_Display_103
+  - first:
+      213: 4985578634908249895
+    second: thai_01_Display_104
+  - first:
+      213: -5198441093017560398
+    second: thai_01_Display_105
+  - first:
+      213: -2236883826971809745
+    second: thai_01_Display_106
+  - first:
+      213: 8867313933722012980
+    second: thai_01_Display_107
+  - first:
+      213: -132780737211732925
+    second: thai_01_Display_108
+  - first:
+      213: 2079125367589231061
+    second: thai_01_Display_109
+  - first:
+      213: 4478390339082009610
+    second: thai_01_Display_110
+  - first:
+      213: -4796087143829351307
+    second: thai_01_Display_111
+  - first:
+      213: -1440969627480645839
+    second: thai_01_Display_112
+  - first:
+      213: 6815265704229994131
+    second: thai_01_Display_113
+  - first:
+      213: -2446301000753774554
+    second: thai_01_Display_114
+  - first:
+      213: -3284002020516470296
+    second: thai_01_Display_115
+  - first:
+      213: -5358475015442578100
+    second: thai_01_Display_116
+  - first:
+      213: -5882502122902247171
+    second: thai_01_Display_117
+  - first:
+      213: 5862444896167012946
+    second: thai_01_Display_118
+  - first:
+      213: -5445642339040474382
+    second: thai_01_Display_119
+  - first:
+      213: 1783882799090080859
+    second: thai_01_Display_120
+  - first:
+      213: -2259038382186252150
+    second: thai_01_Display_121
+  - first:
+      213: 6658821031138328135
+    second: thai_01_Display_122
+  - first:
+      213: 3385684382511254803
+    second: thai_01_Display_123
+  - first:
+      213: 9136891191946321796
+    second: thai_01_Display_124
+  - first:
+      213: -3784336651374719559
+    second: thai_01_Display_125
+  - first:
+      213: -5663763717618257526
+    second: thai_01_Display_126
+  - first:
+      213: -6100705791193263457
+    second: thai_01_Display_127
+  - first:
+      213: -9107974581949800410
+    second: thai_01_Display_128
+  - first:
+      213: 3522971345439486779
+    second: thai_01_Display_129
+  - first:
+      213: 2709146346028190234
+    second: thai_01_Display_130
+  - first:
+      213: 8252693616750697037
+    second: thai_01_Display_131
+  - first:
+      213: 2010972426703194877
+    second: thai_01_Display_132
+  - first:
+      213: 688639623350359017
+    second: thai_01_Display_133
+  - first:
+      213: -7253641646390599687
+    second: thai_01_Display_134
+  - first:
+      213: -1662340405664906796
+    second: thai_01_Display_135
+  - first:
+      213: -2729132492938081930
+    second: thai_01_Display_136
+  - first:
+      213: -4722352708617615097
+    second: thai_01_Display_137
+  - first:
+      213: -8224065838167790026
+    second: thai_01_Display_138
+  - first:
+      213: 3814401142771364988
+    second: thai_01_Display_139
+  - first:
+      213: 3233769565219514409
+    second: thai_01_Display_140
+  - first:
+      213: -1136523808186423954
+    second: thai_01_Display_141
+  - first:
+      213: -366773500606591073
+    second: thai_01_Display_142
+  - first:
+      213: -9157892194130838794
+    second: thai_01_Display_143
+  - first:
+      213: 4887576768255151377
+    second: thai_01_Display_144
+  - first:
+      213: -402356353743018455
+    second: thai_01_Display_145
+  - first:
+      213: -5155120546800787951
+    second: thai_01_Display_146
+  - first:
+      213: -4462243079518851191
+    second: thai_01_Display_147
+  - first:
+      213: 226378682418856111
+    second: thai_01_Display_148
+  - first:
+      213: 1569428334283407512
+    second: thai_01_Display_149
+  - first:
+      213: -2190057473254281310
+    second: thai_01_Display_150
+  - first:
+      213: -2433443382249613451
+    second: thai_01_Display_151
+  - first:
+      213: 4240753412004392398
+    second: thai_01_Display_152
+  - first:
+      213: -6922717002771348380
+    second: thai_01_Display_153
+  - first:
+      213: 5210626439726276093
+    second: thai_01_Display_154
+  - first:
+      213: -3774563817095967624
+    second: thai_01_Display_155
+  - first:
+      213: 7946832778513824449
+    second: thai_01_Display_156
+  - first:
+      213: 259422058343209569
+    second: thai_01_Display_157
+  - first:
+      213: 3322211438762504956
+    second: thai_01_Display_158
+  - first:
+      213: 2391425022660885434
+    second: thai_01_Display_159
+  - first:
+      213: -3022688383751824144
+    second: thai_01_Display_160
+  - first:
+      213: 4784816021596294017
+    second: thai_01_Display_161
+  - first:
+      213: -3137450607273556385
+    second: thai_01_Display_162
+  - first:
+      213: 852663255070271666
+    second: thai_01_Display_163
+  - first:
+      213: 3250132559383910646
+    second: thai_01_Display_164
+  - first:
+      213: 8529621492660387144
+    second: thai_01_Display_165
+  - first:
+      213: -2872737745913141304
+    second: thai_01_Display_166
+  - first:
+      213: -1543604751571065115
+    second: thai_01_Display_167
+  - first:
+      213: -7426435270834650747
+    second: thai_01_Display_168
+  - first:
+      213: 2995474431088462524
+    second: thai_01_Display_169
+  - first:
+      213: -3559142763275362073
+    second: thai_01_Display_170
+  - first:
+      213: 3628714721407451686
+    second: thai_01_Display_171
+  - first:
+      213: 9136821907208595916
+    second: thai_01_Display_172
+  - first:
+      213: 7841561456957611816
+    second: thai_01_Display_173
+  - first:
+      213: -6896372299080758100
+    second: thai_01_Display_174
+  - first:
+      213: -1701709734840670225
+    second: thai_01_Display_175
+  - first:
+      213: 7257002799760655553
+    second: thai_01_Display_176
+  - first:
+      213: -1680093625875169603
+    second: thai_01_Display_177
+  - first:
+      213: 3148589218494718895
+    second: thai_01_Display_178
+  - first:
+      213: 8161367483109564121
+    second: thai_01_Display_179
+  - first:
+      213: -6323721854988460241
+    second: thai_01_Display_180
+  - first:
+      213: 8658083887263709895
+    second: thai_01_Display_181
+  - first:
+      213: -5524323952819242885
+    second: thai_01_Display_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thai_01_Display_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2336
+        width: 5000
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cebadc20a0b90240800000000000000
+      internalID: 4758528683287428806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 860
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949f2b2eb5318d650800000000000000
+      internalID: 6257772967597635913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2278
+        width: 902
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c4bf33af6fbf030800000000000000
+      internalID: 3529686287449279561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2084
+        width: 884
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d331898c3103812f0800000000000000
+      internalID: -1001998055562013891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2173
+        width: 312
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97c8f64f2f52060800000000000000
+      internalID: 6928210733436795301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1749
+        width: 416
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e260e6e2dfe666a0800000000000000
+      internalID: -6456209326693391642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_6
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2020
+        width: 563
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec791d9dbeba16d0800000000000000
+      internalID: -3018890878604706579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2283
+        width: 254
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7594573b73154e0800000000000000
+      internalID: -1994751916042004547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_8
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2257
+        width: 514
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d136858692888bd0800000000000000
+      internalID: -2627706799573814828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_9
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2196
+        width: 149
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a337614598b5870d0800000000000000
+      internalID: -3424886871235857606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_10
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2196
+        width: 42
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642a9d81d79772ac0800000000000000
+      internalID: -3879998975761604026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_11
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2196
+        width: 144
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3da9408c97ea630800000000000000
+      internalID: 3940220623973438424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2274
+        width: 316
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835904e569218c950800000000000000
+      internalID: 6469441301753402680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_13
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2186
+        width: 861
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e234267ca6b8ef0800000000000000
+      internalID: -104872761733468633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_14
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2191
+        width: 2611
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2585a917a935270800000000000000
+      internalID: 8238097956102230725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_15
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1704
+        width: 1096
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89616f1c351b6100800000000000000
+      internalID: 102198764514666894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_16
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1875
+        width: 1150
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e5800df0f4d110800000000000000
+      internalID: 1284916763133600040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1744
+        width: 338
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3f24bbc1db87650800000000000000
+      internalID: 6230938015565542354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1716
+        width: 446
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e46a9cc717ba0370800000000000000
+      internalID: 8289639376973620452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2051
+        width: 281
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76f00dc140f17ce0800000000000000
+      internalID: -1409081042987321731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2061
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d4835596d9fdc0800000000000000
+      internalID: -3604614089893686310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1778
+        width: 410
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f851925cf018dd0800000000000000
+      internalID: -2485688179859550384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1997
+        width: 265
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453d47f5c168bc920800000000000000
+      internalID: 3011648232246006612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2070
+        width: 983
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b14a0efe30b7d6f0800000000000000
+      internalID: -659865035789942346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_24
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2151
+        width: 494
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4820d95c93e73fff0800000000000000
+      internalID: -3520388103601532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_25
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2044
+        width: 993
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186edf8283a012300800000000000000
+      internalID: 225472692667410049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_26
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 1860
+        width: 358
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a647d214ac5061b60800000000000000
+      internalID: 7716361377780954218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_27
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 2066
+        width: 285
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43dcfd0d12d04720800000000000000
+      internalID: 2828491588219229002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_28
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 1968
+        width: 123
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09e2cf6770c518a0800000000000000
+      internalID: -6334945681618048755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1995
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bd45226c5666630800000000000000
+      internalID: 3919932427326511969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2002
+        width: 109
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f89d6c91c1f8db0800000000000000
+      internalID: -4787576981835640972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1974
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3d2a38f4aeea950800000000000000
+      internalID: 6462360142555042753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_32
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1840
+        width: 132
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7773e58758c87820800000000000000
+      internalID: 2916301036956383099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1837
+        width: 149
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910b40f654fdaa00800000000000000
+      internalID: 769539765586035095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1774
+        width: 305
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af019f3810ecf7a0800000000000000
+      internalID: -6341947780494192732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_35
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1723
+        width: 590
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62690173cee15320800000000000000
+      internalID: 2545077787623514735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_36
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1440
+        width: 724
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7adbf7d23d4f870800000000000000
+      internalID: 8715823371238877147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_37
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1909
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d866a9c47314c910800000000000000
+      internalID: 1856630338703747287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_38
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1762
+        width: 303
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64379f8421fd31780800000000000000
+      internalID: -8713375584405064890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_39
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1726
+        width: 100
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3471fe7a01bd280f0800000000000000
+      internalID: -1116088893051037885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_40
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 1927
+        width: 168
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea27d88eea64a1d0800000000000000
+      internalID: -3340427450871502100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_41
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1996
+        width: 147
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64917f36b3bb3b2b0800000000000000
+      internalID: -5569902450372568762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_42
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1874
+        width: 28
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce7ecbc08251bbb0800000000000000
+      internalID: -4922062204610642227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_43
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1874
+        width: 121
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3426561fee1e57eb0800000000000000
+      internalID: -4722620217859677629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_44
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1705
+        width: 29
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5526e534ca8bc080800000000000000
+      internalID: -9166080041260014242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_45
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1689
+        width: 67
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a6971bdb3cabc0800000000000000
+      internalID: -3770572975836322556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_46
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 1446
+        width: 679
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a686158a8c2ba910800000000000000
+      internalID: 1849621045415675557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_47
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 1761
+        width: 517
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486d81e858ce88640800000000000000
+      internalID: 5082572237846402692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_48
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 1822
+        width: 417
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acff09f468de01f0800000000000000
+      internalID: -1076685332708066137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_49
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 1895
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adc75cdb0fa674b0800000000000000
+      internalID: -5442970634154422875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 116
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48705a556b688e30800000000000000
+      internalID: 4505969510235273295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1542
+        width: 587
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771713187611671d0800000000000000
+      internalID: -3353473736283950729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_52
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1747
+        width: 165
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a895bc6f29e90770800000000000000
+      internalID: 8577643355200395430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_53
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1640
+        width: 323
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69de5e108c2413ea0800000000000000
+      internalID: -5894857010458530410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_54
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1773
+        width: 93
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cbab632ff7d91a0800000000000000
+      internalID: -6801139183982560097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_55
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1805
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0ea2b34d98204e0800000000000000
+      internalID: -2016898138489823064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_56
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1720
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee752a120c209f50800000000000000
+      internalID: 6886052217789710048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_57
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1716
+        width: 562
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95ce982623536b40800000000000000
+      internalID: 5432276998894306719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_58
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1694
+        width: 322
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d40b46167a4eca0800000000000000
+      internalID: -5988477567752975020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_59
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1788
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110139b88858f72f0800000000000000
+      internalID: -972912172985020399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_60
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1785
+        width: 173
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ba884dd21550330800000000000000
+      internalID: 3676433928098982786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_61
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1688
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4939f91adb28a16e0800000000000000
+      internalID: -1866035344619629676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_62
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1687
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f356c3e3fa5b00e00800000000000000
+      internalID: 1009006080799040831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_63
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1703
+        width: 223
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ceacf0536ed5cc0800000000000000
+      internalID: -3720564601565549486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_64
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1592
+        width: 500
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfdc8a8a46e613f0800000000000000
+      internalID: -930303065178972213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_65
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 1228
+        width: 548
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94f9b496864ab700800000000000000
+      internalID: 556835047768454301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_66
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 1855
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0e4779d16694400800000000000000
+      internalID: 308890326732693710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1804
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a081af092930ab590800000000000000
+      internalID: -7657804288357689334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_68
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1781
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8c9198b0531da60800000000000000
+      internalID: 7696991561813969129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_69
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1638
+        width: 424
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce4d1478b6235a0800000000000000
+      internalID: -6543049079946679152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_70
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1730
+        width: 196
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d15004c929cd9c0800000000000000
+      internalID: -3901081977423061760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_71
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1703
+        width: 197
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc26a47b625ac200800000000000000
+      internalID: 201063754843434188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_72
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1562
+        width: 163
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2989f37c0750bf8e0800000000000000
+      internalID: -1658726055818585966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 270
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006d28baea9a4a880800000000000000
+      internalID: -8600562820703922688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_74
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1681
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb432a1f46494e10800000000000000
+      internalID: 2182352799992597494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1569
+        width: 169
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb498c56e263bc70800000000000000
+      internalID: 8985634423068773370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_76
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1533
+        width: 267
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc8bc595b98be2a0800000000000000
+      internalID: -6707115807042990852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_77
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1740
+        width: 233
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d48f8f9e63e2b50800000000000000
+      internalID: 6570249284912434462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_78
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1700
+        width: 164
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f11cb96e101b900800000000000000
+      internalID: 698341507186368400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_79
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1633
+        width: 242
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4833c2c019512140800000000000000
+      internalID: 4693130215218690125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_80
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1698
+        width: 138
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75139dc1fca298070800000000000000
+      internalID: 8109059673087881559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_81
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1658
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd96ecc392e6e2cb0800000000000000
+      internalID: -4886847422257534500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_82
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1438
+        width: 153
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5229608d4c300a4f0800000000000000
+      internalID: -819650988208647643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_83
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1527
+        width: 287
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3a08ff8622f6630800000000000000
+      internalID: 3922391634821555123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_84
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1662
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f302be7a4e1d46af0800000000000000
+      internalID: -403967286556549057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_85
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1606
+        width: 168
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9a432827a82d850800000000000000
+      internalID: 6400330244862290336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_86
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1623
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6538996860956320800000000000000
+      internalID: 2550603542097835375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_87
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1420
+        width: 335
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b10a7e0201f8fe0800000000000000
+      internalID: -1184710443464123641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_88
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1567
+        width: 224
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35019ba2615506c60800000000000000
+      internalID: 7809335307554852947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_89
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1602
+        width: 254
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e406e08baf6af0800000000000000
+      internalID: -400913271709441742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_90
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1417
+        width: 284
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e88d46952d7d6410800000000000000
+      internalID: 1471970253608945890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_91
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1357
+        width: 218
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51839eeb24dffb20800000000000000
+      internalID: 3170485947843445084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_92
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1652
+        width: 193
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847652f8bb2eab9b0800000000000000
+      internalID: -5063485535836346552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_93
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1577
+        width: 181
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366c4ff6cde3e38f0800000000000000
+      internalID: -558940187255323037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_94
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1583
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43c2335fbcb11920800000000000000
+      internalID: 2959353960079737675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_95
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 1582
+        width: 109
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996b5ef8f6a4c03c0800000000000000
+      internalID: -4392053693577054567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_96
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1622
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf493426c8324e0800000000000000
+      internalID: -2007606655208588235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_97
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1469
+        width: 179
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ea00c98929af430800000000000000
+      internalID: 3817524818299891212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_98
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1515
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbe6e040b8788170800000000000000
+      internalID: 8180921421516958708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_99
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1301
+        width: 1273
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c454386ffeea62c0800000000000000
+      internalID: -4437471702087871294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1246
+        width: 517
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d24838132b60f100800000000000000
+      internalID: 139729386922853078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_101
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1407
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283fc7e5381161f10800000000000000
+      internalID: 2239997120587035522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_102
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1417
+        width: 248
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d0aa01af8483b0800000000000000
+      internalID: -5511122122163826540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_103
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1276
+        width: 407
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2b25be7fb24920800000000000000
+      internalID: 2973149254944239332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_104
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1397
+        width: 498
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fab7d8a55503540800000000000000
+      internalID: 4985578634908249895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_105
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1379
+        width: 171
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba15e05e5d6bd7b0800000000000000
+      internalID: -5198441093017560398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_106
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1558
+        width: 289
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f286789c20ef4f0e0800000000000000
+      internalID: -2236883826971809745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_107
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1583
+        width: 141
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d4f5baa070f0b70800000000000000
+      internalID: 8867313933722012980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_108
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1578
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cea7d7f94482ef0800000000000000
+      internalID: -132780737211732925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_109
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1555
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9d8a291898adc10800000000000000
+      internalID: 2079125367589231061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1361
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c368e2940762e30800000000000000
+      internalID: 4478390339082009610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_111
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1316
+        width: 43
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574db384720e07db0800000000000000
+      internalID: -4796087143829351307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_112
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1393
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f93e522c5a00ce0800000000000000
+      internalID: -1440969627480645839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1246
+        width: 277
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef7869c00b49e50800000000000000
+      internalID: 6815265704229994131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_114
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1443
+        width: 156
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620836c633efc0ed0800000000000000
+      internalID: -2446301000753774554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_115
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1246
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1637dcf81ec62d0800000000000000
+      internalID: -3284002020516470296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_116
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1246
+        width: 216
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c454db62d5fd2a5b0800000000000000
+      internalID: -5358475015442578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_117
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1321
+        width: 308
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df82eed6c772d5ea0800000000000000
+      internalID: -5882502122902247171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_118
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1257
+        width: 441
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a265f82969b5150800000000000000
+      internalID: 5862444896167012946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_119
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1364
+        width: 419
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4aa715213d64b0800000000000000
+      internalID: -5445642339040474382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_120
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1251
+        width: 179
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c91b054ff91c810800000000000000
+      internalID: 1783882799090080859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_121
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1409
+        width: 242
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b0df6f8846a0e0800000000000000
+      internalID: -2259038382186252150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_122
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1404
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e76e7a272e86c50800000000000000
+      internalID: 6658821031138328135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_123
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1301
+        width: 589
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dcb2df10e5cfe20800000000000000
+      internalID: 3385684382511254803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_124
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1373
+        width: 454
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f1b573122ccce70800000000000000
+      internalID: 9136891191946321796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_125
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1487
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8158add55b7bc0800000000000000
+      internalID: -3784336651374719559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_126
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1333
+        width: 238
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a813e9f18e44661b0800000000000000
+      internalID: -5663763717618257526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 5000
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92d1c4e760f55ba0800000000000000
+      internalID: -6100705791193263457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_128
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1246
+        width: 272
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206893bf59f99180800000000000000
+      internalID: -9107974581949800410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_129
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1261
+        width: 78
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33fccee5cb14e030800000000000000
+      internalID: 3522971345439486779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_130
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1246
+        width: 124
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ace8f7f32d89520800000000000000
+      internalID: 2709146346028190234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_131
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1301
+        width: 281
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a1f8aae15778270800000000000000
+      internalID: 8252693616750697037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_132
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1254
+        width: 187
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfacfba74c868eb10800000000000000
+      internalID: 2010972426703194877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_133
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1253
+        width: 204
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39e00c61a8e8900800000000000000
+      internalID: 688639623350359017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_134
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1301
+        width: 234
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff98e2aa53e55b90800000000000000
+      internalID: -7253641646390599687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_135
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1286
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d18090653e2ee8e0800000000000000
+      internalID: -1662340405664906796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 1066
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679037d057c202ad0800000000000000
+      internalID: -2729132492938081930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_137
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 339
+        width: 555
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7094eba4b35d67eb0800000000000000
+      internalID: -4722352708617615097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_138
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 864
+        width: 301
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e659271bf3edd80800000000000000
+      internalID: -8224065838167790026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_139
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 70
+        width: 387
+        height: 1099
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743bb931a97fe430800000000000000
+      internalID: 3814401142771364988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_140
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 841
+        width: 255
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e06c4948a0ec20800000000000000
+      internalID: 3233769565219514409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_141
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 313
+        width: 2343
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6526463e914a30f0800000000000000
+      internalID: -1136523808186423954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_142
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 130
+        width: 403
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4157c175f8eaf0800000000000000
+      internalID: -366773500606591073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_143
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 95
+        width: 666
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa328de191a8e080800000000000000
+      internalID: -9157892194130838794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_144
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 176
+        width: 1152
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dcc4cdc2924d340800000000000000
+      internalID: 4887576768255151377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_145
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 177
+        width: 457
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926a60e270b8a6af0800000000000000
+      internalID: -402356353743018455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_146
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 447
+        width: 385
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e1f99fc255578b0800000000000000
+      internalID: -5155120546800787951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_147
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 593
+        width: 211
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f65d7af8de212c0800000000000000
+      internalID: -4462243079518851191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_148
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 118
+        width: 756
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa00c465632442300800000000000000
+      internalID: 226378682418856111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890456d31cab7c510800000000000000
+      internalID: 1569428334283407512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 172
+        width: 504
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af2dfcd45a5b91e0800000000000000
+      internalID: -2190057473254281310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_151
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 310
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5779cf3032caa3ed0800000000000000
+      internalID: -2433443382249613451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_152
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 120
+        width: 252
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd2c8e72ce2ada30800000000000000
+      internalID: 4240753412004392398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_153
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 58
+        width: 115
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c14960919def90800000000000000
+      internalID: -6922717002771348380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_154
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 163
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd942dc32ddf4840800000000000000
+      internalID: 5210626439726276093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_155
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 110
+        width: 344
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cc3f3f43e0e9bc0800000000000000
+      internalID: -3774563817095967624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_156
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 261
+        width: 57
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca3fb4de42d84e60800000000000000
+      internalID: 7946832778513824449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_157
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 110
+        width: 292
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a9272dcf6a99300800000000000000
+      internalID: 259422058343209569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_158
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 50
+        width: 525
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2bd24a3bdda1e20800000000000000
+      internalID: 3322211438762504956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_159
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 0
+        width: 725
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbbea6436c003120800000000000000
+      internalID: 2391425022660885434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_160
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 188
+        width: 762
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd5cb0ee04d06d0800000000000000
+      internalID: -3022688383751824144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_161
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 0
+        width: 234
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b48d212d4176240800000000000000
+      internalID: 4784816021596294017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_162
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 0
+        width: 209
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56402dab498574d0800000000000000
+      internalID: -3137450607273556385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_163
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 101
+        width: 151
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8ed7f76b445db00800000000000000
+      internalID: 852663255070271666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_164
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 54
+        width: 886
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f85203c75aca1d20800000000000000
+      internalID: 3250132559383910646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_165
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 25
+        width: 554
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d3f824e8d4f5670800000000000000
+      internalID: 8529621492660387144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_166
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 212
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7adf19d3cf128d0800000000000000
+      internalID: -2872737745913141304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6600528a3049ae0800000000000000
+      internalID: -1543604751571065115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_168
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 30
+        width: 195
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5810876d77000f890800000000000000
+      internalID: -7426435270834650747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_169
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 625
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba0bc6df10129920800000000000000
+      internalID: 2995474431088462524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_170
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 28
+        width: 429
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0e11293826b9ec0800000000000000
+      internalID: -3559142763275362073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_171
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 325
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622c8b830d8cb5230800000000000000
+      internalID: 3628714721407451686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_172
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 214
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9ec2b9d138cce70800000000000000
+      internalID: 9136821907208595916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_173
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 67
+        width: 658
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f5a564992d2dc60800000000000000
+      internalID: 7841561456957611816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_174
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 917
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac827abee92b40a0800000000000000
+      internalID: -6896372299080758100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_175
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 108
+        width: 246
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe76fff13005268e0800000000000000
+      internalID: -1701709734840670225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_176
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 0
+        width: 218
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4cfbdd89d06b460800000000000000
+      internalID: 7257002799760655553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_177
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 304
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbeff40bfbb1fa8e0800000000000000
+      internalID: -1680093625875169603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_178
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 198
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3a008563902bb20800000000000000
+      internalID: 3148589218494718895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_179
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 43
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de5b203c70034170800000000000000
+      internalID: 8161367483109564121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_180
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 0
+        width: 987
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fd9073a70ad38a0800000000000000
+      internalID: -6323721854988460241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_181
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 0
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caf2e74c61b72870800000000000000
+      internalID: 8658083887263709895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Display_182
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 311
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78f60052a8a553b0800000000000000
+      internalID: -5524323952819242885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thai_01_Display_0: 4758528683287428806
+      thai_01_Display_1: 6257772967597635913
+      thai_01_Display_10: -3879998975761604026
+      thai_01_Display_100: 139729386922853078
+      thai_01_Display_101: 2239997120587035522
+      thai_01_Display_102: -5511122122163826540
+      thai_01_Display_103: 2973149254944239332
+      thai_01_Display_104: 4985578634908249895
+      thai_01_Display_105: -5198441093017560398
+      thai_01_Display_106: -2236883826971809745
+      thai_01_Display_107: 8867313933722012980
+      thai_01_Display_108: -132780737211732925
+      thai_01_Display_109: 2079125367589231061
+      thai_01_Display_11: 3940220623973438424
+      thai_01_Display_110: 4478390339082009610
+      thai_01_Display_111: -4796087143829351307
+      thai_01_Display_112: -1440969627480645839
+      thai_01_Display_113: 6815265704229994131
+      thai_01_Display_114: -2446301000753774554
+      thai_01_Display_115: -3284002020516470296
+      thai_01_Display_116: -5358475015442578100
+      thai_01_Display_117: -5882502122902247171
+      thai_01_Display_118: 5862444896167012946
+      thai_01_Display_119: -5445642339040474382
+      thai_01_Display_12: 6469441301753402680
+      thai_01_Display_120: 1783882799090080859
+      thai_01_Display_121: -2259038382186252150
+      thai_01_Display_122: 6658821031138328135
+      thai_01_Display_123: 3385684382511254803
+      thai_01_Display_124: 9136891191946321796
+      thai_01_Display_125: -3784336651374719559
+      thai_01_Display_126: -5663763717618257526
+      thai_01_Display_127: -6100705791193263457
+      thai_01_Display_128: -9107974581949800410
+      thai_01_Display_129: 3522971345439486779
+      thai_01_Display_13: -104872761733468633
+      thai_01_Display_130: 2709146346028190234
+      thai_01_Display_131: 8252693616750697037
+      thai_01_Display_132: 2010972426703194877
+      thai_01_Display_133: 688639623350359017
+      thai_01_Display_134: -7253641646390599687
+      thai_01_Display_135: -1662340405664906796
+      thai_01_Display_136: -2729132492938081930
+      thai_01_Display_137: -4722352708617615097
+      thai_01_Display_138: -8224065838167790026
+      thai_01_Display_139: 3814401142771364988
+      thai_01_Display_14: 8238097956102230725
+      thai_01_Display_140: 3233769565219514409
+      thai_01_Display_141: -1136523808186423954
+      thai_01_Display_142: -366773500606591073
+      thai_01_Display_143: -9157892194130838794
+      thai_01_Display_144: 4887576768255151377
+      thai_01_Display_145: -402356353743018455
+      thai_01_Display_146: -5155120546800787951
+      thai_01_Display_147: -4462243079518851191
+      thai_01_Display_148: 226378682418856111
+      thai_01_Display_149: 1569428334283407512
+      thai_01_Display_15: 102198764514666894
+      thai_01_Display_150: -2190057473254281310
+      thai_01_Display_151: -2433443382249613451
+      thai_01_Display_152: 4240753412004392398
+      thai_01_Display_153: -6922717002771348380
+      thai_01_Display_154: 5210626439726276093
+      thai_01_Display_155: -3774563817095967624
+      thai_01_Display_156: 7946832778513824449
+      thai_01_Display_157: 259422058343209569
+      thai_01_Display_158: 3322211438762504956
+      thai_01_Display_159: 2391425022660885434
+      thai_01_Display_16: 1284916763133600040
+      thai_01_Display_160: -3022688383751824144
+      thai_01_Display_161: 4784816021596294017
+      thai_01_Display_162: -3137450607273556385
+      thai_01_Display_163: 852663255070271666
+      thai_01_Display_164: 3250132559383910646
+      thai_01_Display_165: 8529621492660387144
+      thai_01_Display_166: -2872737745913141304
+      thai_01_Display_167: -1543604751571065115
+      thai_01_Display_168: -7426435270834650747
+      thai_01_Display_169: 2995474431088462524
+      thai_01_Display_17: 6230938015565542354
+      thai_01_Display_170: -3559142763275362073
+      thai_01_Display_171: 3628714721407451686
+      thai_01_Display_172: 9136821907208595916
+      thai_01_Display_173: 7841561456957611816
+      thai_01_Display_174: -6896372299080758100
+      thai_01_Display_175: -1701709734840670225
+      thai_01_Display_176: 7257002799760655553
+      thai_01_Display_177: -1680093625875169603
+      thai_01_Display_178: 3148589218494718895
+      thai_01_Display_179: 8161367483109564121
+      thai_01_Display_18: 8289639376973620452
+      thai_01_Display_180: -6323721854988460241
+      thai_01_Display_181: 8658083887263709895
+      thai_01_Display_182: -5524323952819242885
+      thai_01_Display_19: -1409081042987321731
+      thai_01_Display_2: 3529686287449279561
+      thai_01_Display_20: -3604614089893686310
+      thai_01_Display_21: -2485688179859550384
+      thai_01_Display_22: 3011648232246006612
+      thai_01_Display_23: -659865035789942346
+      thai_01_Display_24: -3520388103601532
+      thai_01_Display_25: 225472692667410049
+      thai_01_Display_26: 7716361377780954218
+      thai_01_Display_27: 2828491588219229002
+      thai_01_Display_28: -6334945681618048755
+      thai_01_Display_29: 3919932427326511969
+      thai_01_Display_3: -1001998055562013891
+      thai_01_Display_30: -4787576981835640972
+      thai_01_Display_31: 6462360142555042753
+      thai_01_Display_32: 2916301036956383099
+      thai_01_Display_33: 769539765586035095
+      thai_01_Display_34: -6341947780494192732
+      thai_01_Display_35: 2545077787623514735
+      thai_01_Display_36: 8715823371238877147
+      thai_01_Display_37: 1856630338703747287
+      thai_01_Display_38: -8713375584405064890
+      thai_01_Display_39: -1116088893051037885
+      thai_01_Display_4: 6928210733436795301
+      thai_01_Display_40: -3340427450871502100
+      thai_01_Display_41: -5569902450372568762
+      thai_01_Display_42: -4922062204610642227
+      thai_01_Display_43: -4722620217859677629
+      thai_01_Display_44: -9166080041260014242
+      thai_01_Display_45: -3770572975836322556
+      thai_01_Display_46: 1849621045415675557
+      thai_01_Display_47: 5082572237846402692
+      thai_01_Display_48: -1076685332708066137
+      thai_01_Display_49: -5442970634154422875
+      thai_01_Display_5: -6456209326693391642
+      thai_01_Display_50: 4505969510235273295
+      thai_01_Display_51: -3353473736283950729
+      thai_01_Display_52: 8577643355200395430
+      thai_01_Display_53: -5894857010458530410
+      thai_01_Display_54: -6801139183982560097
+      thai_01_Display_55: -2016898138489823064
+      thai_01_Display_56: 6886052217789710048
+      thai_01_Display_57: 5432276998894306719
+      thai_01_Display_58: -5988477567752975020
+      thai_01_Display_59: -972912172985020399
+      thai_01_Display_6: -3018890878604706579
+      thai_01_Display_60: 3676433928098982786
+      thai_01_Display_61: -1866035344619629676
+      thai_01_Display_62: 1009006080799040831
+      thai_01_Display_63: -3720564601565549486
+      thai_01_Display_64: -930303065178972213
+      thai_01_Display_65: 556835047768454301
+      thai_01_Display_66: 308890326732693710
+      thai_01_Display_67: -7657804288357689334
+      thai_01_Display_68: 7696991561813969129
+      thai_01_Display_69: -6543049079946679152
+      thai_01_Display_7: -1994751916042004547
+      thai_01_Display_70: -3901081977423061760
+      thai_01_Display_71: 201063754843434188
+      thai_01_Display_72: -1658726055818585966
+      thai_01_Display_73: -8600562820703922688
+      thai_01_Display_74: 2182352799992597494
+      thai_01_Display_75: 8985634423068773370
+      thai_01_Display_76: -6707115807042990852
+      thai_01_Display_77: 6570249284912434462
+      thai_01_Display_78: 698341507186368400
+      thai_01_Display_79: 4693130215218690125
+      thai_01_Display_8: -2627706799573814828
+      thai_01_Display_80: 8109059673087881559
+      thai_01_Display_81: -4886847422257534500
+      thai_01_Display_82: -819650988208647643
+      thai_01_Display_83: 3922391634821555123
+      thai_01_Display_84: -403967286556549057
+      thai_01_Display_85: 6400330244862290336
+      thai_01_Display_86: 2550603542097835375
+      thai_01_Display_87: -1184710443464123641
+      thai_01_Display_88: 7809335307554852947
+      thai_01_Display_89: -400913271709441742
+      thai_01_Display_9: -3424886871235857606
+      thai_01_Display_90: 1471970253608945890
+      thai_01_Display_91: 3170485947843445084
+      thai_01_Display_92: -5063485535836346552
+      thai_01_Display_93: -558940187255323037
+      thai_01_Display_94: 2959353960079737675
+      thai_01_Display_95: -4392053693577054567
+      thai_01_Display_96: -2007606655208588235
+      thai_01_Display_97: 3817524818299891212
+      thai_01_Display_98: 8180921421516958708
+      thai_01_Display_99: -4437471702087871294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

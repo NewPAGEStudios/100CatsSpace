@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: c9b4932556d89184f8218a82159198ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -725279828486041805
+    second: hayalet_01_Process_0
+  - first:
+      213: -874323935548641005
+    second: hayalet_01_Process_1
+  - first:
+      213: -5841702710538812008
+    second: hayalet_01_Process_2
+  - first:
+      213: -4092258885887996049
+    second: hayalet_01_Process_3
+  - first:
+      213: 747330250538043435
+    second: hayalet_01_Process_4
+  - first:
+      213: 4340230553192999162
+    second: hayalet_01_Process_5
+  - first:
+      213: -3475609092143674707
+    second: hayalet_01_Process_6
+  - first:
+      213: -4022442358180620194
+    second: hayalet_01_Process_7
+  - first:
+      213: -542226059420175706
+    second: hayalet_01_Process_8
+  - first:
+      213: -1423247871843633277
+    second: hayalet_01_Process_9
+  - first:
+      213: -6037663119987501175
+    second: hayalet_01_Process_10
+  - first:
+      213: -6135212226271856276
+    second: hayalet_01_Process_11
+  - first:
+      213: 3238793755740971704
+    second: hayalet_01_Process_12
+  - first:
+      213: -7909157300550986794
+    second: hayalet_01_Process_13
+  - first:
+      213: 8246366753086188469
+    second: hayalet_01_Process_14
+  - first:
+      213: 9046332907722922860
+    second: hayalet_01_Process_15
+  - first:
+      213: -7240714032507000531
+    second: hayalet_01_Process_16
+  - first:
+      213: 7453911042049022559
+    second: hayalet_01_Process_17
+  - first:
+      213: -8076417060074267567
+    second: hayalet_01_Process_18
+  - first:
+      213: 4279301440062004352
+    second: hayalet_01_Process_19
+  - first:
+      213: -41427786861594841
+    second: hayalet_01_Process_20
+  - first:
+      213: 2150571637974807775
+    second: hayalet_01_Process_21
+  - first:
+      213: -8493017092295583889
+    second: hayalet_01_Process_22
+  - first:
+      213: -5262082740070897268
+    second: hayalet_01_Process_23
+  - first:
+      213: 6402816448162791223
+    second: hayalet_01_Process_24
+  - first:
+      213: -8699187858240240961
+    second: hayalet_01_Process_25
+  - first:
+      213: -2753046835913401684
+    second: hayalet_01_Process_26
+  - first:
+      213: -3775734093561316205
+    second: hayalet_01_Process_27
+  - first:
+      213: -8498407264221990210
+    second: hayalet_01_Process_28
+  - first:
+      213: 4039877988588955796
+    second: hayalet_01_Process_29
+  - first:
+      213: -2272454824352136569
+    second: hayalet_01_Process_30
+  - first:
+      213: 4013894564125678078
+    second: hayalet_01_Process_31
+  - first:
+      213: 3088186111771911325
+    second: hayalet_01_Process_32
+  - first:
+      213: -3814204908369025330
+    second: hayalet_01_Process_33
+  - first:
+      213: 6078070837080389254
+    second: hayalet_01_Process_34
+  - first:
+      213: 6976352647904355413
+    second: hayalet_01_Process_35
+  - first:
+      213: 8343946298421224467
+    second: hayalet_01_Process_36
+  - first:
+      213: -4598423548990792258
+    second: hayalet_01_Process_37
+  - first:
+      213: -4462994226706174542
+    second: hayalet_01_Process_38
+  - first:
+      213: 8144111116463099651
+    second: hayalet_01_Process_39
+  - first:
+      213: -3531020085684050057
+    second: hayalet_01_Process_40
+  - first:
+      213: 5578278085408871544
+    second: hayalet_01_Process_41
+  - first:
+      213: 6466687300138048116
+    second: hayalet_01_Process_42
+  - first:
+      213: 6001466415638570506
+    second: hayalet_01_Process_43
+  - first:
+      213: 5616579259778270526
+    second: hayalet_01_Process_44
+  - first:
+      213: 301927230841106850
+    second: hayalet_01_Process_45
+  - first:
+      213: 2984150287862572388
+    second: hayalet_01_Process_46
+  - first:
+      213: 8501771550550826750
+    second: hayalet_01_Process_47
+  - first:
+      213: -2060499867887982758
+    second: hayalet_01_Process_48
+  - first:
+      213: -3335670150481624208
+    second: hayalet_01_Process_49
+  - first:
+      213: 3486583071737763576
+    second: hayalet_01_Process_50
+  - first:
+      213: 495513515613874373
+    second: hayalet_01_Process_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hayalet_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2397
+        width: 4388
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f4554b6d94fe5f0800000000000000
+      internalID: -725279828486041805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2135
+        width: 615
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31170035307cdd3f0800000000000000
+      internalID: -874323935548641005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1941
+        width: 631
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895c5eed55a1eeea0800000000000000
+      internalID: -5841702710538812008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1722
+        width: 1704
+        height: 1203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fc5b999306537c0800000000000000
+      internalID: -4092258885887996049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2246
+        width: 669
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28493147ec0f5a00800000000000000
+      internalID: 747330250538043435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 2258
+        width: 1191
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ad5e41b89b3c30800000000000000
+      internalID: 4340230553192999162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2511
+        width: 1382
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa88acf1f724cfc0800000000000000
+      internalID: -3475609092143674707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2379
+        width: 126
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d82facf96d28c0800000000000000
+      internalID: -4022442358180620194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2328
+        width: 165
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2fc449540a978f0800000000000000
+      internalID: -542226059420175706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 2293
+        width: 458
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387fd6be99b9f3ce0800000000000000
+      internalID: -1423247871843633277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 2202
+        width: 459
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9871bab9169e53ca0800000000000000
+      internalID: -6037663119987501175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 2312
+        width: 260
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69be676cf85bdaa0800000000000000
+      internalID: -6135212226271856276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2330
+        width: 242
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2a1bfc2c182fc20800000000000000
+      internalID: 3238793755740971704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2015
+        width: 171
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d398f3f6570d3290800000000000000
+      internalID: -7909157300550986794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2194
+        width: 121
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb2b4deedaf07270800000000000000
+      internalID: 8246366753086188469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2129
+        width: 1181
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b50cc99d70b8d70800000000000000
+      internalID: 9046332907722922860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1915
+        width: 1530
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29eb3c43f0d38b90800000000000000
+      internalID: -7240714032507000531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3941
+        height: 2183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a91b8a99c917760800000000000000
+      internalID: 7453911042049022559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 2036
+        width: 551
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c5e5c797dcaef80800000000000000
+      internalID: -8076417060074267567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 1560
+        width: 1579
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c96bdacf1236b30800000000000000
+      internalID: 4279301440062004352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 917
+        width: 656
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727b848b5a1dc6ff0800000000000000
+      internalID: -41427786861594841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 1346
+        width: 234
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4b481b28d58dd10800000000000000
+      internalID: 2150571637974807775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 1160
+        width: 226
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f679666d3fdb22a80800000000000000
+      internalID: -8493017092295583889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1403
+        width: 304
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892c5ba0a359f6b0800000000000000
+      internalID: -5262082740070897268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1161
+        width: 229
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f75c2d2af5bd850800000000000000
+      internalID: 6402816448162791223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 1155
+        width: 671
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb20333bbb6464780800000000000000
+      internalID: -8699187858240240961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 971
+        width: 282
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5e5f2d763bc9d0800000000000000
+      internalID: -2753046835913401684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1120
+        width: 324
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c32fab8d5e99bc0800000000000000
+      internalID: -3775734093561316205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1095
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2f273ae979f0a80800000000000000
+      internalID: -8498407264221990210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 971
+        width: 182
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498a3cd50a7801830800000000000000
+      internalID: 4039877988588955796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 1040
+        width: 180
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7824e52906e9670e0800000000000000
+      internalID: -2272454824352136569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 786
+        width: 261
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9159ce6d734b730800000000000000
+      internalID: 4013894564125678078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 4554
+        y: 496
+        width: 446
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a57028e07bda20800000000000000
+      internalID: 3088186111771911325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 1016
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6ec1828d8311bc0800000000000000
+      internalID: -3814204908369025330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 890
+        width: 455
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68676db2935a95450800000000000000
+      internalID: 6078070837080389254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 613
+        width: 807
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554e13e55cbf0d060800000000000000
+      internalID: 6976352647904355413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 877
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314255643f6abc370800000000000000
+      internalID: 8343946298421224467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 875
+        width: 484
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebddc9b452e1f20c0800000000000000
+      internalID: -4598423548990792258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 677
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd2f8295624012c0800000000000000
+      internalID: -4462994226706174542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 573
+        width: 144
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc71c39e1b50170800000000000000
+      internalID: 8144111116463099651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 541
+        width: 429
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7776802b0fb4ffec0800000000000000
+      internalID: -3531020085684050057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 720
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874542b1d560a6d40800000000000000
+      internalID: 5578278085408871544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 608
+        width: 103
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a124666d94eb950800000000000000
+      internalID: 6466687300138048116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 758
+        width: 112
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06e29b68ed794350800000000000000
+      internalID: 6001466415638570506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 4481
+        y: 690
+        width: 59
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3509ef241912fd40800000000000000
+      internalID: 5616579259778270526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 476
+        width: 463
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a13d4e7739a03400800000000000000
+      internalID: 301927230841106850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 546
+        width: 89
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ad6840e4d96920800000000000000
+      internalID: 2984150287862572388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 624
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9a105e2c5cf570800000000000000
+      internalID: 8501771550550826750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 611
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572cc28942a763e0800000000000000
+      internalID: -2060499867887982758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 490
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0734ba8dba155b1d0800000000000000
+      internalID: -3335670150481624208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 0
+        width: 1447
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6d1deb4d4d26030800000000000000
+      internalID: 3486583071737763576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hayalet_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 470
+        width: 234
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8e197caea60e600800000000000000
+      internalID: 495513515613874373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hayalet_01_Process_0: -725279828486041805
+      hayalet_01_Process_1: -874323935548641005
+      hayalet_01_Process_10: -6037663119987501175
+      hayalet_01_Process_11: -6135212226271856276
+      hayalet_01_Process_12: 3238793755740971704
+      hayalet_01_Process_13: -7909157300550986794
+      hayalet_01_Process_14: 8246366753086188469
+      hayalet_01_Process_15: 9046332907722922860
+      hayalet_01_Process_16: -7240714032507000531
+      hayalet_01_Process_17: 7453911042049022559
+      hayalet_01_Process_18: -8076417060074267567
+      hayalet_01_Process_19: 4279301440062004352
+      hayalet_01_Process_2: -5841702710538812008
+      hayalet_01_Process_20: -41427786861594841
+      hayalet_01_Process_21: 2150571637974807775
+      hayalet_01_Process_22: -8493017092295583889
+      hayalet_01_Process_23: -5262082740070897268
+      hayalet_01_Process_24: 6402816448162791223
+      hayalet_01_Process_25: -8699187858240240961
+      hayalet_01_Process_26: -2753046835913401684
+      hayalet_01_Process_27: -3775734093561316205
+      hayalet_01_Process_28: -8498407264221990210
+      hayalet_01_Process_29: 4039877988588955796
+      hayalet_01_Process_3: -4092258885887996049
+      hayalet_01_Process_30: -2272454824352136569
+      hayalet_01_Process_31: 4013894564125678078
+      hayalet_01_Process_32: 3088186111771911325
+      hayalet_01_Process_33: -3814204908369025330
+      hayalet_01_Process_34: 6078070837080389254
+      hayalet_01_Process_35: 6976352647904355413
+      hayalet_01_Process_36: 8343946298421224467
+      hayalet_01_Process_37: -4598423548990792258
+      hayalet_01_Process_38: -4462994226706174542
+      hayalet_01_Process_39: 8144111116463099651
+      hayalet_01_Process_4: 747330250538043435
+      hayalet_01_Process_40: -3531020085684050057
+      hayalet_01_Process_41: 5578278085408871544
+      hayalet_01_Process_42: 6466687300138048116
+      hayalet_01_Process_43: 6001466415638570506
+      hayalet_01_Process_44: 5616579259778270526
+      hayalet_01_Process_45: 301927230841106850
+      hayalet_01_Process_46: 2984150287862572388
+      hayalet_01_Process_47: 8501771550550826750
+      hayalet_01_Process_48: -2060499867887982758
+      hayalet_01_Process_49: -3335670150481624208
+      hayalet_01_Process_5: 4340230553192999162
+      hayalet_01_Process_50: 3486583071737763576
+      hayalet_01_Process_51: 495513515613874373
+      hayalet_01_Process_6: -3475609092143674707
+      hayalet_01_Process_7: -4022442358180620194
+      hayalet_01_Process_8: -542226059420175706
+      hayalet_01_Process_9: -1423247871843633277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

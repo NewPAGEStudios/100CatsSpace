@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: fda05c0417151964eb44fe49fcd607e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9216438885243273377
+    second: 4_Cats_0
+  - first:
+      213: -566870893253862917
+    second: 4_Cats_1
+  - first:
+      213: -3766228645810305003
+    second: 4_Cats_2
+  - first:
+      213: 8518488632664122848
+    second: 4_Cats_3
+  - first:
+      213: -3218086674763707811
+    second: 4_Cats_4
+  - first:
+      213: -5837357424740486064
+    second: 4_Cats_5
+  - first:
+      213: 139332993473687792
+    second: 4_Cats_6
+  - first:
+      213: -600347379188965745
+    second: 4_Cats_7
+  - first:
+      213: 6413329793642704676
+    second: 4_Cats_8
+  - first:
+      213: -2042094649967526624
+    second: 4_Cats_9
+  - first:
+      213: -223258179857266037
+    second: 4_Cats_10
+  - first:
+      213: -7462558256285625427
+    second: 4_Cats_11
+  - first:
+      213: -731602127168102863
+    second: 4_Cats_12
+  - first:
+      213: -6831617685638312922
+    second: 4_Cats_13
+  - first:
+      213: 986814942049276904
+    second: 4_Cats_14
+  - first:
+      213: 7490881546671104695
+    second: 4_Cats_15
+  - first:
+      213: 242660906939834119
+    second: 4_Cats_16
+  - first:
+      213: 2664573774641402515
+    second: 4_Cats_17
+  - first:
+      213: -2516491327895578243
+    second: 4_Cats_18
+  - first:
+      213: 7683308910833402913
+    second: 4_Cats_19
+  - first:
+      213: 5319303393808049737
+    second: 4_Cats_20
+  - first:
+      213: -4669607442393409505
+    second: 4_Cats_21
+  - first:
+      213: -4434065399286116083
+    second: 4_Cats_22
+  - first:
+      213: -8593919014002065355
+    second: 4_Cats_23
+  - first:
+      213: -363368725374721605
+    second: 4_Cats_24
+  - first:
+      213: -3375188476379913437
+    second: 4_Cats_25
+  - first:
+      213: 8120755237389562048
+    second: 4_Cats_26
+  - first:
+      213: -3779300276678329521
+    second: 4_Cats_27
+  - first:
+      213: -1122530381170581296
+    second: 4_Cats_28
+  - first:
+      213: -3918747836236330856
+    second: 4_Cats_29
+  - first:
+      213: -384618732286037793
+    second: 4_Cats_30
+  - first:
+      213: 6943977922503134736
+    second: 4_Cats_31
+  - first:
+      213: -7301548512149058512
+    second: 4_Cats_32
+  - first:
+      213: -1326343866740579824
+    second: 4_Cats_33
+  - first:
+      213: -6790112982701244088
+    second: 4_Cats_34
+  - first:
+      213: 1806347535669959634
+    second: 4_Cats_35
+  - first:
+      213: -4555324070174299245
+    second: 4_Cats_36
+  - first:
+      213: -8394012862395056117
+    second: 4_Cats_37
+  - first:
+      213: -5752706197485703633
+    second: 4_Cats_38
+  - first:
+      213: 8229190033150583334
+    second: 4_Cats_39
+  - first:
+      213: 2851319013698679389
+    second: 4_Cats_40
+  - first:
+      213: 3476565192128222458
+    second: 4_Cats_41
+  - first:
+      213: 8253065724757794165
+    second: 4_Cats_42
+  - first:
+      213: -1843783074804800212
+    second: 4_Cats_43
+  - first:
+      213: -6662707819957855987
+    second: 4_Cats_44
+  - first:
+      213: -259837694265305079
+    second: 4_Cats_45
+  - first:
+      213: 7979469698833567831
+    second: 4_Cats_46
+  - first:
+      213: -9106198317405174146
+    second: 4_Cats_47
+  - first:
+      213: 3997948205586554458
+    second: 4_Cats_48
+  - first:
+      213: -9070640608350978290
+    second: 4_Cats_49
+  - first:
+      213: -8173855365520154625
+    second: 4_Cats_50
+  - first:
+      213: 3114272247233228792
+    second: 4_Cats_51
+  - first:
+      213: 790261750398075261
+    second: 4_Cats_52
+  - first:
+      213: 2850412369135526609
+    second: 4_Cats_53
+  - first:
+      213: -9147406751633792572
+    second: 4_Cats_54
+  - first:
+      213: 9050351969418808329
+    second: 4_Cats_55
+  - first:
+      213: 1733922668183021971
+    second: 4_Cats_56
+  - first:
+      213: 495915767985893547
+    second: 4_Cats_57
+  - first:
+      213: 2582000346280386482
+    second: 4_Cats_58
+  - first:
+      213: -8125106104036879771
+    second: 4_Cats_59
+  - first:
+      213: -2072921008740230714
+    second: 4_Cats_60
+  - first:
+      213: -2580790552631814711
+    second: 4_Cats_61
+  - first:
+      213: 5458086439125208203
+    second: 4_Cats_62
+  - first:
+      213: 2928196321065441080
+    second: 4_Cats_63
+  - first:
+      213: -5647134356366588825
+    second: 4_Cats_64
+  - first:
+      213: 7083344192901633066
+    second: 4_Cats_65
+  - first:
+      213: 6160112837444527648
+    second: 4_Cats_66
+  - first:
+      213: -8259021570159574127
+    second: 4_Cats_67
+  - first:
+      213: 833788263206290477
+    second: 4_Cats_68
+  - first:
+      213: -5010753350299882320
+    second: 4_Cats_69
+  - first:
+      213: -1862257625443440246
+    second: 4_Cats_70
+  - first:
+      213: 3664211130888124181
+    second: 4_Cats_71
+  - first:
+      213: 1084561887862118055
+    second: 4_Cats_72
+  - first:
+      213: 4811598815241728210
+    second: 4_Cats_73
+  - first:
+      213: 8340191503095626968
+    second: 4_Cats_74
+  - first:
+      213: 8237732205147870659
+    second: 4_Cats_75
+  - first:
+      213: -6063089412430491191
+    second: 4_Cats_76
+  - first:
+      213: -7440526427891023745
+    second: 4_Cats_77
+  - first:
+      213: 4673759305016662560
+    second: 4_Cats_78
+  - first:
+      213: 3439413557258718851
+    second: 4_Cats_79
+  - first:
+      213: -2962606979563261160
+    second: 4_Cats_80
+  - first:
+      213: -6017991793594305063
+    second: 4_Cats_81
+  - first:
+      213: -8470859821686054301
+    second: 4_Cats_82
+  - first:
+      213: 5072983170707085985
+    second: 4_Cats_83
+  - first:
+      213: 6452213108887767609
+    second: 4_Cats_84
+  - first:
+      213: 9124162739560313415
+    second: 4_Cats_85
+  - first:
+      213: -2047190726957516288
+    second: 4_Cats_86
+  - first:
+      213: -3559784540695045903
+    second: 4_Cats_87
+  - first:
+      213: -1347586185605588184
+    second: 4_Cats_88
+  - first:
+      213: -36710596394607014
+    second: 4_Cats_89
+  - first:
+      213: 7883248801839743609
+    second: 4_Cats_90
+  - first:
+      213: -6598672959584010732
+    second: 4_Cats_91
+  - first:
+      213: 68206625498143540
+    second: 4_Cats_92
+  - first:
+      213: -3379906256119209436
+    second: 4_Cats_93
+  - first:
+      213: -7760837420171057468
+    second: 4_Cats_94
+  - first:
+      213: 3797842432446063048
+    second: 4_Cats_95
+  - first:
+      213: -4034111814876129272
+    second: 4_Cats_96
+  - first:
+      213: 4442957513658439880
+    second: 4_Cats_97
+  - first:
+      213: -5848831826509664784
+    second: 4_Cats_98
+  - first:
+      213: 4085508315190553543
+    second: 4_Cats_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4_Cats_0
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2803
+        width: 114
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0c509d55e57ef70800000000000000
+      internalID: 9216438885243273377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_1
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 2857
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9581e0de11228f0800000000000000
+      internalID: -566870893253862917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_2
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 2778
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518839f300babbbc0800000000000000
+      internalID: -3766228645810305003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_3
+      rect:
+        serializedVersion: 2
+        x: 3159
+        y: 2723
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5e52d4740c73670800000000000000
+      internalID: 8518488632664122848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2669
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a8a4e283f0753d0800000000000000
+      internalID: -3218086674763707811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_5
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 2611
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054ba5f895a8dfea0800000000000000
+      internalID: -5837357424740486064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_6
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2529
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0bd7d8e920fe100800000000000000
+      internalID: 139332993473687792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_7
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 2524
+        width: 118
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eda994d332ba7f0800000000000000
+      internalID: -600347379188965745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_8
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2432
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fa081d779b00950800000000000000
+      internalID: 6413329793642704676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2476
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db5fe3cb509a3e0800000000000000
+      internalID: -2042094649967526624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_10
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 2311
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a48684ed3d6ecf0800000000000000
+      internalID: -223258179857266037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_11
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 2266
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3df62edcaaf6890800000000000000
+      internalID: -7462558256285625427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_12
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2232
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e9935ddb3d8d5f0800000000000000
+      internalID: -731602127168102863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_13
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2254
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c804e09e73131a0800000000000000
+      internalID: -6831617685638312922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_14
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 2079
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e315ef16fed1bd00800000000000000
+      internalID: 986814942049276904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_15
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 2114
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b22cdb0415f4f760800000000000000
+      internalID: 7490881546671104695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2013
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fd5072fca1e5300800000000000000
+      internalID: 242660906939834119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_17
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 2021
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39292530bb77af420800000000000000
+      internalID: 2664573774641402515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_18
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 2040
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79de606870a31dd0800000000000000
+      internalID: -2516491327895578243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_19
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 2024
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12481d91fb890aa60800000000000000
+      internalID: 7683308910833402913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_20
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1939
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9466578f046f1d940800000000000000
+      internalID: 5319303393808049737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_21
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1960
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18de9395c8323fb0800000000000000
+      internalID: -4669607442393409505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1873
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0153b413090772c0800000000000000
+      internalID: -4434065399286116083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1891
+        width: 51
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308ee570344cb880800000000000000
+      internalID: -8593919014002065355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_24
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 1869
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1ad89c11e05faf0800000000000000
+      internalID: -363368725374721605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_25
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 1863
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323226796fbe821d0800000000000000
+      internalID: -3375188476379913437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_26
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1815
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07f70ecd7b2b070800000000000000
+      internalID: 8120755237389562048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_27
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1815
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b7d050c6a3d8bc0800000000000000
+      internalID: -3779300276678329521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_28
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1670
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d06eb4d098fb60f0800000000000000
+      internalID: -1122530381170581296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_29
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 1699
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8988dc8fa9fcd99c0800000000000000
+      internalID: -3918747836236330856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_30
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1573
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd031200d4f89aaf0800000000000000
+      internalID: -384618732286037793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_31
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 1584
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e44f63127fd5060800000000000000
+      internalID: 6943977922503134736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_32
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 1577
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cc21f3050bbaa90800000000000000
+      internalID: -7301548512149058512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_33
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1538
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e8ecc741e79de0800000000000000
+      internalID: -1326343866740579824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_34
+      rect:
+        serializedVersion: 2
+        x: 4221
+        y: 1493
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8410351c73ca4c1a0800000000000000
+      internalID: -6790112982701244088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1487
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db9284638f611910800000000000000
+      internalID: 1806347535669959634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_36
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 1510
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b6970b4ec38c0c0800000000000000
+      internalID: -4555324070174299245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_37
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1433
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0002e866c9728b80800000000000000
+      internalID: -8394012862395056117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_38
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 1452
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e2da941384a20b0800000000000000
+      internalID: -5752706197485703633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_39
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1378
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622202b2cb4f33270800000000000000
+      internalID: 8229190033150583334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_40
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1359
+        width: 109
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52b3d8398be19720800000000000000
+      internalID: 2851319013698679389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_41
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 1351
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af45a436f9d3f3030800000000000000
+      internalID: 3476565192128222458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_42
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1299
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dd320dc87c88270800000000000000
+      internalID: 8253065724757794165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_43
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 1343
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25e16fef019966e0800000000000000
+      internalID: -1843783074804800212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_44
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1270
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09d13dc98e4983a0800000000000000
+      internalID: -6662707819957855987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1248
+        width: 103
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9085f066efed46cf0800000000000000
+      internalID: -259837694265305079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_46
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1277
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750d7fef965ccbe60800000000000000
+      internalID: 7979469698833567831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_47
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 1279
+        width: 102
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e760ec480e840a180800000000000000
+      internalID: -9106198317405174146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1107
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e956006b09b7730800000000000000
+      internalID: 3997948205586554458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_49
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1128
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fb10ecc6c9e1280800000000000000
+      internalID: -9070640608350978290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_50
+      rect:
+        serializedVersion: 2
+        x: 4663
+        y: 1165
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff10cc1ad1a09e80800000000000000
+      internalID: -8173855365520154625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_51
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 1136
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffa136db1e183b20800000000000000
+      internalID: 3114272247233228792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_52
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1103
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d714e0000e297fa00800000000000000
+      internalID: 790261750398075261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_53
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1066
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2e3b592f2be8720800000000000000
+      internalID: 2850412369135526609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_54
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1052
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1abd04602ed0180800000000000000
+      internalID: -9147406751633792572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_55
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 995
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c07755a2f499d70800000000000000
+      internalID: 9050351969418808329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_56
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 1006
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399eb01ea71201810800000000000000
+      internalID: 1733922668183021971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_57
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 972
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0705573c8d1e600800000000000000
+      internalID: 495915767985893547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_58
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 940
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5af982ab15d320800000000000000
+      internalID: 2582000346280386482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_59
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 955
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562168a0c03dd3f80800000000000000
+      internalID: -8125106104036879771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_60
+      rect:
+        serializedVersion: 2
+        x: 4588
+        y: 912
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9189a43518b33e0800000000000000
+      internalID: -2072921008740230714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_61
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 887
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c552be7aa03f2cd0800000000000000
+      internalID: -2580790552631814711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_62
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 881
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c4f6db2b40fbb40800000000000000
+      internalID: 5458086439125208203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_63
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 836
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83716bd2a0b03a820800000000000000
+      internalID: 2928196321065441080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_64
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 829
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7648dd1093951a1b0800000000000000
+      internalID: -5647134356366588825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_65
+      rect:
+        serializedVersion: 2
+        x: 4054
+        y: 816
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a245ab7a3081d4260800000000000000
+      internalID: 7083344192901633066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_66
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 804
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026643cecfd1d7550800000000000000
+      internalID: 6160112837444527648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_67
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 759
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193895ed3af026d80800000000000000
+      internalID: -8259021570159574127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_68
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 767
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d240d4ef106329b00800000000000000
+      internalID: 833788263206290477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_69
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 714
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bce642406a367ab0800000000000000
+      internalID: -5010753350299882320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_70
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 702
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a896e2b6e8ee726e0800000000000000
+      internalID: -1862257625443440246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 668
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5177e961c94e9d230800000000000000
+      internalID: 3664211130888124181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_72
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 680
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6d2fe6a432d0f00800000000000000
+      internalID: 1084561887862118055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_73
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 667
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d07c2821ab36c240800000000000000
+      internalID: 4811598815241728210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_74
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 653
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcfebcdbff4eb370800000000000000
+      internalID: 8340191503095626968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_75
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 633
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c552a29bcd425270800000000000000
+      internalID: 8237732205147870659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_76
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 539
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c116a29d449bdba0800000000000000
+      internalID: -6063089412430491191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_77
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 540
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7046aba2a0fdb890800000000000000
+      internalID: -7440526427891023745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_78
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 563
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ad13543578cd040800000000000000
+      internalID: 4673759305016662560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_79
+      rect:
+        serializedVersion: 2
+        x: 2786
+        y: 506
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e811458604bbf20800000000000000
+      internalID: 3439413557258718851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_80
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 482
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813f90e06a4b2e6d0800000000000000
+      internalID: -2962606979563261160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_81
+      rect:
+        serializedVersion: 2
+        x: 3872
+        y: 467
+        width: 54
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d57891395ccb7ca0800000000000000
+      internalID: -6017991793594305063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_82
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 372
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362264a6fd5717a80800000000000000
+      internalID: -8470859821686054301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_83
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 446
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aad781e05bd66640800000000000000
+      internalID: 5072983170707085985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_84
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 419
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93acf5223adda8950800000000000000
+      internalID: 6452213108887767609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_85
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 388
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742f8547ba98f9e70800000000000000
+      internalID: 9124162739560313415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_86
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a393c51eae693e0800000000000000
+      internalID: -2047190726957516288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_87
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 349
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8d1fe12da199ec0800000000000000
+      internalID: -3559784540695045903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_88
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 312
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b51c601896c4de0800000000000000
+      internalID: -1347586185605588184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_89
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 284
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e186638e39d7ff0800000000000000
+      internalID: -36710596394607014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_90
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 188
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9728ead940de66d60800000000000000
+      internalID: 7883248801839743609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_91
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 171
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ef40f87edcc64a0800000000000000
+      internalID: -6598672959584010732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_92
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 175
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b1524809152f000800000000000000
+      internalID: 68206625498143540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_93
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 203
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e4e5ea292811d0800000000000000
+      internalID: -3379906256119209436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_94
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 145
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6252b2c77fb4490800000000000000
+      internalID: -7760837420171057468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_95
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 171
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c16ada0295a4b430800000000000000
+      internalID: 3797842432446063048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_96
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 61
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8081a129da4f308c0800000000000000
+      internalID: -4034111814876129272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_97
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 111
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c893c1a15e88ad30800000000000000
+      internalID: 4442957513658439880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_98
+      rect:
+        serializedVersion: 2
+        x: 4880
+        y: 118
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd64e53176c4dea0800000000000000
+      internalID: -5848831826509664784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4_Cats_99
+      rect:
+        serializedVersion: 2
+        x: 2589
+        y: 77
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb66ddaa24a2b830800000000000000
+      internalID: 4085508315190553543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      4_Cats_0: 9216438885243273377
+      4_Cats_1: -566870893253862917
+      4_Cats_10: -223258179857266037
+      4_Cats_11: -7462558256285625427
+      4_Cats_12: -731602127168102863
+      4_Cats_13: -6831617685638312922
+      4_Cats_14: 986814942049276904
+      4_Cats_15: 7490881546671104695
+      4_Cats_16: 242660906939834119
+      4_Cats_17: 2664573774641402515
+      4_Cats_18: -2516491327895578243
+      4_Cats_19: 7683308910833402913
+      4_Cats_2: -3766228645810305003
+      4_Cats_20: 5319303393808049737
+      4_Cats_21: -4669607442393409505
+      4_Cats_22: -4434065399286116083
+      4_Cats_23: -8593919014002065355
+      4_Cats_24: -363368725374721605
+      4_Cats_25: -3375188476379913437
+      4_Cats_26: 8120755237389562048
+      4_Cats_27: -3779300276678329521
+      4_Cats_28: -1122530381170581296
+      4_Cats_29: -3918747836236330856
+      4_Cats_3: 8518488632664122848
+      4_Cats_30: -384618732286037793
+      4_Cats_31: 6943977922503134736
+      4_Cats_32: -7301548512149058512
+      4_Cats_33: -1326343866740579824
+      4_Cats_34: -6790112982701244088
+      4_Cats_35: 1806347535669959634
+      4_Cats_36: -4555324070174299245
+      4_Cats_37: -8394012862395056117
+      4_Cats_38: -5752706197485703633
+      4_Cats_39: 8229190033150583334
+      4_Cats_4: -3218086674763707811
+      4_Cats_40: 2851319013698679389
+      4_Cats_41: 3476565192128222458
+      4_Cats_42: 8253065724757794165
+      4_Cats_43: -1843783074804800212
+      4_Cats_44: -6662707819957855987
+      4_Cats_45: -259837694265305079
+      4_Cats_46: 7979469698833567831
+      4_Cats_47: -9106198317405174146
+      4_Cats_48: 3997948205586554458
+      4_Cats_49: -9070640608350978290
+      4_Cats_5: -5837357424740486064
+      4_Cats_50: -8173855365520154625
+      4_Cats_51: 3114272247233228792
+      4_Cats_52: 790261750398075261
+      4_Cats_53: 2850412369135526609
+      4_Cats_54: -9147406751633792572
+      4_Cats_55: 9050351969418808329
+      4_Cats_56: 1733922668183021971
+      4_Cats_57: 495915767985893547
+      4_Cats_58: 2582000346280386482
+      4_Cats_59: -8125106104036879771
+      4_Cats_6: 139332993473687792
+      4_Cats_60: -2072921008740230714
+      4_Cats_61: -2580790552631814711
+      4_Cats_62: 5458086439125208203
+      4_Cats_63: 2928196321065441080
+      4_Cats_64: -5647134356366588825
+      4_Cats_65: 7083344192901633066
+      4_Cats_66: 6160112837444527648
+      4_Cats_67: -8259021570159574127
+      4_Cats_68: 833788263206290477
+      4_Cats_69: -5010753350299882320
+      4_Cats_7: -600347379188965745
+      4_Cats_70: -1862257625443440246
+      4_Cats_71: 3664211130888124181
+      4_Cats_72: 1084561887862118055
+      4_Cats_73: 4811598815241728210
+      4_Cats_74: 8340191503095626968
+      4_Cats_75: 8237732205147870659
+      4_Cats_76: -6063089412430491191
+      4_Cats_77: -7440526427891023745
+      4_Cats_78: 4673759305016662560
+      4_Cats_79: 3439413557258718851
+      4_Cats_8: 6413329793642704676
+      4_Cats_80: -2962606979563261160
+      4_Cats_81: -6017991793594305063
+      4_Cats_82: -8470859821686054301
+      4_Cats_83: 5072983170707085985
+      4_Cats_84: 6452213108887767609
+      4_Cats_85: 9124162739560313415
+      4_Cats_86: -2047190726957516288
+      4_Cats_87: -3559784540695045903
+      4_Cats_88: -1347586185605588184
+      4_Cats_89: -36710596394607014
+      4_Cats_9: -2042094649967526624
+      4_Cats_90: 7883248801839743609
+      4_Cats_91: -6598672959584010732
+      4_Cats_92: 68206625498143540
+      4_Cats_93: -3379906256119209436
+      4_Cats_94: -7760837420171057468
+      4_Cats_95: 3797842432446063048
+      4_Cats_96: -4034111814876129272
+      4_Cats_97: 4442957513658439880
+      4_Cats_98: -5848831826509664784
+      4_Cats_99: 4085508315190553543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

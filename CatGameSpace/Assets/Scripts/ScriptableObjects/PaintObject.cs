@@ -160,6 +160,7 @@ public class PaintObject : ScriptableObject
         List<List<Vector2Int>> regions = FindColorRegions(colorSprite.texture);
 
 
+        int c = 0;
         foreach (List<Vector2Int> region in regions)
         {
             if (region.Count < 50) continue;
@@ -169,6 +170,7 @@ public class PaintObject : ScriptableObject
             mins.Add(new Vector2Int(minX, minY));
             Texture2D newTex = CreateTextureFromRegion(region, colorSprite.texture);
             regionTexture.Add(newTex);
+            c++;
         }
     }
 
@@ -387,7 +389,7 @@ public class PaintObject : ScriptableObject
                         Color currentColor = tex.GetPixel(n.x, n.y);
 
                         // Renk benzerse ve þeffaf deðilse ekle
-                        if (currentColor.a >= 0.1f && ColorsAreSimilar(currentColor, targetColor, tolerance))
+                        if (currentColor.a >= 0.5f && ColorsAreSimilar(currentColor, targetColor, tolerance))
                         {
                             visited[n.x, n.y] = true; // Tekrar eklenmemesi için hemen iþaretle
                             queue.Enqueue(n);

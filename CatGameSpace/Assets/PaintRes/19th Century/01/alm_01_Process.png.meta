@@ -1,0 +1,5733 @@
+fileFormatVersion: 2
+guid: d34499b249b570447945c098aeda7838
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6773020659734878998
+    second: alm_01_Process_0
+  - first:
+      213: -4287384476408664662
+    second: alm_01_Process_1
+  - first:
+      213: -4256133655721554131
+    second: alm_01_Process_2
+  - first:
+      213: -1355206943059187711
+    second: alm_01_Process_3
+  - first:
+      213: 5105098048382735425
+    second: alm_01_Process_4
+  - first:
+      213: -5471526955251175731
+    second: alm_01_Process_5
+  - first:
+      213: -5756983266209078382
+    second: alm_01_Process_6
+  - first:
+      213: 6695365227436492835
+    second: alm_01_Process_7
+  - first:
+      213: -8904007937869493021
+    second: alm_01_Process_8
+  - first:
+      213: 5590835822721465000
+    second: alm_01_Process_9
+  - first:
+      213: -7495719968905096329
+    second: alm_01_Process_10
+  - first:
+      213: -8969000482301749417
+    second: alm_01_Process_11
+  - first:
+      213: 1750219829771318021
+    second: alm_01_Process_12
+  - first:
+      213: 3892686093109293293
+    second: alm_01_Process_13
+  - first:
+      213: -624941357661091798
+    second: alm_01_Process_14
+  - first:
+      213: 6193381631897387767
+    second: alm_01_Process_15
+  - first:
+      213: -7582002303419567698
+    second: alm_01_Process_16
+  - first:
+      213: 2746459645777922775
+    second: alm_01_Process_17
+  - first:
+      213: 6029570122408711360
+    second: alm_01_Process_18
+  - first:
+      213: -2822069637484318791
+    second: alm_01_Process_19
+  - first:
+      213: 3887205946894376658
+    second: alm_01_Process_20
+  - first:
+      213: -742841688161499202
+    second: alm_01_Process_21
+  - first:
+      213: -2979591711686789141
+    second: alm_01_Process_22
+  - first:
+      213: -1315440251502237592
+    second: alm_01_Process_23
+  - first:
+      213: 43023899959363027
+    second: alm_01_Process_24
+  - first:
+      213: -7742398901027970277
+    second: alm_01_Process_25
+  - first:
+      213: 1004306096244390145
+    second: alm_01_Process_26
+  - first:
+      213: 1936379809175292801
+    second: alm_01_Process_27
+  - first:
+      213: 6453490307444239658
+    second: alm_01_Process_28
+  - first:
+      213: -3687906247745946130
+    second: alm_01_Process_29
+  - first:
+      213: 3369186725567421029
+    second: alm_01_Process_30
+  - first:
+      213: 3976288705586703161
+    second: alm_01_Process_31
+  - first:
+      213: 6650251728825990008
+    second: alm_01_Process_32
+  - first:
+      213: -1802883346145858505
+    second: alm_01_Process_33
+  - first:
+      213: -4354073051237166341
+    second: alm_01_Process_34
+  - first:
+      213: 1916439885491296978
+    second: alm_01_Process_35
+  - first:
+      213: -782324568826841735
+    second: alm_01_Process_36
+  - first:
+      213: -4609833898210016001
+    second: alm_01_Process_37
+  - first:
+      213: 7157869017536354008
+    second: alm_01_Process_38
+  - first:
+      213: -7725925791869605686
+    second: alm_01_Process_39
+  - first:
+      213: 7486595531658468490
+    second: alm_01_Process_40
+  - first:
+      213: -8218967830766149355
+    second: alm_01_Process_41
+  - first:
+      213: 6950691468105886641
+    second: alm_01_Process_42
+  - first:
+      213: 1462593783613106918
+    second: alm_01_Process_43
+  - first:
+      213: 6186551415217257081
+    second: alm_01_Process_44
+  - first:
+      213: -2024778735450971965
+    second: alm_01_Process_45
+  - first:
+      213: -3919167277744694518
+    second: alm_01_Process_46
+  - first:
+      213: 6581808067197293813
+    second: alm_01_Process_47
+  - first:
+      213: 7319007213074436037
+    second: alm_01_Process_48
+  - first:
+      213: -3280073231958398528
+    second: alm_01_Process_49
+  - first:
+      213: 66431692107571345
+    second: alm_01_Process_50
+  - first:
+      213: -271844886145202483
+    second: alm_01_Process_51
+  - first:
+      213: 5393059853435701356
+    second: alm_01_Process_52
+  - first:
+      213: 2816302520782534483
+    second: alm_01_Process_53
+  - first:
+      213: -5236340861262075958
+    second: alm_01_Process_54
+  - first:
+      213: 3726310712857700883
+    second: alm_01_Process_55
+  - first:
+      213: 4996816873263755948
+    second: alm_01_Process_56
+  - first:
+      213: 4819489320428948832
+    second: alm_01_Process_57
+  - first:
+      213: -4567354250259295288
+    second: alm_01_Process_58
+  - first:
+      213: 7420446834309744627
+    second: alm_01_Process_59
+  - first:
+      213: -4843346823018131707
+    second: alm_01_Process_60
+  - first:
+      213: -670849064896915972
+    second: alm_01_Process_61
+  - first:
+      213: -66336998540238442
+    second: alm_01_Process_62
+  - first:
+      213: 3190286844373570316
+    second: alm_01_Process_63
+  - first:
+      213: 461040923086989249
+    second: alm_01_Process_64
+  - first:
+      213: 8464188452230856309
+    second: alm_01_Process_65
+  - first:
+      213: -2049923097619101201
+    second: alm_01_Process_66
+  - first:
+      213: -1016875901182339712
+    second: alm_01_Process_67
+  - first:
+      213: -1462441361882060791
+    second: alm_01_Process_68
+  - first:
+      213: -4594495855286718603
+    second: alm_01_Process_69
+  - first:
+      213: -2842775644814723184
+    second: alm_01_Process_70
+  - first:
+      213: -1358031872548169778
+    second: alm_01_Process_71
+  - first:
+      213: 5320865882508007519
+    second: alm_01_Process_72
+  - first:
+      213: -8696726755881368179
+    second: alm_01_Process_73
+  - first:
+      213: 7303777716358199028
+    second: alm_01_Process_74
+  - first:
+      213: 3296113719080175028
+    second: alm_01_Process_75
+  - first:
+      213: -1549180385261176453
+    second: alm_01_Process_76
+  - first:
+      213: -7912703998133056887
+    second: alm_01_Process_77
+  - first:
+      213: 7377326391776656143
+    second: alm_01_Process_78
+  - first:
+      213: -3451115232232891264
+    second: alm_01_Process_79
+  - first:
+      213: 3569434183175915123
+    second: alm_01_Process_80
+  - first:
+      213: -243622373203226451
+    second: alm_01_Process_81
+  - first:
+      213: -4604226287020017708
+    second: alm_01_Process_82
+  - first:
+      213: 1508122332752431521
+    second: alm_01_Process_83
+  - first:
+      213: -3171145333592603678
+    second: alm_01_Process_84
+  - first:
+      213: 7996581749794835906
+    second: alm_01_Process_85
+  - first:
+      213: 8205064068845884772
+    second: alm_01_Process_86
+  - first:
+      213: 8358067802153509879
+    second: alm_01_Process_87
+  - first:
+      213: -7861060507242641667
+    second: alm_01_Process_88
+  - first:
+      213: 7602684146160593495
+    second: alm_01_Process_89
+  - first:
+      213: 2698810928747475988
+    second: alm_01_Process_90
+  - first:
+      213: -8157410133778655322
+    second: alm_01_Process_91
+  - first:
+      213: -3646193911541302269
+    second: alm_01_Process_92
+  - first:
+      213: 8230270978951397471
+    second: alm_01_Process_93
+  - first:
+      213: 1941296583952799961
+    second: alm_01_Process_94
+  - first:
+      213: 8718898929499079843
+    second: alm_01_Process_95
+  - first:
+      213: -2840074501579056965
+    second: alm_01_Process_96
+  - first:
+      213: 1055074978964375966
+    second: alm_01_Process_97
+  - first:
+      213: 8341924250756954636
+    second: alm_01_Process_98
+  - first:
+      213: -678031574910865998
+    second: alm_01_Process_99
+  - first:
+      213: -3413305602258559387
+    second: alm_01_Process_100
+  - first:
+      213: 6575190474293338805
+    second: alm_01_Process_101
+  - first:
+      213: 5438811800068041412
+    second: alm_01_Process_102
+  - first:
+      213: -3383623651477025144
+    second: alm_01_Process_103
+  - first:
+      213: 3862676570724402827
+    second: alm_01_Process_104
+  - first:
+      213: -1649191268059325078
+    second: alm_01_Process_105
+  - first:
+      213: -1335096760985743928
+    second: alm_01_Process_106
+  - first:
+      213: -992677801030557052
+    second: alm_01_Process_107
+  - first:
+      213: 9087232040307251300
+    second: alm_01_Process_108
+  - first:
+      213: -8803035496818267314
+    second: alm_01_Process_109
+  - first:
+      213: 4997097978324251468
+    second: alm_01_Process_110
+  - first:
+      213: -1226332726962962480
+    second: alm_01_Process_111
+  - first:
+      213: 5290861411905662684
+    second: alm_01_Process_112
+  - first:
+      213: -3368962402017032083
+    second: alm_01_Process_113
+  - first:
+      213: -1995386083458738217
+    second: alm_01_Process_114
+  - first:
+      213: 893427670619262042
+    second: alm_01_Process_115
+  - first:
+      213: 122621378708330034
+    second: alm_01_Process_116
+  - first:
+      213: -3899375534194790621
+    second: alm_01_Process_117
+  - first:
+      213: -6193185703982239115
+    second: alm_01_Process_118
+  - first:
+      213: -4276495404581643473
+    second: alm_01_Process_119
+  - first:
+      213: -1603428197086709762
+    second: alm_01_Process_120
+  - first:
+      213: -2563897402976656383
+    second: alm_01_Process_121
+  - first:
+      213: -8435960336100798589
+    second: alm_01_Process_122
+  - first:
+      213: -3703861293503152383
+    second: alm_01_Process_123
+  - first:
+      213: 8038147129017058247
+    second: alm_01_Process_124
+  - first:
+      213: -2550393812953755751
+    second: alm_01_Process_125
+  - first:
+      213: 3345020128153673782
+    second: alm_01_Process_126
+  - first:
+      213: 3877599826626547418
+    second: alm_01_Process_127
+  - first:
+      213: 5527272523328513515
+    second: alm_01_Process_128
+  - first:
+      213: 8582431234966836973
+    second: alm_01_Process_129
+  - first:
+      213: -983662158690705078
+    second: alm_01_Process_130
+  - first:
+      213: -762310770556688753
+    second: alm_01_Process_131
+  - first:
+      213: 8137579466775878756
+    second: alm_01_Process_132
+  - first:
+      213: 1134636125045377896
+    second: alm_01_Process_133
+  - first:
+      213: 1761052619523613862
+    second: alm_01_Process_134
+  - first:
+      213: 2580871649397108652
+    second: alm_01_Process_135
+  - first:
+      213: -8906405959312545786
+    second: alm_01_Process_136
+  - first:
+      213: 1757514326529058047
+    second: alm_01_Process_137
+  - first:
+      213: 8129659879487089464
+    second: alm_01_Process_138
+  - first:
+      213: -8622345712044285821
+    second: alm_01_Process_139
+  - first:
+      213: -6380345936459766163
+    second: alm_01_Process_140
+  - first:
+      213: -6860841349371699597
+    second: alm_01_Process_141
+  - first:
+      213: -1453343978356488356
+    second: alm_01_Process_142
+  - first:
+      213: 7213250387839974201
+    second: alm_01_Process_143
+  - first:
+      213: -411731383846245668
+    second: alm_01_Process_144
+  - first:
+      213: 555990373671288054
+    second: alm_01_Process_145
+  - first:
+      213: 4900604256306846178
+    second: alm_01_Process_146
+  - first:
+      213: -6531756695177727367
+    second: alm_01_Process_147
+  - first:
+      213: 1784471049175895142
+    second: alm_01_Process_148
+  - first:
+      213: -7037757790541018692
+    second: alm_01_Process_149
+  - first:
+      213: 1247586305609339973
+    second: alm_01_Process_150
+  - first:
+      213: -1910392820401014334
+    second: alm_01_Process_151
+  - first:
+      213: -7258971764370496948
+    second: alm_01_Process_152
+  - first:
+      213: -5584553130507708039
+    second: alm_01_Process_153
+  - first:
+      213: -2537256334892763808
+    second: alm_01_Process_154
+  - first:
+      213: -3387662271559836723
+    second: alm_01_Process_155
+  - first:
+      213: -327599464913147719
+    second: alm_01_Process_156
+  - first:
+      213: 6305073590321512186
+    second: alm_01_Process_157
+  - first:
+      213: -2004995035104990837
+    second: alm_01_Process_158
+  - first:
+      213: -2856318758795362673
+    second: alm_01_Process_159
+  - first:
+      213: -8891479674240631888
+    second: alm_01_Process_160
+  - first:
+      213: 3120830755250164789
+    second: alm_01_Process_161
+  - first:
+      213: -9212142818376075652
+    second: alm_01_Process_162
+  - first:
+      213: 4038741764430284081
+    second: alm_01_Process_163
+  - first:
+      213: 1111210563819929238
+    second: alm_01_Process_164
+  - first:
+      213: -1939796539343393697
+    second: alm_01_Process_165
+  - first:
+      213: -2181329977745608719
+    second: alm_01_Process_166
+  - first:
+      213: 9035525128493482197
+    second: alm_01_Process_167
+  - first:
+      213: 8072945505394837392
+    second: alm_01_Process_168
+  - first:
+      213: -6986876928597519796
+    second: alm_01_Process_169
+  - first:
+      213: 2554513419340628816
+    second: alm_01_Process_170
+  - first:
+      213: 4394280031803642481
+    second: alm_01_Process_171
+  - first:
+      213: -7314485017584185105
+    second: alm_01_Process_172
+  - first:
+      213: 4299237659176561875
+    second: alm_01_Process_173
+  - first:
+      213: 1603440995129630528
+    second: alm_01_Process_174
+  - first:
+      213: -1710544814041260113
+    second: alm_01_Process_175
+  - first:
+      213: 8531861537226140300
+    second: alm_01_Process_176
+  - first:
+      213: -1159114643671315357
+    second: alm_01_Process_177
+  - first:
+      213: -2403454133906193650
+    second: alm_01_Process_178
+  - first:
+      213: -4872393345205359646
+    second: alm_01_Process_179
+  - first:
+      213: 6790207568311123580
+    second: alm_01_Process_180
+  - first:
+      213: 686225901612999259
+    second: alm_01_Process_181
+  - first:
+      213: -8932127905810078823
+    second: alm_01_Process_182
+  - first:
+      213: 1292458830906664518
+    second: alm_01_Process_183
+  - first:
+      213: 5343988540721610693
+    second: alm_01_Process_184
+  - first:
+      213: -2329346435950260329
+    second: alm_01_Process_185
+  - first:
+      213: -5379338348095858495
+    second: alm_01_Process_186
+  - first:
+      213: 7310773184269911759
+    second: alm_01_Process_187
+  - first:
+      213: 8467762579439816058
+    second: alm_01_Process_188
+  - first:
+      213: 7559657936258780559
+    second: alm_01_Process_189
+  - first:
+      213: -78192058624893491
+    second: alm_01_Process_190
+  - first:
+      213: -5507080365681846111
+    second: alm_01_Process_191
+  - first:
+      213: -6136853231304880148
+    second: alm_01_Process_192
+  - first:
+      213: -4464833322098903275
+    second: alm_01_Process_193
+  - first:
+      213: 767829120527978398
+    second: alm_01_Process_194
+  - first:
+      213: -1447684045370272892
+    second: alm_01_Process_195
+  - first:
+      213: 6205166828879693931
+    second: alm_01_Process_196
+  - first:
+      213: -5086646692798953130
+    second: alm_01_Process_197
+  - first:
+      213: 3431826784078959041
+    second: alm_01_Process_198
+  - first:
+      213: -8583701233873530951
+    second: alm_01_Process_199
+  - first:
+      213: -5794876079782449002
+    second: alm_01_Process_200
+  - first:
+      213: 5712853873006452890
+    second: alm_01_Process_201
+  - first:
+      213: 4813176574838384785
+    second: alm_01_Process_202
+  - first:
+      213: -6237533443700048590
+    second: alm_01_Process_203
+  - first:
+      213: -2475540656719234240
+    second: alm_01_Process_204
+  - first:
+      213: -4560326464315385923
+    second: alm_01_Process_205
+  - first:
+      213: 5475542683685121079
+    second: alm_01_Process_206
+  - first:
+      213: 6535864542595790350
+    second: alm_01_Process_207
+  - first:
+      213: 7099671010940923235
+    second: alm_01_Process_208
+  - first:
+      213: 3865532027711449441
+    second: alm_01_Process_209
+  - first:
+      213: 1598536351591107034
+    second: alm_01_Process_210
+  - first:
+      213: 2911367813165377710
+    second: alm_01_Process_211
+  - first:
+      213: 6457113051462543514
+    second: alm_01_Process_212
+  - first:
+      213: -6947291788838896791
+    second: alm_01_Process_213
+  - first:
+      213: -3137465267887820216
+    second: alm_01_Process_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alm_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2258
+        width: 5000
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4ee1058956102a0800000000000000
+      internalID: -6773020659734878998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2108
+        width: 190
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad2324c8862084c0800000000000000
+      internalID: -4287384476408664662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2160
+        width: 196
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fc1267dfc2fe4c0800000000000000
+      internalID: -4256133655721554131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2071
+        width: 340
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10860d92776513de0800000000000000
+      internalID: -1355206943059187711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2015
+        width: 213
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 144946580a3f8d640800000000000000
+      internalID: 5105098048382735425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2101
+        width: 288
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce674d393b3114b0800000000000000
+      internalID: -5471526955251175731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2093
+        width: 215
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2936dbf98361b10b0800000000000000
+      internalID: -5756983266209078382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2150
+        width: 222
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328cad66337baec50800000000000000
+      internalID: 6695365227436492835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2097
+        width: 344
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecc70ab4fb9e6480800000000000000
+      internalID: -8904007937869493021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1903
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa77da2f83a69d40800000000000000
+      internalID: 5590835822721465000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2207
+        width: 169
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7731c9df66ad9f790800000000000000
+      internalID: -7495719968905096329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2240
+        width: 116
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d816c495b78380800000000000000
+      internalID: -8969000482301749417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2064
+        width: 168
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5033d5089a70a4810800000000000000
+      internalID: 1750219829771318021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2105
+        width: 125
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f1e99069950630800000000000000
+      internalID: 3892686093109293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1847
+        width: 263
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2809237523c357f0800000000000000
+      internalID: -624941357661091798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2108
+        width: 63
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f24cafb7cf43f550800000000000000
+      internalID: 6193381631897387767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2133
+        width: 201
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1bb72831157c690800000000000000
+      internalID: -7582002303419567698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2094
+        width: 130
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dac9881f726d1620800000000000000
+      internalID: 2746459645777922775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2101
+        width: 237
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4da7e84165da350800000000000000
+      internalID: 6029570122408711360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2211
+        width: 197
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe45edd9ef5d8d0800000000000000
+      internalID: -2822069637484318791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2074
+        width: 52
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dedc61a63122f530800000000000000
+      internalID: 3887205946894376658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2042
+        width: 106
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb748cc9b65e0b5f0800000000000000
+      internalID: -742841688161499202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2037
+        width: 308
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7f531ff1d56a6d0800000000000000
+      internalID: -2979591711686789141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1986
+        width: 297
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86865fd8f0e9ebde0800000000000000
+      internalID: -1315440251502237592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 2005
+        width: 925
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50ee1520ad89000800000000000000
+      internalID: 43023899959363027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1979
+        width: 163
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b136ad278397d8490800000000000000
+      internalID: -7742398901027970277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2211
+        width: 150
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109f760d21300fd00800000000000000
+      internalID: 1004306096244390145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2069
+        width: 81
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bc1245d276fda10800000000000000
+      internalID: 1936379809175292801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1979
+        width: 163
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de3a81e376f8950800000000000000
+      internalID: 6453490307444239658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2062
+        width: 159
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedb82a9ecce1dcc0800000000000000
+      internalID: -3687906247745946130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2067
+        width: 81
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a5867e971c1ce20800000000000000
+      internalID: 3369186725567421029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 2245
+        width: 193
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ba4eca28d9e2730800000000000000
+      internalID: 3976288705586703161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2099
+        width: 197
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bb99b76b07a4c50800000000000000
+      internalID: 6650251728825990008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2141
+        width: 313
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c2285162fdaf6e0800000000000000
+      internalID: -1802883346145858505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2046
+        width: 509
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf258e6f0a93393c0800000000000000
+      internalID: -4354073051237166341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 2172
+        width: 397
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da59101cef889a10800000000000000
+      internalID: 1916439885491296978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 1854
+        width: 911
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f30813ff9425f0800000000000000
+      internalID: -782324568826841735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 2089
+        width: 357
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff443a75e749600c0800000000000000
+      internalID: -4609833898210016001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1933
+        width: 117
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6570b82fbd55360800000000000000
+      internalID: 7157869017536354008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2054
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8659e0d6ff7c490800000000000000
+      internalID: -7725925791869605686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2034
+        width: 56
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c978968fab5e760800000000000000
+      internalID: 7486595531658468490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2030
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51122dacd4c50fd80800000000000000
+      internalID: -8218967830766149355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1877
+        width: 121
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb2acb5011d57060800000000000000
+      internalID: 6950691468105886641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1961
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea24fa0c4d2c4410800000000000000
+      internalID: 1462593783613106918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1638
+        width: 591
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97af6b00cbb0bd550800000000000000
+      internalID: 6186551415217257081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1987
+        width: 176
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c02ea4c77a86e3e0800000000000000
+      internalID: -2024778735450971965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2121
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b51b220225c99c0800000000000000
+      internalID: -3919167277744694518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2067
+        width: 158
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f45811b097475b50800000000000000
+      internalID: 6581808067197293813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2007
+        width: 198
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc2d35846529560800000000000000
+      internalID: 7319007213074436037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2067
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c92adb26c6da72d0800000000000000
+      internalID: -3280073231958398528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2001
+        width: 184
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19066e1a5430ce000800000000000000
+      internalID: 66431692107571345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2059
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc60f4f24863a3cf0800000000000000
+      internalID: -271844886145202483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1971
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c688470fc5ff7da40800000000000000
+      internalID: 5393059853435701356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1965
+        width: 283
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357b743a834851720800000000000000
+      internalID: 2816302520782534483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1807
+        width: 38
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac76c91eab7c457b0800000000000000
+      internalID: -5236340861262075958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1956
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31aad9ab9d386b330800000000000000
+      internalID: 3726310712857700883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1807
+        width: 39
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca27092d872485540800000000000000
+      internalID: 4996816873263755948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1877
+        width: 95
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dc4fe800442e240800000000000000
+      internalID: 4819489320428948832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1807
+        width: 39
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39ced128f7d90c0800000000000000
+      internalID: -4567354250259295288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1956
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f744b1a419baf660800000000000000
+      internalID: 7420446834309744627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 1807
+        width: 38
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fccf1c9b9f8ccb0800000000000000
+      internalID: -4843346823018131707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 1857
+        width: 606
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf59aec645aa0b6f0800000000000000
+      internalID: -670849064896915972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 2059
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6912b8ee9d2541ff0800000000000000
+      internalID: -66336998540238442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1967
+        width: 284
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c031d7a6bfc264c20800000000000000
+      internalID: 3190286844373570316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2030
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7a48fd642f56600800000000000000
+      internalID: 461040923086989249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1965
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57efe275d86d67570800000000000000
+      internalID: 8464188452230856309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1993
+        width: 167
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe98b8dbdc53d83e0800000000000000
+      internalID: -2049923097619101201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2029
+        width: 200
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0851f5961c453e1f0800000000000000
+      internalID: -1016875901182339712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1991
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9086e28645d54bbe0800000000000000
+      internalID: -1462441361882060791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1995
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f61afbc521d30c0800000000000000
+      internalID: -4594495855286718603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2001
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097bfaadc9e6c88d0800000000000000
+      internalID: -2842775644814723184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1888
+        width: 33
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec79b13053d472de0800000000000000
+      internalID: -1358031872548169778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1918
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f589268345387d940800000000000000
+      internalID: 5320865882508007519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2055
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d854e0fb7150f4780800000000000000
+      internalID: -8696726755881368179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2001
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6b1fdc22b3c5560800000000000000
+      internalID: 7303777716358199028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2040
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5c015c6f52ebd20800000000000000
+      internalID: 3296113719080175028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1902
+        width: 47
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793183c5a4308ae0800000000000000
+      internalID: -1549180385261176453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1867
+        width: 105
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a477213ad603290800000000000000
+      internalID: -7912703998133056887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1807
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b36fd3447816660800000000000000
+      internalID: 7377326391776656143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1807
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c91d72bfc2b10d0800000000000000
+      internalID: -3451115232232891264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1545
+        width: 201
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37646595a7d298130800000000000000
+      internalID: 3569434183175915123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 1906
+        width: 98
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da052e90eba7e9cf0800000000000000
+      internalID: -243622373203226451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1719
+        width: 635
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7f7a016908a10c0800000000000000
+      internalID: -4604226287020017708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1916
+        width: 254
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ca81754dede410800000000000000
+      internalID: 1508122332752431521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1719
+        width: 583
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3431cde14ddf3d0800000000000000
+      internalID: -3171145333592603678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1947
+        width: 206
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd84e5dbb099fe60800000000000000
+      internalID: 7996581749794835906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1652
+        width: 178
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46551ee5c4e3ed170800000000000000
+      internalID: 8205064068845884772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1793
+        width: 176
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f36df31262ddf370800000000000000
+      internalID: 8358067802153509879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1983
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df643fb4e17e7e290800000000000000
+      internalID: -7861060507242641667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1719
+        width: 67
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a656f33f8228960800000000000000
+      internalID: 7602684146160593495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_90
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1773
+        width: 83
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147fe3ad3a147520800000000000000
+      internalID: 2698810928747475988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_91
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1983
+        width: 184
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a793f004be0bce80800000000000000
+      internalID: -8157410133778655322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_92
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1738
+        width: 165
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c7360b4fd166dc0800000000000000
+      internalID: -3646193911541302269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_93
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 1535
+        width: 293
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50ca9979dbc73270800000000000000
+      internalID: 8230270978951397471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_94
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1675
+        width: 171
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d89f2a25fed0fa10800000000000000
+      internalID: 1941296583952799961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_95
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1666
+        width: 328
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a48355b160cff870800000000000000
+      internalID: 8718898929499079843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_96
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1683
+        width: 168
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb85cb5c9470698d0800000000000000
+      internalID: -2840074501579056965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_97
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 1829
+        width: 178
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9903947a1164ae00800000000000000
+      internalID: 1055074978964375966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_98
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 1815
+        width: 148
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab59d98e774c370800000000000000
+      internalID: 8341924250756954636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_99
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1719
+        width: 297
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd60feffd52796f0800000000000000
+      internalID: -678031574910865998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_100
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1719
+        width: 530
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e1783a3a081a0d0800000000000000
+      internalID: -3413305602258559387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_101
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1737
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b269c646e4cf3b50800000000000000
+      internalID: 6575190474293338805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_102
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1712
+        width: 211
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca224f148a8a7b40800000000000000
+      internalID: 5438811800068041412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_103
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1649
+        width: 444
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e0a185734fa01d0800000000000000
+      internalID: -3383623651477025144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_104
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1571
+        width: 281
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86804030ebfa9530800000000000000
+      internalID: 3862676570724402827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_105
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1694
+        width: 36
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dd5ac8745ec19e0800000000000000
+      internalID: -1649191268059325078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_106
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1683
+        width: 40
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd8bacc198c87de0800000000000000
+      internalID: -1335096760985743928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_107
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1683
+        width: 40
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4826825accc4932f0800000000000000
+      internalID: -992677801030557052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_108
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1694
+        width: 36
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468df0af4655c1e70800000000000000
+      internalID: 9087232040307251300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_109
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 1469
+        width: 1139
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b2efa2bd555d580800000000000000
+      internalID: -8803035496818267314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_110
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 1842
+        width: 396
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43f6d1b222495540800000000000000
+      internalID: 4997097978324251468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_111
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1727
+        width: 483
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbfe8d1e03bfee0800000000000000
+      internalID: -1226332726962962480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_112
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1684
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde65740c6aec6940800000000000000
+      internalID: 5290861411905662684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_113
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1774
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68c02e7b8a0f31d0800000000000000
+      internalID: -3368962402017032083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_114
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1563
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d71fa9dde6fe44e0800000000000000
+      internalID: -1995386083458738217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_115
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1774
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c04cb9bb7166c00800000000000000
+      internalID: 893427670619262042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_116
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1665
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23657c78e73a3b100800000000000000
+      internalID: 122621378708330034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_117
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1774
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f68768c92a2e9c0800000000000000
+      internalID: -3899375534194790621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_118
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1563
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5727c164a626d0aa0800000000000000
+      internalID: -6193185703982239115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_119
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1774
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b125e5616d6a4c0800000000000000
+      internalID: -4276495404581643473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_120
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 1444
+        width: 1073
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef73dc1dc8a7fb9e0800000000000000
+      internalID: -1603428197086709762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 2154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a70765e43b6cd0800000000000000
+      internalID: -2563897402976656383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_122
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1468
+        width: 294
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f4d6b15c27dea80800000000000000
+      internalID: -8435960336100798589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_123
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1405
+        width: 288
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ffc6707cd399cc0800000000000000
+      internalID: -3703861293503152383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_124
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1534
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c34365d93c3d8f60800000000000000
+      internalID: 8038147129017058247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_125
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1249
+        width: 229
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f8985f65e2b9cd0800000000000000
+      internalID: -2550393812953755751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_126
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1551
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630a1297516eb6e20800000000000000
+      internalID: 3345020128153673782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_127
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1336
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade01377f7000d530800000000000000
+      internalID: 3877599826626547418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_128
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1261
+        width: 194
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5e5c14311d4bc40800000000000000
+      internalID: 5527272523328513515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_129
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 1518
+        width: 27
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65a6d8cbbea1770800000000000000
+      internalID: 8582431234966836973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_130
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1453
+        width: 36
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a412f347a745952f0800000000000000
+      internalID: -983662158690705078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_131
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1595
+        width: 76
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86a380a46abb65f0800000000000000
+      internalID: -762310770556688753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_132
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1594
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c50b8096d7ee070800000000000000
+      internalID: 8137579466775878756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_133
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 937
+        width: 178
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bc7ae4b890fbf00800000000000000
+      internalID: 1134636125045377896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_134
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1302
+        width: 328
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4e979e604807810800000000000000
+      internalID: 1761052619523613862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_135
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 1067
+        width: 176
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafe031571911d320800000000000000
+      internalID: 2580871649397108652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_136
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1594
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e0c9d7f6166480800000000000000
+      internalID: -8906405959312545786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_137
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 1595
+        width: 76
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4ac60e7f1f36810800000000000000
+      internalID: 1757514326529058047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_138
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1418
+        width: 36
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ba29d669a52d070800000000000000
+      internalID: 8129659879487089464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_139
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 1208
+        width: 40
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ecfe0246475880800000000000000
+      internalID: -8622345712044285821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 2134
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d666531ec257477a0800000000000000
+      internalID: -6380345936459766163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_141
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1214
+        width: 367
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e536e942569c0a0800000000000000
+      internalID: -6860841349371699597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_142
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1563
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57cb911a5fa4dbe0800000000000000
+      internalID: -1453343978356488356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_143
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1563
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7623a20d9a1460800000000000000
+      internalID: 7213250387839974201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_144
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1563
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae6f2ec7c394af0800000000000000
+      internalID: -411731383846245668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_145
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1563
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcb6319c4647b700800000000000000
+      internalID: 555990373671288054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 2097
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9dfe94b91720440800000000000000
+      internalID: 4900604256306846178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_147
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1024
+        width: 910
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972f6a874e98a55a0800000000000000
+      internalID: -6531756695177727367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_148
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1314
+        width: 90
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c0916f6f6b3c810800000000000000
+      internalID: 1784471049175895142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_149
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1363
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9809fb39cd45e90800000000000000
+      internalID: -7037757790541018692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_150
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1399
+        width: 103
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449c7c8221505110800000000000000
+      internalID: 1247586305609339973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_151
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1357
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c97a8ef9dbec75e0800000000000000
+      internalID: -1910392820401014334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_152
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1460
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c422b16d3a3f24b90800000000000000
+      internalID: -7258971764370496948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_153
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1303
+        width: 68
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979daca148eaf72b0800000000000000
+      internalID: -5584553130507708039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_154
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1304
+        width: 205
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0657b9e6ecad9ccd0800000000000000
+      internalID: -2537256334892763808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_155
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1209
+        width: 36
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbdea4dc1b9cf0d0800000000000000
+      internalID: -3387662271559836723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_156
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 1067
+        width: 128
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b86e39b502247bf0800000000000000
+      internalID: -327599464913147719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_157
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 1067
+        width: 991
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe7fc1560f108750800000000000000
+      internalID: 6305073590321512186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_158
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 1154
+        width: 119
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89252473a3dc24e0800000000000000
+      internalID: -2004995035104990837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_159
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 879
+        width: 1110
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb7b8e8315c58d0800000000000000
+      internalID: -2856318758795362673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_160
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 654
+        width: 757
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbf749685e1b9480800000000000000
+      internalID: -8891479674240631888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_161
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1147
+        width: 350
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534dcca790b6f4b20800000000000000
+      internalID: 3120830755250164789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_162
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 937
+        width: 234
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76378a2ae4e72080800000000000000
+      internalID: -9212142818376075652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_163
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 937
+        width: 235
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135c6609c3e7c0830800000000000000
+      internalID: 4038741764430284081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_164
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1067
+        width: 96
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef52fce10db6f00800000000000000
+      internalID: 1111210563819929238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_165
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1112
+        width: 161
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca7ef23557415e0800000000000000
+      internalID: -1939796539343393697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_166
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1067
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffef8241fb5ab1e0800000000000000
+      internalID: -2181329977745608719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_167
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1161
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d048fa6b32a46d70800000000000000
+      internalID: 9035525128493482197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_168
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1067
+        width: 215
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09745243a2dd80070800000000000000
+      internalID: 8072945505394837392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_169
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1054
+        width: 122
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4292959370a90f90800000000000000
+      internalID: -6986876928597519796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 41
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05344c5ab64737320800000000000000
+      internalID: 2554513419340628816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_171
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 482
+        width: 409
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1729f33386e9bfc30800000000000000
+      internalID: 4394280031803642481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_172
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 588
+        width: 80
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe05afb51aabd7a90800000000000000
+      internalID: -7314485017584185105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_173
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 174
+        width: 57
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc63386fd5f9ab30800000000000000
+      internalID: 4299237659176561875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_174
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 523
+        width: 262
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f1005f611904610800000000000000
+      internalID: 1603440995129630528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_175
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 244
+        width: 172
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf1fa2fd8ce248e0800000000000000
+      internalID: -1710544814041260113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_176
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 182
+        width: 542
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aae274dd2476670800000000000000
+      internalID: 8531861537226140300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_177
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 605
+        width: 314
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c84027f5ff9efe0800000000000000
+      internalID: -1159114643671315357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_178
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 301
+        width: 210
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03c392033735aed0800000000000000
+      internalID: -2403454133906193650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_179
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 639
+        width: 658
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebae0d4118c16cb0800000000000000
+      internalID: -4872393345205359646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_180
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 525
+        width: 614
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e7a5caec9ab3e50800000000000000
+      internalID: 6790207568311123580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_181
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 177
+        width: 1678
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a05d52d6f58900800000000000000
+      internalID: 686225901612999259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_182
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 618
+        width: 441
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99326dd7ef4ba0480800000000000000
+      internalID: -8932127905810078823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_183
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 434
+        width: 1606
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646220f757cbfe110800000000000000
+      internalID: 1292458830906664518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_184
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 169
+        width: 401
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf387d9349a92a40800000000000000
+      internalID: 5343988540721610693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_185
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 321
+        width: 235
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fcc5602cf7cafd0800000000000000
+      internalID: -2329346435950260329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_186
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 320
+        width: 159
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c81c1bf540c855b0800000000000000
+      internalID: -5379338348095858495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_187
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 171
+        width: 366
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60cd91a75157560800000000000000
+      internalID: 7310773184269911759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_188
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 141
+        width: 95
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d0bdda339838570800000000000000
+      internalID: 8467762579439816058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_189
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 147
+        width: 458
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dca2a17dc49e860800000000000000
+      internalID: 7559657936258780559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_190
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 144
+        width: 155
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd1869acb43aeef0800000000000000
+      internalID: -78192058624893491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_191
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 43
+        width: 1028
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8510ec59be293b0800000000000000
+      internalID: -5507080365681846111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_192
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 163
+        width: 309
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef4d55208485daa0800000000000000
+      internalID: -6136853231304880148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_193
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 132
+        width: 399
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517b7fecfb9b902c0800000000000000
+      internalID: -4464833322098903275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_194
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 150
+        width: 327
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f45495480e7aa00800000000000000
+      internalID: 767829120527978398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_195
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 224
+        width: 267
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48354b8e70bc8ebe0800000000000000
+      internalID: -1447684045370272892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_196
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 198
+        width: 309
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68496fba5e2d1650800000000000000
+      internalID: 6205166828879693931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_197
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 198
+        width: 191
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598dc978c99869b0800000000000000
+      internalID: -5086646692798953130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_198
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 287
+        width: 394
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c192bb074c40af20800000000000000
+      internalID: 3431826784078959041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_199
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 196
+        width: 233
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfc2e8c43190e880800000000000000
+      internalID: -8583701233873530951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_200
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 198
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b82378e6749fa0800000000000000
+      internalID: -5794876079782449002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_201
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 128
+        width: 364
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90a34a5452284f40800000000000000
+      internalID: 5712853873006452890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_202
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 280
+        width: 327
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1982970f796dbc240800000000000000
+      internalID: 4813176574838384785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2078
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23db3ad7164df69a0800000000000000
+      internalID: -6237533443700048590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_204
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 266
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b763183ec15add0800000000000000
+      internalID: -2475540656719234240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_205
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 179
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db71baa0e3776b0c0800000000000000
+      internalID: -4560326464315385923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_206
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 0
+        width: 494
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c6a856f090dfb40800000000000000
+      internalID: 5475542683685121079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_207
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 1582
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e063e794c2e04ba50800000000000000
+      internalID: 6535864542595790350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_208
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 0
+        width: 376
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36da5453b29178260800000000000000
+      internalID: 7099671010940923235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_209
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 0
+        width: 572
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169e2a316e025a530800000000000000
+      internalID: 3865532027711449441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_210
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 7
+        width: 301
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad90325a7542f2610800000000000000
+      internalID: 1598536351591107034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_211
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 20
+        width: 72
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea86a3ad991476820800000000000000
+      internalID: 2911367813165377710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_212
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 0
+        width: 583
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98a6faeb164c9950800000000000000
+      internalID: 6457113051462543514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_213
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 0
+        width: 259
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bf4472de2469f90800000000000000
+      internalID: -6947291788838896791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Process_214
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 0
+        width: 147
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842bb6c36fb7574d0800000000000000
+      internalID: -3137465267887820216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alm_01_Process_0: -6773020659734878998
+      alm_01_Process_1: -4287384476408664662
+      alm_01_Process_10: -7495719968905096329
+      alm_01_Process_100: -3413305602258559387
+      alm_01_Process_101: 6575190474293338805
+      alm_01_Process_102: 5438811800068041412
+      alm_01_Process_103: -3383623651477025144
+      alm_01_Process_104: 3862676570724402827
+      alm_01_Process_105: -1649191268059325078
+      alm_01_Process_106: -1335096760985743928
+      alm_01_Process_107: -992677801030557052
+      alm_01_Process_108: 9087232040307251300
+      alm_01_Process_109: -8803035496818267314
+      alm_01_Process_11: -8969000482301749417
+      alm_01_Process_110: 4997097978324251468
+      alm_01_Process_111: -1226332726962962480
+      alm_01_Process_112: 5290861411905662684
+      alm_01_Process_113: -3368962402017032083
+      alm_01_Process_114: -1995386083458738217
+      alm_01_Process_115: 893427670619262042
+      alm_01_Process_116: 122621378708330034
+      alm_01_Process_117: -3899375534194790621
+      alm_01_Process_118: -6193185703982239115
+      alm_01_Process_119: -4276495404581643473
+      alm_01_Process_12: 1750219829771318021
+      alm_01_Process_120: -1603428197086709762
+      alm_01_Process_121: -2563897402976656383
+      alm_01_Process_122: -8435960336100798589
+      alm_01_Process_123: -3703861293503152383
+      alm_01_Process_124: 8038147129017058247
+      alm_01_Process_125: -2550393812953755751
+      alm_01_Process_126: 3345020128153673782
+      alm_01_Process_127: 3877599826626547418
+      alm_01_Process_128: 5527272523328513515
+      alm_01_Process_129: 8582431234966836973
+      alm_01_Process_13: 3892686093109293293
+      alm_01_Process_130: -983662158690705078
+      alm_01_Process_131: -762310770556688753
+      alm_01_Process_132: 8137579466775878756
+      alm_01_Process_133: 1134636125045377896
+      alm_01_Process_134: 1761052619523613862
+      alm_01_Process_135: 2580871649397108652
+      alm_01_Process_136: -8906405959312545786
+      alm_01_Process_137: 1757514326529058047
+      alm_01_Process_138: 8129659879487089464
+      alm_01_Process_139: -8622345712044285821
+      alm_01_Process_14: -624941357661091798
+      alm_01_Process_140: -6380345936459766163
+      alm_01_Process_141: -6860841349371699597
+      alm_01_Process_142: -1453343978356488356
+      alm_01_Process_143: 7213250387839974201
+      alm_01_Process_144: -411731383846245668
+      alm_01_Process_145: 555990373671288054
+      alm_01_Process_146: 4900604256306846178
+      alm_01_Process_147: -6531756695177727367
+      alm_01_Process_148: 1784471049175895142
+      alm_01_Process_149: -7037757790541018692
+      alm_01_Process_15: 6193381631897387767
+      alm_01_Process_150: 1247586305609339973
+      alm_01_Process_151: -1910392820401014334
+      alm_01_Process_152: -7258971764370496948
+      alm_01_Process_153: -5584553130507708039
+      alm_01_Process_154: -2537256334892763808
+      alm_01_Process_155: -3387662271559836723
+      alm_01_Process_156: -327599464913147719
+      alm_01_Process_157: 6305073590321512186
+      alm_01_Process_158: -2004995035104990837
+      alm_01_Process_159: -2856318758795362673
+      alm_01_Process_16: -7582002303419567698
+      alm_01_Process_160: -8891479674240631888
+      alm_01_Process_161: 3120830755250164789
+      alm_01_Process_162: -9212142818376075652
+      alm_01_Process_163: 4038741764430284081
+      alm_01_Process_164: 1111210563819929238
+      alm_01_Process_165: -1939796539343393697
+      alm_01_Process_166: -2181329977745608719
+      alm_01_Process_167: 9035525128493482197
+      alm_01_Process_168: 8072945505394837392
+      alm_01_Process_169: -6986876928597519796
+      alm_01_Process_17: 2746459645777922775
+      alm_01_Process_170: 2554513419340628816
+      alm_01_Process_171: 4394280031803642481
+      alm_01_Process_172: -7314485017584185105
+      alm_01_Process_173: 4299237659176561875
+      alm_01_Process_174: 1603440995129630528
+      alm_01_Process_175: -1710544814041260113
+      alm_01_Process_176: 8531861537226140300
+      alm_01_Process_177: -1159114643671315357
+      alm_01_Process_178: -2403454133906193650
+      alm_01_Process_179: -4872393345205359646
+      alm_01_Process_18: 6029570122408711360
+      alm_01_Process_180: 6790207568311123580
+      alm_01_Process_181: 686225901612999259
+      alm_01_Process_182: -8932127905810078823
+      alm_01_Process_183: 1292458830906664518
+      alm_01_Process_184: 5343988540721610693
+      alm_01_Process_185: -2329346435950260329
+      alm_01_Process_186: -5379338348095858495
+      alm_01_Process_187: 7310773184269911759
+      alm_01_Process_188: 8467762579439816058
+      alm_01_Process_189: 7559657936258780559
+      alm_01_Process_19: -2822069637484318791
+      alm_01_Process_190: -78192058624893491
+      alm_01_Process_191: -5507080365681846111
+      alm_01_Process_192: -6136853231304880148
+      alm_01_Process_193: -4464833322098903275
+      alm_01_Process_194: 767829120527978398
+      alm_01_Process_195: -1447684045370272892
+      alm_01_Process_196: 6205166828879693931
+      alm_01_Process_197: -5086646692798953130
+      alm_01_Process_198: 3431826784078959041
+      alm_01_Process_199: -8583701233873530951
+      alm_01_Process_2: -4256133655721554131
+      alm_01_Process_20: 3887205946894376658
+      alm_01_Process_200: -5794876079782449002
+      alm_01_Process_201: 5712853873006452890
+      alm_01_Process_202: 4813176574838384785
+      alm_01_Process_203: -6237533443700048590
+      alm_01_Process_204: -2475540656719234240
+      alm_01_Process_205: -4560326464315385923
+      alm_01_Process_206: 5475542683685121079
+      alm_01_Process_207: 6535864542595790350
+      alm_01_Process_208: 7099671010940923235
+      alm_01_Process_209: 3865532027711449441
+      alm_01_Process_21: -742841688161499202
+      alm_01_Process_210: 1598536351591107034
+      alm_01_Process_211: 2911367813165377710
+      alm_01_Process_212: 6457113051462543514
+      alm_01_Process_213: -6947291788838896791
+      alm_01_Process_214: -3137465267887820216
+      alm_01_Process_22: -2979591711686789141
+      alm_01_Process_23: -1315440251502237592
+      alm_01_Process_24: 43023899959363027
+      alm_01_Process_25: -7742398901027970277
+      alm_01_Process_26: 1004306096244390145
+      alm_01_Process_27: 1936379809175292801
+      alm_01_Process_28: 6453490307444239658
+      alm_01_Process_29: -3687906247745946130
+      alm_01_Process_3: -1355206943059187711
+      alm_01_Process_30: 3369186725567421029
+      alm_01_Process_31: 3976288705586703161
+      alm_01_Process_32: 6650251728825990008
+      alm_01_Process_33: -1802883346145858505
+      alm_01_Process_34: -4354073051237166341
+      alm_01_Process_35: 1916439885491296978
+      alm_01_Process_36: -782324568826841735
+      alm_01_Process_37: -4609833898210016001
+      alm_01_Process_38: 7157869017536354008
+      alm_01_Process_39: -7725925791869605686
+      alm_01_Process_4: 5105098048382735425
+      alm_01_Process_40: 7486595531658468490
+      alm_01_Process_41: -8218967830766149355
+      alm_01_Process_42: 6950691468105886641
+      alm_01_Process_43: 1462593783613106918
+      alm_01_Process_44: 6186551415217257081
+      alm_01_Process_45: -2024778735450971965
+      alm_01_Process_46: -3919167277744694518
+      alm_01_Process_47: 6581808067197293813
+      alm_01_Process_48: 7319007213074436037
+      alm_01_Process_49: -3280073231958398528
+      alm_01_Process_5: -5471526955251175731
+      alm_01_Process_50: 66431692107571345
+      alm_01_Process_51: -271844886145202483
+      alm_01_Process_52: 5393059853435701356
+      alm_01_Process_53: 2816302520782534483
+      alm_01_Process_54: -5236340861262075958
+      alm_01_Process_55: 3726310712857700883
+      alm_01_Process_56: 4996816873263755948
+      alm_01_Process_57: 4819489320428948832
+      alm_01_Process_58: -4567354250259295288
+      alm_01_Process_59: 7420446834309744627
+      alm_01_Process_6: -5756983266209078382
+      alm_01_Process_60: -4843346823018131707
+      alm_01_Process_61: -670849064896915972
+      alm_01_Process_62: -66336998540238442
+      alm_01_Process_63: 3190286844373570316
+      alm_01_Process_64: 461040923086989249
+      alm_01_Process_65: 8464188452230856309
+      alm_01_Process_66: -2049923097619101201
+      alm_01_Process_67: -1016875901182339712
+      alm_01_Process_68: -1462441361882060791
+      alm_01_Process_69: -4594495855286718603
+      alm_01_Process_7: 6695365227436492835
+      alm_01_Process_70: -2842775644814723184
+      alm_01_Process_71: -1358031872548169778
+      alm_01_Process_72: 5320865882508007519
+      alm_01_Process_73: -8696726755881368179
+      alm_01_Process_74: 7303777716358199028
+      alm_01_Process_75: 3296113719080175028
+      alm_01_Process_76: -1549180385261176453
+      alm_01_Process_77: -7912703998133056887
+      alm_01_Process_78: 7377326391776656143
+      alm_01_Process_79: -3451115232232891264
+      alm_01_Process_8: -8904007937869493021
+      alm_01_Process_80: 3569434183175915123
+      alm_01_Process_81: -243622373203226451
+      alm_01_Process_82: -4604226287020017708
+      alm_01_Process_83: 1508122332752431521
+      alm_01_Process_84: -3171145333592603678
+      alm_01_Process_85: 7996581749794835906
+      alm_01_Process_86: 8205064068845884772
+      alm_01_Process_87: 8358067802153509879
+      alm_01_Process_88: -7861060507242641667
+      alm_01_Process_89: 7602684146160593495
+      alm_01_Process_9: 5590835822721465000
+      alm_01_Process_90: 2698810928747475988
+      alm_01_Process_91: -8157410133778655322
+      alm_01_Process_92: -3646193911541302269
+      alm_01_Process_93: 8230270978951397471
+      alm_01_Process_94: 1941296583952799961
+      alm_01_Process_95: 8718898929499079843
+      alm_01_Process_96: -2840074501579056965
+      alm_01_Process_97: 1055074978964375966
+      alm_01_Process_98: 8341924250756954636
+      alm_01_Process_99: -678031574910865998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

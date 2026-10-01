@@ -85,7 +85,7 @@ public class CameraZoom : MonoBehaviour
     {
         yield return null;
 
-        TextMeshPro[] allTMPs = FindObjectsOfType<TextMeshPro>(true); // true: inactive objeler de dahil
+        TextMeshPro[] allTMPs = FindObjectsByType<TextMeshPro>(FindObjectsInactive.Include); // true: inactive objeler de dahil
         if (allTMPs.Length == 0)
         {
             Debug.LogWarning("Sahnede hiç TextMeshPro bulunamadý.");
@@ -160,6 +160,7 @@ public class CameraZoom : MonoBehaviour
 
         float scroll = zoomValue; // Fare tekerleði okuma
         desiredZoom -= scroll * zoomSpeed * Time.deltaTime;
+
 
         desiredZoom = Mathf.Clamp(desiredZoom, minZoom, maxZoom);
         panSpeed = Mathf.Lerp(0.5f, 2.5f, (desiredZoom - minZoom) / (maxZoom - minZoom));

@@ -97,7 +97,7 @@ public class GameController : MonoBehaviour
         gameMode = StateManager.GameMode.findCat;
 
 
-        if (GameObject.FindObjectsOfType<PlayerControllerOffline>().Length <= 0)
+        if (GameObject.FindObjectsByType<PlayerControllerOffline>().Length <= 0)
         {
             LocalPlayerOnlinePlayer = GameObject.Find("LocalGamePlayer").GetComponent<PlayerController>();//hata verme potansiyelli
             isOnline = true;
@@ -147,7 +147,6 @@ public class GameController : MonoBehaviour
             timer = GameDataTracker.paint_timer;
         }
         CatFindModeOpen();
-
         #region loadingData
 
 
@@ -243,7 +242,12 @@ public class GameController : MonoBehaviour
         {
             ReplayController.Instance.StopReplay();
         }
-        if (gameState == StateManager.GameState.EndGame)
+
+        if (gameState == StateManager.GameState.InChat)
+        {
+            ChangeChatStatus();
+        }
+        else if (gameState == StateManager.GameState.EndGame)
         {
             ChangeStateOfEndGame();
         }
@@ -458,44 +462,50 @@ public class GameController : MonoBehaviour
 
     }
 
+    bool ChatStatus = false;
     public void ChangeChatStatus()
     {   
         if (LocalPlayerOnlinePlayer == null) return;
 
         if(gameState == StateManager.GameState.InChat)
         {
-            StartCoroutine(ChatAnimation(0, (int)gameState));
+            StartCoroutine(ChatAnimation(false));
             gameState = StateManager.GameState.InGame;
+            EventSystem.current.GetComponent<EventSystemController>().SetPanel("mainCanvas");
         }
         else if(gameState == StateManager.GameState.InGame)
         {
             chatNotf.SetActive(false);
-            StartCoroutine(ChatAnimation(1, (int)gameState));
+            StartCoroutine(ChatAnimation(true));
             gameState = StateManager.GameState.InChat;
         }
     }
-    IEnumerator ChatAnimation(float target,int lastStateID)
+    IEnumerator ChatAnimation(bool toChat)
     {
+        ChatStatus = toChat;
         yield return null;
         yield return null;
         InputManager.Instance.stopInput();
-        if (lastStateID == 0)
+        if (toChat)
         {
             chatPanel.SetActive(true);
-        }
-        while (true)
-        {
-            chatPanel.GetComponent<Animator>().SetFloat("Blend", Mathf.Lerp(chatPanel.GetComponent<Animator>().GetFloat("Blend"), target, Time.deltaTime * 5f));
-
-            if (Mathf.Abs(chatPanel.GetComponent<Animator>().GetFloat("Blend") - target) <= 0.01f)
+            while (true)
             {
-                break;
+                if (toChat != ChatStatus) yield break;
+                chatPanel.GetComponent<Animator>().SetFloat("Blend", Mathf.Lerp(chatPanel.GetComponent<Animator>().GetFloat("Blend"), 1, Time.deltaTime * 5f));
+                if (Mathf.Abs(chatPanel.GetComponent<Animator>().GetFloat("Blend") - 1) <= 0.01f) break;
+                yield return null;
             }
-            else if (lastStateID == (int)gameState) yield break;
-            yield return null;
         }
-        if (lastStateID == 2)
+        else
         {
+            while (true)
+            {
+                if (toChat != ChatStatus) yield break;
+                chatPanel.GetComponent<Animator>().SetFloat("Blend", Mathf.Lerp(chatPanel.GetComponent<Animator>().GetFloat("Blend"), 0, Time.deltaTime * 5f));
+                if (Mathf.Abs(chatPanel.GetComponent<Animator>().GetFloat("Blend") - 0) <= 0.01f) break;
+                yield return null;
+            }
             chatPanel.SetActive(false);
         }
         EventSystem.current.GetComponent<EventSystemController>().SetPanel("ChatPanel");
@@ -522,7 +532,7 @@ public class GameController : MonoBehaviour
 
         if (isOnline)
         {
-            CursorDisplay[] cd = GameObject.FindObjectsOfType<CursorDisplay>();
+            CursorDisplay[] cd = GameObject.FindObjectsByType<CursorDisplay>();
             foreach (CursorDisplay c in cd)
             {
                 c.ChangeMode(StateManager.GameMode.fillColor);
@@ -531,7 +541,7 @@ public class GameController : MonoBehaviour
         }
         else
         {
-            CursorDisplayOffline cd = GameObject.FindObjectOfType<CursorDisplayOffline>();
+            CursorDisplayOffline cd = GameObject.FindAnyObjectByType<CursorDisplayOffline>();
             cd.ChangeMode(StateManager.GameMode.fillColor);
 
         }
@@ -564,7 +574,7 @@ public class GameController : MonoBehaviour
 
         if (isOnline)
         {
-            CursorDisplay[] cd = GameObject.FindObjectsOfType<CursorDisplay>();
+            CursorDisplay[] cd = GameObject.FindObjectsByType<CursorDisplay>();
             foreach (CursorDisplay c in cd)
             {
                 c.ChangeMode(StateManager.GameMode.findCat);
@@ -573,7 +583,7 @@ public class GameController : MonoBehaviour
         }
         else
         {
-            CursorDisplayOffline cd = GameObject.FindObjectOfType<CursorDisplayOffline>();
+            CursorDisplayOffline cd = GameObject.FindAnyObjectByType<CursorDisplayOffline>();
             cd.ChangeMode(StateManager.GameMode.findCat);
 
         }

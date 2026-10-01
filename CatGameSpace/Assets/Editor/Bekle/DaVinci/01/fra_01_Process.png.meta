@@ -1,0 +1,3679 @@
+fileFormatVersion: 2
+guid: 27384f8c03579964482cc35d466162fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9195773534897140854
+    second: fra_01_Process_0
+  - first:
+      213: 343831984328218412
+    second: fra_01_Process_1
+  - first:
+      213: 8965918306931168859
+    second: fra_01_Process_2
+  - first:
+      213: -3798232818771546883
+    second: fra_01_Process_3
+  - first:
+      213: 2777177248845784198
+    second: fra_01_Process_4
+  - first:
+      213: 8259892230693888516
+    second: fra_01_Process_5
+  - first:
+      213: -363385052813662300
+    second: fra_01_Process_6
+  - first:
+      213: -2343178962609288782
+    second: fra_01_Process_7
+  - first:
+      213: -4893855475838118376
+    second: fra_01_Process_8
+  - first:
+      213: 5229966876990726361
+    second: fra_01_Process_9
+  - first:
+      213: -471726722676576652
+    second: fra_01_Process_10
+  - first:
+      213: -5645257573358421034
+    second: fra_01_Process_11
+  - first:
+      213: -1534246528129923157
+    second: fra_01_Process_12
+  - first:
+      213: 5431219351407517322
+    second: fra_01_Process_13
+  - first:
+      213: 4371739782969289510
+    second: fra_01_Process_14
+  - first:
+      213: -5568712521094655525
+    second: fra_01_Process_15
+  - first:
+      213: -9109401984167187075
+    second: fra_01_Process_16
+  - first:
+      213: -6433563852401837412
+    second: fra_01_Process_17
+  - first:
+      213: 8571562366043303921
+    second: fra_01_Process_18
+  - first:
+      213: 3583693387992681386
+    second: fra_01_Process_19
+  - first:
+      213: 2744624074954093393
+    second: fra_01_Process_20
+  - first:
+      213: 5079145206755038916
+    second: fra_01_Process_21
+  - first:
+      213: 4685293626437124823
+    second: fra_01_Process_22
+  - first:
+      213: 2453863434825485891
+    second: fra_01_Process_23
+  - first:
+      213: -1833649146991437109
+    second: fra_01_Process_24
+  - first:
+      213: -8730262901177164
+    second: fra_01_Process_25
+  - first:
+      213: 3808987732412151118
+    second: fra_01_Process_26
+  - first:
+      213: 8327231710378998927
+    second: fra_01_Process_27
+  - first:
+      213: -1643411864614181414
+    second: fra_01_Process_28
+  - first:
+      213: 179594156908524827
+    second: fra_01_Process_29
+  - first:
+      213: -8792067779415140405
+    second: fra_01_Process_30
+  - first:
+      213: -5424370667377712609
+    second: fra_01_Process_31
+  - first:
+      213: -7013051968175862899
+    second: fra_01_Process_32
+  - first:
+      213: 2438801011207330734
+    second: fra_01_Process_33
+  - first:
+      213: 1520997579125750686
+    second: fra_01_Process_34
+  - first:
+      213: -3823150077854490356
+    second: fra_01_Process_35
+  - first:
+      213: -8397931884084345217
+    second: fra_01_Process_36
+  - first:
+      213: 7058790817745671324
+    second: fra_01_Process_37
+  - first:
+      213: -5489220641218024068
+    second: fra_01_Process_38
+  - first:
+      213: -7700442064746726251
+    second: fra_01_Process_39
+  - first:
+      213: -6732793202096087793
+    second: fra_01_Process_40
+  - first:
+      213: -1429538693928525296
+    second: fra_01_Process_41
+  - first:
+      213: 2888704130259209285
+    second: fra_01_Process_42
+  - first:
+      213: -6764152698931456848
+    second: fra_01_Process_43
+  - first:
+      213: 7798866713342931988
+    second: fra_01_Process_44
+  - first:
+      213: -3187669691208232027
+    second: fra_01_Process_45
+  - first:
+      213: 1836807458352298836
+    second: fra_01_Process_46
+  - first:
+      213: -2602960389419596088
+    second: fra_01_Process_47
+  - first:
+      213: -1990795551620731593
+    second: fra_01_Process_48
+  - first:
+      213: -2450737087515362557
+    second: fra_01_Process_49
+  - first:
+      213: -838509070612219691
+    second: fra_01_Process_50
+  - first:
+      213: 4144754444656407107
+    second: fra_01_Process_51
+  - first:
+      213: -9189690522660842376
+    second: fra_01_Process_52
+  - first:
+      213: -6556566652128745521
+    second: fra_01_Process_53
+  - first:
+      213: -921798019668061102
+    second: fra_01_Process_54
+  - first:
+      213: 220574427311520262
+    second: fra_01_Process_55
+  - first:
+      213: 7736917118086249207
+    second: fra_01_Process_56
+  - first:
+      213: -8649955258426783579
+    second: fra_01_Process_57
+  - first:
+      213: -3292937997506976136
+    second: fra_01_Process_58
+  - first:
+      213: -8107624854571091759
+    second: fra_01_Process_59
+  - first:
+      213: -6045106679175437906
+    second: fra_01_Process_60
+  - first:
+      213: 3059159657112802546
+    second: fra_01_Process_61
+  - first:
+      213: 4005992691849097543
+    second: fra_01_Process_62
+  - first:
+      213: 2672393269531297335
+    second: fra_01_Process_63
+  - first:
+      213: 2299024477083222716
+    second: fra_01_Process_64
+  - first:
+      213: -6307421130222723183
+    second: fra_01_Process_65
+  - first:
+      213: -4207520434627686812
+    second: fra_01_Process_66
+  - first:
+      213: -8394791741915922600
+    second: fra_01_Process_67
+  - first:
+      213: 8673134134607654622
+    second: fra_01_Process_68
+  - first:
+      213: -8446461252546945778
+    second: fra_01_Process_69
+  - first:
+      213: -8823819149691341333
+    second: fra_01_Process_70
+  - first:
+      213: 3948506036254925866
+    second: fra_01_Process_71
+  - first:
+      213: -9217008636167748441
+    second: fra_01_Process_72
+  - first:
+      213: 8735114043245728086
+    second: fra_01_Process_73
+  - first:
+      213: 805295089641166322
+    second: fra_01_Process_74
+  - first:
+      213: 2700573988007602511
+    second: fra_01_Process_75
+  - first:
+      213: -7574974629870265846
+    second: fra_01_Process_76
+  - first:
+      213: 8611525450155290625
+    second: fra_01_Process_77
+  - first:
+      213: -1197695339437181009
+    second: fra_01_Process_78
+  - first:
+      213: -8450170231877275584
+    second: fra_01_Process_79
+  - first:
+      213: 5549620830965475536
+    second: fra_01_Process_80
+  - first:
+      213: -687224837483451387
+    second: fra_01_Process_81
+  - first:
+      213: -8356930927613952772
+    second: fra_01_Process_82
+  - first:
+      213: -3580542634371040297
+    second: fra_01_Process_83
+  - first:
+      213: -2201629420512847628
+    second: fra_01_Process_84
+  - first:
+      213: 1673456141052670245
+    second: fra_01_Process_85
+  - first:
+      213: -1652124558864146503
+    second: fra_01_Process_86
+  - first:
+      213: 5591338943431190410
+    second: fra_01_Process_87
+  - first:
+      213: -6124247140785091519
+    second: fra_01_Process_88
+  - first:
+      213: 5589168866580390182
+    second: fra_01_Process_89
+  - first:
+      213: -3601347496672448876
+    second: fra_01_Process_90
+  - first:
+      213: 879194290536643991
+    second: fra_01_Process_91
+  - first:
+      213: 263495845724237183
+    second: fra_01_Process_92
+  - first:
+      213: -3948328730245776403
+    second: fra_01_Process_93
+  - first:
+      213: 5725794634036292485
+    second: fra_01_Process_94
+  - first:
+      213: -4118320795431070748
+    second: fra_01_Process_95
+  - first:
+      213: -1070792547554647250
+    second: fra_01_Process_96
+  - first:
+      213: -7331640494860171184
+    second: fra_01_Process_97
+  - first:
+      213: -2234434274667560098
+    second: fra_01_Process_98
+  - first:
+      213: 3732246065316903088
+    second: fra_01_Process_99
+  - first:
+      213: 4616047313323899677
+    second: fra_01_Process_100
+  - first:
+      213: 5581232018639797252
+    second: fra_01_Process_101
+  - first:
+      213: -6268937063347102768
+    second: fra_01_Process_102
+  - first:
+      213: 2918876126925741956
+    second: fra_01_Process_103
+  - first:
+      213: -6211555922882015468
+    second: fra_01_Process_104
+  - first:
+      213: -4078813191583398543
+    second: fra_01_Process_105
+  - first:
+      213: -5756570598805420985
+    second: fra_01_Process_106
+  - first:
+      213: -2831763772232127665
+    second: fra_01_Process_107
+  - first:
+      213: 8541570578155219363
+    second: fra_01_Process_108
+  - first:
+      213: -4214099942867865795
+    second: fra_01_Process_109
+  - first:
+      213: -539380434329342933
+    second: fra_01_Process_110
+  - first:
+      213: 8381355513480333194
+    second: fra_01_Process_111
+  - first:
+      213: 3284497662992343560
+    second: fra_01_Process_112
+  - first:
+      213: -8062364890587914011
+    second: fra_01_Process_113
+  - first:
+      213: 5160496395583213554
+    second: fra_01_Process_114
+  - first:
+      213: 8881677752756308044
+    second: fra_01_Process_115
+  - first:
+      213: -500666120874874400
+    second: fra_01_Process_116
+  - first:
+      213: -7006780745321165873
+    second: fra_01_Process_117
+  - first:
+      213: 8313997300299605884
+    second: fra_01_Process_118
+  - first:
+      213: -2480590270546689730
+    second: fra_01_Process_119
+  - first:
+      213: 4754970121643740188
+    second: fra_01_Process_120
+  - first:
+      213: 3797977759440294151
+    second: fra_01_Process_121
+  - first:
+      213: -5245408127127594341
+    second: fra_01_Process_122
+  - first:
+      213: -1876461240952799565
+    second: fra_01_Process_123
+  - first:
+      213: 1077771238311337961
+    second: fra_01_Process_124
+  - first:
+      213: 4606856201909540621
+    second: fra_01_Process_125
+  - first:
+      213: 295781538972738785
+    second: fra_01_Process_126
+  - first:
+      213: 8848199589049613057
+    second: fra_01_Process_127
+  - first:
+      213: -5417501371335690356
+    second: fra_01_Process_128
+  - first:
+      213: 3244348426441285715
+    second: fra_01_Process_129
+  - first:
+      213: 1541082071394197508
+    second: fra_01_Process_130
+  - first:
+      213: 6508502003412098560
+    second: fra_01_Process_131
+  - first:
+      213: -3942199235581543727
+    second: fra_01_Process_132
+  - first:
+      213: 6214554586517425475
+    second: fra_01_Process_133
+  - first:
+      213: -6104590271273444139
+    second: fra_01_Process_134
+  - first:
+      213: -2236135909757145868
+    second: fra_01_Process_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fra_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1585
+        width: 3589
+        height: 1415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b8489f0bc026080800000000000000
+      internalID: -9195773534897140854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2847
+        width: 477
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c271d483e5985c400800000000000000
+      internalID: 343831984328218412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2880
+        width: 349
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56ddc952375d6c70800000000000000
+      internalID: 8965918306931168859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 1592
+        width: 1309
+        height: 1408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc24ee0067f94bc0800000000000000
+      internalID: -3798232818771546883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2155
+        width: 1008
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684efb36ef38a8620800000000000000
+      internalID: 2777177248845784198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 2822
+        width: 476
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402a485983801a270800000000000000
+      internalID: 8259892230693888516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1256
+        width: 1608
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ea52483ff4faf0800000000000000
+      internalID: -363385052813662300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2032
+        width: 1492
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b94180f52b5b7fd0800000000000000
+      internalID: -2343178962609288782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 610
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816919c9f58851cb0800000000000000
+      internalID: -4893855475838118376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1534
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d067124a23949840800000000000000
+      internalID: 5229966876990726361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1325
+        width: 710
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eadc78b071479f0800000000000000
+      internalID: -471726722676576652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1087
+        width: 352
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db336a952408a1b0800000000000000
+      internalID: -5645257573358421034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1199
+        width: 235
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba780f459e245bae0800000000000000
+      internalID: -1534246528129923157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 888
+        width: 1039
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5fd969319f5b40800000000000000
+      internalID: 5431219351407517322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1007
+        width: 624
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62be35e8b2a8bac30800000000000000
+      internalID: 4371739782969289510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1525
+        width: 301
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd112e36775f7b2b0800000000000000
+      internalID: -5568712521094655525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1015
+        width: 1059
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de979b827e49180800000000000000
+      internalID: -9109401984167187075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 997
+        width: 171
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a7bc143c367b6a0800000000000000
+      internalID: -6433563852401837412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1170
+        width: 72
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff2e1ece8e44f670800000000000000
+      internalID: 8571562366043303921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 1113
+        width: 523
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab483f2626dbb130800000000000000
+      internalID: 3583693387992681386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 1162
+        width: 310
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153bf95fd0dd61620800000000000000
+      internalID: 2744624074954093393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 1347
+        width: 193
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c61343b7afbc7640800000000000000
+      internalID: 5079145206755038916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1126
+        width: 306
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2cf20cab1850140800000000000000
+      internalID: 4685293626437124823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1232
+        width: 217
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec718facfdd0220800000000000000
+      internalID: 2453863434825485891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1261
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca90eed0d19d86e0800000000000000
+      internalID: -1833649146991437109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 784
+        width: 253
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4caf44fdbf0eff0800000000000000
+      internalID: -8730262901177164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 769
+        width: 373
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e453f38692e3cd430800000000000000
+      internalID: 3808987732412151118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 1136
+        width: 587
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c328bfe15409370800000000000000
+      internalID: 8327231710378998927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 1133
+        width: 318
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad56206cd9d6139e0800000000000000
+      internalID: -1643411864614181414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 1310
+        width: 190
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15b4462feb0e7200800000000000000
+      internalID: 179594156908524827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 880
+        width: 142
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc79dcedfec4cf580800000000000000
+      internalID: -8792067779415140405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 811
+        width: 453
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1227e81e93c8b4b0800000000000000
+      internalID: -5424370667377712609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 686
+        width: 705
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b06854462acae90800000000000000
+      internalID: -7013051968175862899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1021
+        width: 289
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab50ee299c58d120800000000000000
+      internalID: 2438801011207330734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1133
+        width: 233
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bf4085d3bab1510800000000000000
+      internalID: 1520997579125750686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 886
+        width: 471
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01e976924171fac0800000000000000
+      internalID: -3823150077854490356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 995
+        width: 199
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76c931127d847b80800000000000000
+      internalID: -8397931884084345217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 976
+        width: 434
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94158389dcd5f160800000000000000
+      internalID: 7058790817745671324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1052
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d2572f8ee52d3b0800000000000000
+      internalID: -5489220641218024068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 1056
+        width: 247
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cbb45adb8822590800000000000000
+      internalID: -7700442064746726251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1007
+        width: 1177
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dd5ea21405092a0800000000000000
+      internalID: -6732793202096087793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 1106
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e6b3c122492ce0800000000000000
+      internalID: -1429538693928525296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 908
+        width: 347
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ccd49f91db61820800000000000000
+      internalID: 2888704130259209285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 216
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4d0b555f6e022a0800000000000000
+      internalID: -6764152698931456848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 724
+        width: 341
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4147c63a4f32b3c60800000000000000
+      internalID: 7798866713342931988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 400
+        width: 926
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3114a0e4f13c3d0800000000000000
+      internalID: -3187669691208232027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 648
+        width: 241
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b70ebc6a6ad7910800000000000000
+      internalID: 1836807458352298836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 627
+        width: 63
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68b30215d60ebd0800000000000000
+      internalID: -2602960389419596088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 33
+        width: 560
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73de7355ef54f54e0800000000000000
+      internalID: -1990795551620731593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 691
+        width: 140
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b75cc7a9b3dfdd0800000000000000
+      internalID: -2450737087515362557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 952
+        width: 167
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8373161740d54f0800000000000000
+      internalID: -838509070612219691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 644
+        width: 244
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34277f22530258930800000000000000
+      internalID: 4144754444656407107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 936
+        width: 471
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874d601a829a77080800000000000000
+      internalID: -9189690522660842376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 679
+        width: 474
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7a1b93e556205a0800000000000000
+      internalID: -6556566652128745521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 877
+        width: 287
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254d603c59d1533f0800000000000000
+      internalID: -921798019668061102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 670
+        width: 649
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a3072e543af0300800000000000000
+      internalID: 220574427311520262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 747
+        width: 491
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa7b20802d0f5b60800000000000000
+      internalID: 7736917118086249207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 964
+        width: 476
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8037a958f25f780800000000000000
+      internalID: -8649955258426783579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 932
+        width: 472
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e53786522d42d0800000000000000
+      internalID: -3292937997506976136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 323
+        width: 549
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8792b962eeb7f80800000000000000
+      internalID: -8107624854571091759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 678
+        width: 434
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1286ee0877b1ca0800000000000000
+      internalID: -6045106679175437906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 627
+        width: 202
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f41a610081547a20800000000000000
+      internalID: 3059159657112802546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 386
+        width: 135
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741f97ae025289730800000000000000
+      internalID: 4005992691849097543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 839
+        width: 450
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736ce8a058f361520800000000000000
+      internalID: 2672393269531297335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 813
+        width: 423
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb24976c496c7ef10800000000000000
+      internalID: 2299024477083222716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 729
+        width: 230
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f184476e98778a0800000000000000
+      internalID: -6307421130222723183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 570
+        width: 372
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec1d40572eb95c0800000000000000
+      internalID: -4207520434627686812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 369
+        width: 308
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ff7b36365bf7b80800000000000000
+      internalID: -8394791741915922600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 645
+        width: 164
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeaa9e0b892d5870800000000000000
+      internalID: 8673134134607654622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 456
+        width: 381
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d96d8fd3428ca80800000000000000
+      internalID: -8446461252546945778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 540
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5bb54eb3f7b8580800000000000000
+      internalID: -8823819149691341333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 428
+        width: 175
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24e574e159ebc630800000000000000
+      internalID: 3948506036254925866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 613
+        width: 154
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4838daa7b961080800000000000000
+      internalID: -9217008636167748441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 610
+        width: 106
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651103411fb593970800000000000000
+      internalID: 8735114043245728086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 601
+        width: 103
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f59d6d0e9bfc2b00800000000000000
+      internalID: 805295089641166322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 543
+        width: 423
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f496adcdbbd5a7520800000000000000
+      internalID: 2700573988007602511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 675
+        width: 412
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9cf345b840e690800000000000000
+      internalID: -7574974629870265846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 613
+        width: 281
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100fdb665c8428770800000000000000
+      internalID: 8611525450155290625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 624
+        width: 775
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7b4b73f6ee06fe0800000000000000
+      internalID: -1197695339437181009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 650
+        width: 710
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040ff5de1f6faba80800000000000000
+      internalID: -8450170231877275584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 667
+        width: 216
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d82ecb1eb6340d40800000000000000
+      internalID: 5549620830965475536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 655
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c29f0c6ac7676f0800000000000000
+      internalID: -687224837483451387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 654
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc38172997360c80800000000000000
+      internalID: -8356930927613952772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 598
+        width: 263
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db3c2fc17b5f4ec0800000000000000
+      internalID: -3580542634371040297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 649
+        width: 106
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8584fe4bd3271e0800000000000000
+      internalID: -2201629420512847628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 618
+        width: 27
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521f3a27e7f493710800000000000000
+      internalID: 1673456141052670245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 616
+        width: 166
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf143097797219e0800000000000000
+      internalID: -1652124558864146503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 187
+        width: 439
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a872606152d689d40800000000000000
+      internalID: 5591338943431190410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 644
+        width: 44
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c8dc05cad420ba0800000000000000
+      internalID: -6124247140785091519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 559
+        width: 38
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216232b877b09d40800000000000000
+      internalID: 5589168866580390182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_90
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 373
+        width: 323
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ea8145881750ec0800000000000000
+      internalID: -3601347496672448876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_91
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 99
+        width: 1262
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dfcff8c86833c00800000000000000
+      internalID: 879194290536643991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_92
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 606
+        width: 665
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d2f2c531028a300800000000000000
+      internalID: 263495845724237183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_93
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 598
+        width: 408
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb3b3160f7b439c0800000000000000
+      internalID: -3948328730245776403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_94
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 635
+        width: 230
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b229212eb167f40800000000000000
+      internalID: 5725794634036292485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 451
+        width: 179
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e31a3d6e09c8d6c0800000000000000
+      internalID: -4118320795431070748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_96
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 486
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23aedee9d7c321f0800000000000000
+      internalID: -1070792547554647250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_97
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 332
+        width: 232
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0588dfa80d7c04a90800000000000000
+      internalID: -7331640494860171184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_98
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 123
+        width: 320
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e538b70add1bdf0e0800000000000000
+      internalID: -2234434274667560098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_99
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 455
+        width: 55
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b83099a50a9bc330800000000000000
+      internalID: 3732246065316903088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_100
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 264
+        width: 322
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b3119139e7f0040800000000000000
+      internalID: 4616047313323899677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_101
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 445
+        width: 241
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cbf0843f4847d40800000000000000
+      internalID: 5581232018639797252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_102
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 463
+        width: 332
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db5ae384f24009a0800000000000000
+      internalID: -6268937063347102768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_103
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 553
+        width: 316
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48fd6c06f5ee18820800000000000000
+      internalID: 2918876126925741956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_104
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 408
+        width: 223
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fc4226cce1cc9a0800000000000000
+      internalID: -6211555922882015468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_105
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 529
+        width: 161
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1758e7243052567c0800000000000000
+      internalID: -4078813191583398543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744cebd3a8d8c10b0800000000000000
+      internalID: -5756570598805420985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 347
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ba84c3add83b8d0800000000000000
+      internalID: -2831763772232127665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_108
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 2252
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9aed68f21c98670800000000000000
+      internalID: 8541570578155219363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 370
+        width: 183
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fed51ed628485c0800000000000000
+      internalID: -4214099942867865795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_110
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 83
+        width: 229
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce00d4a5cb388f0800000000000000
+      internalID: -539380434329342933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_111
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 355
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c145ee6e805470800000000000000
+      internalID: 8381355513480333194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_112
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 408
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8026244f831e49d20800000000000000
+      internalID: 3284497662992343560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_113
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 201
+        width: 170
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e02de629d9bc1090800000000000000
+      internalID: -8062364890587914011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_114
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 323
+        width: 378
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffcb6b5124cd9740800000000000000
+      internalID: 5160496395583213554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_115
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 389
+        width: 202
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c488786ebde024b70800000000000000
+      internalID: 8881677752756308044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_116
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 166
+        width: 213
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e92e22d0d64d09f0800000000000000
+      internalID: -500666120874874400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_117
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 170
+        width: 374
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcbc510290ae2ce90800000000000000
+      internalID: -7006780745321165873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_118
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 165
+        width: 502
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c772ae3ce70416370800000000000000
+      internalID: 8313997300299605884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_119
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 329
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3146caaa4c239dd0800000000000000
+      internalID: -2480590270546689730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 259
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ccb2af12c0df140800000000000000
+      internalID: 4754970121643740188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_121
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 116
+        width: 259
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701d54056a025b430800000000000000
+      internalID: 3797977759440294151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_122
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 0
+        width: 1365
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9adc9889119437b0800000000000000
+      internalID: -5245408127127594341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_123
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 216
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be383a717875f5e0800000000000000
+      internalID: -1876461240952799565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_124
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 66
+        width: 74
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef1ea02b3305fe00800000000000000
+      internalID: 1077771238311337961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_125
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 164
+        width: 258
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079f16be47deef30800000000000000
+      internalID: 4606856201909540621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_126
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 158
+        width: 227
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a6991eb3da1400800000000000000
+      internalID: 295781538972738785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_127
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 0
+        width: 153
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b3f0f75ae1bca70800000000000000
+      internalID: 8848199589049613057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_128
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 264
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c873857b43b21d4b0800000000000000
+      internalID: -5417501371335690356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_129
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 31
+        width: 627
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35061ad54bd360d20800000000000000
+      internalID: 3244348426441285715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_130
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 0
+        width: 593
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ac2b9af5036510800000000000000
+      internalID: 1541082071394197508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_131
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 113
+        width: 195
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00edb4da618d25a50800000000000000
+      internalID: 6508502003412098560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_132
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 57
+        width: 185
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da78519eae7a49c0800000000000000
+      internalID: -3942199235581543727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_133
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 0
+        width: 455
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d45a668788e3650800000000000000
+      internalID: 6214554586517425475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_134
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 114
+        width: 250
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcd075ed73284ba0800000000000000
+      internalID: -6104590271273444139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fra_01_Process_135
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 0
+        width: 236
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc2e65dc36a7f0e0800000000000000
+      internalID: -2236135909757145868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fra_01_Process_0: -9195773534897140854
+      fra_01_Process_1: 343831984328218412
+      fra_01_Process_10: -471726722676576652
+      fra_01_Process_100: 4616047313323899677
+      fra_01_Process_101: 5581232018639797252
+      fra_01_Process_102: -6268937063347102768
+      fra_01_Process_103: 2918876126925741956
+      fra_01_Process_104: -6211555922882015468
+      fra_01_Process_105: -4078813191583398543
+      fra_01_Process_106: -5756570598805420985
+      fra_01_Process_107: -2831763772232127665
+      fra_01_Process_108: 8541570578155219363
+      fra_01_Process_109: -4214099942867865795
+      fra_01_Process_11: -5645257573358421034
+      fra_01_Process_110: -539380434329342933
+      fra_01_Process_111: 8381355513480333194
+      fra_01_Process_112: 3284497662992343560
+      fra_01_Process_113: -8062364890587914011
+      fra_01_Process_114: 5160496395583213554
+      fra_01_Process_115: 8881677752756308044
+      fra_01_Process_116: -500666120874874400
+      fra_01_Process_117: -7006780745321165873
+      fra_01_Process_118: 8313997300299605884
+      fra_01_Process_119: -2480590270546689730
+      fra_01_Process_12: -1534246528129923157
+      fra_01_Process_120: 4754970121643740188
+      fra_01_Process_121: 3797977759440294151
+      fra_01_Process_122: -5245408127127594341
+      fra_01_Process_123: -1876461240952799565
+      fra_01_Process_124: 1077771238311337961
+      fra_01_Process_125: 4606856201909540621
+      fra_01_Process_126: 295781538972738785
+      fra_01_Process_127: 8848199589049613057
+      fra_01_Process_128: -5417501371335690356
+      fra_01_Process_129: 3244348426441285715
+      fra_01_Process_13: 5431219351407517322
+      fra_01_Process_130: 1541082071394197508
+      fra_01_Process_131: 6508502003412098560
+      fra_01_Process_132: -3942199235581543727
+      fra_01_Process_133: 6214554586517425475
+      fra_01_Process_134: -6104590271273444139
+      fra_01_Process_135: -2236135909757145868
+      fra_01_Process_14: 4371739782969289510
+      fra_01_Process_15: -5568712521094655525
+      fra_01_Process_16: -9109401984167187075
+      fra_01_Process_17: -6433563852401837412
+      fra_01_Process_18: 8571562366043303921
+      fra_01_Process_19: 3583693387992681386
+      fra_01_Process_2: 8965918306931168859
+      fra_01_Process_20: 2744624074954093393
+      fra_01_Process_21: 5079145206755038916
+      fra_01_Process_22: 4685293626437124823
+      fra_01_Process_23: 2453863434825485891
+      fra_01_Process_24: -1833649146991437109
+      fra_01_Process_25: -8730262901177164
+      fra_01_Process_26: 3808987732412151118
+      fra_01_Process_27: 8327231710378998927
+      fra_01_Process_28: -1643411864614181414
+      fra_01_Process_29: 179594156908524827
+      fra_01_Process_3: -3798232818771546883
+      fra_01_Process_30: -8792067779415140405
+      fra_01_Process_31: -5424370667377712609
+      fra_01_Process_32: -7013051968175862899
+      fra_01_Process_33: 2438801011207330734
+      fra_01_Process_34: 1520997579125750686
+      fra_01_Process_35: -3823150077854490356
+      fra_01_Process_36: -8397931884084345217
+      fra_01_Process_37: 7058790817745671324
+      fra_01_Process_38: -5489220641218024068
+      fra_01_Process_39: -7700442064746726251
+      fra_01_Process_4: 2777177248845784198
+      fra_01_Process_40: -6732793202096087793
+      fra_01_Process_41: -1429538693928525296
+      fra_01_Process_42: 2888704130259209285
+      fra_01_Process_43: -6764152698931456848
+      fra_01_Process_44: 7798866713342931988
+      fra_01_Process_45: -3187669691208232027
+      fra_01_Process_46: 1836807458352298836
+      fra_01_Process_47: -2602960389419596088
+      fra_01_Process_48: -1990795551620731593
+      fra_01_Process_49: -2450737087515362557
+      fra_01_Process_5: 8259892230693888516
+      fra_01_Process_50: -838509070612219691
+      fra_01_Process_51: 4144754444656407107
+      fra_01_Process_52: -9189690522660842376
+      fra_01_Process_53: -6556566652128745521
+      fra_01_Process_54: -921798019668061102
+      fra_01_Process_55: 220574427311520262
+      fra_01_Process_56: 7736917118086249207
+      fra_01_Process_57: -8649955258426783579
+      fra_01_Process_58: -3292937997506976136
+      fra_01_Process_59: -8107624854571091759
+      fra_01_Process_6: -363385052813662300
+      fra_01_Process_60: -6045106679175437906
+      fra_01_Process_61: 3059159657112802546
+      fra_01_Process_62: 4005992691849097543
+      fra_01_Process_63: 2672393269531297335
+      fra_01_Process_64: 2299024477083222716
+      fra_01_Process_65: -6307421130222723183
+      fra_01_Process_66: -4207520434627686812
+      fra_01_Process_67: -8394791741915922600
+      fra_01_Process_68: 8673134134607654622
+      fra_01_Process_69: -8446461252546945778
+      fra_01_Process_7: -2343178962609288782
+      fra_01_Process_70: -8823819149691341333
+      fra_01_Process_71: 3948506036254925866
+      fra_01_Process_72: -9217008636167748441
+      fra_01_Process_73: 8735114043245728086
+      fra_01_Process_74: 805295089641166322
+      fra_01_Process_75: 2700573988007602511
+      fra_01_Process_76: -7574974629870265846
+      fra_01_Process_77: 8611525450155290625
+      fra_01_Process_78: -1197695339437181009
+      fra_01_Process_79: -8450170231877275584
+      fra_01_Process_8: -4893855475838118376
+      fra_01_Process_80: 5549620830965475536
+      fra_01_Process_81: -687224837483451387
+      fra_01_Process_82: -8356930927613952772
+      fra_01_Process_83: -3580542634371040297
+      fra_01_Process_84: -2201629420512847628
+      fra_01_Process_85: 1673456141052670245
+      fra_01_Process_86: -1652124558864146503
+      fra_01_Process_87: 5591338943431190410
+      fra_01_Process_88: -6124247140785091519
+      fra_01_Process_89: 5589168866580390182
+      fra_01_Process_9: 5229966876990726361
+      fra_01_Process_90: -3601347496672448876
+      fra_01_Process_91: 879194290536643991
+      fra_01_Process_92: 263495845724237183
+      fra_01_Process_93: -3948328730245776403
+      fra_01_Process_94: 5725794634036292485
+      fra_01_Process_95: -4118320795431070748
+      fra_01_Process_96: -1070792547554647250
+      fra_01_Process_97: -7331640494860171184
+      fra_01_Process_98: -2234434274667560098
+      fra_01_Process_99: 3732246065316903088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

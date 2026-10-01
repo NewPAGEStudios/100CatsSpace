@@ -64,14 +64,10 @@ public class MenuController : MonoBehaviour
 
     public CursorDisplayOffline cursorDisplayOffline;
 
-    [Header("Game Referances")]
-    public Transport Kcp;
-    public Transport SteamTransport;
 
     [Header("MenuKeysElement")]
     public GameObject HoveredElement;
 
-    [HideInInspector]
     public string selectedPaintId = "";
 
     private void Awake()
@@ -277,7 +273,7 @@ public class MenuController : MonoBehaviour
         }
         else if (MenuState == StateManager.MainMenuState.Map)
         {
-            PlayButton();
+            PlayButton(null);
         }
         else if (MenuState == StateManager.MainMenuState.AYS)
         {
@@ -350,7 +346,7 @@ public class MenuController : MonoBehaviour
         settingsPanel.SetActive(false);
 
     }
-    public void PlayButton()
+    public void PlayButton(string selectedID)
     {
         MenuState = StateManager.MainMenuState.hostOnlineLobby;
 
@@ -373,8 +369,11 @@ public class MenuController : MonoBehaviour
             go.PopUpItem.gameObject.SetActive(false);
         }
 
-
         selectedPaintId = "";
+        if (!string.IsNullOrWhiteSpace(selectedID))
+        {
+            selectedPaintId = selectedID;
+        }
         ContinueBtn.gameObject.SetActive(false);
 
     }
@@ -408,15 +407,21 @@ public class MenuController : MonoBehaviour
 
     public void OfflineButton()
     {
+        GameDataTracker.isHost = false;
+
+        if (!string.IsNullOrWhiteSpace(selectedPaintId))
+        {
+            ContinueButton();
+            return;
+        }
+
         MenuState = StateManager.MainMenuState.Map;
 
         mainMenuPanel.SetActive(false);
         Host_OfflinePanel.SetActive(false);
-
-        GameDataTracker.isHost = false;
-
         MapPanel.SetActive(true);
         EventSystem.current.GetComponent<EventSystemController>().SetPanel("MapSelectPanel");
+
 
         foreach (MapParent item in mapParents)
         {
@@ -433,15 +438,22 @@ public class MenuController : MonoBehaviour
     }
     public void HostButton()
     {
-        MenuState = StateManager.MainMenuState.Map;
+        GameDataTracker.isHost = true;
+        if (!string.IsNullOrWhiteSpace(selectedPaintId))
+        {
+            ContinueButton();
+            return;
+        }
 
+        MenuState = StateManager.MainMenuState.Map;
 
         Host_OfflinePanel.SetActive(false);
         mainMenuPanel.SetActive(false);
-        GameDataTracker.isHost = true;
-
         MapPanel.SetActive(true);
         EventSystem.current.GetComponent<EventSystemController>().SetPanel("MapSelectPanel");
+
+
+
 
         foreach (MapParent item in mapParents)
         {
@@ -553,9 +565,11 @@ public class MenuController : MonoBehaviour
         }
     }
 
+    StateManager.MainMenuState lastStateBeforeAYSSave;
     public void saveWipeBtnAYSopen(string id)
     {
         selectedPaintId = id;
+        lastStateBeforeAYSSave = MenuState;
         MenuState = StateManager.MainMenuState.AYSaveWipe;
         AYSaveWipePanel.SetActive(true);
         EventSystem.current.GetComponent<EventSystemController>().SetPanel("AYSaveWipePanel");
@@ -565,6 +579,13 @@ public class MenuController : MonoBehaviour
     {
         AYSaveWipePanel.SetActive(false);
         selectedPaintId = null;
+
+        if(lastStateBeforeAYSSave == StateManager.MainMenuState.mainMenu)
+        {
+            BacktoMenuButton();
+            return;
+        }
+
         if (GameDataTracker.isHost)
         {
             HostButton();
@@ -638,13 +659,7 @@ public class MenuController : MonoBehaviour
 
     public void quitButton()
     {
-        SteamLeaderboard sl = FindFirstObjectByType<SteamLeaderboard>();
-        //if (sl != null)
-        //{
-        //    sl.DownloadTriggerClose = true;
-        //}
-
-        //steampi.running then shutdown();
+        SteamLeaderboard sl = FindAnyObjectByType<SteamLeaderboard>();
         Application.Quit();
     }
     private int current_tutorial;
@@ -803,7 +818,6 @@ public class MenuController : MonoBehaviour
         GameDataTracker.skipSave = false;
         GameDataTracker.selectedPaintID = selectedPaintId;
 
-        //NetworkManager.singleton.transport = Kcp;
         GameDataTracker.isOnline = false;
 
         var Result = SaveSystem.LoadData(selectedPaintId);
@@ -821,11 +835,6 @@ public class MenuController : MonoBehaviour
         GameDataTracker.paint_hint = Result.Item1.paint_hint;
         GameDataTracker.paint_SaveSoloCorrupted = Result.Item1.solo_Corrupted;
 
-        //Array.Fill(GameDataTracker.paint_findCatData, true);
-        //GameDataTracker.paint_findCatData[GameDataTracker.paint_findCatData.Length - 1] = false;
-        //Array.Fill(GameDataTracker.paint_regionFillData, true);
-        //GameDataTracker.paint_regionFillData[GameDataTracker.paint_regionFillData.Length - 1] = false;
-
 
 
         var Sonuc = SaveSystem.LoadReplay(selectedPaintId);
@@ -842,21 +851,6 @@ public class MenuController : MonoBehaviour
             GameDataTracker.replay_paintPos.Add(new Vector2(Sonuc.Item1.xs[i], Sonuc.Item1.ys[i]));
         }
 
-        //GameDataTracker.replay_itemID.Clear();
-        //GameDataTracker.replay_paintPos.Clear();
-        //for (int i = 0; i < GameDataTracker.paint_regionFillData.Length - 1; i++)
-        //{
-        //    GameDataTracker.replay_paintPos.Add(Vector2.zero);
-        //    GameDataTracker.replay_itemID.Add(i);
-        //}
-
-
-        SteamLeaderboard sl = FindFirstObjectByType<SteamLeaderboard>();
-        //if (sl != null)
-        //{
-        //    sl.DownloadTriggerClose = true;
-        //}
-
         CustomSceneChanger.Instance.ChangeScene("OfflineGamePlay");
 
     }
@@ -867,42 +861,6 @@ public class MenuController : MonoBehaviour
         GameDataTracker.isHost = true;
         GameDataTracker.isOnline = true;
 
-        //NetworkManager.singleton.transport = SteamTransport;
-
-        //var Result = SaveSystem.LoadData(selectedPaintId);
-
-        //if (Result.Item1 == null)
-        //{
-        //    Debug.LogWarning("Save Prob.");
-        //    return;
-        //}
-
-        //GameDataTracker.paint_findCatData = Result.Item1.paint_catFindData;
-        //GameDataTracker.paint_regionFillData = Result.Item1.paint_regionColorData;
-        //GameDataTracker.paint_timer = Result.Item1.paintTimer;
-        //GameDataTracker.paint_finished = Result.Item1.paint_finished;
-        //GameDataTracker.paint_hint = Result.Item1.paint_hint;
-
-
-        //var Sonuc = SaveSystem.LoadReplay(selectedPaintId);
-
-        //if (Sonuc.Item1 == null) return;
-
-        //foreach (int i in Sonuc.Item1.ItemID)
-        //{
-        //    GameDataTracker.replay_itemID.Add(i);
-        //}
-        //for (int i = 0;i< Sonuc.Item1.xs.Length;i++)
-        //{
-        //    GameDataTracker.replay_paintPos.Add(new Vector2(Sonuc.Item1.xs[i], Sonuc.Item1.ys[i]));
-        //}
-
-
-        //SteamLeaderboard sl = FindFirstObjectByType<SteamLeaderboard>();
-        //if (sl != null)
-        //{
-        //    sl.DownloadTriggerClose = true;
-        //}
 
         CustomSceneChanger.Instance.ChangeScene("LobbyScene");
     }
@@ -914,13 +872,6 @@ public class MenuController : MonoBehaviour
         GameDataTracker.LobbyId = lobbyID;
         GameDataTracker.isOnline = true;
 
-        //NetworkManager.singleton.transport = SteamTransport;
-
-        //SteamLeaderboard sl = FindFirstObjectByType<SteamLeaderboard>();
-        //if (sl != null)
-        //{
-        //    sl.DownloadTriggerClose = true;
-        //}
 
         CustomSceneChanger.Instance.ChangeScene("LobbyScene");
     }

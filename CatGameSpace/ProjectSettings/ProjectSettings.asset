@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: Two Cats Games
-  productName: 100 Cats Lost In World 2 Find & Color
+  productName: 100 Cats Lost In 19th Century Find & Color Demo
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -56,7 +56,7 @@ PlayerSettings:
   mipStripping: 1
   numberOfMipsStripped: 0
   numberOfMipsStrippedPerMipmapLimitGroup:
-    New Group: 0
+    New Group: 3
   m_StackTraceTypes: 010000000100000001000000010000000100000001000000
   iosShowActivityIndicatorOnLoading: -1
   androidShowActivityIndicatorOnLoading: -1
@@ -151,11 +151,12 @@ PlayerSettings:
   loadStoreDebugModeEnabled: 0
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
-  bundleVersion: v0.99.9
+  bundleVersion: 0.6v
   preloadedAssets:
   - {fileID: -944628639613478452, guid: 57085f9ae4024df4da0b51a4bf5e5048, type: 3}
   - {fileID: 11400000, guid: b8f624ed8acdc2143a66c0f11c6999c8, type: 2}
   - {fileID: 11400000, guid: a9af7448b9ef2014485f7819b1ad3a70, type: 2}
+  - {fileID: 11400000, guid: 93960d0997b871d4186e42ff2daf9624, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   xboxOneDisableKinectGpuReservation: 1
@@ -501,7 +502,10 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
-  m_BuildTargetBatching: []
+  m_BuildTargetBatching:
+  - m_BuildTarget: Standalone
+    m_StaticBatching: 1
+    m_DynamicBatching: 1
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport

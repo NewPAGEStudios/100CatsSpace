@@ -52,6 +52,7 @@ public class EventSystemController : MonoBehaviour
 
     public void SetPanel(string panelName)
     {
+        return;
         Debug.Log(panelName + " tried to set");
         foreach (var panel in Panels)
         {

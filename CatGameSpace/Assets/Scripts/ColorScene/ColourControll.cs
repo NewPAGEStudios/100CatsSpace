@@ -74,7 +74,7 @@ public class ColourControll : MonoBehaviour
 
         remainingUniqueColourOnSprite = GameController.Instance.selectedPaint.regionColorUniqueMax.ToArray();
 
-        //        Debug.Log(GameController.Instance.selectedPaint.atlas.spriteCount);
+        Debug.Log(GameController.Instance.selectedPaint.atlas.spriteCount);
         for (int i = 0; i < GameController.Instance.selectedPaint.regionSprites.Count; i++)
         {
             SpawnSprites(

@@ -19,7 +19,7 @@ public class SvImageControll : MonoBehaviour, IDragHandler,IPointerClickHandler
     private void Awake()
     {
         SVImage = GetComponent<RawImage>();
-        colorPickingSystem = FindObjectOfType<ColorPickingSystem>();
+        colorPickingSystem = FindAnyObjectByType<ColorPickingSystem>();
         rectTransform = GetComponent<RectTransform>();
 
         pickerTransform=pickerImage.GetComponent<RectTransform>();

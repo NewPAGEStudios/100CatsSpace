@@ -1,0 +1,4901 @@
+fileFormatVersion: 2
+guid: 9e09d8cad5f090742a03c212dd2f9ced
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4088003899919729300
+    second: thai_01_Process (1)_0
+  - first:
+      213: 3272838549172072866
+    second: thai_01_Process (1)_1
+  - first:
+      213: 3640879463002559714
+    second: thai_01_Process (1)_2
+  - first:
+      213: -7932781555358982697
+    second: thai_01_Process (1)_3
+  - first:
+      213: 5420264924627923863
+    second: thai_01_Process (1)_4
+  - first:
+      213: 4759880115616751200
+    second: thai_01_Process (1)_5
+  - first:
+      213: -8020608533345952089
+    second: thai_01_Process (1)_6
+  - first:
+      213: 8702183900429502004
+    second: thai_01_Process (1)_7
+  - first:
+      213: 1862236161205545232
+    second: thai_01_Process (1)_8
+  - first:
+      213: -6701243830941848356
+    second: thai_01_Process (1)_9
+  - first:
+      213: -5159241191042457896
+    second: thai_01_Process (1)_10
+  - first:
+      213: 5430127092235862433
+    second: thai_01_Process (1)_11
+  - first:
+      213: -4245365319019480271
+    second: thai_01_Process (1)_12
+  - first:
+      213: -8790836801253371472
+    second: thai_01_Process (1)_13
+  - first:
+      213: 4650662356404912852
+    second: thai_01_Process (1)_14
+  - first:
+      213: -4572849160431015139
+    second: thai_01_Process (1)_15
+  - first:
+      213: -7871571746011499543
+    second: thai_01_Process (1)_16
+  - first:
+      213: 7927165809956977241
+    second: thai_01_Process (1)_17
+  - first:
+      213: -9166339251634449310
+    second: thai_01_Process (1)_18
+  - first:
+      213: 8179334782687045786
+    second: thai_01_Process (1)_19
+  - first:
+      213: -3639278157103156285
+    second: thai_01_Process (1)_20
+  - first:
+      213: -8708886208078561324
+    second: thai_01_Process (1)_21
+  - first:
+      213: -5104364544068512573
+    second: thai_01_Process (1)_22
+  - first:
+      213: -2276359936777315172
+    second: thai_01_Process (1)_23
+  - first:
+      213: 9103930521223789590
+    second: thai_01_Process (1)_24
+  - first:
+      213: 1823113558234564456
+    second: thai_01_Process (1)_25
+  - first:
+      213: -2969689469992541612
+    second: thai_01_Process (1)_26
+  - first:
+      213: 8965817616752691925
+    second: thai_01_Process (1)_27
+  - first:
+      213: -2436661857281889761
+    second: thai_01_Process (1)_28
+  - first:
+      213: -692674850570339002
+    second: thai_01_Process (1)_29
+  - first:
+      213: -8713973789842948618
+    second: thai_01_Process (1)_30
+  - first:
+      213: 690409745737113063
+    second: thai_01_Process (1)_31
+  - first:
+      213: 3928906210623954431
+    second: thai_01_Process (1)_32
+  - first:
+      213: -4974625270230071941
+    second: thai_01_Process (1)_33
+  - first:
+      213: -2703731776631235043
+    second: thai_01_Process (1)_34
+  - first:
+      213: -6256233166067956362
+    second: thai_01_Process (1)_35
+  - first:
+      213: 3808351799571702247
+    second: thai_01_Process (1)_36
+  - first:
+      213: -8487708644546384890
+    second: thai_01_Process (1)_37
+  - first:
+      213: -9186927686388358832
+    second: thai_01_Process (1)_38
+  - first:
+      213: 3471992501018243007
+    second: thai_01_Process (1)_39
+  - first:
+      213: -7854775400106335900
+    second: thai_01_Process (1)_40
+  - first:
+      213: -2887369212274540641
+    second: thai_01_Process (1)_41
+  - first:
+      213: 7125269995318631991
+    second: thai_01_Process (1)_42
+  - first:
+      213: -8106109505900686613
+    second: thai_01_Process (1)_43
+  - first:
+      213: -2095757197781703149
+    second: thai_01_Process (1)_44
+  - first:
+      213: -704942929188565889
+    second: thai_01_Process (1)_45
+  - first:
+      213: -3295734773166696714
+    second: thai_01_Process (1)_46
+  - first:
+      213: -4480984012129396864
+    second: thai_01_Process (1)_47
+  - first:
+      213: -2739462148072082065
+    second: thai_01_Process (1)_48
+  - first:
+      213: 3824466385599167484
+    second: thai_01_Process (1)_49
+  - first:
+      213: 9106969583412129994
+    second: thai_01_Process (1)_50
+  - first:
+      213: -7193389931426247725
+    second: thai_01_Process (1)_51
+  - first:
+      213: -6331976905392289768
+    second: thai_01_Process (1)_52
+  - first:
+      213: -8893819246873933673
+    second: thai_01_Process (1)_53
+  - first:
+      213: -8422095396923255866
+    second: thai_01_Process (1)_54
+  - first:
+      213: -2737526211371918765
+    second: thai_01_Process (1)_55
+  - first:
+      213: -5278940040766762830
+    second: thai_01_Process (1)_56
+  - first:
+      213: -1587670362183882460
+    second: thai_01_Process (1)_57
+  - first:
+      213: 464029867307350360
+    second: thai_01_Process (1)_58
+  - first:
+      213: -3071164695587604331
+    second: thai_01_Process (1)_59
+  - first:
+      213: 6574927422864123002
+    second: thai_01_Process (1)_60
+  - first:
+      213: -4088281884219891125
+    second: thai_01_Process (1)_61
+  - first:
+      213: -4635287201947206183
+    second: thai_01_Process (1)_62
+  - first:
+      213: -7798587870412104378
+    second: thai_01_Process (1)_63
+  - first:
+      213: 8551970207280042391
+    second: thai_01_Process (1)_64
+  - first:
+      213: 5907009806013348163
+    second: thai_01_Process (1)_65
+  - first:
+      213: -3109274279958769857
+    second: thai_01_Process (1)_66
+  - first:
+      213: 2495338094101166008
+    second: thai_01_Process (1)_67
+  - first:
+      213: -4415617083225265062
+    second: thai_01_Process (1)_68
+  - first:
+      213: -1434431424064735959
+    second: thai_01_Process (1)_69
+  - first:
+      213: 6577325129185022021
+    second: thai_01_Process (1)_70
+  - first:
+      213: 2427020859011484068
+    second: thai_01_Process (1)_71
+  - first:
+      213: 2627492756997905269
+    second: thai_01_Process (1)_72
+  - first:
+      213: 4893988404628783667
+    second: thai_01_Process (1)_73
+  - first:
+      213: -3046274706614754430
+    second: thai_01_Process (1)_74
+  - first:
+      213: -6211650593496440927
+    second: thai_01_Process (1)_75
+  - first:
+      213: -9012638352934802634
+    second: thai_01_Process (1)_76
+  - first:
+      213: 4480163838160421565
+    second: thai_01_Process (1)_77
+  - first:
+      213: -4086230245046541992
+    second: thai_01_Process (1)_78
+  - first:
+      213: -9080885405686674373
+    second: thai_01_Process (1)_79
+  - first:
+      213: -1812823029790128270
+    second: thai_01_Process (1)_80
+  - first:
+      213: -8710037293757835525
+    second: thai_01_Process (1)_81
+  - first:
+      213: 371368808046875354
+    second: thai_01_Process (1)_82
+  - first:
+      213: -6647391816358619219
+    second: thai_01_Process (1)_83
+  - first:
+      213: 1931988804918159719
+    second: thai_01_Process (1)_84
+  - first:
+      213: 589846248060481482
+    second: thai_01_Process (1)_85
+  - first:
+      213: -7825099419490597944
+    second: thai_01_Process (1)_86
+  - first:
+      213: -5288137830386965842
+    second: thai_01_Process (1)_87
+  - first:
+      213: 5405509172304650870
+    second: thai_01_Process (1)_88
+  - first:
+      213: 2183563167071331852
+    second: thai_01_Process (1)_89
+  - first:
+      213: -9165094990487199474
+    second: thai_01_Process (1)_90
+  - first:
+      213: 5169979008068243393
+    second: thai_01_Process (1)_91
+  - first:
+      213: -4457512660909448103
+    second: thai_01_Process (1)_92
+  - first:
+      213: -3296159950153876931
+    second: thai_01_Process (1)_93
+  - first:
+      213: -9069176902823267727
+    second: thai_01_Process (1)_94
+  - first:
+      213: -8373605332866889552
+    second: thai_01_Process (1)_95
+  - first:
+      213: -7730910703024934006
+    second: thai_01_Process (1)_96
+  - first:
+      213: 1872881825596543843
+    second: thai_01_Process (1)_97
+  - first:
+      213: -171076202843875817
+    second: thai_01_Process (1)_98
+  - first:
+      213: -4027002721847071420
+    second: thai_01_Process (1)_99
+  - first:
+      213: 408583821162018469
+    second: thai_01_Process (1)_100
+  - first:
+      213: 2629486183980236386
+    second: thai_01_Process (1)_101
+  - first:
+      213: 5744728923560815120
+    second: thai_01_Process (1)_102
+  - first:
+      213: -1490174397784135676
+    second: thai_01_Process (1)_103
+  - first:
+      213: 5789299752610754345
+    second: thai_01_Process (1)_104
+  - first:
+      213: 3027229934358437308
+    second: thai_01_Process (1)_105
+  - first:
+      213: 5615473768262883520
+    second: thai_01_Process (1)_106
+  - first:
+      213: 5180610133909826476
+    second: thai_01_Process (1)_107
+  - first:
+      213: -5899515891636288881
+    second: thai_01_Process (1)_108
+  - first:
+      213: 5400899139645664533
+    second: thai_01_Process (1)_109
+  - first:
+      213: -4323246156725183493
+    second: thai_01_Process (1)_110
+  - first:
+      213: 2895556833324864315
+    second: thai_01_Process (1)_111
+  - first:
+      213: -9021516690495672819
+    second: thai_01_Process (1)_112
+  - first:
+      213: 263146650558684768
+    second: thai_01_Process (1)_113
+  - first:
+      213: -279724594538647705
+    second: thai_01_Process (1)_114
+  - first:
+      213: 3775089248508969001
+    second: thai_01_Process (1)_115
+  - first:
+      213: 6539373418877868325
+    second: thai_01_Process (1)_116
+  - first:
+      213: -5281762865536211700
+    second: thai_01_Process (1)_117
+  - first:
+      213: 541103071384973166
+    second: thai_01_Process (1)_118
+  - first:
+      213: -501313220631094264
+    second: thai_01_Process (1)_119
+  - first:
+      213: 7293151192952373865
+    second: thai_01_Process (1)_120
+  - first:
+      213: 7189474227473681912
+    second: thai_01_Process (1)_121
+  - first:
+      213: -6259825784164528527
+    second: thai_01_Process (1)_122
+  - first:
+      213: 7606483952131298834
+    second: thai_01_Process (1)_123
+  - first:
+      213: 3345240451133615538
+    second: thai_01_Process (1)_124
+  - first:
+      213: -4260534245662492289
+    second: thai_01_Process (1)_125
+  - first:
+      213: 141126773888216487
+    second: thai_01_Process (1)_126
+  - first:
+      213: 4259555015029954151
+    second: thai_01_Process (1)_127
+  - first:
+      213: 2152236351085332934
+    second: thai_01_Process (1)_128
+  - first:
+      213: 8615093940412120345
+    second: thai_01_Process (1)_129
+  - first:
+      213: -2734710756101827294
+    second: thai_01_Process (1)_130
+  - first:
+      213: 185474755195256
+    second: thai_01_Process (1)_131
+  - first:
+      213: 7252153813456873627
+    second: thai_01_Process (1)_132
+  - first:
+      213: 7221051148854966470
+    second: thai_01_Process (1)_133
+  - first:
+      213: -748264298398178411
+    second: thai_01_Process (1)_134
+  - first:
+      213: -120111882431748901
+    second: thai_01_Process (1)_135
+  - first:
+      213: -6703215388344316115
+    second: thai_01_Process (1)_136
+  - first:
+      213: -4521777541866144148
+    second: thai_01_Process (1)_137
+  - first:
+      213: -1742031206846468492
+    second: thai_01_Process (1)_138
+  - first:
+      213: -2081161935964831363
+    second: thai_01_Process (1)_139
+  - first:
+      213: 2871198319908871609
+    second: thai_01_Process (1)_140
+  - first:
+      213: 849171939306737817
+    second: thai_01_Process (1)_141
+  - first:
+      213: 7914218307119069525
+    second: thai_01_Process (1)_142
+  - first:
+      213: -5194041994979834633
+    second: thai_01_Process (1)_143
+  - first:
+      213: 2801473728951983051
+    second: thai_01_Process (1)_144
+  - first:
+      213: 6095610570456191177
+    second: thai_01_Process (1)_145
+  - first:
+      213: -752114223844920160
+    second: thai_01_Process (1)_146
+  - first:
+      213: 4589328659050138776
+    second: thai_01_Process (1)_147
+  - first:
+      213: 1832617175339076488
+    second: thai_01_Process (1)_148
+  - first:
+      213: -5068378778979278182
+    second: thai_01_Process (1)_149
+  - first:
+      213: -300925391996068972
+    second: thai_01_Process (1)_150
+  - first:
+      213: -7160334710245113602
+    second: thai_01_Process (1)_151
+  - first:
+      213: 4243287294039930490
+    second: thai_01_Process (1)_152
+  - first:
+      213: -8125645430516459388
+    second: thai_01_Process (1)_153
+  - first:
+      213: 5623146901243240651
+    second: thai_01_Process (1)_154
+  - first:
+      213: 913945675515373805
+    second: thai_01_Process (1)_155
+  - first:
+      213: 2832220550175145087
+    second: thai_01_Process (1)_156
+  - first:
+      213: 6453784254127248589
+    second: thai_01_Process (1)_157
+  - first:
+      213: 62785626335067297
+    second: thai_01_Process (1)_158
+  - first:
+      213: -7763376591032630612
+    second: thai_01_Process (1)_159
+  - first:
+      213: 4618898057779022620
+    second: thai_01_Process (1)_160
+  - first:
+      213: 5017405577819761075
+    second: thai_01_Process (1)_161
+  - first:
+      213: 6529051408510278117
+    second: thai_01_Process (1)_162
+  - first:
+      213: -4903865545119299565
+    second: thai_01_Process (1)_163
+  - first:
+      213: 5884698623543893810
+    second: thai_01_Process (1)_164
+  - first:
+      213: -3393397042662221839
+    second: thai_01_Process (1)_165
+  - first:
+      213: -164799584225781163
+    second: thai_01_Process (1)_166
+  - first:
+      213: -7094079653167118001
+    second: thai_01_Process (1)_167
+  - first:
+      213: 8725282806397340414
+    second: thai_01_Process (1)_168
+  - first:
+      213: -2014829766516026191
+    second: thai_01_Process (1)_169
+  - first:
+      213: -3043871736736985740
+    second: thai_01_Process (1)_170
+  - first:
+      213: 6113929348276244509
+    second: thai_01_Process (1)_171
+  - first:
+      213: 8218566528914522241
+    second: thai_01_Process (1)_172
+  - first:
+      213: 8587112712039811961
+    second: thai_01_Process (1)_173
+  - first:
+      213: 1625687287989680093
+    second: thai_01_Process (1)_174
+  - first:
+      213: 8482056310895660624
+    second: thai_01_Process (1)_175
+  - first:
+      213: -2290151590855510384
+    second: thai_01_Process (1)_176
+  - first:
+      213: -5489213598618330615
+    second: thai_01_Process (1)_177
+  - first:
+      213: -7317646654262776158
+    second: thai_01_Process (1)_178
+  - first:
+      213: -8111840221866538294
+    second: thai_01_Process (1)_179
+  - first:
+      213: 7651697129269783837
+    second: thai_01_Process (1)_180
+  - first:
+      213: -5127074838815818008
+    second: thai_01_Process (1)_181
+  - first:
+      213: -7904135458274451373
+    second: thai_01_Process (1)_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: thai_01_Process (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2336
+        width: 5000
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d7fd8bc1e7447c0800000000000000
+      internalID: -4088003899919729300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 860
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a13b9af1557b6d20800000000000000
+      internalID: 3272838549172072866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2278
+        width: 902
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e45846d490078230800000000000000
+      internalID: 3640879463002559714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2084
+        width: 884
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd9e00843919e190800000000000000
+      internalID: -7932781555358982697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2173
+        width: 312
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793f4fc2b36a83b40800000000000000
+      internalID: 5420264924627923863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1749
+        width: 416
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e18c80fbd7e0240800000000000000
+      internalID: 4759880115616751200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_6
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2020
+        width: 563
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae927fa80311b090800000000000000
+      internalID: -8020608533345952089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2283
+        width: 254
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436493bb62e54c870800000000000000
+      internalID: 8702183900429502004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2257
+        width: 514
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192b8c0cedf7d910800000000000000
+      internalID: 1862236161205545232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2196
+        width: 149
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcee6f8d366003a0800000000000000
+      internalID: -6701243830941848356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2196
+        width: 42
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ded959b871b668b0800000000000000
+      internalID: -5159241191042457896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2196
+        width: 144
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a181f102dfab5b40800000000000000
+      internalID: 5430127092235862433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2274
+        width: 316
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bb41a3cbe6515c0800000000000000
+      internalID: -4245365319019480271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_13
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2186
+        width: 861
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b19cde418ca00680800000000000000
+      internalID: -8790836801253371472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_14
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2191
+        width: 2611
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2cbcbd5c87a8040800000000000000
+      internalID: 4650662356404912852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_15
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1704
+        width: 1096
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1be015aae9f980c0800000000000000
+      internalID: -4572849160431015139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_16
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1875
+        width: 1150
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3bbfec33f82c290800000000000000
+      internalID: -7871571746011499543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1744
+        width: 338
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a7b12ed43f20e60800000000000000
+      internalID: 7927165809956977241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1716
+        width: 446
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264db97140f9ac080800000000000000
+      internalID: -9166339251634449310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2051
+        width: 281
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98ee0d16a5d28170800000000000000
+      internalID: 8179334782687045786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2061
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3370f3ccfae7dc0800000000000000
+      internalID: -3639278157103156285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1778
+        width: 410
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfbd2aa222d32780800000000000000
+      internalID: -8708886208078561324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1997
+        width: 265
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c492b2cd77a929b0800000000000000
+      internalID: -5104364544068512573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2070
+        width: 983
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c157bb2beb860e0800000000000000
+      internalID: -2276359936777315172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_24
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2151
+        width: 494
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c71690398a75e70800000000000000
+      internalID: 9103930521223789590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_25
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2044
+        width: 993
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86705c73f100d4910800000000000000
+      internalID: 1823113558234564456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_26
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 1860
+        width: 358
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45260ef392b89c6d0800000000000000
+      internalID: -2969689469992541612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_27
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 2066
+        width: 285
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dacb779e9bfc6c70800000000000000
+      internalID: 8965817616752691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_28
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 1968
+        width: 123
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a28f663fc3f2ed0800000000000000
+      internalID: -2436661857281889761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1995
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d78e2b4ef1366f0800000000000000
+      internalID: -692674850570339002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2002
+        width: 109
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdb85ab10fb11780800000000000000
+      internalID: -8713973789842948618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1974
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edd02c7104d49900800000000000000
+      internalID: 690409745737113063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_32
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1840
+        width: 132
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1110e167468630800000000000000
+      internalID: 3928906210623954431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1837
+        width: 149
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7541456ca496fab0800000000000000
+      internalID: -4974625270230071941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1774
+        width: 305
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e95fd264a6a7ad0800000000000000
+      internalID: -2703731776631235043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_35
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1723
+        width: 590
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675808815156d29a0800000000000000
+      internalID: -6256233166067956362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_36
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1440
+        width: 724
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e031c8cbf9d430800000000000000
+      internalID: 3808351799571702247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_37
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1909
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cecc425f9953a80800000000000000
+      internalID: -8487708644546384890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_38
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1762
+        width: 303
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051ee9391f9718080800000000000000
+      internalID: -9186927686388358832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_39
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1726
+        width: 100
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf2306c8cefe2030800000000000000
+      internalID: 3471992501018243007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_40
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 1927
+        width: 168
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4616f26d36b3ef290800000000000000
+      internalID: -7854775400106335900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_41
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1996
+        width: 147
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ff9f6dff00ee7d0800000000000000
+      internalID: -2887369212274540641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_42
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1874
+        width: 28
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e57b73f4b02e260800000000000000
+      internalID: 7125269995318631991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_43
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1874
+        width: 121
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be25f563a50518f80800000000000000
+      internalID: -8106109505900686613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_44
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1705
+        width: 29
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316e0c2beef5ae2e0800000000000000
+      internalID: -2095757197781703149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_45
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1689
+        width: 67
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ccace042a8736f0800000000000000
+      internalID: -704942929188565889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_46
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 1446
+        width: 679
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61f737fa23342d0800000000000000
+      internalID: -3295734773166696714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_47
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 1761
+        width: 517
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08792d048c850d1c0800000000000000
+      internalID: -4480984012129396864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_48
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 1822
+        width: 417
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65f88cc0b97bf9d0800000000000000
+      internalID: -2739462148072082065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_49
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 1895
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7f013aeb331530800000000000000
+      internalID: 3824466385599167484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 116
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac03197d594726e70800000000000000
+      internalID: 9106969583412129994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1542
+        width: 587
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db877638f1fb2c90800000000000000
+      internalID: -7193389931426247725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_52
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1747
+        width: 165
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8188d148d8c4028a0800000000000000
+      internalID: -6331976905392289768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_53
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1640
+        width: 323
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7980c85348ec29480800000000000000
+      internalID: -8893819246873933673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_54
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1773
+        width: 93
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3dfe1dbd4be1b80800000000000000
+      internalID: -8422095396923255866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_55
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1805
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1bdf2a6a520ad0800000000000000
+      internalID: -2737526211371918765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_56
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1720
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d28f70007db6b0800000000000000
+      internalID: -5278940040766762830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_57
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1716
+        width: 562
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292d99a73677f9e0800000000000000
+      internalID: -1587670362183882460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_58
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1694
+        width: 322
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859b60ea4b0907600800000000000000
+      internalID: 464029867307350360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_59
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1788
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598b7c82bf70165d0800000000000000
+      internalID: -3071164695587604331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_60
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1785
+        width: 173
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a746ac7d7a5de3b50800000000000000
+      internalID: 6574927422864123002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_61
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1688
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42a86579418347c0800000000000000
+      internalID: -4088281884219891125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_62
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1687
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddb50049d62cafb0800000000000000
+      internalID: -4635287201947206183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_63
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1703
+        width: 223
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d9a6a86a9d5c390800000000000000
+      internalID: -7798587870412104378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_64
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1592
+        width: 500
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79196aed793bea670800000000000000
+      internalID: 8551970207280042391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_65
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 1228
+        width: 548
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349bc243f1ae9f150800000000000000
+      internalID: 5907009806013348163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_66
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 1855
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8cc91483a9d4d0800000000000000
+      internalID: -3109274279958769857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1804
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7766596c831a220800000000000000
+      internalID: 2495338094101166008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_68
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1781
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c263268a398b2c0800000000000000
+      internalID: -4415617083225265062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_69
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1638
+        width: 424
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925b6f14830e71ce0800000000000000
+      internalID: -1434431424064735959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_70
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1730
+        width: 196
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d2595b5a574b50800000000000000
+      internalID: 6577325129185022021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_71
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1703
+        width: 197
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c7d3cc928ea120800000000000000
+      internalID: 2427020859011484068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_72
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1562
+        width: 163
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b95cecdbab67420800000000000000
+      internalID: 2627492756997905269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 270
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33287c84680fae340800000000000000
+      internalID: 4893988404628783667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_74
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1681
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28368ff4b4579b5d0800000000000000
+      internalID: -3046274706614754430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1569
+        width: 169
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afdcc922b8cbc9a0800000000000000
+      internalID: -6211650593496440927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_76
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1533
+        width: 267
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b62444b2dace280800000000000000
+      internalID: -9012638352934802634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_77
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1740
+        width: 233
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db24a1d164dbc2e30800000000000000
+      internalID: 4480163838160421565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_78
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1700
+        width: 164
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8512b8ded3bca47c0800000000000000
+      internalID: -4086230245046541992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_79
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1633
+        width: 242
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c440c06d63af180800000000000000
+      internalID: -9080885405686674373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_80
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1698
+        width: 138
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27746b42f0f87d6e0800000000000000
+      internalID: -1812823029790128270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_81
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1658
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6d825aa3bbf1780800000000000000
+      internalID: -8710037293757835525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_82
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1438
+        width: 153
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad25b4c96fd572500800000000000000
+      internalID: 371368808046875354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_83
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1527
+        width: 287
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71b17cc58bfb3a0800000000000000
+      internalID: -6647391816358619219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_84
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1662
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769ad2bf49dcfca10800000000000000
+      internalID: 1931988804918159719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_85
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1606
+        width: 168
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfedb7990e8f2800800000000000000
+      internalID: 589846248060481482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_86
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1623
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3c5218989a76390800000000000000
+      internalID: -7825099419490597944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_87
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1420
+        width: 335
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2ea7839a2cc96b0800000000000000
+      internalID: -5288137830386965842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_88
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1567
+        width: 224
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672a55dd3f9340b40800000000000000
+      internalID: 5405509172304650870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_89
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1602
+        width: 254
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06e9e5a1239d4e10800000000000000
+      internalID: 2183563167071331852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_90
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1417
+        width: 284
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016c473aaa0fc080800000000000000
+      internalID: -9165094990487199474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_91
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1357
+        width: 218
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf422024847fb740800000000000000
+      internalID: 5169979008068243393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_92
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1652
+        width: 193
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954afa01adbb322c0800000000000000
+      internalID: -4457512660909448103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_93
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1577
+        width: 181
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a75383dffa142d0800000000000000
+      internalID: -3296159950153876931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_94
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1583
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ba0e48afc32280800000000000000
+      internalID: -9069176902823267727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_95
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 1582
+        width: 109
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b80725a05afacb80800000000000000
+      internalID: -8373605332866889552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_96
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1622
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83feebfca946b490800000000000000
+      internalID: -7730910703024934006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_97
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1469
+        width: 179
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36397f0f810ddf910800000000000000
+      internalID: 1872881825596543843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_98
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1515
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716d7f3991730adf0800000000000000
+      internalID: -171076202843875817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_99
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1301
+        width: 1273
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d26c64c563d18c0800000000000000
+      internalID: -4027002721847071420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1246
+        width: 517
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6755112d49ba500800000000000000
+      internalID: 408583821162018469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_101
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1407
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e70f1b0cfcd7420800000000000000
+      internalID: 2629486183980236386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_102
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1417
+        width: 248
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a21c3e48069bf40800000000000000
+      internalID: 5744728923560815120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_103
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1276
+        width: 407
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408e1bec746d15be0800000000000000
+      internalID: -1490174397784135676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_104
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1397
+        width: 498
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fee94b379b75050800000000000000
+      internalID: 5789299752610754345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_105
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1379
+        width: 171
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd1dda1691e20a20800000000000000
+      internalID: 3027229934358437308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_106
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1558
+        width: 289
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c855d2e3ab2eed40800000000000000
+      internalID: 5615473768262883520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_107
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1583
+        width: 141
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabeb7ff77935e740800000000000000
+      internalID: 5180610133909826476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_108
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1578
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f824f34bd85b02ea0800000000000000
+      internalID: -5899515891636288881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_109
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1555
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dea4ef629d3fa40800000000000000
+      internalID: 5400899139645664533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1361
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb92d7a68eb004c0800000000000000
+      internalID: -4323246156725183493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_111
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1316
+        width: 43
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33984d39951f2820800000000000000
+      internalID: 2895556833324864315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_112
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1393
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e6fb73e522dc280800000000000000
+      internalID: -9021516690495672819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1246
+        width: 277
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e52660c72e6a300800000000000000
+      internalID: 263146650558684768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_114
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1443
+        width: 156
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f659b96f73e1cf0800000000000000
+      internalID: -279724594538647705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_115
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1246
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92006c49bafc36430800000000000000
+      internalID: 3775089248508969001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_116
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1246
+        width: 216
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529d8d53a7580ca50800000000000000
+      internalID: 6539373418877868325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_117
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1321
+        width: 308
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c056dd368a863b6b0800000000000000
+      internalID: -5281762865536211700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_118
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1257
+        width: 441
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f26c46062628700800000000000000
+      internalID: 541103071384973166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_119
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1364
+        width: 419
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c931b284afa09f0800000000000000
+      internalID: -501313220631094264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_120
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1251
+        width: 179
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96284258e5a763560800000000000000
+      internalID: 7293151192952373865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_121
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1409
+        width: 242
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd056ae7b426c360800000000000000
+      internalID: 7189474227473681912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_122
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1404
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eca038d91a029a0800000000000000
+      internalID: -6259825784164528527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_123
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1301
+        width: 589
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216de748ad8af8960800000000000000
+      internalID: 7606483952131298834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_124
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1373
+        width: 454
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd261a677eac6e20800000000000000
+      internalID: 3345240451133615538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_125
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1487
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7976e54daa8fd4c0800000000000000
+      internalID: -4260534245662492289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_126
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1333
+        width: 238
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad67e99d0265f100800000000000000
+      internalID: 141126773888216487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 5000
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7661814d7bafc1b30800000000000000
+      internalID: 4259555015029954151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_128
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1246
+        width: 272
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9cf1bee874edd10800000000000000
+      internalID: 2152236351085332934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_129
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1261
+        width: 78
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d72e84b46fe8770800000000000000
+      internalID: 8615093940412120345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_130
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1246
+        width: 124
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2255c137e0b5c0ad0800000000000000
+      internalID: -2734710756101827294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_131
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1301
+        width: 281
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871f5e430b8a00000800000000000000
+      internalID: 185474755195256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_132
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1254
+        width: 187
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9867934873d4a460800000000000000
+      internalID: 7252153813456873627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_133
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1253
+        width: 204
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83d68d2c3563460800000000000000
+      internalID: 7221051148854966470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_134
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1301
+        width: 234
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593aed7c591ad95f0800000000000000
+      internalID: -748264298398178411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_135
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1286
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd42a5a11e6455ef0800000000000000
+      internalID: -120111882431748901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 1066
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f0ec49e1569f2a0800000000000000
+      internalID: -6703215388344316115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_137
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 339
+        width: 555
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ebab7784b6f31c0800000000000000
+      internalID: -4521777541866144148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_138
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 864
+        width: 301
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e6548d8df03d7e0800000000000000
+      internalID: -1742031206846468492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_139
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 70
+        width: 387
+        height: 1099
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7180c6ee3a3e13e0800000000000000
+      internalID: -2081161935964831363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_140
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 841
+        width: 255
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdddd1e8ab88d720800000000000000
+      internalID: 2871198319908871609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_141
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 313
+        width: 2343
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909b93316dd8cb00800000000000000
+      internalID: 849171939306737817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_142
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 130
+        width: 403
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559b9b67e93f4dd60800000000000000
+      internalID: 7914218307119069525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_143
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 95
+        width: 666
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f404c4235e0be7b0800000000000000
+      internalID: -5194041994979834633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_144
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 176
+        width: 1152
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb95cd7385d0e620800000000000000
+      internalID: 2801473728951983051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_145
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 177
+        width: 457
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c058259485f79450800000000000000
+      internalID: 6095610570456191177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_146
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 447
+        width: 385
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a474392914ff85f0800000000000000
+      internalID: -752114223844920160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_147
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 593
+        width: 211
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c0430a91290bf30800000000000000
+      internalID: 4589328659050138776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_148
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 118
+        width: 756
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b8d518c93ce6910800000000000000
+      internalID: 1832617175339076488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92efcb9a5089a9b0800000000000000
+      internalID: -5068378778979278182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 172
+        width: 504
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bdd2a43f5e2dbf0800000000000000
+      internalID: -300925391996068972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_151
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 310
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0c0f2a48161ac90800000000000000
+      internalID: -7160334710245113602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_152
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 120
+        width: 252
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76bd21ef4f23ea30800000000000000
+      internalID: 4243287294039930490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_153
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 58
+        width: 115
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4885a4f4888eb3f80800000000000000
+      internalID: -8125645430516459388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_154
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 163
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc02170605e690e40800000000000000
+      internalID: 5623146901243240651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_155
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 110
+        width: 344
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de82915efbcfeac00800000000000000
+      internalID: 913945675515373805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_156
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 261
+        width: 57
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c30caa5911e4720800000000000000
+      internalID: 2832220550175145087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_157
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 110
+        width: 292
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc49344e592709950800000000000000
+      internalID: 6453784254127248589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_158
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 50
+        width: 525
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb3bac13f0fd000800000000000000
+      internalID: 62785626335067297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_159
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 0
+        width: 725
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2cae16f12f24490800000000000000
+      internalID: -7763376591032630612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_160
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 188
+        width: 762
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b09a3cf4f991040800000000000000
+      internalID: 4618898057779022620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_161
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 0
+        width: 234
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a2082ac761a540800000000000000
+      internalID: 5017405577819761075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_162
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 0
+        width: 209
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d484e9a9db9a50800000000000000
+      internalID: 6529051408510278117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_163
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 101
+        width: 151
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31803ecb448f1fbb0800000000000000
+      internalID: -4903865545119299565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_164
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 54
+        width: 886
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f509a3836aaa150800000000000000
+      internalID: 5884698623543893810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_165
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 25
+        width: 554
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d1426e5b38e0d0800000000000000
+      internalID: -3393397042662221839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_166
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 212
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a171bb6a386bdf0800000000000000
+      internalID: -164799584225781163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49c5a83424cc8d90800000000000000
+      internalID: -7094079653167118001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_168
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 30
+        width: 195
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0320eb7e661970800000000000000
+      internalID: 8725282806397340414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_169
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 625
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4ddeb9003e904e0800000000000000
+      internalID: -2014829766516026191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_170
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 28
+        width: 429
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dc0f558cef1c5d0800000000000000
+      internalID: -3043871736736985740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_171
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 325
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1057d9695a09d450800000000000000
+      internalID: 6113929348276244509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_172
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 214
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1808dd6d6b63e0270800000000000000
+      internalID: 8218566528914522241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_173
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 67
+        width: 658
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bcf5fd38d8b2770800000000000000
+      internalID: 8587112712039811961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_174
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 917
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd73e74a9f99f8610800000000000000
+      internalID: 1625687287989680093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_175
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 108
+        width: 246
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ecbcf564156b570800000000000000
+      internalID: 8482056310895660624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_176
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 0
+        width: 218
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096f249034fb730e0800000000000000
+      internalID: -2290151590855510384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_177
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 304
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5c1ea05562d3b0800000000000000
+      internalID: -5489213598618330615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_178
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 198
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae67d4732f727a90800000000000000
+      internalID: -7317646654262776158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_179
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 43
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4beceb44fc6f80800000000000000
+      internalID: -8111840221866538294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_180
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 0
+        width: 987
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d6007aff9403a60800000000000000
+      internalID: 7651697129269783837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_181
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 0
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee3a873998f8d8b0800000000000000
+      internalID: -5127074838815818008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: thai_01_Process (1)_182
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 311
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3506bf8bdaede4290800000000000000
+      internalID: -7904135458274451373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      thai_01_Process (1)_0: -4088003899919729300
+      thai_01_Process (1)_1: 3272838549172072866
+      thai_01_Process (1)_10: -5159241191042457896
+      thai_01_Process (1)_100: 408583821162018469
+      thai_01_Process (1)_101: 2629486183980236386
+      thai_01_Process (1)_102: 5744728923560815120
+      thai_01_Process (1)_103: -1490174397784135676
+      thai_01_Process (1)_104: 5789299752610754345
+      thai_01_Process (1)_105: 3027229934358437308
+      thai_01_Process (1)_106: 5615473768262883520
+      thai_01_Process (1)_107: 5180610133909826476
+      thai_01_Process (1)_108: -5899515891636288881
+      thai_01_Process (1)_109: 5400899139645664533
+      thai_01_Process (1)_11: 5430127092235862433
+      thai_01_Process (1)_110: -4323246156725183493
+      thai_01_Process (1)_111: 2895556833324864315
+      thai_01_Process (1)_112: -9021516690495672819
+      thai_01_Process (1)_113: 263146650558684768
+      thai_01_Process (1)_114: -279724594538647705
+      thai_01_Process (1)_115: 3775089248508969001
+      thai_01_Process (1)_116: 6539373418877868325
+      thai_01_Process (1)_117: -5281762865536211700
+      thai_01_Process (1)_118: 541103071384973166
+      thai_01_Process (1)_119: -501313220631094264
+      thai_01_Process (1)_12: -4245365319019480271
+      thai_01_Process (1)_120: 7293151192952373865
+      thai_01_Process (1)_121: 7189474227473681912
+      thai_01_Process (1)_122: -6259825784164528527
+      thai_01_Process (1)_123: 7606483952131298834
+      thai_01_Process (1)_124: 3345240451133615538
+      thai_01_Process (1)_125: -4260534245662492289
+      thai_01_Process (1)_126: 141126773888216487
+      thai_01_Process (1)_127: 4259555015029954151
+      thai_01_Process (1)_128: 2152236351085332934
+      thai_01_Process (1)_129: 8615093940412120345
+      thai_01_Process (1)_13: -8790836801253371472
+      thai_01_Process (1)_130: -2734710756101827294
+      thai_01_Process (1)_131: 185474755195256
+      thai_01_Process (1)_132: 7252153813456873627
+      thai_01_Process (1)_133: 7221051148854966470
+      thai_01_Process (1)_134: -748264298398178411
+      thai_01_Process (1)_135: -120111882431748901
+      thai_01_Process (1)_136: -6703215388344316115
+      thai_01_Process (1)_137: -4521777541866144148
+      thai_01_Process (1)_138: -1742031206846468492
+      thai_01_Process (1)_139: -2081161935964831363
+      thai_01_Process (1)_14: 4650662356404912852
+      thai_01_Process (1)_140: 2871198319908871609
+      thai_01_Process (1)_141: 849171939306737817
+      thai_01_Process (1)_142: 7914218307119069525
+      thai_01_Process (1)_143: -5194041994979834633
+      thai_01_Process (1)_144: 2801473728951983051
+      thai_01_Process (1)_145: 6095610570456191177
+      thai_01_Process (1)_146: -752114223844920160
+      thai_01_Process (1)_147: 4589328659050138776
+      thai_01_Process (1)_148: 1832617175339076488
+      thai_01_Process (1)_149: -5068378778979278182
+      thai_01_Process (1)_15: -4572849160431015139
+      thai_01_Process (1)_150: -300925391996068972
+      thai_01_Process (1)_151: -7160334710245113602
+      thai_01_Process (1)_152: 4243287294039930490
+      thai_01_Process (1)_153: -8125645430516459388
+      thai_01_Process (1)_154: 5623146901243240651
+      thai_01_Process (1)_155: 913945675515373805
+      thai_01_Process (1)_156: 2832220550175145087
+      thai_01_Process (1)_157: 6453784254127248589
+      thai_01_Process (1)_158: 62785626335067297
+      thai_01_Process (1)_159: -7763376591032630612
+      thai_01_Process (1)_16: -7871571746011499543
+      thai_01_Process (1)_160: 4618898057779022620
+      thai_01_Process (1)_161: 5017405577819761075
+      thai_01_Process (1)_162: 6529051408510278117
+      thai_01_Process (1)_163: -4903865545119299565
+      thai_01_Process (1)_164: 5884698623543893810
+      thai_01_Process (1)_165: -3393397042662221839
+      thai_01_Process (1)_166: -164799584225781163
+      thai_01_Process (1)_167: -7094079653167118001
+      thai_01_Process (1)_168: 8725282806397340414
+      thai_01_Process (1)_169: -2014829766516026191
+      thai_01_Process (1)_17: 7927165809956977241
+      thai_01_Process (1)_170: -3043871736736985740
+      thai_01_Process (1)_171: 6113929348276244509
+      thai_01_Process (1)_172: 8218566528914522241
+      thai_01_Process (1)_173: 8587112712039811961
+      thai_01_Process (1)_174: 1625687287989680093
+      thai_01_Process (1)_175: 8482056310895660624
+      thai_01_Process (1)_176: -2290151590855510384
+      thai_01_Process (1)_177: -5489213598618330615
+      thai_01_Process (1)_178: -7317646654262776158
+      thai_01_Process (1)_179: -8111840221866538294
+      thai_01_Process (1)_18: -9166339251634449310
+      thai_01_Process (1)_180: 7651697129269783837
+      thai_01_Process (1)_181: -5127074838815818008
+      thai_01_Process (1)_182: -7904135458274451373
+      thai_01_Process (1)_19: 8179334782687045786
+      thai_01_Process (1)_2: 3640879463002559714
+      thai_01_Process (1)_20: -3639278157103156285
+      thai_01_Process (1)_21: -8708886208078561324
+      thai_01_Process (1)_22: -5104364544068512573
+      thai_01_Process (1)_23: -2276359936777315172
+      thai_01_Process (1)_24: 9103930521223789590
+      thai_01_Process (1)_25: 1823113558234564456
+      thai_01_Process (1)_26: -2969689469992541612
+      thai_01_Process (1)_27: 8965817616752691925
+      thai_01_Process (1)_28: -2436661857281889761
+      thai_01_Process (1)_29: -692674850570339002
+      thai_01_Process (1)_3: -7932781555358982697
+      thai_01_Process (1)_30: -8713973789842948618
+      thai_01_Process (1)_31: 690409745737113063
+      thai_01_Process (1)_32: 3928906210623954431
+      thai_01_Process (1)_33: -4974625270230071941
+      thai_01_Process (1)_34: -2703731776631235043
+      thai_01_Process (1)_35: -6256233166067956362
+      thai_01_Process (1)_36: 3808351799571702247
+      thai_01_Process (1)_37: -8487708644546384890
+      thai_01_Process (1)_38: -9186927686388358832
+      thai_01_Process (1)_39: 3471992501018243007
+      thai_01_Process (1)_4: 5420264924627923863
+      thai_01_Process (1)_40: -7854775400106335900
+      thai_01_Process (1)_41: -2887369212274540641
+      thai_01_Process (1)_42: 7125269995318631991
+      thai_01_Process (1)_43: -8106109505900686613
+      thai_01_Process (1)_44: -2095757197781703149
+      thai_01_Process (1)_45: -704942929188565889
+      thai_01_Process (1)_46: -3295734773166696714
+      thai_01_Process (1)_47: -4480984012129396864
+      thai_01_Process (1)_48: -2739462148072082065
+      thai_01_Process (1)_49: 3824466385599167484
+      thai_01_Process (1)_5: 4759880115616751200
+      thai_01_Process (1)_50: 9106969583412129994
+      thai_01_Process (1)_51: -7193389931426247725
+      thai_01_Process (1)_52: -6331976905392289768
+      thai_01_Process (1)_53: -8893819246873933673
+      thai_01_Process (1)_54: -8422095396923255866
+      thai_01_Process (1)_55: -2737526211371918765
+      thai_01_Process (1)_56: -5278940040766762830
+      thai_01_Process (1)_57: -1587670362183882460
+      thai_01_Process (1)_58: 464029867307350360
+      thai_01_Process (1)_59: -3071164695587604331
+      thai_01_Process (1)_6: -8020608533345952089
+      thai_01_Process (1)_60: 6574927422864123002
+      thai_01_Process (1)_61: -4088281884219891125
+      thai_01_Process (1)_62: -4635287201947206183
+      thai_01_Process (1)_63: -7798587870412104378
+      thai_01_Process (1)_64: 8551970207280042391
+      thai_01_Process (1)_65: 5907009806013348163
+      thai_01_Process (1)_66: -3109274279958769857
+      thai_01_Process (1)_67: 2495338094101166008
+      thai_01_Process (1)_68: -4415617083225265062
+      thai_01_Process (1)_69: -1434431424064735959
+      thai_01_Process (1)_7: 8702183900429502004
+      thai_01_Process (1)_70: 6577325129185022021
+      thai_01_Process (1)_71: 2427020859011484068
+      thai_01_Process (1)_72: 2627492756997905269
+      thai_01_Process (1)_73: 4893988404628783667
+      thai_01_Process (1)_74: -3046274706614754430
+      thai_01_Process (1)_75: -6211650593496440927
+      thai_01_Process (1)_76: -9012638352934802634
+      thai_01_Process (1)_77: 4480163838160421565
+      thai_01_Process (1)_78: -4086230245046541992
+      thai_01_Process (1)_79: -9080885405686674373
+      thai_01_Process (1)_8: 1862236161205545232
+      thai_01_Process (1)_80: -1812823029790128270
+      thai_01_Process (1)_81: -8710037293757835525
+      thai_01_Process (1)_82: 371368808046875354
+      thai_01_Process (1)_83: -6647391816358619219
+      thai_01_Process (1)_84: 1931988804918159719
+      thai_01_Process (1)_85: 589846248060481482
+      thai_01_Process (1)_86: -7825099419490597944
+      thai_01_Process (1)_87: -5288137830386965842
+      thai_01_Process (1)_88: 5405509172304650870
+      thai_01_Process (1)_89: 2183563167071331852
+      thai_01_Process (1)_9: -6701243830941848356
+      thai_01_Process (1)_90: -9165094990487199474
+      thai_01_Process (1)_91: 5169979008068243393
+      thai_01_Process (1)_92: -4457512660909448103
+      thai_01_Process (1)_93: -3296159950153876931
+      thai_01_Process (1)_94: -9069176902823267727
+      thai_01_Process (1)_95: -8373605332866889552
+      thai_01_Process (1)_96: -7730910703024934006
+      thai_01_Process (1)_97: 1872881825596543843
+      thai_01_Process (1)_98: -171076202843875817
+      thai_01_Process (1)_99: -4027002721847071420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

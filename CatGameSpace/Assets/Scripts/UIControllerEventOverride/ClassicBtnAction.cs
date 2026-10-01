@@ -63,7 +63,7 @@ public class ClassicBtnAction : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
     public void OnPointerEnter(PointerEventData eventData)
     {
-        EventSystem.current.SetSelectedGameObject(gameObject);
+        //EventSystem.current.SetSelectedGameObject(gameObject);
     }
 
     public void OnPointerExit(PointerEventData eventData)

@@ -1,0 +1,2457 @@
+fileFormatVersion: 2
+guid: 20262974fd392fb44ad2a90067f6eaaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5778926575343850182
+    second: "\xE7in-map-2-04_Process_0"
+  - first:
+      213: 4597831624205209532
+    second: "\xE7in-map-2-04_Process_1"
+  - first:
+      213: 2678484752769364008
+    second: "\xE7in-map-2-04_Process_2"
+  - first:
+      213: -1805843203973657859
+    second: "\xE7in-map-2-04_Process_3"
+  - first:
+      213: -2933229631388898795
+    second: "\xE7in-map-2-04_Process_4"
+  - first:
+      213: 8853557047447473484
+    second: "\xE7in-map-2-04_Process_5"
+  - first:
+      213: -6896639641224844684
+    second: "\xE7in-map-2-04_Process_6"
+  - first:
+      213: 6970512807747666348
+    second: "\xE7in-map-2-04_Process_7"
+  - first:
+      213: -2411754014893112679
+    second: "\xE7in-map-2-04_Process_8"
+  - first:
+      213: -7401859812517928345
+    second: "\xE7in-map-2-04_Process_9"
+  - first:
+      213: -1594149709485937885
+    second: "\xE7in-map-2-04_Process_10"
+  - first:
+      213: -7901664004060305267
+    second: "\xE7in-map-2-04_Process_11"
+  - first:
+      213: 5086918480774187949
+    second: "\xE7in-map-2-04_Process_12"
+  - first:
+      213: 8912659936396486080
+    second: "\xE7in-map-2-04_Process_13"
+  - first:
+      213: 983571148556483707
+    second: "\xE7in-map-2-04_Process_14"
+  - first:
+      213: 5830320941771157505
+    second: "\xE7in-map-2-04_Process_15"
+  - first:
+      213: -8203229805872584822
+    second: "\xE7in-map-2-04_Process_16"
+  - first:
+      213: -4360495676311913340
+    second: "\xE7in-map-2-04_Process_17"
+  - first:
+      213: -6450916776643237259
+    second: "\xE7in-map-2-04_Process_18"
+  - first:
+      213: 1148852595455474922
+    second: "\xE7in-map-2-04_Process_19"
+  - first:
+      213: -4990993498776790922
+    second: "\xE7in-map-2-04_Process_20"
+  - first:
+      213: 4173369059724648111
+    second: "\xE7in-map-2-04_Process_21"
+  - first:
+      213: 177830167590020089
+    second: "\xE7in-map-2-04_Process_22"
+  - first:
+      213: -7333573107269933096
+    second: "\xE7in-map-2-04_Process_23"
+  - first:
+      213: 1428310712246800301
+    second: "\xE7in-map-2-04_Process_24"
+  - first:
+      213: -5648549499679202461
+    second: "\xE7in-map-2-04_Process_25"
+  - first:
+      213: 6003402347236711838
+    second: "\xE7in-map-2-04_Process_26"
+  - first:
+      213: -481381426213326461
+    second: "\xE7in-map-2-04_Process_27"
+  - first:
+      213: 6005542981723995883
+    second: "\xE7in-map-2-04_Process_28"
+  - first:
+      213: -5025174424063027176
+    second: "\xE7in-map-2-04_Process_29"
+  - first:
+      213: 5610767976784889214
+    second: "\xE7in-map-2-04_Process_30"
+  - first:
+      213: -5117175241802902510
+    second: "\xE7in-map-2-04_Process_31"
+  - first:
+      213: 4765519699072476478
+    second: "\xE7in-map-2-04_Process_32"
+  - first:
+      213: 5655623816270127480
+    second: "\xE7in-map-2-04_Process_33"
+  - first:
+      213: 104252883265610850
+    second: "\xE7in-map-2-04_Process_34"
+  - first:
+      213: 37568990060097398
+    second: "\xE7in-map-2-04_Process_35"
+  - first:
+      213: -8071997129540415672
+    second: "\xE7in-map-2-04_Process_36"
+  - first:
+      213: 3539847356138662498
+    second: "\xE7in-map-2-04_Process_37"
+  - first:
+      213: -6385800413186704807
+    second: "\xE7in-map-2-04_Process_38"
+  - first:
+      213: 6227903555692595110
+    second: "\xE7in-map-2-04_Process_39"
+  - first:
+      213: 6472108189779655892
+    second: "\xE7in-map-2-04_Process_40"
+  - first:
+      213: 3665819708759201897
+    second: "\xE7in-map-2-04_Process_41"
+  - first:
+      213: -6730056047025273347
+    second: "\xE7in-map-2-04_Process_42"
+  - first:
+      213: 2370585416448119265
+    second: "\xE7in-map-2-04_Process_43"
+  - first:
+      213: 9222270332536679567
+    second: "\xE7in-map-2-04_Process_44"
+  - first:
+      213: 708433864910037298
+    second: "\xE7in-map-2-04_Process_45"
+  - first:
+      213: 8339611745862453232
+    second: "\xE7in-map-2-04_Process_46"
+  - first:
+      213: -1881755067175010035
+    second: "\xE7in-map-2-04_Process_47"
+  - first:
+      213: -3275161025139965672
+    second: "\xE7in-map-2-04_Process_48"
+  - first:
+      213: 8375689294741980339
+    second: "\xE7in-map-2-04_Process_49"
+  - first:
+      213: -7248563606296711636
+    second: "\xE7in-map-2-04_Process_50"
+  - first:
+      213: -7800424942481109966
+    second: "\xE7in-map-2-04_Process_51"
+  - first:
+      213: -1083592351954602108
+    second: "\xE7in-map-2-04_Process_52"
+  - first:
+      213: -1627238036781638136
+    second: "\xE7in-map-2-04_Process_53"
+  - first:
+      213: 1348655075048186802
+    second: "\xE7in-map-2-04_Process_54"
+  - first:
+      213: -4058500852556103932
+    second: "\xE7in-map-2-04_Process_55"
+  - first:
+      213: 8724899012339803428
+    second: "\xE7in-map-2-04_Process_56"
+  - first:
+      213: 3301761461506359076
+    second: "\xE7in-map-2-04_Process_57"
+  - first:
+      213: -1207007691332582179
+    second: "\xE7in-map-2-04_Process_58"
+  - first:
+      213: 1343117878202120058
+    second: "\xE7in-map-2-04_Process_59"
+  - first:
+      213: 780239415329684614
+    second: "\xE7in-map-2-04_Process_60"
+  - first:
+      213: -7514988315746448824
+    second: "\xE7in-map-2-04_Process_61"
+  - first:
+      213: -164835233336348999
+    second: "\xE7in-map-2-04_Process_62"
+  - first:
+      213: 6893897747930053040
+    second: "\xE7in-map-2-04_Process_63"
+  - first:
+      213: 4192623085362773979
+    second: "\xE7in-map-2-04_Process_64"
+  - first:
+      213: 4875238594662079215
+    second: "\xE7in-map-2-04_Process_65"
+  - first:
+      213: -3282328670062094077
+    second: "\xE7in-map-2-04_Process_66"
+  - first:
+      213: 2913267371448527538
+    second: "\xE7in-map-2-04_Process_67"
+  - first:
+      213: 5836032908039703665
+    second: "\xE7in-map-2-04_Process_68"
+  - first:
+      213: 4328069899167783303
+    second: "\xE7in-map-2-04_Process_69"
+  - first:
+      213: 8091987878476977166
+    second: "\xE7in-map-2-04_Process_70"
+  - first:
+      213: 1217029752422085320
+    second: "\xE7in-map-2-04_Process_71"
+  - first:
+      213: 7587454738857366723
+    second: "\xE7in-map-2-04_Process_72"
+  - first:
+      213: 6379596096426204835
+    second: "\xE7in-map-2-04_Process_73"
+  - first:
+      213: 6988010972240842133
+    second: "\xE7in-map-2-04_Process_74"
+  - first:
+      213: -7256470058001416739
+    second: "\xE7in-map-2-04_Process_75"
+  - first:
+      213: 3722111756141875671
+    second: "\xE7in-map-2-04_Process_76"
+  - first:
+      213: 1509141603033676611
+    second: "\xE7in-map-2-04_Process_77"
+  - first:
+      213: -3996377074637337877
+    second: "\xE7in-map-2-04_Process_78"
+  - first:
+      213: -6012235252493695845
+    second: "\xE7in-map-2-04_Process_79"
+  - first:
+      213: 4526049073629314718
+    second: "\xE7in-map-2-04_Process_80"
+  - first:
+      213: 637350443424840940
+    second: "\xE7in-map-2-04_Process_81"
+  - first:
+      213: -3851681750884950666
+    second: "\xE7in-map-2-04_Process_82"
+  - first:
+      213: 7736850471934915704
+    second: "\xE7in-map-2-04_Process_83"
+  - first:
+      213: -1210816306963689949
+    second: "\xE7in-map-2-04_Process_84"
+  - first:
+      213: -8087715354151824572
+    second: "\xE7in-map-2-04_Process_85"
+  - first:
+      213: -2098238038295121245
+    second: "\xE7in-map-2-04_Process_86"
+  - first:
+      213: 2711486557828893807
+    second: "\xE7in-map-2-04_Process_87"
+  - first:
+      213: -2901708760225007468
+    second: "\xE7in-map-2-04_Process_88"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 5000
+        height: 2013
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c25f6a2a1fd23050800000000000000
+      internalID: 5778926575343850182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 673
+        width: 252
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf0fc97087cecf30800000000000000
+      internalID: 4597831624205209532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_2"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 843
+        width: 432
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8203e1101b3eb2520800000000000000
+      internalID: 2678484752769364008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_3"
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 597
+        width: 424
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfac81b7c2b50f6e0800000000000000
+      internalID: -1805843203973657859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_4"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 930
+        width: 1394
+        height: 1041
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2a60f0331b47d0800000000000000
+      internalID: -2933229631388898795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_5"
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 736
+        width: 745
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d43cbf9372eda70800000000000000
+      internalID: 8853557047447473484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_6"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 900
+        width: 735
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a6ae849c63a40a0800000000000000
+      internalID: -6896639641224844684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_7"
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 667
+        width: 226
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca14c10a77c3cb060800000000000000
+      internalID: 6970512807747666348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_8"
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 414
+        width: 1128
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9928ca0608ab78ed0800000000000000
+      internalID: -2411754014893112679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_9"
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 306
+        width: 159
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76221ad97bf474990800000000000000
+      internalID: -7401859812517928345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_10"
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 855
+        width: 167
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b6c4f094170e9e0800000000000000
+      internalID: -1594149709485937885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_11"
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 962
+        width: 84
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ae7ff376a75290800000000000000
+      internalID: -7901664004060305267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_12"
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 858
+        width: 969
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab4ae7186d589640800000000000000
+      internalID: 5086918480774187949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_13"
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 847
+        width: 155
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c5a4c8adf020bb70800000000000000
+      internalID: 8912659936396486080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_14"
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 800
+        width: 351
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c38099fb856ad00800000000000000
+      internalID: 983571148556483707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_15"
+      rect:
+        serializedVersion: 2
+        x: 3254
+        y: 949
+        width: 658
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007ac4910679e050800000000000000
+      internalID: 5830320941771157505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_16"
+      rect:
+        serializedVersion: 2
+        x: 3756
+        y: 844
+        width: 156
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87611244f5482e80800000000000000
+      internalID: -8203229805872584822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_17"
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 903
+        width: 995
+        height: 813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c3dc809486c73c0800000000000000
+      internalID: -4360495676311913340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_18"
+      rect:
+        serializedVersion: 2
+        x: 4722
+        y: 132
+        width: 226
+        height: 1362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a629cbe5db976a0800000000000000
+      internalID: -6450916776643237259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_19"
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 158
+        width: 199
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecb863495b81ff00800000000000000
+      internalID: 1148852595455474922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_20"
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 703
+        width: 634
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67810253bdd6cbab0800000000000000
+      internalID: -4990993498776790922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_21"
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 102
+        width: 807
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae5e716c09cae930800000000000000
+      internalID: 4173369059724648111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_22"
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 881
+        width: 504
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f32d816897c77200800000000000000
+      internalID: 177830167590020089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_23"
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 703
+        width: 631
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d761d62d1ae93a90800000000000000
+      internalID: -7333573107269933096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_24"
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 775
+        width: 364
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf0b58760162d310800000000000000
+      internalID: 1428310712246800301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_25"
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 622
+        width: 742
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363296748225c91b0800000000000000
+      internalID: -5648549499679202461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_26"
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 124
+        width: 223
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d5ace90ae505350800000000000000
+      internalID: 6003402347236711838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_27"
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 120
+        width: 90
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3817511b42ac159f0800000000000000
+      internalID: -481381426213326461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_28"
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 750
+        width: 144
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beebffce589f75350800000000000000
+      internalID: 6005542981723995883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_29"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 350
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 818585f5c7ef24ab0800000000000000
+      internalID: -5025174424063027176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_30"
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 535
+        width: 358
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75866d6fb37ddd40800000000000000
+      internalID: 5610767976784889214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_31"
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 205
+        width: 369
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141ae2ca342cf8b0800000000000000
+      internalID: -5117175241802902510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_32"
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 600
+        width: 178
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e356751eae6822240800000000000000
+      internalID: 4765519699072476478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_33"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 639
+        width: 137
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871250865efcc7e40800000000000000
+      internalID: 5655623816270127480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_34"
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 595
+        width: 186
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2646bd9e171627100800000000000000
+      internalID: 104252883265610850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_35"
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 701
+        width: 482
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2a132cc8758000800000000000000
+      internalID: 37568990060097398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_36"
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 391
+        width: 329
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f45c1c0618aff80800000000000000
+      internalID: -8071997129540415672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_37"
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 374
+        width: 116
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a20cd5a60102130800000000000000
+      internalID: 3539847356138662498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_38"
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 318
+        width: 286
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ab67d8b541167a0800000000000000
+      internalID: -6385800413186704807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_39"
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 334
+        width: 19
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7037c7945fd6650800000000000000
+      internalID: 6227903555692595110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_40"
+      rect:
+        serializedVersion: 2
+        x: 3554
+        y: 327
+        width: 51
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc76bf9b1c81d950800000000000000
+      internalID: 6472108189779655892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_41"
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 417
+        width: 240
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968d73f4a9b9fd230800000000000000
+      internalID: 3665819708759201897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_42"
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 694
+        width: 116
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5c69ebea90a92a0800000000000000
+      internalID: -6730056047025273347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_43"
+      rect:
+        serializedVersion: 2
+        x: 4508
+        y: 363
+        width: 149
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e19c1950e206e020800000000000000
+      internalID: 2370585416448119265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_44"
+      rect:
+        serializedVersion: 2
+        x: 4668
+        y: 713
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ce87971061cff70800000000000000
+      internalID: 9222270332536679567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_45"
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 657
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231e1d0c8dcd4d900800000000000000
+      internalID: 708433864910037298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_46"
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 672
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f78ecc92b04cb370800000000000000
+      internalID: 8339611745862453232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_47"
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 484
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d010eb28cb9a2e5e0800000000000000
+      internalID: -1881755067175010035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_48"
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 465
+        width: 290
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8110452766a4c82d0800000000000000
+      internalID: -3275161025139965672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_49"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 519
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4432a890d6c3470800000000000000
+      internalID: 8375689294741980339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_50"
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 171
+        width: 136
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e2cdafdcde76b90800000000000000
+      internalID: -7248563606296711636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_51"
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 276
+        width: 147
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c015ed7d25fb390800000000000000
+      internalID: -7800424942481109966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_52"
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 389
+        width: 239
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4877a6c3f7e46f0f0800000000000000
+      internalID: -1083592351954602108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_53"
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 537
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e50a480a3ea69e0800000000000000
+      internalID: -1627238036781638136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_54"
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 549
+        width: 277
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b366c035a267b210800000000000000
+      internalID: 1348655075048186802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_55"
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 327
+        width: 145
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ff5ca3afe4da7c0800000000000000
+      internalID: -4058500852556103932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_56"
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 549
+        width: 256
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425ababdc61151970800000000000000
+      internalID: 8724899012339803428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_57"
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 179
+        width: 304
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f39264e8632dd20800000000000000
+      internalID: 3301761461506359076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_58"
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 591
+        width: 527
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd405f456e8df3fe0800000000000000
+      internalID: -1207007691332582179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_59"
+      rect:
+        serializedVersion: 2
+        x: 4152
+        y: 321
+        width: 37
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b6b51896b3a210800000000000000
+      internalID: 1343117878202120058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_60"
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 262
+        width: 242
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cfb764d97f3da00800000000000000
+      internalID: 780239415329684614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_61"
+      rect:
+        serializedVersion: 2
+        x: 4681
+        y: 579
+        width: 76
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ac8b461f565b790800000000000000
+      internalID: -7514988315746448824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_62"
+      rect:
+        serializedVersion: 2
+        x: 4692
+        y: 524
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bea4868a3366bdf0800000000000000
+      internalID: -164835233336348999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_63"
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 1397
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b97c3fe97b0caf50800000000000000
+      internalID: 6893897747930053040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_64"
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 342
+        width: 81
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf76209b703f2a30800000000000000
+      internalID: 4192623085362773979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_65"
+      rect:
+        serializedVersion: 2
+        x: 4683
+        y: 541
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9b16fba358a340800000000000000
+      internalID: 4875238594662079215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_66"
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 446
+        width: 61
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3095ed01773d272d0800000000000000
+      internalID: -3282328670062094077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_67"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 523
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baecea3d310e6820800000000000000
+      internalID: 2913267371448527538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_68"
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 295
+        width: 263
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c423d5201cdf050800000000000000
+      internalID: 5836032908039703665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_69"
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 410
+        width: 107
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789d4f664a4601c30800000000000000
+      internalID: 4328069899167783303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_70"
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 243
+        width: 102
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04136f2a148c4070800000000000000
+      internalID: 8091987878476977166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_71"
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 404
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2333a9c12c3e010800000000000000
+      internalID: 1217029752422085320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_72"
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 0
+        width: 2391
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c492fa82ed0c4960800000000000000
+      internalID: 7587454738857366723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_73"
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 351
+        width: 143
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aed3f169d0e88850800000000000000
+      internalID: 6379596096426204835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_74"
+      rect:
+        serializedVersion: 2
+        x: 2882
+        y: 346
+        width: 107
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d82f684f66af060800000000000000
+      internalID: 6988010972240842133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_75"
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 388
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd319dbde6db4b90800000000000000
+      internalID: -7256470058001416739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_76"
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 357
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1542febe897a330800000000000000
+      internalID: 3722111756141875671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_77"
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 352
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bf59cca4c81f410800000000000000
+      internalID: 1509141603033676611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_78"
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 265
+        width: 176
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea0abd69340a88c0800000000000000
+      internalID: -3996377074637337877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_79"
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 380
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94480d54ef309ca0800000000000000
+      internalID: -6012235252493695845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_80"
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 392
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e39a507a1cfce30800000000000000
+      internalID: 4526049073629314718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_81"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 557
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec76c9f9d258d800800000000000000
+      internalID: 637350443424840940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_82"
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 269
+        width: 305
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd5aacad31c8ac0800000000000000
+      internalID: -3851681750884950666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_83"
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 155
+        width: 282
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8747efb3380de5b60800000000000000
+      internalID: 7736850471934915704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_84"
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 288
+        width: 99
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ecd27ebf0523fe0800000000000000
+      internalID: -1210816306963689949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_85"
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 49
+        width: 387
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443de476cb9a2cf80800000000000000
+      internalID: -8087715354151824572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_86"
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 579
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2f4310f9f81e2e0800000000000000
+      internalID: -2098238038295121245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_87"
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 0
+        width: 939
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c43a488a221a520800000000000000
+      internalID: 2711486557828893807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-04_Process_88"
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 544
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983629a14f0bb7d0800000000000000
+      internalID: -2901708760225007468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\xE7in-map-2-04_Process_0": 5778926575343850182
+      "\xE7in-map-2-04_Process_1": 4597831624205209532
+      "\xE7in-map-2-04_Process_10": -1594149709485937885
+      "\xE7in-map-2-04_Process_11": -7901664004060305267
+      "\xE7in-map-2-04_Process_12": 5086918480774187949
+      "\xE7in-map-2-04_Process_13": 8912659936396486080
+      "\xE7in-map-2-04_Process_14": 983571148556483707
+      "\xE7in-map-2-04_Process_15": 5830320941771157505
+      "\xE7in-map-2-04_Process_16": -8203229805872584822
+      "\xE7in-map-2-04_Process_17": -4360495676311913340
+      "\xE7in-map-2-04_Process_18": -6450916776643237259
+      "\xE7in-map-2-04_Process_19": 1148852595455474922
+      "\xE7in-map-2-04_Process_2": 2678484752769364008
+      "\xE7in-map-2-04_Process_20": -4990993498776790922
+      "\xE7in-map-2-04_Process_21": 4173369059724648111
+      "\xE7in-map-2-04_Process_22": 177830167590020089
+      "\xE7in-map-2-04_Process_23": -7333573107269933096
+      "\xE7in-map-2-04_Process_24": 1428310712246800301
+      "\xE7in-map-2-04_Process_25": -5648549499679202461
+      "\xE7in-map-2-04_Process_26": 6003402347236711838
+      "\xE7in-map-2-04_Process_27": -481381426213326461
+      "\xE7in-map-2-04_Process_28": 6005542981723995883
+      "\xE7in-map-2-04_Process_29": -5025174424063027176
+      "\xE7in-map-2-04_Process_3": -1805843203973657859
+      "\xE7in-map-2-04_Process_30": 5610767976784889214
+      "\xE7in-map-2-04_Process_31": -5117175241802902510
+      "\xE7in-map-2-04_Process_32": 4765519699072476478
+      "\xE7in-map-2-04_Process_33": 5655623816270127480
+      "\xE7in-map-2-04_Process_34": 104252883265610850
+      "\xE7in-map-2-04_Process_35": 37568990060097398
+      "\xE7in-map-2-04_Process_36": -8071997129540415672
+      "\xE7in-map-2-04_Process_37": 3539847356138662498
+      "\xE7in-map-2-04_Process_38": -6385800413186704807
+      "\xE7in-map-2-04_Process_39": 6227903555692595110
+      "\xE7in-map-2-04_Process_4": -2933229631388898795
+      "\xE7in-map-2-04_Process_40": 6472108189779655892
+      "\xE7in-map-2-04_Process_41": 3665819708759201897
+      "\xE7in-map-2-04_Process_42": -6730056047025273347
+      "\xE7in-map-2-04_Process_43": 2370585416448119265
+      "\xE7in-map-2-04_Process_44": 9222270332536679567
+      "\xE7in-map-2-04_Process_45": 708433864910037298
+      "\xE7in-map-2-04_Process_46": 8339611745862453232
+      "\xE7in-map-2-04_Process_47": -1881755067175010035
+      "\xE7in-map-2-04_Process_48": -3275161025139965672
+      "\xE7in-map-2-04_Process_49": 8375689294741980339
+      "\xE7in-map-2-04_Process_5": 8853557047447473484
+      "\xE7in-map-2-04_Process_50": -7248563606296711636
+      "\xE7in-map-2-04_Process_51": -7800424942481109966
+      "\xE7in-map-2-04_Process_52": -1083592351954602108
+      "\xE7in-map-2-04_Process_53": -1627238036781638136
+      "\xE7in-map-2-04_Process_54": 1348655075048186802
+      "\xE7in-map-2-04_Process_55": -4058500852556103932
+      "\xE7in-map-2-04_Process_56": 8724899012339803428
+      "\xE7in-map-2-04_Process_57": 3301761461506359076
+      "\xE7in-map-2-04_Process_58": -1207007691332582179
+      "\xE7in-map-2-04_Process_59": 1343117878202120058
+      "\xE7in-map-2-04_Process_6": -6896639641224844684
+      "\xE7in-map-2-04_Process_60": 780239415329684614
+      "\xE7in-map-2-04_Process_61": -7514988315746448824
+      "\xE7in-map-2-04_Process_62": -164835233336348999
+      "\xE7in-map-2-04_Process_63": 6893897747930053040
+      "\xE7in-map-2-04_Process_64": 4192623085362773979
+      "\xE7in-map-2-04_Process_65": 4875238594662079215
+      "\xE7in-map-2-04_Process_66": -3282328670062094077
+      "\xE7in-map-2-04_Process_67": 2913267371448527538
+      "\xE7in-map-2-04_Process_68": 5836032908039703665
+      "\xE7in-map-2-04_Process_69": 4328069899167783303
+      "\xE7in-map-2-04_Process_7": 6970512807747666348
+      "\xE7in-map-2-04_Process_70": 8091987878476977166
+      "\xE7in-map-2-04_Process_71": 1217029752422085320
+      "\xE7in-map-2-04_Process_72": 7587454738857366723
+      "\xE7in-map-2-04_Process_73": 6379596096426204835
+      "\xE7in-map-2-04_Process_74": 6988010972240842133
+      "\xE7in-map-2-04_Process_75": -7256470058001416739
+      "\xE7in-map-2-04_Process_76": 3722111756141875671
+      "\xE7in-map-2-04_Process_77": 1509141603033676611
+      "\xE7in-map-2-04_Process_78": -3996377074637337877
+      "\xE7in-map-2-04_Process_79": -6012235252493695845
+      "\xE7in-map-2-04_Process_8": -2411754014893112679
+      "\xE7in-map-2-04_Process_80": 4526049073629314718
+      "\xE7in-map-2-04_Process_81": 637350443424840940
+      "\xE7in-map-2-04_Process_82": -3851681750884950666
+      "\xE7in-map-2-04_Process_83": 7736850471934915704
+      "\xE7in-map-2-04_Process_84": -1210816306963689949
+      "\xE7in-map-2-04_Process_85": -8087715354151824572
+      "\xE7in-map-2-04_Process_86": -2098238038295121245
+      "\xE7in-map-2-04_Process_87": 2711486557828893807
+      "\xE7in-map-2-04_Process_88": -2901708760225007468
+      "\xE7in-map-2-04_Process_9": -7401859812517928345
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

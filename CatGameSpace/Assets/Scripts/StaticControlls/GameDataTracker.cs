@@ -392,7 +392,7 @@ public class GameDataTracker : MonoBehaviour
 
             if (addleaderBoard && !isCheat)
             {
-                SteamLeaderboard instance = FindObjectOfType<SteamLeaderboard>();
+                SteamLeaderboard instance = FindAnyObjectByType<SteamLeaderboard>();
                 if (instance != null) instance.UpdateScore(selectedPaintID, Mathf.CeilToInt(paint_timer));
             }
         }

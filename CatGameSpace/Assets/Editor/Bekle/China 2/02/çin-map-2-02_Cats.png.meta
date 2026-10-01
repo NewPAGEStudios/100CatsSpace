@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 02a46c9e459c60e47bc48e9007e43c68
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4298208782511143879
+    second: "\xE7in-map-2-02_Cats_0"
+  - first:
+      213: -3528891358888426700
+    second: "\xE7in-map-2-02_Cats_1"
+  - first:
+      213: -4556868263035556389
+    second: "\xE7in-map-2-02_Cats_2"
+  - first:
+      213: -7665909748928688776
+    second: "\xE7in-map-2-02_Cats_3"
+  - first:
+      213: -344059099363544305
+    second: "\xE7in-map-2-02_Cats_4"
+  - first:
+      213: -4141117711803913439
+    second: "\xE7in-map-2-02_Cats_5"
+  - first:
+      213: -2390729333541141239
+    second: "\xE7in-map-2-02_Cats_6"
+  - first:
+      213: 1426152076940206
+    second: "\xE7in-map-2-02_Cats_7"
+  - first:
+      213: 1224672564648391761
+    second: "\xE7in-map-2-02_Cats_8"
+  - first:
+      213: 6028000353604927670
+    second: "\xE7in-map-2-02_Cats_9"
+  - first:
+      213: -7509018098811559393
+    second: "\xE7in-map-2-02_Cats_10"
+  - first:
+      213: 7390304185328048304
+    second: "\xE7in-map-2-02_Cats_11"
+  - first:
+      213: 8218427499530660222
+    second: "\xE7in-map-2-02_Cats_12"
+  - first:
+      213: 5370845252352375718
+    second: "\xE7in-map-2-02_Cats_13"
+  - first:
+      213: 3638629728690800917
+    second: "\xE7in-map-2-02_Cats_14"
+  - first:
+      213: -6726514864516056484
+    second: "\xE7in-map-2-02_Cats_15"
+  - first:
+      213: -3088536477927999690
+    second: "\xE7in-map-2-02_Cats_16"
+  - first:
+      213: 5517060028307079985
+    second: "\xE7in-map-2-02_Cats_17"
+  - first:
+      213: -4942372764097518207
+    second: "\xE7in-map-2-02_Cats_18"
+  - first:
+      213: -2426484359982089018
+    second: "\xE7in-map-2-02_Cats_19"
+  - first:
+      213: 5088155456418397087
+    second: "\xE7in-map-2-02_Cats_20"
+  - first:
+      213: -5574280633541943848
+    second: "\xE7in-map-2-02_Cats_21"
+  - first:
+      213: -1679578277326869300
+    second: "\xE7in-map-2-02_Cats_22"
+  - first:
+      213: -6048470562927192002
+    second: "\xE7in-map-2-02_Cats_23"
+  - first:
+      213: -3457392338456472196
+    second: "\xE7in-map-2-02_Cats_24"
+  - first:
+      213: -2996150651775198876
+    second: "\xE7in-map-2-02_Cats_25"
+  - first:
+      213: 2368620417375569215
+    second: "\xE7in-map-2-02_Cats_26"
+  - first:
+      213: -246528621067213124
+    second: "\xE7in-map-2-02_Cats_27"
+  - first:
+      213: -6311455328013639620
+    second: "\xE7in-map-2-02_Cats_28"
+  - first:
+      213: -8362351803664121911
+    second: "\xE7in-map-2-02_Cats_29"
+  - first:
+      213: 3414830504836681295
+    second: "\xE7in-map-2-02_Cats_30"
+  - first:
+      213: 1556813765437638274
+    second: "\xE7in-map-2-02_Cats_31"
+  - first:
+      213: 5025691502875233447
+    second: "\xE7in-map-2-02_Cats_32"
+  - first:
+      213: -5684046920377155564
+    second: "\xE7in-map-2-02_Cats_33"
+  - first:
+      213: 1382107507771402462
+    second: "\xE7in-map-2-02_Cats_34"
+  - first:
+      213: 7540963926826151131
+    second: "\xE7in-map-2-02_Cats_35"
+  - first:
+      213: 1627850501575263887
+    second: "\xE7in-map-2-02_Cats_36"
+  - first:
+      213: -6690737200493961784
+    second: "\xE7in-map-2-02_Cats_37"
+  - first:
+      213: 1081337118784047283
+    second: "\xE7in-map-2-02_Cats_38"
+  - first:
+      213: -4670690038921825451
+    second: "\xE7in-map-2-02_Cats_39"
+  - first:
+      213: -8470759716102068205
+    second: "\xE7in-map-2-02_Cats_40"
+  - first:
+      213: -7153805915367946490
+    second: "\xE7in-map-2-02_Cats_41"
+  - first:
+      213: 4888630641177583169
+    second: "\xE7in-map-2-02_Cats_42"
+  - first:
+      213: 6216259185964731439
+    second: "\xE7in-map-2-02_Cats_43"
+  - first:
+      213: -2100812091448349562
+    second: "\xE7in-map-2-02_Cats_44"
+  - first:
+      213: 5122077906087629757
+    second: "\xE7in-map-2-02_Cats_45"
+  - first:
+      213: -517584606114000499
+    second: "\xE7in-map-2-02_Cats_46"
+  - first:
+      213: -746966502614281848
+    second: "\xE7in-map-2-02_Cats_47"
+  - first:
+      213: 8606307899473280233
+    second: "\xE7in-map-2-02_Cats_48"
+  - first:
+      213: 6268918521771704011
+    second: "\xE7in-map-2-02_Cats_49"
+  - first:
+      213: -7702324738954793356
+    second: "\xE7in-map-2-02_Cats_50"
+  - first:
+      213: 2467513850770101651
+    second: "\xE7in-map-2-02_Cats_51"
+  - first:
+      213: 3059234685893080870
+    second: "\xE7in-map-2-02_Cats_52"
+  - first:
+      213: -6504872233075527577
+    second: "\xE7in-map-2-02_Cats_53"
+  - first:
+      213: -5403423993780297280
+    second: "\xE7in-map-2-02_Cats_54"
+  - first:
+      213: 2779242873522557663
+    second: "\xE7in-map-2-02_Cats_55"
+  - first:
+      213: 5307654546544323481
+    second: "\xE7in-map-2-02_Cats_56"
+  - first:
+      213: 6579612586092512908
+    second: "\xE7in-map-2-02_Cats_57"
+  - first:
+      213: 3656324113014128669
+    second: "\xE7in-map-2-02_Cats_58"
+  - first:
+      213: -3626344986290464643
+    second: "\xE7in-map-2-02_Cats_59"
+  - first:
+      213: -5019292061530569851
+    second: "\xE7in-map-2-02_Cats_60"
+  - first:
+      213: -1924240037627261428
+    second: "\xE7in-map-2-02_Cats_61"
+  - first:
+      213: 7175267571277302400
+    second: "\xE7in-map-2-02_Cats_62"
+  - first:
+      213: 2453227811667442726
+    second: "\xE7in-map-2-02_Cats_63"
+  - first:
+      213: 723170249506434280
+    second: "\xE7in-map-2-02_Cats_64"
+  - first:
+      213: 5216216146250282888
+    second: "\xE7in-map-2-02_Cats_65"
+  - first:
+      213: -9136234282429171544
+    second: "\xE7in-map-2-02_Cats_66"
+  - first:
+      213: 2208288269272977494
+    second: "\xE7in-map-2-02_Cats_67"
+  - first:
+      213: 5177906032455118174
+    second: "\xE7in-map-2-02_Cats_68"
+  - first:
+      213: -2626739941567449827
+    second: "\xE7in-map-2-02_Cats_69"
+  - first:
+      213: -616008451378018749
+    second: "\xE7in-map-2-02_Cats_70"
+  - first:
+      213: 6217724995984044107
+    second: "\xE7in-map-2-02_Cats_71"
+  - first:
+      213: -9096638375955803947
+    second: "\xE7in-map-2-02_Cats_72"
+  - first:
+      213: -291253696600015648
+    second: "\xE7in-map-2-02_Cats_73"
+  - first:
+      213: -1841528408864925182
+    second: "\xE7in-map-2-02_Cats_74"
+  - first:
+      213: 6918681543947348197
+    second: "\xE7in-map-2-02_Cats_75"
+  - first:
+      213: 8177469722966133948
+    second: "\xE7in-map-2-02_Cats_76"
+  - first:
+      213: 2703389573035329450
+    second: "\xE7in-map-2-02_Cats_77"
+  - first:
+      213: -4868930578589806834
+    second: "\xE7in-map-2-02_Cats_78"
+  - first:
+      213: 4570832598842294486
+    second: "\xE7in-map-2-02_Cats_79"
+  - first:
+      213: -8301677357294012276
+    second: "\xE7in-map-2-02_Cats_80"
+  - first:
+      213: -8740569701506662437
+    second: "\xE7in-map-2-02_Cats_81"
+  - first:
+      213: -6047161893235598864
+    second: "\xE7in-map-2-02_Cats_82"
+  - first:
+      213: 1590635685354776282
+    second: "\xE7in-map-2-02_Cats_83"
+  - first:
+      213: -6721043320931811531
+    second: "\xE7in-map-2-02_Cats_84"
+  - first:
+      213: -5081685326157723601
+    second: "\xE7in-map-2-02_Cats_85"
+  - first:
+      213: -6868826037363687986
+    second: "\xE7in-map-2-02_Cats_86"
+  - first:
+      213: 66381515677863982
+    second: "\xE7in-map-2-02_Cats_87"
+  - first:
+      213: -2865023857223870922
+    second: "\xE7in-map-2-02_Cats_88"
+  - first:
+      213: 1311478907080997739
+    second: "\xE7in-map-2-02_Cats_89"
+  - first:
+      213: -8833476026607155856
+    second: "\xE7in-map-2-02_Cats_90"
+  - first:
+      213: -5004103176590687339
+    second: "\xE7in-map-2-02_Cats_91"
+  - first:
+      213: -4382510925126125972
+    second: "\xE7in-map-2-02_Cats_92"
+  - first:
+      213: -945249761759686589
+    second: "\xE7in-map-2-02_Cats_93"
+  - first:
+      213: 7842296628961048406
+    second: "\xE7in-map-2-02_Cats_94"
+  - first:
+      213: 9175073927958385965
+    second: "\xE7in-map-2-02_Cats_95"
+  - first:
+      213: 5114841729916301509
+    second: "\xE7in-map-2-02_Cats_96"
+  - first:
+      213: -5610167046648000757
+    second: "\xE7in-map-2-02_Cats_97"
+  - first:
+      213: 4762946002088610073
+    second: "\xE7in-map-2-02_Cats_98"
+  - first:
+      213: 5754273913255884086
+    second: "\xE7in-map-2-02_Cats_99"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_0"
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2961
+        width: 117
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93485fb92e1b954c0800000000000000
+      internalID: -4298208782511143879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_1"
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 2949
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338286810cd60fc0800000000000000
+      internalID: -3528891358888426700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_2"
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 2841
+        width: 103
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdda3854570c2c0c0800000000000000
+      internalID: -4556868263035556389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_3"
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 2763
+        width: 129
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dc6e6f2b73d9590800000000000000
+      internalID: -7665909748928688776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_4"
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2782
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03f1b07218a93bf0800000000000000
+      internalID: -344059099363544305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_5"
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 2786
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b69d6b16bc786c0800000000000000
+      internalID: -4141117711803913439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_6"
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 2743
+        width: 157
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9058c28765c62ded0800000000000000
+      internalID: -2390729333541141239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_7"
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2678
+        width: 89
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea311f7e311150000800000000000000
+      internalID: 1426152076940206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_8"
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 2670
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154b80e7539eef010800000000000000
+      internalID: 1224672564648391761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_9"
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 2530
+        width: 63
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00d864262c7a350800000000000000
+      internalID: 6028000353604927670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_10"
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2489
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12ab58d2db9ac790800000000000000
+      internalID: -7509018098811559393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_11"
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 2318
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b89f844082af8660800000000000000
+      internalID: 7390304185328048304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_12"
+      rect:
+        serializedVersion: 2
+        x: 4160
+        y: 2340
+        width: 104
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79a3d98448bd0270800000000000000
+      internalID: 8218427499530660222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_13"
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 2245
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab7e021d43198a40800000000000000
+      internalID: 5370845252352375718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_14"
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 2263
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5198acfb5720f7230800000000000000
+      internalID: 3638629728690800917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_15"
+      rect:
+        serializedVersion: 2
+        x: 3426
+        y: 2286
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ab22c8e5e96a2a0800000000000000
+      internalID: -6726514864516056484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_16"
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2199
+        width: 47
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637f345ef605325d0800000000000000
+      internalID: -3088536477927999690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_17"
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2229
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13300c77dd8809c40800000000000000
+      internalID: 5517060028307079985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_18"
+      rect:
+        serializedVersion: 2
+        x: 3878
+        y: 2217
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185e668282a296bb0800000000000000
+      internalID: -4942372764097518207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_19"
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 2127
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccf936a455635ed0800000000000000
+      internalID: -2426484359982089018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_20"
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2012
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb8cded62cc9640800000000000000
+      internalID: 5088155456418397087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_21"
+      rect:
+        serializedVersion: 2
+        x: 3409
+        y: 2048
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd946f2c4d24a2b0800000000000000
+      internalID: -5574280633541943848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_22"
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 2034
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc287f9470f0b8e0800000000000000
+      internalID: -1679578277326869300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_23"
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1929
+        width: 48
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e385156b1148f0ca0800000000000000
+      internalID: -6048470562927192002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_24"
+      rect:
+        serializedVersion: 2
+        x: 3767
+        y: 1986
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7515297cffd400d0800000000000000
+      internalID: -3457392338456472196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_25"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1862
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46952634bd88b66d0800000000000000
+      internalID: -2996150651775198876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_26"
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1925
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35886958b70fd020800000000000000
+      internalID: 2368620417375569215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_27"
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1948
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6625a7687249cf0800000000000000
+      internalID: -246528621067213124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_28"
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1857
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30200691d43968a0800000000000000
+      internalID: -6311455328013639620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_29"
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 1888
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfb0c71755f2fb80800000000000000
+      internalID: -8362351803664121911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_30"
+      rect:
+        serializedVersion: 2
+        x: 3050
+        y: 1794
+        width: 112
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e45f8604ae36f20800000000000000
+      internalID: 3414830504836681295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_31"
+      rect:
+        serializedVersion: 2
+        x: 3806
+        y: 1817
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286495e0fd9ea9510800000000000000
+      internalID: 1556813765437638274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_32"
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 1790
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acc39b6bc7deb540800000000000000
+      internalID: 5025691502875233447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_33"
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1750
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104448f0753e11b0800000000000000
+      internalID: -5684046920377155564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_34"
+      rect:
+        serializedVersion: 2
+        x: 4882
+        y: 1724
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed86d12a47b3e2310800000000000000
+      internalID: 1382107507771402462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_35"
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 1634
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdce18adcb2e6a860800000000000000
+      internalID: 7540963926826151131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_36"
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1655
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86c5dd0869479610800000000000000
+      internalID: 1627850501575263887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_37"
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 1669
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdd01717f9b523a0800000000000000
+      internalID: -6690737200493961784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_38"
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 1616
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8419f516ea10f00800000000000000
+      internalID: 1081337118784047283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_39"
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1587
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553fb1ee7206e2fb0800000000000000
+      internalID: -4670690038921825451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_40"
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1571
+        width: 65
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3182c001be0d17a80800000000000000
+      internalID: -8470759716102068205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_41"
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1571
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607c7662c6398bc90800000000000000
+      internalID: -7153805915367946490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_42"
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1526
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14eda75caa7e7d340800000000000000
+      internalID: 4888630641177583169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_43"
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1510
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ccf236bc6944650800000000000000
+      internalID: 6216259185964731439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_44"
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1481
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c206d888a68d2e0800000000000000
+      internalID: -2100812091448349562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_45"
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1534
+        width: 63
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3da38b7b6451740800000000000000
+      internalID: 5122077906087629757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_46"
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1386
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d815d530b8b21d8f0800000000000000
+      internalID: -517584606114000499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_47"
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1416
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8815f886ced32a5f0800000000000000
+      internalID: -746966502614281848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_48"
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 1458
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec3eb7bf6fbf6770800000000000000
+      internalID: 8606307899473280233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_49"
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 1368
+        width: 41
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb1107e2caff650800000000000000
+      internalID: 6268918521771704011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_50"
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 1377
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e65e56578db1590800000000000000
+      internalID: -7702324738954793356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_51"
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 1350
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395128916ce5e3220800000000000000
+      internalID: 2467513850770101651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_52"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1286
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627f5310db5947a20800000000000000
+      internalID: 3059234685893080870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_53"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1320
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7603b361b2d0ab5a0800000000000000
+      internalID: -6504872233075527577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_54"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1137
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c127e7918e2305b0800000000000000
+      internalID: -5403423993780297280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_55"
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1181
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd219dc1baad19620800000000000000
+      internalID: 2779242873522557663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_56"
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1182
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99be24d50b398a940800000000000000
+      internalID: 5307654546544323481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_57"
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1195
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86cbb969ca7f4b50800000000000000
+      internalID: 6579612586092512908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_58"
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 1147
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1007e3a86fddb230800000000000000
+      internalID: 3656324113014128669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_59"
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1156
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78532bb272acadc0800000000000000
+      internalID: -3626344986290464643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_60"
+      rect:
+        serializedVersion: 2
+        x: 4123
+        y: 1177
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834880a674e75ab0800000000000000
+      internalID: -5019292061530569851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_61"
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 1103
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e84ae71e9bb45e0800000000000000
+      internalID: -1924240037627261428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_62"
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 1137
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a0d5207dba39360800000000000000
+      internalID: 7175267571277302400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_63"
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1033
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cfb8b62bd9b0220800000000000000
+      internalID: 2453227811667442726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_64"
+      rect:
+        serializedVersion: 2
+        x: 3950
+        y: 1075
+        width: 100
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec26f9a287390a00800000000000000
+      internalID: 723170249506434280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_65"
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 1014
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887b7e4c2f8b36840800000000000000
+      internalID: 5216216146250282888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_66"
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 963
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a830137353953180800000000000000
+      internalID: -9136234282429171544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_67"
+      rect:
+        serializedVersion: 2
+        x: 3608
+        y: 943
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509dab1b7a65ae10800000000000000
+      internalID: 2208288269272977494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_68"
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 925
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5de6d05a1e9bd740800000000000000
+      internalID: 5177906032455118174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_69"
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 891
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ba81b0f1fb8bd0800000000000000
+      internalID: -2626739941567449827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_70"
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 882
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34689f4c39f7377f0800000000000000
+      internalID: -616008451378018749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_71"
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 842
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4032b0e0fbc94650800000000000000
+      internalID: 6217724995984044107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_72"
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 754
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0d7f6d79f32c180800000000000000
+      internalID: -9096638375955803947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_73"
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 777
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecf2aa5e4245fbf0800000000000000
+      internalID: -291253696600015648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_74"
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 727
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad0d14ba39176e0800000000000000
+      internalID: -1841528408864925182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_75"
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 784
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8680d1538140060800000000000000
+      internalID: 6918681543947348197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_76"
+      rect:
+        serializedVersion: 2
+        x: 2684
+        y: 640
+        width: 33
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc88ee03653c7170800000000000000
+      internalID: 8177469722966133948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_77"
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 665
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa704465e7e548520800000000000000
+      internalID: 2703389573035329450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_78"
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 631
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f0e1b7f651e6cb0800000000000000
+      internalID: -4868930578589806834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_79"
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 522
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d045c5080cde6f30800000000000000
+      internalID: 4570832598842294486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_80"
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 542
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88369e7d648acc80800000000000000
+      internalID: -8301677357294012276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_81"
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 475
+        width: 46
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf372f7a2243b680800000000000000
+      internalID: -8740569701506662437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_82"
+      rect:
+        serializedVersion: 2
+        x: 4873
+        y: 441
+        width: 37
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9d96e1c4a241ca0800000000000000
+      internalID: -6047161893235598864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_83"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 490
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6a1a07ab2131610800000000000000
+      internalID: 1590635685354776282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_84"
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 448
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ff8df85be0ab2a0800000000000000
+      internalID: -6721043320931811531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_85"
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 449
+        width: 53
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28cd0aae1a3a79b0800000000000000
+      internalID: -5081685326157723601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_86"
+      rect:
+        serializedVersion: 2
+        x: 4615
+        y: 445
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdbbf29c170da0a0800000000000000
+      internalID: -6868826037363687986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_87"
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 356
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2091a503a5dbe000800000000000000
+      internalID: 66381515677863982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_88"
+      rect:
+        serializedVersion: 2
+        x: 3546
+        y: 312
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636d62d3bf36d38d0800000000000000
+      internalID: -2865023857223870922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_89"
+      rect:
+        serializedVersion: 2
+        x: 3727
+        y: 388
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bfaf21e1f433210800000000000000
+      internalID: 1311478907080997739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_90"
+      rect:
+        serializedVersion: 2
+        x: 2777
+        y: 254
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c6260b50396580800000000000000
+      internalID: -8833476026607155856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_91"
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 238
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59388eb7caadd8ab0800000000000000
+      internalID: -5004103176590687339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_92"
+      rect:
+        serializedVersion: 2
+        x: 4907
+        y: 279
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66b69b78813e23c0800000000000000
+      internalID: -4382510925126125972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_93"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 130
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3409a4e895cc1e2f0800000000000000
+      internalID: -945249761759686589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_94"
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 111
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6577778db3f65dc60800000000000000
+      internalID: 7842296628961048406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_95"
+      rect:
+        serializedVersion: 2
+        x: 4578
+        y: 151
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2558e73029645f70800000000000000
+      internalID: 9175073927958385965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_96"
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 52
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0710a24719bf640800000000000000
+      internalID: 5114841729916301509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_97"
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 37
+        width: 81
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f81f58bcea422b0800000000000000
+      internalID: -5610167046648000757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_98"
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 0
+        width: 73
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919cbda5722691240800000000000000
+      internalID: 4762946002088610073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\xE7in-map-2-02_Cats_99"
+      rect:
+        serializedVersion: 2
+        x: 4954
+        y: 0
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635f9ebf2a94bdf40800000000000000
+      internalID: 5754273913255884086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "\xE7in-map-2-02_Cats_0": -4298208782511143879
+      "\xE7in-map-2-02_Cats_1": -3528891358888426700
+      "\xE7in-map-2-02_Cats_10": -7509018098811559393
+      "\xE7in-map-2-02_Cats_11": 7390304185328048304
+      "\xE7in-map-2-02_Cats_12": 8218427499530660222
+      "\xE7in-map-2-02_Cats_13": 5370845252352375718
+      "\xE7in-map-2-02_Cats_14": 3638629728690800917
+      "\xE7in-map-2-02_Cats_15": -6726514864516056484
+      "\xE7in-map-2-02_Cats_16": -3088536477927999690
+      "\xE7in-map-2-02_Cats_17": 5517060028307079985
+      "\xE7in-map-2-02_Cats_18": -4942372764097518207
+      "\xE7in-map-2-02_Cats_19": -2426484359982089018
+      "\xE7in-map-2-02_Cats_2": -4556868263035556389
+      "\xE7in-map-2-02_Cats_20": 5088155456418397087
+      "\xE7in-map-2-02_Cats_21": -5574280633541943848
+      "\xE7in-map-2-02_Cats_22": -1679578277326869300
+      "\xE7in-map-2-02_Cats_23": -6048470562927192002
+      "\xE7in-map-2-02_Cats_24": -3457392338456472196
+      "\xE7in-map-2-02_Cats_25": -2996150651775198876
+      "\xE7in-map-2-02_Cats_26": 2368620417375569215
+      "\xE7in-map-2-02_Cats_27": -246528621067213124
+      "\xE7in-map-2-02_Cats_28": -6311455328013639620
+      "\xE7in-map-2-02_Cats_29": -8362351803664121911
+      "\xE7in-map-2-02_Cats_3": -7665909748928688776
+      "\xE7in-map-2-02_Cats_30": 3414830504836681295
+      "\xE7in-map-2-02_Cats_31": 1556813765437638274
+      "\xE7in-map-2-02_Cats_32": 5025691502875233447
+      "\xE7in-map-2-02_Cats_33": -5684046920377155564
+      "\xE7in-map-2-02_Cats_34": 1382107507771402462
+      "\xE7in-map-2-02_Cats_35": 7540963926826151131
+      "\xE7in-map-2-02_Cats_36": 1627850501575263887
+      "\xE7in-map-2-02_Cats_37": -6690737200493961784
+      "\xE7in-map-2-02_Cats_38": 1081337118784047283
+      "\xE7in-map-2-02_Cats_39": -4670690038921825451
+      "\xE7in-map-2-02_Cats_4": -344059099363544305
+      "\xE7in-map-2-02_Cats_40": -8470759716102068205
+      "\xE7in-map-2-02_Cats_41": -7153805915367946490
+      "\xE7in-map-2-02_Cats_42": 4888630641177583169
+      "\xE7in-map-2-02_Cats_43": 6216259185964731439
+      "\xE7in-map-2-02_Cats_44": -2100812091448349562
+      "\xE7in-map-2-02_Cats_45": 5122077906087629757
+      "\xE7in-map-2-02_Cats_46": -517584606114000499
+      "\xE7in-map-2-02_Cats_47": -746966502614281848
+      "\xE7in-map-2-02_Cats_48": 8606307899473280233
+      "\xE7in-map-2-02_Cats_49": 6268918521771704011
+      "\xE7in-map-2-02_Cats_5": -4141117711803913439
+      "\xE7in-map-2-02_Cats_50": -7702324738954793356
+      "\xE7in-map-2-02_Cats_51": 2467513850770101651
+      "\xE7in-map-2-02_Cats_52": 3059234685893080870
+      "\xE7in-map-2-02_Cats_53": -6504872233075527577
+      "\xE7in-map-2-02_Cats_54": -5403423993780297280
+      "\xE7in-map-2-02_Cats_55": 2779242873522557663
+      "\xE7in-map-2-02_Cats_56": 5307654546544323481
+      "\xE7in-map-2-02_Cats_57": 6579612586092512908
+      "\xE7in-map-2-02_Cats_58": 3656324113014128669
+      "\xE7in-map-2-02_Cats_59": -3626344986290464643
+      "\xE7in-map-2-02_Cats_6": -2390729333541141239
+      "\xE7in-map-2-02_Cats_60": -5019292061530569851
+      "\xE7in-map-2-02_Cats_61": -1924240037627261428
+      "\xE7in-map-2-02_Cats_62": 7175267571277302400
+      "\xE7in-map-2-02_Cats_63": 2453227811667442726
+      "\xE7in-map-2-02_Cats_64": 723170249506434280
+      "\xE7in-map-2-02_Cats_65": 5216216146250282888
+      "\xE7in-map-2-02_Cats_66": -9136234282429171544
+      "\xE7in-map-2-02_Cats_67": 2208288269272977494
+      "\xE7in-map-2-02_Cats_68": 5177906032455118174
+      "\xE7in-map-2-02_Cats_69": -2626739941567449827
+      "\xE7in-map-2-02_Cats_7": 1426152076940206
+      "\xE7in-map-2-02_Cats_70": -616008451378018749
+      "\xE7in-map-2-02_Cats_71": 6217724995984044107
+      "\xE7in-map-2-02_Cats_72": -9096638375955803947
+      "\xE7in-map-2-02_Cats_73": -291253696600015648
+      "\xE7in-map-2-02_Cats_74": -1841528408864925182
+      "\xE7in-map-2-02_Cats_75": 6918681543947348197
+      "\xE7in-map-2-02_Cats_76": 8177469722966133948
+      "\xE7in-map-2-02_Cats_77": 2703389573035329450
+      "\xE7in-map-2-02_Cats_78": -4868930578589806834
+      "\xE7in-map-2-02_Cats_79": 4570832598842294486
+      "\xE7in-map-2-02_Cats_8": 1224672564648391761
+      "\xE7in-map-2-02_Cats_80": -8301677357294012276
+      "\xE7in-map-2-02_Cats_81": -8740569701506662437
+      "\xE7in-map-2-02_Cats_82": -6047161893235598864
+      "\xE7in-map-2-02_Cats_83": 1590635685354776282
+      "\xE7in-map-2-02_Cats_84": -6721043320931811531
+      "\xE7in-map-2-02_Cats_85": -5081685326157723601
+      "\xE7in-map-2-02_Cats_86": -6868826037363687986
+      "\xE7in-map-2-02_Cats_87": 66381515677863982
+      "\xE7in-map-2-02_Cats_88": -2865023857223870922
+      "\xE7in-map-2-02_Cats_89": 1311478907080997739
+      "\xE7in-map-2-02_Cats_9": 6028000353604927670
+      "\xE7in-map-2-02_Cats_90": -8833476026607155856
+      "\xE7in-map-2-02_Cats_91": -5004103176590687339
+      "\xE7in-map-2-02_Cats_92": -4382510925126125972
+      "\xE7in-map-2-02_Cats_93": -945249761759686589
+      "\xE7in-map-2-02_Cats_94": 7842296628961048406
+      "\xE7in-map-2-02_Cats_95": 9175073927958385965
+      "\xE7in-map-2-02_Cats_96": 5114841729916301509
+      "\xE7in-map-2-02_Cats_97": -5610167046648000757
+      "\xE7in-map-2-02_Cats_98": 4762946002088610073
+      "\xE7in-map-2-02_Cats_99": 5754273913255884086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

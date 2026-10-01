@@ -1,0 +1,2747 @@
+fileFormatVersion: 2
+guid: 80f5d60835ea65c4d83b5675fcd140c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 823635784293256031
+    second: alm_01_Cats_0
+  - first:
+      213: 3367427650023948832
+    second: alm_01_Cats_1
+  - first:
+      213: -5657194915967882602
+    second: alm_01_Cats_2
+  - first:
+      213: -7236881157058025033
+    second: alm_01_Cats_3
+  - first:
+      213: 2096177964564076442
+    second: alm_01_Cats_4
+  - first:
+      213: 8389220928151687891
+    second: alm_01_Cats_5
+  - first:
+      213: -551150899103433924
+    second: alm_01_Cats_6
+  - first:
+      213: -4782571499637831337
+    second: alm_01_Cats_7
+  - first:
+      213: 889750758555090217
+    second: alm_01_Cats_8
+  - first:
+      213: 7814538006072309885
+    second: alm_01_Cats_9
+  - first:
+      213: -445527558076953271
+    second: alm_01_Cats_10
+  - first:
+      213: -1312334584551207873
+    second: alm_01_Cats_11
+  - first:
+      213: 8093788904504436182
+    second: alm_01_Cats_12
+  - first:
+      213: 1506867275788427811
+    second: alm_01_Cats_13
+  - first:
+      213: -1891128756225431572
+    second: alm_01_Cats_14
+  - first:
+      213: -5095297616795190521
+    second: alm_01_Cats_15
+  - first:
+      213: -8308625113508476958
+    second: alm_01_Cats_16
+  - first:
+      213: -4012736969959394370
+    second: alm_01_Cats_17
+  - first:
+      213: 5536819879664191243
+    second: alm_01_Cats_18
+  - first:
+      213: 6428790996402955626
+    second: alm_01_Cats_19
+  - first:
+      213: -8737258603356529088
+    second: alm_01_Cats_20
+  - first:
+      213: -1303142875528752463
+    second: alm_01_Cats_21
+  - first:
+      213: 488232437815865534
+    second: alm_01_Cats_22
+  - first:
+      213: -1769619065191544807
+    second: alm_01_Cats_23
+  - first:
+      213: -4627335013257896993
+    second: alm_01_Cats_24
+  - first:
+      213: 6834693523738426207
+    second: alm_01_Cats_25
+  - first:
+      213: -7771737692744283445
+    second: alm_01_Cats_26
+  - first:
+      213: -8965663936806875691
+    second: alm_01_Cats_27
+  - first:
+      213: 8977362566297773051
+    second: alm_01_Cats_28
+  - first:
+      213: 5270246600482321773
+    second: alm_01_Cats_29
+  - first:
+      213: 1248077946801842303
+    second: alm_01_Cats_30
+  - first:
+      213: -6922083503386308989
+    second: alm_01_Cats_31
+  - first:
+      213: -7792479313497975523
+    second: alm_01_Cats_32
+  - first:
+      213: -7658686347331616274
+    second: alm_01_Cats_33
+  - first:
+      213: 1482722721964344010
+    second: alm_01_Cats_34
+  - first:
+      213: 7317799057317546275
+    second: alm_01_Cats_35
+  - first:
+      213: 5128269023479640456
+    second: alm_01_Cats_36
+  - first:
+      213: 1547933896990053707
+    second: alm_01_Cats_37
+  - first:
+      213: 4494899614012793347
+    second: alm_01_Cats_38
+  - first:
+      213: 8673780017363525201
+    second: alm_01_Cats_39
+  - first:
+      213: 600241258056589191
+    second: alm_01_Cats_40
+  - first:
+      213: 869652484924608874
+    second: alm_01_Cats_41
+  - first:
+      213: 1323005693434677166
+    second: alm_01_Cats_42
+  - first:
+      213: 3915124666291649966
+    second: alm_01_Cats_43
+  - first:
+      213: -4625842765765611343
+    second: alm_01_Cats_44
+  - first:
+      213: -3550045966955837819
+    second: alm_01_Cats_45
+  - first:
+      213: 4567666189714865497
+    second: alm_01_Cats_46
+  - first:
+      213: 649353427277199510
+    second: alm_01_Cats_47
+  - first:
+      213: -265656614951212071
+    second: alm_01_Cats_48
+  - first:
+      213: -738787975005028699
+    second: alm_01_Cats_49
+  - first:
+      213: -7714815748650460187
+    second: alm_01_Cats_50
+  - first:
+      213: 6970251223721500204
+    second: alm_01_Cats_51
+  - first:
+      213: -7718322737616585279
+    second: alm_01_Cats_52
+  - first:
+      213: -6373496368677812072
+    second: alm_01_Cats_53
+  - first:
+      213: -5271613092333795699
+    second: alm_01_Cats_54
+  - first:
+      213: 4588483583266261378
+    second: alm_01_Cats_55
+  - first:
+      213: 6104827698568741482
+    second: alm_01_Cats_56
+  - first:
+      213: 2957261597367030990
+    second: alm_01_Cats_57
+  - first:
+      213: 1542229751811580227
+    second: alm_01_Cats_58
+  - first:
+      213: -2675217025680519709
+    second: alm_01_Cats_59
+  - first:
+      213: -110483637509412540
+    second: alm_01_Cats_60
+  - first:
+      213: -2647169964418341014
+    second: alm_01_Cats_61
+  - first:
+      213: -5220285545546356898
+    second: alm_01_Cats_62
+  - first:
+      213: -7472455101986075700
+    second: alm_01_Cats_63
+  - first:
+      213: -3231925307149107191
+    second: alm_01_Cats_64
+  - first:
+      213: 4998233655926567364
+    second: alm_01_Cats_65
+  - first:
+      213: 2346531092049955861
+    second: alm_01_Cats_66
+  - first:
+      213: 2230257972718685809
+    second: alm_01_Cats_67
+  - first:
+      213: 8128658189218135417
+    second: alm_01_Cats_68
+  - first:
+      213: 2664594217893672486
+    second: alm_01_Cats_69
+  - first:
+      213: 659070709333512465
+    second: alm_01_Cats_70
+  - first:
+      213: -7289291624087433074
+    second: alm_01_Cats_71
+  - first:
+      213: -8212868868235776644
+    second: alm_01_Cats_72
+  - first:
+      213: 7569952979271630718
+    second: alm_01_Cats_73
+  - first:
+      213: -9011389903138521953
+    second: alm_01_Cats_74
+  - first:
+      213: -1396281362312380429
+    second: alm_01_Cats_75
+  - first:
+      213: 1662395214730268596
+    second: alm_01_Cats_76
+  - first:
+      213: 1987906256395995336
+    second: alm_01_Cats_77
+  - first:
+      213: 7709878554411140423
+    second: alm_01_Cats_78
+  - first:
+      213: 4433394915378468251
+    second: alm_01_Cats_79
+  - first:
+      213: 3314271172241947699
+    second: alm_01_Cats_80
+  - first:
+      213: -7145265978559896347
+    second: alm_01_Cats_81
+  - first:
+      213: -8298558577921894136
+    second: alm_01_Cats_82
+  - first:
+      213: -3430350728878929252
+    second: alm_01_Cats_83
+  - first:
+      213: 5915187012969744611
+    second: alm_01_Cats_84
+  - first:
+      213: 918364966936036317
+    second: alm_01_Cats_85
+  - first:
+      213: -2750107633718338557
+    second: alm_01_Cats_86
+  - first:
+      213: -8649024590778470834
+    second: alm_01_Cats_87
+  - first:
+      213: -3408061673885510995
+    second: alm_01_Cats_88
+  - first:
+      213: 1399865669685582285
+    second: alm_01_Cats_89
+  - first:
+      213: 248508635269013483
+    second: alm_01_Cats_90
+  - first:
+      213: 5274215836802786033
+    second: alm_01_Cats_91
+  - first:
+      213: 5102276563739513235
+    second: alm_01_Cats_92
+  - first:
+      213: -9048843708858811435
+    second: alm_01_Cats_93
+  - first:
+      213: -7486149505107622044
+    second: alm_01_Cats_94
+  - first:
+      213: 1586482002189500259
+    second: alm_01_Cats_95
+  - first:
+      213: -5231076218578381941
+    second: alm_01_Cats_96
+  - first:
+      213: -6866854274388416091
+    second: alm_01_Cats_97
+  - first:
+      213: 1825977575845072146
+    second: alm_01_Cats_98
+  - first:
+      213: -2976486605177509259
+    second: alm_01_Cats_99
+  - first:
+      213: 6360554867223307746
+    second: alm_01_Cats_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alm_01_Cats_0
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2865
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b891bc1642e6b00800000000000000
+      internalID: 823635784293256031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_1
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 2867
+        width: 74
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02281863b918bbe20800000000000000
+      internalID: 3367427650023948832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_2
+      rect:
+        serializedVersion: 2
+        x: 4127
+        y: 2876
+        width: 122
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69aa690723b9d71b0800000000000000
+      internalID: -5657194915967882602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2667
+        width: 112
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9a6d72eee619b90800000000000000
+      internalID: -7236881157058025033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_4
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2734
+        width: 101
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97d7d3b0ce171d10800000000000000
+      internalID: 2096177964564076442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_5
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2714
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d211c47cff7c6470800000000000000
+      internalID: 8389220928151687891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_6
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 2740
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b7d496d2be958f0800000000000000
+      internalID: -551150899103433924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_7
+      rect:
+        serializedVersion: 2
+        x: 4311
+        y: 2695
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7590e2b6f84e0adb0800000000000000
+      internalID: -4782571499637831337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_8
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2519
+        width: 72
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d7f4ec997095c00800000000000000
+      internalID: 889750758555090217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_9
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2556
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78babfc9e0d27c60800000000000000
+      internalID: 7814538006072309885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_10
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 2533
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d0d23eb0b21d9f0800000000000000
+      internalID: -445527558076953271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_11
+      rect:
+        serializedVersion: 2
+        x: 4791
+        y: 2561
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c8d5df5a6a9cde0800000000000000
+      internalID: -1312334584551207873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_12
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 2511
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d52cfb302ae25070800000000000000
+      internalID: 8093788904504436182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_13
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 2441
+        width: 133
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322a709bdc779e410800000000000000
+      internalID: 1506867275788427811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_14
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 2469
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce728a47a6c51c5e0800000000000000
+      internalID: -1891128756225431572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_15
+      rect:
+        serializedVersion: 2
+        x: 3734
+        y: 2419
+        width: 66
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b370640ddd949b0800000000000000
+      internalID: -5095297616795190521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_16
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 2439
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70071fa75d1bc80800000000000000
+      internalID: -8308625113508476958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_17
+      rect:
+        serializedVersion: 2
+        x: 4493
+        y: 2357
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb33e787cf4ef48c0800000000000000
+      internalID: -4012736969959394370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_18
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2266
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0784b0685cb6dc40800000000000000
+      internalID: 5536819879664191243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_19
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 2235
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65e3db9957a73950800000000000000
+      internalID: 6428790996402955626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_20
+      rect:
+        serializedVersion: 2
+        x: 4876
+        y: 2216
+        width: 59
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e553c97950fb680800000000000000
+      internalID: -8737258603356529088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_21
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 2150
+        width: 25
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21784857e4aede0800000000000000
+      internalID: -1303142875528752463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_22
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 2213
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb076dfb0dc86c600800000000000000
+      internalID: 488232437815865534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_23
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 2061
+        width: 123
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918cf7706dc0177e0800000000000000
+      internalID: -1769619065191544807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_24
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 2102
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb1906725768cfb0800000000000000
+      internalID: -4627335013257896993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_25
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 2153
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b771f4c85b9de50800000000000000
+      internalID: 6834693523738426207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_26
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1985
+        width: 58
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca8670bebd352490800000000000000
+      internalID: -7771737692744283445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1975
+        width: 36
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd881fc620939380800000000000000
+      internalID: -8965663936806875691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_28
+      rect:
+        serializedVersion: 2
+        x: 3476
+        y: 2031
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf36110a0bff59c70800000000000000
+      internalID: 8977362566297773051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_29
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 1974
+        width: 35
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6575743c5da32940800000000000000
+      internalID: 5270246600482321773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_30
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1883
+        width: 109
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f786f1fa740125110800000000000000
+      internalID: 1248077946801842303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_31
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1933
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e411b7ab1dfef90800000000000000
+      internalID: -6922083503386308989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_32
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1925
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d159f57c95d8bd390800000000000000
+      internalID: -7792479313497975523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_33
+      rect:
+        serializedVersion: 2
+        x: 3915
+        y: 1926
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee14a253851e6b590800000000000000
+      internalID: -7658686347331616274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_34
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1859
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2c517b570b39410800000000000000
+      internalID: 1482722721964344010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_35
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1814
+        width: 88
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c915a87b0e8560800000000000000
+      internalID: 7317799057317546275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_36
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 1716
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881b42191854b2740800000000000000
+      internalID: 5128269023479640456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_37
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1769
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45d0e19dad5b7510800000000000000
+      internalID: 1547933896990053707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_38
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 1745
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e54a4267116e30800000000000000
+      internalID: 4494899614012793347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_39
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1679
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e95da58f47f5870800000000000000
+      internalID: 8673780017363525201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_40
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 1543
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1ff57e3c745800800000000000000
+      internalID: 600241258056589191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_41
+      rect:
+        serializedVersion: 2
+        x: 3698
+        y: 1579
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6197f1d350a11c00800000000000000
+      internalID: 869652484924608874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_42
+      rect:
+        serializedVersion: 2
+        x: 4550
+        y: 1629
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea74ef82ba24c5210800000000000000
+      internalID: 1323005693434677166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_43
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1570
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadfea90421555630800000000000000
+      internalID: 3915124666291649966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_44
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1577
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0fab76384bdcfb0800000000000000
+      internalID: -4625842765765611343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_45
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 1529
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5860a438004bbbec0800000000000000
+      internalID: -3550045966955837819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1323
+        width: 68
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d3482f23c936f30800000000000000
+      internalID: 4567666189714865497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_47
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1393
+        width: 58
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6983a8e6087f20900800000000000000
+      internalID: 649353427277199510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_48
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1402
+        width: 58
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dba99957b2305cf0800000000000000
+      internalID: -265656614951212071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_49
+      rect:
+        serializedVersion: 2
+        x: 4147
+        y: 1302
+        width: 53
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aebe71404c4fb5f0800000000000000
+      internalID: -738787975005028699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_50
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1310
+        width: 118
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb991293f77fe490800000000000000
+      internalID: -7714815748650460187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_51
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1276
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ed629de8e4bb060800000000000000
+      internalID: 6970251223721500204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_52
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 1241
+        width: 82
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdfa821d5203e490800000000000000
+      internalID: -7718322737616585279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_53
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 1306
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89887b722dacc87a0800000000000000
+      internalID: -6373496368677812072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_54
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 1196
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86452e92d777d6b0800000000000000
+      internalID: -5271613092333795699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_55
+      rect:
+        serializedVersion: 2
+        x: 4801
+        y: 1233
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2890c4612819daf30800000000000000
+      internalID: 4588483583266261378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_56
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1157
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62c7247274b8b450800000000000000
+      internalID: 6104827698568741482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_57
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1088
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec457fa21cd4a0920800000000000000
+      internalID: 2957261597367030990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_58
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1034
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341a4c6c9c9176510800000000000000
+      internalID: 1542229751811580227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_60
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 1065
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44922c097bb777ef0800000000000000
+      internalID: -110483637509412540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_61
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 942
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67e2c251fc534bd0800000000000000
+      internalID: -2647169964418341014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_62
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 1022
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e576a9f54f1dd87b0800000000000000
+      internalID: -5220285545546356898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_63
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 971
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb801eeca18c4890800000000000000
+      internalID: -7472455101986075700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_64
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 942
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90048ce7e05e523d0800000000000000
+      internalID: -3231925307149107191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_65
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 871
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1b7ed370b4d5540800000000000000
+      internalID: 4998233655926567364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_66
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 941
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c0c04889d809020800000000000000
+      internalID: 2346531092049955861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_67
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 863
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e416d4fc773fe10800000000000000
+      internalID: 2230257972718685809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_68
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 801
+        width: 37
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97dbaec3e8bcec070800000000000000
+      internalID: 8128658189218135417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_69
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 789
+        width: 41
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626bc14d25a8af420800000000000000
+      internalID: 2664594217893672486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_70
+      rect:
+        serializedVersion: 2
+        x: 3945
+        y: 835
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11150b7715d752900800000000000000
+      internalID: 659070709333512465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_71
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 677
+        width: 25
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80d90263eb37da90800000000000000
+      internalID: -7289291624087433074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_72
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 710
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d21f92747060e80800000000000000
+      internalID: -8212868868235776644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_73
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 684
+        width: 55
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f35e79020ed0960800000000000000
+      internalID: 7569952979271630718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_74
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 625
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cf2e2a0ac11f280800000000000000
+      internalID: -9011389903138521953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_75
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 499
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff3fd0bf796f9ce0800000000000000
+      internalID: -1396281362312380429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_76
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 552
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf8e4ad3a3021710800000000000000
+      internalID: 1662395214730268596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_77
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 520
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c882433536769b10800000000000000
+      internalID: 1987906256395995336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_78
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 564
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745041152bdfefa60800000000000000
+      internalID: 7709878554411140423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_79
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 511
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b951828bf25968d30800000000000000
+      internalID: 4433394915378468251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_80
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 507
+        width: 89
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c7cc64218aefd20800000000000000
+      internalID: 3314271172241947699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_81
+      rect:
+        serializedVersion: 2
+        x: 3905
+        y: 514
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4e042237ae6dc90800000000000000
+      internalID: -7145265978559896347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_82
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 445
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d137e0f895dc80800000000000000
+      internalID: -8298558577921894136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 406
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a4b26df22f460d0800000000000000
+      internalID: -3430350728878929252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_84
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 343
+        width: 52
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8c0109f37f61250800000000000000
+      internalID: 5915187012969744611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_85
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 364
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3c26c5210bebc00800000000000000
+      internalID: 918364966936036317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 268
+        width: 25
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cd0268da7a5d9d0800000000000000
+      internalID: -2750107633718338557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_87
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 296
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ee70d85fd78f780800000000000000
+      internalID: -8649024590778470834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_88
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 332
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da25e6bd6f124b0d0800000000000000
+      internalID: -3408061673885510995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc99fd6e8625d6310800000000000000
+      internalID: 1399865669685582285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 239
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef93d08941e27300800000000000000
+      internalID: 248508635269013483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_91
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 186
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ae5d0c57c13940800000000000000
+      internalID: 5274215836802786033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_92
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 171
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3919e7f608deec640800000000000000
+      internalID: 5102276563739513235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_93
+      rect:
+        serializedVersion: 2
+        x: 4548
+        y: 217
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db3171f69c0c6280800000000000000
+      internalID: -9048843708858811435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_94
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 144
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467089c30badb1890800000000000000
+      internalID: -7486149505107622044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_95
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 125
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f3e07b9f0540610800000000000000
+      internalID: 1586482002189500259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_96
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 101
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8354a605eb7767b0800000000000000
+      internalID: -5231076218578381941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_97
+      rect:
+        serializedVersion: 2
+        x: 4306
+        y: 99
+        width: 90
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9a4ba6b6804b0a0800000000000000
+      internalID: -6866854274388416091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_98
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 151
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d03184eec275910800000000000000
+      internalID: 1825977575845072146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_99
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 77
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aafa3e33561b6d0800000000000000
+      internalID: -2976486605177509259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alm_01_Cats_100
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 42
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e52a3bb3fa354850800000000000000
+      internalID: 6360554867223307746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b17d71316fc651249842a53318438874
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      alm_01_Cats_0: 823635784293256031
+      alm_01_Cats_1: 3367427650023948832
+      alm_01_Cats_10: -445527558076953271
+      alm_01_Cats_100: 6360554867223307746
+      alm_01_Cats_11: -1312334584551207873
+      alm_01_Cats_12: 8093788904504436182
+      alm_01_Cats_13: 1506867275788427811
+      alm_01_Cats_14: -1891128756225431572
+      alm_01_Cats_15: -5095297616795190521
+      alm_01_Cats_16: -8308625113508476958
+      alm_01_Cats_17: -4012736969959394370
+      alm_01_Cats_18: 5536819879664191243
+      alm_01_Cats_19: 6428790996402955626
+      alm_01_Cats_2: -5657194915967882602
+      alm_01_Cats_20: -8737258603356529088
+      alm_01_Cats_21: -1303142875528752463
+      alm_01_Cats_22: 488232437815865534
+      alm_01_Cats_23: -1769619065191544807
+      alm_01_Cats_24: -4627335013257896993
+      alm_01_Cats_25: 6834693523738426207
+      alm_01_Cats_26: -7771737692744283445
+      alm_01_Cats_27: -8965663936806875691
+      alm_01_Cats_28: 8977362566297773051
+      alm_01_Cats_29: 5270246600482321773
+      alm_01_Cats_3: -7236881157058025033
+      alm_01_Cats_30: 1248077946801842303
+      alm_01_Cats_31: -6922083503386308989
+      alm_01_Cats_32: -7792479313497975523
+      alm_01_Cats_33: -7658686347331616274
+      alm_01_Cats_34: 1482722721964344010
+      alm_01_Cats_35: 7317799057317546275
+      alm_01_Cats_36: 5128269023479640456
+      alm_01_Cats_37: 1547933896990053707
+      alm_01_Cats_38: 4494899614012793347
+      alm_01_Cats_39: 8673780017363525201
+      alm_01_Cats_4: 2096177964564076442
+      alm_01_Cats_40: 600241258056589191
+      alm_01_Cats_41: 869652484924608874
+      alm_01_Cats_42: 1323005693434677166
+      alm_01_Cats_43: 3915124666291649966
+      alm_01_Cats_44: -4625842765765611343
+      alm_01_Cats_45: -3550045966955837819
+      alm_01_Cats_46: 4567666189714865497
+      alm_01_Cats_47: 649353427277199510
+      alm_01_Cats_48: -265656614951212071
+      alm_01_Cats_49: -738787975005028699
+      alm_01_Cats_5: 8389220928151687891
+      alm_01_Cats_50: -7714815748650460187
+      alm_01_Cats_51: 6970251223721500204
+      alm_01_Cats_52: -7718322737616585279
+      alm_01_Cats_53: -6373496368677812072
+      alm_01_Cats_54: -5271613092333795699
+      alm_01_Cats_55: 4588483583266261378
+      alm_01_Cats_56: 6104827698568741482
+      alm_01_Cats_57: 2957261597367030990
+      alm_01_Cats_58: 1542229751811580227
+      alm_01_Cats_59: -2675217025680519709
+      alm_01_Cats_6: -551150899103433924
+      alm_01_Cats_60: -110483637509412540
+      alm_01_Cats_61: -2647169964418341014
+      alm_01_Cats_62: -5220285545546356898
+      alm_01_Cats_63: -7472455101986075700
+      alm_01_Cats_64: -3231925307149107191
+      alm_01_Cats_65: 4998233655926567364
+      alm_01_Cats_66: 2346531092049955861
+      alm_01_Cats_67: 2230257972718685809
+      alm_01_Cats_68: 8128658189218135417
+      alm_01_Cats_69: 2664594217893672486
+      alm_01_Cats_7: -4782571499637831337
+      alm_01_Cats_70: 659070709333512465
+      alm_01_Cats_71: -7289291624087433074
+      alm_01_Cats_72: -8212868868235776644
+      alm_01_Cats_73: 7569952979271630718
+      alm_01_Cats_74: -9011389903138521953
+      alm_01_Cats_75: -1396281362312380429
+      alm_01_Cats_76: 1662395214730268596
+      alm_01_Cats_77: 1987906256395995336
+      alm_01_Cats_78: 7709878554411140423
+      alm_01_Cats_79: 4433394915378468251
+      alm_01_Cats_8: 889750758555090217
+      alm_01_Cats_80: 3314271172241947699
+      alm_01_Cats_81: -7145265978559896347
+      alm_01_Cats_82: -8298558577921894136
+      alm_01_Cats_83: -3430350728878929252
+      alm_01_Cats_84: 5915187012969744611
+      alm_01_Cats_85: 918364966936036317
+      alm_01_Cats_86: -2750107633718338557
+      alm_01_Cats_87: -8649024590778470834
+      alm_01_Cats_88: -3408061673885510995
+      alm_01_Cats_89: 1399865669685582285
+      alm_01_Cats_9: 7814538006072309885
+      alm_01_Cats_90: 248508635269013483
+      alm_01_Cats_91: 5274215836802786033
+      alm_01_Cats_92: 5102276563739513235
+      alm_01_Cats_93: -9048843708858811435
+      alm_01_Cats_94: -7486149505107622044
+      alm_01_Cats_95: 1586482002189500259
+      alm_01_Cats_96: -5231076218578381941
+      alm_01_Cats_97: -6866854274388416091
+      alm_01_Cats_98: 1825977575845072146
+      alm_01_Cats_99: -2976486605177509259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
