@@ -40,7 +40,8 @@ public class InputManager : MonoBehaviour
     public Sprite GamePadIcon;
 
     // Mobil: dokun = tıkla, basılı tut = ThirdInteract, tek parmak sürükle = kaydır, iki parmak = zoom
-    public static bool IsTouchMode => Application.isMobilePlatform;
+    // UnityEngine.Device: Device Simulator'da da doğru değeri verir (gerçek cihazda Application ile aynı)
+    public static bool IsTouchMode => UnityEngine.Device.Application.isMobilePlatform;
 
     [Header("Touch")]
     [Tooltip("Dokunuşun sürükleme sayılması için gereken hareket (dp)")]
@@ -55,6 +56,8 @@ public class InputManager : MonoBehaviour
     private bool pinchActive;
     private float lastPinchDistance;
     private Vector2 lastPinchMid;
+    private int panTouchId = -1;
+    private Vector2 lastPanPos;
     private readonly List<RaycastResult> uiRaycastResults = new List<RaycastResult>();
 
     private void Awake()
@@ -120,13 +123,11 @@ public class InputManager : MonoBehaviour
     {
         _action.Enable();
         Activate();
-        if (IsTouchMode) EnhancedTouchSupport.Enable();
     }
     private void OnDisable()
     {
         Deactivate();
         _action.Disable();
-        if (IsTouchMode) EnhancedTouchSupport.Disable();
     }
 
     private void Update()
@@ -188,6 +189,9 @@ public class InputManager : MonoBehaviour
         touchPanDelta = Vector2.zero;
         touchPinchRatio = 1f;
 
+        // Sahne geçişlerinde silinen kopya InputManager'lar kapatmasın diye burada açık tutuluyor
+        if (!EnhancedTouchSupport.enabled) EnhancedTouchSupport.Enable();
+
         var touches = Touch.activeTouches;
         if (touches.Count == 0)
         {
@@ -216,12 +220,20 @@ public class InputManager : MonoBehaviour
             pinchActive = true;
             lastPinchDistance = dist;
             lastPinchMid = mid;
+            panTouchId = -1;
             return;
         }
         pinchActive = false;
 
         Touch t = touches[0];
         currentMousePos = t.screenPosition;
+
+        // Parmak değiştiyse (ör. pinch'ten tek parmağa geçiş) zıplamaması için referansı sıfırla
+        if (t.touchId != panTouchId)
+        {
+            panTouchId = t.touchId;
+            lastPanPos = t.screenPosition;
+        }
 
         switch (t.phase)
         {
@@ -246,8 +258,13 @@ public class InputManager : MonoBehaviour
                 {
                     touchDragging = true;
                     CancelTouchHold();
+                    lastPanPos = t.screenPosition;
                 }
-                if (touchDragging) touchPanDelta = t.delta;
+                if (touchDragging)
+                {
+                    touchPanDelta = t.screenPosition - lastPanPos;
+                    lastPanPos = t.screenPosition;
+                }
                 break;
 
             case TouchPhase.Ended:
@@ -285,7 +302,12 @@ public class InputManager : MonoBehaviour
         PointerEventData data = new PointerEventData(EventSystem.current) { position = screenPos };
         uiRaycastResults.Clear();
         EventSystem.current.RaycastAll(data, uiRaycastResults);
-        return uiRaycastResults.Count > 0;
+        // Sadece UI (Canvas) sonuçlarını say; kamera üzerindeki Physics raycaster'lar sahnedeki objeleri de döndürebilir
+        foreach (RaycastResult r in uiRaycastResults)
+        {
+            if (r.module is GraphicRaycaster) return true;
+        }
+        return false;
     }
 
     // Tek parmak (veya iki parmak ortası) sürükleme miktarı, piksel
@@ -297,6 +319,11 @@ public class InputManager : MonoBehaviour
     public float touchPinch()
     {
         return touchPinchRatio;
+    }
+    // İki parmağın ortası (zoom bu noktaya doğru yapılır)
+    public Vector2 touchPinchCenter()
+    {
+        return lastPinchMid;
     }
     #endregion
 

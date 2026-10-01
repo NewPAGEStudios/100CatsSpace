@@ -636,6 +636,8 @@ MonoBehaviour:
   versionTxt: {fileID: 895063197}
   cursorDisplayOffline: {fileID: 1975987296}
   HoveredElement: {fileID: 0}
+  steamOnlyObjects:
+  - {fileID: 272863464}
   selectedPaintId: 
 --- !u!114 &15859565
 MonoBehaviour:

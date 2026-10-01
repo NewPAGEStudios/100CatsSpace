@@ -147,12 +147,19 @@ public class CameraZoom : MonoBehaviour
         Vector3 pos = transform.position;
 
         // Kameranın ortası öyle olmalı ki kenarlar sınırların dışına çıkmasın
-        pos.x = Mathf.Clamp(pos.x, minXPos + horzExtent, maxXPos - horzExtent);
-        pos.y = Mathf.Clamp(pos.y, minYPos + vertExtent, maxYPos - vertExtent);
+        // Görüntü sınırlardan genişse (geniş telefon ekranı) ortala; yoksa Clamp min>max olup titretir
+        pos.x = ClampOrCenter(pos.x, minXPos + horzExtent, maxXPos - horzExtent);
+        pos.y = ClampOrCenter(pos.y, minYPos + vertExtent, maxYPos - vertExtent);
         pos.z = -10f;
         transform.position = pos;
 
         TxtDisplayOption();
+    }
+
+    private static float ClampOrCenter(float value, float min, float max)
+    {
+        if (min > max) return (min + max) * 0.5f;
+        return Mathf.Clamp(value, min, max);
     }
     public void zoomCam(float zoomValue)
     {
@@ -238,15 +245,21 @@ public class CameraZoom : MonoBehaviour
         transform.position -= new Vector3(screenDelta.x, screenDelta.y, 0f) * worldPerPixel;
     }
 
-    // Dokunmatik: pinch zoom. ratio > 1 uzaklaşır, < 1 yakınlaşır
-    public void touchZoomCam(float ratio)
+    // Dokunmatik: pinch zoom. ratio > 1 uzaklaşır, < 1 yakınlaşır. İki parmağın ortasındaki nokta yerinde kalır
+    public void touchZoomCam(float ratio, Vector2 screenCenter)
     {
         if (playerInterrupt) return;
 
+        Camera cam = Camera.main;
+        Vector3 worldBefore = cam.ScreenToWorldPoint(screenCenter);
+
         desiredZoom = Mathf.Clamp(desiredZoom * ratio, minZoom, maxZoom);
         // Lerp gecikmesi olmasın, parmakla birlikte hareket etsin
-        Camera.main.orthographicSize = desiredZoom;
+        cam.orthographicSize = desiredZoom;
         panSpeed = Mathf.Lerp(0.5f, 2.5f, (desiredZoom - minZoom) / (maxZoom - minZoom));
+
+        Vector3 worldAfter = cam.ScreenToWorldPoint(screenCenter);
+        transform.position += new Vector3(worldBefore.x - worldAfter.x, worldBefore.y - worldAfter.y, 0f);
     }
 
     public void TxtDisplayOption()

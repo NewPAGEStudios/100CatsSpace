@@ -89,7 +89,7 @@ public class PlayerControllerOffline : MonoBehaviour
         if (!InputManager.IsTouchMode) return;
 
         if (inputManager.touchPan() != Vector2.zero) cameraZoom.touchPanCam(inputManager.touchPan());
-        if (inputManager.touchPinch() != 1f) cameraZoom.touchZoomCam(inputManager.touchPinch());
+        if (inputManager.touchPinch() != 1f) cameraZoom.touchZoomCam(inputManager.touchPinch(), inputManager.touchPinchCenter());
     }
 
     private Vector2 getMousePosOnUI()

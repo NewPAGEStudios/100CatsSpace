@@ -99,6 +99,10 @@ public class CustomSceneChanger : MonoBehaviour
         InputManager.Instance.stopInput();
         yield return null;
 
+        float aspectFix = AspectFix();
+        target *= aspectFix;
+        speed *= aspectFix;
+
         sprMask.localScale = target * Vector3.one;
 
         while (true)
@@ -120,6 +124,10 @@ public class CustomSceneChanger : MonoBehaviour
         InputManager.Instance.stopInput();
         yield return null;
 
+        float aspectFix = AspectFix();
+        target *= aspectFix;
+        speed *= aspectFix;
+
         sprMask.localScale = target * Vector3.one;
 
         while (true)
@@ -134,10 +142,27 @@ public class CustomSceneChanger : MonoBehaviour
         manager.StartGame(sceneName);
     }
 
+    // Çember boyutları 16:9 ekrana göre ayarlı; daha geniş ekranlarda (telefon) köşeleri de kapatacak kadar büyüt
+    private float AspectFix()
+    {
+        const float designAspect = 16f / 9f;
+        float aspect = Camera.main != null ? Camera.main.aspect : designAspect;
+        if (aspect <= designAspect) return 1f;
+
+        float designDiagonal = Mathf.Sqrt(designAspect * designAspect + 1f);
+        float diagonal = Mathf.Sqrt(aspect * aspect + 1f);
+        return diagonal / designDiagonal * 1.05f; // %5 pay: köşeler kesin kapansın
+    }
+
     IEnumerator OpenAnim(float target, float speed)
     {
         InputManager.Instance.stopInput();
         yield return null;
+
+        float aspectFix = AspectFix();
+        target *= aspectFix;
+        speed *= aspectFix;
+
         sprMask.localScale = Vector3.zero;
 
         while (true)

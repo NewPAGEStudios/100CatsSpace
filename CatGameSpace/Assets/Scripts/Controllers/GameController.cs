@@ -103,9 +103,45 @@ public class GameController : MonoBehaviour
         }
     }
 
+    [Header("Mobile UI")]
+    [Tooltip("Mobilde oyun arayüzü bu oranda büyütülür")]
+    public float mobileUIScale = 1.1f;
+    [Tooltip("Mobilde panel aç/kapa butonlarının dokunma alanı her yönde bu kadar genişletilir (canvas birimi)")]
+    public float mobileToggleTouchPadding = 40f;
+
+    private void ApplyMobileUILayout()
+    {
+        if (!InputManager.IsTouchMode) return;
+
+        // Panellerin bağlı olduğu Canvas'ları büyüt (her Canvas bir kez)
+        var scalers = new System.Collections.Generic.HashSet<CanvasScaler>();
+        if (UpperPanel != null) scalers.Add(UpperPanel.GetComponentInParent<CanvasScaler>(true));
+        if (ColourControll.Instance != null && ColourControll.Instance.canvasOBJ != null)
+            scalers.Add(ColourControll.Instance.canvasOBJ.GetComponentInParent<CanvasScaler>(true));
+        scalers.Remove(null);
+
+        foreach (CanvasScaler scaler in scalers)
+        {
+            if (scaler.uiScaleMode == CanvasScaler.ScaleMode.ScaleWithScreenSize)
+                scaler.referenceResolution /= mobileUIScale;
+            else
+                scaler.scaleFactor *= mobileUIScale;
+        }
+
+        // Aç/kapa butonları küçük; görünümü değiştirmeden dokunma alanını genişlet
+        float p = -mobileToggleTouchPadding;
+        foreach (Image toggle in new[] { UpperStatusChanger, DownStatusChanger })
+        {
+            if (toggle == null) continue;
+            toggle.raycastTarget = true;
+            toggle.raycastPadding = new Vector4(p, p, p, p);
+        }
+    }
+
     private void Start()
     {
         setController.StartThis();
+        ApplyMobileUILayout();
 
 
         PaintObject[] paints = Resources.LoadAll<PaintObject>(GameDataTracker.paintObjectFileKey);
