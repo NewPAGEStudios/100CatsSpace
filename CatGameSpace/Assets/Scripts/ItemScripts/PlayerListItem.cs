@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+#if STEAMWORKS_NET
 using Steamworks;
+#endif
 
 public class PlayerListItem : MonoBehaviour
 {
@@ -20,7 +22,9 @@ public class PlayerListItem : MonoBehaviour
     public GameObject playerReadyGO;
     public bool Ready;
 
+#if STEAMWORKS_NET
         protected Callback<AvatarImageLoaded_t> ImageLoaded;
+#endif
 
     public void ChangeReadyStatus()
     {
@@ -38,16 +42,20 @@ public class PlayerListItem : MonoBehaviour
     }
 
 
+#if STEAMWORKS_NET
     private void Start()
     {
         ImageLoaded = Callback<AvatarImageLoaded_t>.Create(OnImageLoaded);
     }
+#endif
 
     void GetPlayerIcon()
     {
+#if STEAMWORKS_NET
         int ImageID = SteamFriends.GetLargeFriendAvatar((CSteamID)PlayersSteamID);
         if (ImageID == -1) return;
         PlayerIcon.texture = GetSteamImageAsTexture(ImageID);
+#endif
     }
 
     public void SetPlayerValues()
@@ -66,6 +74,7 @@ public class PlayerListItem : MonoBehaviour
 
     }
 
+#if STEAMWORKS_NET
     private void OnImageLoaded(AvatarImageLoaded_t callback)
     {
         if (callback.m_steamID.m_SteamID == PlayersSteamID)
@@ -98,5 +107,6 @@ public class PlayerListItem : MonoBehaviour
         AvatarReceived = true;
         return texture;
     }
+#endif
 
 }

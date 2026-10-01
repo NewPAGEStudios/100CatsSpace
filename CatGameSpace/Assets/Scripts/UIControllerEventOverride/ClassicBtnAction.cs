@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -86,7 +86,7 @@ public class ClassicBtnAction : MonoBehaviour, IPointerEnterHandler, IPointerExi
 
     public void OnSelect(BaseEventData eventData)
     {
-        Debug.Log("OnSelectÇalýþtý : " + gameObject.name);
+        Debug.Log("OnSelectÃ‡alÄ±ÅŸtÄ± : " + gameObject.name);
 
         if (isAnimation)
         {

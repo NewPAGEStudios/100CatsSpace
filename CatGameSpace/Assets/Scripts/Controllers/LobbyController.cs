@@ -1,5 +1,4 @@
 using Mirror;
-using Steamworks;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -143,7 +142,7 @@ public class LobbyController : MonoBehaviour
     public void BackBtn()
     {
         //        backBtnSfx.Play();
-        if (EventSystem.current.currentSelectedGameObject.TryGetComponent<InputFieldBtnAction>(out InputFieldBtnAction ifba))
+        if (EventSystem.current.currentSelectedGameObject != null && EventSystem.current.currentSelectedGameObject.TryGetComponent<InputFieldBtnAction>(out InputFieldBtnAction ifba))
         {
             EventSystem.current.SetSelectedGameObject(EventSystem.current.GetComponent<EventSystemController>().GetLastSelected());
             return;
@@ -240,7 +239,7 @@ public class LobbyController : MonoBehaviour
 
     public void LeaveLobby()
     {
-        SteamMatchmaking.LeaveLobby(new CSteamID(SteamLobby.instance.CurrentLobbyID));
+        SteamLobby.instance.LeaveCurrentLobby();
         if (LocalPlayer.connectionID == 0)
         {
             Manager.StopHost();
@@ -310,7 +309,7 @@ public class LobbyController : MonoBehaviour
     {
         if(LocalPlayer.connectionID == 0)
         {
-            SteamMatchmaking.SetLobbyData(new CSteamID(SteamLobby.instance.CurrentLobbyID), "selectedID", id);
+            SteamLobby.instance.SetLobbyData("selectedID", id);
         }
     }
 
@@ -423,7 +422,7 @@ public class LobbyController : MonoBehaviour
                 break;
             }
         }
-        if (LocalPlayer.connectionID == 0 && allready && !string.IsNullOrEmpty(SteamMatchmaking.GetLobbyData(new CSteamID(SteamLobby.instance.CurrentLobbyID), "selectedID")))
+        if (LocalPlayer.connectionID == 0 && allready && !string.IsNullOrEmpty(SteamLobby.instance.GetLobbyData("selectedID")))
         {
             startGameBut.interactable = true;
         }
@@ -439,7 +438,7 @@ public class LobbyController : MonoBehaviour
 
         GameDataTracker.skipSave = false;
 
-        GameDataTracker.selectedPaintID = SteamMatchmaking.GetLobbyData(new CSteamID(SteamLobby.instance.CurrentLobbyID), "selectedID");
+        GameDataTracker.selectedPaintID = SteamLobby.instance.GetLobbyData("selectedID");
         var Result = SaveSystem.LoadData(GameDataTracker.selectedPaintID);
 
         GameDataTracker.paint_findCatData = Result.Item1.paint_catFindData;

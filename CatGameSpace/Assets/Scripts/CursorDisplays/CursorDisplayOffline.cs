@@ -13,6 +13,8 @@ public class CursorDisplayOffline : MonoBehaviour
     private void Start()
     {
         fillColor.gameObject.SetActive(false);
+        // Mobilde imleç yok; sadece basılı tutma göstergesi parmağın altında görünür
+        if (InputManager.IsTouchMode) catFindDefault.gameObject.SetActive(false);
     }
 
     public void CursorMovement(Vector3 mousePos)
@@ -40,6 +42,13 @@ public class CursorDisplayOffline : MonoBehaviour
     }
     public void ChangeMode(StateManager.GameMode gMode)
     {
+        if (InputManager.IsTouchMode)
+        {
+            catFindDefault.gameObject.SetActive(false);
+            fillColor.gameObject.SetActive(false);
+            return;
+        }
+
         if (gMode == StateManager.GameMode.fillColor)
         {
             catFindDefault.gameObject.SetActive(false);

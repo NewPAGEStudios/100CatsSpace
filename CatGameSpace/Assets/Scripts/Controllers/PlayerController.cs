@@ -1,6 +1,4 @@
 ﻿using Mirror;
-using Mirror.FizzySteam;
-using Steamworks;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -597,7 +595,7 @@ public class PlayerController : NetworkBehaviour
     }
     public override void OnStartAuthority()
     {
-        CmdSetPlayerName(SteamFriends.GetPersonaName().ToString());
+        CmdSetPlayerName(PlayerIdentity.GetPlayerName());
 
 
         gameObject.name = "LocalGamePlayer";

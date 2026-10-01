@@ -1,18 +1,18 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class FrameLimiter : MonoBehaviour
 {
-    // Editör üzerinden değiştirebilmek için public değişken
+    // EditÃ¶r Ã¼zerinden deÄŸiÅŸtirebilmek iÃ§in public deÄŸiÅŸken
     public int targetFPS = 60;
 
     void Awake()
     {
-        // VSync kapalı olmalı, aksi halde bu kod çalışmaz
+        // VSync kapalÄ± olmalÄ±, aksi halde bu kod Ã§alÄ±ÅŸmaz
         QualitySettings.vSyncCount = 0;
 
-        // Hedeflenen FPS değeri
+        // Hedeflenen FPS deÄŸeri
         Application.targetFrameRate = targetFPS;
     }
 }

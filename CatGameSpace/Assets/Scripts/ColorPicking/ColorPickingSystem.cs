@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.CompilerServices;
 using TMPro;
@@ -162,10 +162,10 @@ public class ColorPickingSystem : MonoBehaviour
     }
     public static bool IsColorDark(Color color)
     {
-        // W3C'ye göre algılanan parlaklık (Relative Luminance) hesaplaması
+        // W3C'ye gÃ¶re algÄ±lanan parlaklÄ±k (Relative Luminance) hesaplamasÄ±
         double luminance = (0.2126 * color.r) + (0.7152 * color.g) + (0.0722 * color.b);
 
-        // Eşik değeri 0.5, daha küçükse koyu, büyükse açık renk olarak kabul edilir
+        // EÅŸik deÄŸeri 0.5, daha kÃ¼Ã§Ã¼kse koyu, bÃ¼yÃ¼kse aÃ§Ä±k renk olarak kabul edilir
         return luminance <= 0.5;
     }
 

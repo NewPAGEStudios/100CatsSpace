@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
@@ -187,17 +187,17 @@ public class PaintObject : ScriptableObject
             for (int xx = 0; xx < w; xx++)
                 mask[xx, yy] = pixels[(y0 + yy) * tex.width + (x0 + xx)].a > 0;
 
-        // 2) Eðer çok küçük sprite ise toleransý atla
+        // 2) EÄŸer Ã§ok kÃ¼Ã§Ã¼k sprite ise toleransÄ± atla
         bool isTiny = (w < sprite_height_width_Tolerance || h < sprite_height_width_Tolerance);
         if (!isTiny)
         {
             // yatay doldurma
             ApplyTolerance(mask, w, h, tolerance, true);
-            // düþey doldurma
+            // dÃ¼ÅŸey doldurma
             ApplyTolerance(mask, w, h, tolerance, false);
         }
 
-        // 3) DP ile en büyük kareyi bul
+        // 3) DP ile en bÃ¼yÃ¼k kareyi bul
         int[,] dp = new int[w, h];
         int maxSize = 0, maxX = 0, maxY = 0;
         for (int yy = 0; yy < h; yy++)
@@ -224,7 +224,7 @@ public class PaintObject : ScriptableObject
         Vector3 localSquareOrigin;
         float squareSizeLocal;
 
-        // 4) Kareyi local-space'e dönüþtür
+        // 4) Kareyi local-space'e dÃ¶nÃ¼ÅŸtÃ¼r
         squareSize = maxSize;
         squareStartX = maxX - squareSize + 1;
         squareStartY = maxY - squareSize + 1;
@@ -337,8 +337,8 @@ public class PaintObject : ScriptableObject
         bool[,] visited = new bool[width, height];
         List<List<Vector2Int>> regions = new List<List<Vector2Int>>();
 
-        // Tüm pikselleri (GetPixels) bir kerede çekmek GetPixel(x,y)'den çok daha hýzlýdýr.
-        // Ancak mantýðý bozmamak için senin yapýný koruyarak düzeltiyorum:
+        // TÃ¼m pikselleri (GetPixels) bir kerede Ã§ekmek GetPixel(x,y)'den Ã§ok daha hÄ±zlÄ±dÄ±r.
+        // Ancak mantÄ±ÄŸÄ± bozmamak iÃ§in senin yapÄ±nÄ± koruyarak dÃ¼zeltiyorum:
 
         for (int x = 0; x < width; x++)
         {
@@ -348,8 +348,8 @@ public class PaintObject : ScriptableObject
 
                 Color targetColor = tex.GetPixel(x, y);
 
-                // DÜZELTME 1: Alpha kontrolünü esnettik. 
-                // Sadece çok þeffaf olanlarý (0.1'in altý) iþleme alma.
+                // DÃœZELTME 1: Alpha kontrolÃ¼nÃ¼ esnettik. 
+                // Sadece Ã§ok ÅŸeffaf olanlarÄ± (0.1'in altÄ±) iÅŸleme alma.
                 if (targetColor.a < 0.1f)
                 {
                     visited[x, y] = true;
@@ -360,14 +360,14 @@ public class PaintObject : ScriptableObject
                 Queue<Vector2Int> queue = new Queue<Vector2Int>();
 
                 queue.Enqueue(new Vector2Int(x, y));
-                visited[x, y] = true; // DÜZELTME 2: Kuyruða ekler eklemez visited yapmalýsýn!
+                visited[x, y] = true; // DÃœZELTME 2: KuyruÄŸa ekler eklemez visited yapmalÄ±sÄ±n!
 
                 while (queue.Count > 0)
                 {
                     Vector2Int p = queue.Dequeue();
                     region.Add(p);
 
-                    // Komþulara bak (Sað, Sol, Yukarý, Aþaðý)
+                    // KomÅŸulara bak (SaÄŸ, Sol, YukarÄ±, AÅŸaÄŸÄ±)
                     Vector2Int[] neighbors = new Vector2Int[]
                     {
                     new Vector2Int(p.x + 1, p.y),
@@ -378,7 +378,7 @@ public class PaintObject : ScriptableObject
 
                     foreach (Vector2Int n in neighbors)
                     {
-                        // Sýnýr kontrolü
+                        // SÄ±nÄ±r kontrolÃ¼
                         if (n.x < 0 || n.y < 0 || n.x >= width || n.y >= height)
                             continue;
 
@@ -388,10 +388,10 @@ public class PaintObject : ScriptableObject
 
                         Color currentColor = tex.GetPixel(n.x, n.y);
 
-                        // Renk benzerse ve þeffaf deðilse ekle
+                        // Renk benzerse ve ÅŸeffaf deÄŸilse ekle
                         if (currentColor.a >= 0.5f && ColorsAreSimilar(currentColor, targetColor, tolerance))
                         {
-                            visited[n.x, n.y] = true; // Tekrar eklenmemesi için hemen iþaretle
+                            visited[n.x, n.y] = true; // Tekrar eklenmemesi iÃ§in hemen iÅŸaretle
                             queue.Enqueue(n);
                         }
                     }
@@ -413,7 +413,7 @@ public class PaintObject : ScriptableObject
     }
     Texture2D CreateTextureFromRegion(List<Vector2Int> region, Texture2D originalTex)
     {
-        // Bölge sýnýrlarýný bul
+        // BÃ¶lge sÄ±nÄ±rlarÄ±nÄ± bul
         int minX = region.Min(p => p.x);
         int maxX = region.Max(p => p.x);
         int minY = region.Min(p => p.y);
@@ -425,15 +425,15 @@ public class PaintObject : ScriptableObject
         Texture2D newTex = new Texture2D(width, height);
         newTex.filterMode = FilterMode.Point;
 
-        // Tüm pikselleri transparent yap
+        // TÃ¼m pikselleri transparent yap
         Color[] clearPixels = Enumerable.Repeat(new Color(0, 0, 0, 0), width * height).ToArray();
         newTex.SetPixels(clearPixels);
 
-        // Bölge piksellerini kopyala
+        // BÃ¶lge piksellerini kopyala
         foreach (var p in region)
         {
             Color c = originalTex.GetPixel(p.x, p.y);
-            float alpha = c.a; // orijinalin alpha deðeri
+            float alpha = c.a; // orijinalin alpha deÄŸeri
             Color whiteWithAlpha;
             if (alpha != 1f)
             {

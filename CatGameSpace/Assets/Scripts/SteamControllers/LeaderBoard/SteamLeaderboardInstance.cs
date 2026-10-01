@@ -1,9 +1,12 @@
+ï»¿#if STEAMWORKS_NET
 using Steamworks;
+#endif
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using static UnityEngine.EventSystems.EventTrigger;
 
+#if STEAMWORKS_NET
 public class SteamLeaderboardInstance
 {
     private LeaderboardConfig _config;
@@ -48,7 +51,7 @@ public class SteamLeaderboardInstance
         DownloadScores(true);
     }
 
-    // --- ÖNEMLÝ: UPLOAD KISMI (Ýsim Encoding) ---
+    // --- Ã–NEMLÄ°: UPLOAD KISMI (Ä°sim Encoding) ---
     public void UploadScore(int score)
     {
         if (!_initialized)
@@ -59,16 +62,16 @@ public class SteamLeaderboardInstance
 
         // 1. Oyuncunun ismini al
         string myName = SteamFriends.GetPersonaName();
-        // 2. Ýsmi sayý dizisine çevir
+        // 2. Ä°smi sayÄ± dizisine Ã§evir
         int[] detailName = SteamHelper.EncodeNameToDetails(myName);
 
-        // 3. Skorla birlikte ismi de gönder
+        // 3. Skorla birlikte ismi de gÃ¶nder
         SteamAPICall_t handle = SteamUserStats.UploadLeaderboardScore(
             _steamLeaderboard,
             ELeaderboardUploadScoreMethod.k_ELeaderboardUploadScoreMethodKeepBest,
             score,
-            detailName,       // Detaylarý ekle
-            detailName.Length // Uzunluðu ekle
+            detailName,       // DetaylarÄ± ekle
+            detailName.Length // UzunluÄŸu ekle
         );
         _uploadResult.Set(handle);
     }
@@ -103,7 +106,7 @@ public class SteamLeaderboardInstance
         if (!bIOFailure) ProcessDownloadedScores(param, _config.friendContentParent);
     }
 
-    // --- ÖNEMLÝ: DOWNLOAD KISMI (Ýsim Decoding) ---
+    // --- Ã–NEMLÄ°: DOWNLOAD KISMI (Ä°sim Decoding) ---
     private void ProcessDownloadedScores(LeaderboardScoresDownloaded_t param, Transform targetParent)
     {
         if (targetParent == null) return;
@@ -113,15 +116,15 @@ public class SteamLeaderboardInstance
         for (int i = 0; i < param.m_cEntryCount; i++)
         {
             LeaderboardEntry_t entry;
-            int[] details = new int[64]; // Detaylar için yer aç
+            int[] details = new int[64]; // Detaylar iÃ§in yer aÃ§
 
             // 1. Veriyi ve DETAYLARI indir
             SteamUserStats.GetDownloadedLeaderboardEntry(param.m_hSteamLeaderboardEntries, i, out entry, details, 64);
 
-            // 2. Detaylarý isme çevir (Artýk bekleme yok, isim burada!)
+            // 2. DetaylarÄ± isme Ã§evir (ArtÄ±k bekleme yok, isim burada!)
             string playerName = SteamHelper.DecodeNameFromDetails(details);
 
-            // Eðer detay boþsa (eski skor vs.) Unknown yazar
+            // EÄŸer detay boÅŸsa (eski skor vs.) Unknown yazar
             if (string.IsNullOrEmpty(playerName)) playerName = "Unknown";
 
             int ImageID = SteamFriends.GetLargeFriendAvatar(entry.m_steamIDUser);
@@ -142,7 +145,7 @@ public class SteamLeaderboardInstance
         }
     }
 
-    // Avatar yüklendiðinde listeyi güncellemek için
+    // Avatar yÃ¼klendiÄŸinde listeyi gÃ¼ncellemek iÃ§in
     public void OnAvatarLoadedReceived(AvatarImageLoaded_t callback)
     {
         UpdateListAvatar(_config.globalContentParent, callback);
@@ -167,11 +170,12 @@ public class SteamLeaderboardInstance
         }
     }
 }
+#endif
 [System.Serializable]
 public struct LeaderboardConfig
 {
     public string id; // Steam Leaderboard ID ("uk_CityName_Normal" vb.)
-    public Transform globalContentParent; // Global liste parent'ý
-    public Transform friendContentParent; // Arkadaþ liste parent'ý
-    public LeaderboardListItem selfStatsUI; // Oyuncunun kendi statlarýný gösteren UI
+    public Transform globalContentParent; // Global liste parent'Ä±
+    public Transform friendContentParent; // ArkadaÅŸ liste parent'Ä±
+    public LeaderboardListItem selfStatsUI; // Oyuncunun kendi statlarÄ±nÄ± gÃ¶steren UI
 }

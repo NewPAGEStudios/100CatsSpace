@@ -1,4 +1,6 @@
+#if STEAMWORKS_NET
 using Steamworks;
+#endif
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,10 +10,13 @@ using static UnityEngine.EventSystems.StandaloneInputModule;
 
 public class SteamLobbyMenu : MonoBehaviour
 {
+#if STEAMWORKS_NET
     protected Callback<GameLobbyJoinRequested_t> JoinRequest;
     protected Callback<LobbyMatchList_t> LobbyList;
+#endif
 
     public MenuController menuController;
+#if STEAMWORKS_NET
     private void OnEnable()
     {
         JoinRequest = Callback<GameLobbyJoinRequested_t>.Create(OnJoinRequest);
@@ -35,10 +40,12 @@ public class SteamLobbyMenu : MonoBehaviour
 
         SceneManager.LoadScene("LobbyScene");
     }
+#endif
 
 
     public void searchForLobby(string lobbyID)
     {
+#if STEAMWORKS_NET
         if (string.IsNullOrEmpty(lobbyID.Trim()))
         {
             Debug.Log("Entered Lobby id is invalid");
@@ -53,23 +60,26 @@ public class SteamLobbyMenu : MonoBehaviour
         );
 
         SteamMatchmaking.RequestLobbyList();
+#endif
     }
 
+#if STEAMWORKS_NET
     private void OnLobbyMatchList(LobbyMatchList_t callback)
     {
         if (callback.m_nLobbiesMatching > 0)
         {
             CSteamID foundLobby = SteamMatchmaking.GetLobbyByIndex(0);
             menuController.JoinGameAccepted((ulong)foundLobby);
-            Debug.Log($"Kod bulundu, lobiye katýlýnýyor…");
+            Debug.Log($"Kod bulundu, lobiye katÄ±lÄ±nÄ±yorâ€¦");
         }
         else
         {
-            Debug.LogWarning("Bu kodla eþleþen lobi yok.");
+            Debug.LogWarning("Bu kodla eÅŸleÅŸen lobi yok.");
             MenuController.instance.WaitPanelClose();
         }
 
     }
+#endif
 
 
 }

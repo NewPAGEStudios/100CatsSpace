@@ -1,4 +1,4 @@
-using System;
+ï»¿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.IO;
@@ -91,10 +91,10 @@ public static class SaveSystem
     {
         string path = Application.persistentDataPath + "/player_save.json";
 
-        // Dosyayý oku
+        // DosyayÄ± oku
         string saveData = File.ReadAllText(path);
 
-        // Hash'i ayýr
+        // Hash'i ayÄ±r
         int hashIndex = saveData.LastIndexOf("hash:");
         string jsonData = saveData.Substring(0, hashIndex).Trim();
         string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -102,10 +102,10 @@ public static class SaveSystem
         // SHA256 hash hesapla
         string computedHash = ComputeSHA256(jsonData);
 
-        // Hash doðrulamasý yap
+        // Hash doÄŸrulamasÄ± yap
         if (storedHash == computedHash)
         {
-            // Hash eþleþti, veriyi deserialize et
+            // Hash eÅŸleÅŸti, veriyi deserialize et
             SaveElement data = JsonUtility.FromJson<SaveElement>(jsonData);
             return (data.GameVersion,null);
         }
@@ -125,10 +125,10 @@ public static class SaveSystem
         SaveElement saveElement;
         if(File.Exists(path))
         {
-            // Dosyayý oku
+            // DosyayÄ± oku
             string saveData = File.ReadAllText(path);
 
-            // Hash'i ayýr
+            // Hash'i ayÄ±r
             int hashIndex = saveData.LastIndexOf("hash:");
             string jsonData = saveData.Substring(0, hashIndex).Trim();
             string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -136,10 +136,10 @@ public static class SaveSystem
             // SHA256 hash hesapla
             string computedHash = ComputeSHA256(jsonData);
 
-            // Hash doðrulamasý yap
+            // Hash doÄŸrulamasÄ± yap
             if (storedHash == computedHash)
             {
-                // Hash eþleþti, veriyi deserialize et
+                // Hash eÅŸleÅŸti, veriyi deserialize et
                 saveElement = JsonUtility.FromJson<SaveElement>(jsonData);
             }
             else
@@ -168,13 +168,13 @@ public static class SaveSystem
 
     public static void SavePlayer(SaveElement saveElement)
     {
-        // JSON serileþtirme
+        // JSON serileÅŸtirme
         string json = JsonUtility.ToJson(saveElement);
 
         // Hash hesaplama
         string hash = ComputeSHA256(json);
 
-        // JSON ve Hash'i birleþtir
+        // JSON ve Hash'i birleÅŸtir
         string saveDataJ = json + "\n" + "hash:" + hash;
 
         // Dosya yolu
@@ -190,10 +190,10 @@ public static class SaveSystem
 
         if (File.Exists(path))
         {
-            // Dosyayý oku
+            // DosyayÄ± oku
             string saveData = File.ReadAllText(path);
 
-            // Hash'i ayýr
+            // Hash'i ayÄ±r
             int hashIndex = saveData.LastIndexOf("hash:");
             string jsonData = saveData.Substring(0, hashIndex).Trim();
             string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -201,10 +201,10 @@ public static class SaveSystem
             // SHA256 hash hesapla
             string computedHash = ComputeSHA256(jsonData);
 
-            // Hash doðrulamasý yap
+            // Hash doÄŸrulamasÄ± yap
             if (storedHash == computedHash)
             {
-                // Hash eþleþti, veriyi deserialize et
+                // Hash eÅŸleÅŸti, veriyi deserialize et
                 SaveElement data = JsonUtility.FromJson<SaveElement>(jsonData);
                 if (data.GameVersion != Application.version)
                 {
@@ -238,10 +238,10 @@ public static class SaveSystem
 
         if (File.Exists(path))
         {
-            // Dosyayý oku
+            // DosyayÄ± oku
             string saveData = File.ReadAllText(path);
 
-            // Hash'i ayýr
+            // Hash'i ayÄ±r
             int hashIndex = saveData.LastIndexOf("hash:");
             string jsonData = saveData.Substring(0, hashIndex).Trim();
             string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -249,10 +249,10 @@ public static class SaveSystem
             // SHA256 hash hesapla
             string computedHash = ComputeSHA256(jsonData);
 
-            // Hash doðrulamasý yap
+            // Hash doÄŸrulamasÄ± yap
             if (storedHash == computedHash)
             {
-                // Hash eþleþti, veriyi deserialize et
+                // Hash eÅŸleÅŸti, veriyi deserialize et
                 SaveElement data = JsonUtility.FromJson<SaveElement>(jsonData);
                 Debug.Log(data.dataElements.Count);
                 if (data.GameVersion != Application.version)
@@ -306,10 +306,10 @@ public static class SaveSystem
     {
         string path = Application.persistentDataPath + "/player_replays.json";
 
-        // Dosyayý oku
+        // DosyayÄ± oku
         string saveData = File.ReadAllText(path);
 
-        // Hash'i ayýr
+        // Hash'i ayÄ±r
         int hashIndex = saveData.LastIndexOf("hash:");
         string jsonData = saveData.Substring(0, hashIndex).Trim();
         string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -317,10 +317,10 @@ public static class SaveSystem
         // SHA256 hash hesapla
         string computedHash = ComputeSHA256(jsonData);
 
-        // Hash doðrulamasý yap
+        // Hash doÄŸrulamasÄ± yap
         if (storedHash == computedHash)
         {
-            // Hash eþleþti, veriyi deserialize et
+            // Hash eÅŸleÅŸti, veriyi deserialize et
             ReplaySaveElement data = JsonUtility.FromJson<ReplaySaveElement>(jsonData);
             return (data.GameVersion, null);
         }
@@ -341,10 +341,10 @@ public static class SaveSystem
         if (File.Exists(path))
         {
 
-            // Dosyayý oku
+            // DosyayÄ± oku
             string saveData = File.ReadAllText(path);
 
-            // Hash'i ayýr
+            // Hash'i ayÄ±r
             int hashIndex = saveData.LastIndexOf("hash:");
             string jsonData = saveData.Substring(0, hashIndex).Trim();
             string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -352,10 +352,10 @@ public static class SaveSystem
             // SHA256 hash hesapla
             string computedHash = ComputeSHA256(jsonData);
 
-            // Hash doðrulamasý yap
+            // Hash doÄŸrulamasÄ± yap
             if (storedHash == computedHash)
             {
-                // Hash eþleþti, veriyi deserialize et
+                // Hash eÅŸleÅŸti, veriyi deserialize et
                 replaySaveElement = JsonUtility.FromJson<ReplaySaveElement>(jsonData);
             }
             else
@@ -384,13 +384,13 @@ public static class SaveSystem
 
     public static void SaveReplay(ReplaySaveElement data)
     {
-        // JSON serileþtirme
+        // JSON serileÅŸtirme
         string json = JsonUtility.ToJson(data);
 
         // Hash hesaplama
         string hash = ComputeSHA256(json);
 
-        // JSON ve Hash'i birleþtir
+        // JSON ve Hash'i birleÅŸtir
         string saveDataJ = json + "\n" + "hash:" + hash;
 
         // Dosya yolu
@@ -407,10 +407,10 @@ public static class SaveSystem
 
         if (File.Exists(path))
         {
-            // Dosyayý oku
+            // DosyayÄ± oku
             string saveData = File.ReadAllText(path);
 
-            // Hash'i ayýr
+            // Hash'i ayÄ±r
             int hashIndex = saveData.LastIndexOf("hash:");
             string jsonData = saveData.Substring(0, hashIndex).Trim();
             string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -418,10 +418,10 @@ public static class SaveSystem
             // SHA256 hash hesapla
             string computedHash = ComputeSHA256(jsonData);
 
-            // Hash doðrulamasý yap
+            // Hash doÄŸrulamasÄ± yap
             if (storedHash == computedHash)
             {
-                // Hash eþleþti, veriyi deserialize et
+                // Hash eÅŸleÅŸti, veriyi deserialize et
                 ReplaySaveElement data = JsonUtility.FromJson<ReplaySaveElement>(jsonData);
                 if (data.GameVersion != Application.version)
                 {
@@ -455,10 +455,10 @@ public static class SaveSystem
 
         if (File.Exists(path))
         {
-            // Dosyayý oku
+            // DosyayÄ± oku
             string saveData = File.ReadAllText(path);
 
-            // Hash'i ayýr
+            // Hash'i ayÄ±r
             int hashIndex = saveData.LastIndexOf("hash:");
             string jsonData = saveData.Substring(0, hashIndex).Trim();
             string storedHash = saveData.Substring(hashIndex + 5).Trim();
@@ -466,10 +466,10 @@ public static class SaveSystem
             // SHA256 hash hesapla
             string computedHash = ComputeSHA256(jsonData);
 
-            // Hash doðrulamasý yap
+            // Hash doÄŸrulamasÄ± yap
             if (storedHash == computedHash)
             {
-                // Hash eþleþti, veriyi deserialize et
+                // Hash eÅŸleÅŸti, veriyi deserialize et
                 ReplaySaveElement data = JsonUtility.FromJson<ReplaySaveElement>(jsonData);
                 if (data.GameVersion != Application.version)
                 {

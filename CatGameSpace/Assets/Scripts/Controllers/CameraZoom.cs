@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using Unity.Burst.CompilerServices;
@@ -88,7 +88,7 @@ public class CameraZoom : MonoBehaviour
         TextMeshPro[] allTMPs = FindObjectsByType<TextMeshPro>(FindObjectsInactive.Include); // true: inactive objeler de dahil
         if (allTMPs.Length == 0)
         {
-            Debug.LogWarning("Sahnede hiç TextMeshPro bulunamadý.");
+            Debug.LogWarning("Sahnede hiÃ§ TextMeshPro bulunamadÄ±.");
             yield break;
         }
 
@@ -146,7 +146,7 @@ public class CameraZoom : MonoBehaviour
         // Kamera pozisyonunu al
         Vector3 pos = transform.position;
 
-        // Kameranýn ortasý öyle olmalý ki kenarlar sýnýrlarýn dýþýna çýkmasýn
+        // KameranÄ±n ortasÄ± Ã¶yle olmalÄ± ki kenarlar sÄ±nÄ±rlarÄ±n dÄ±ÅŸÄ±na Ã§Ä±kmasÄ±n
         pos.x = Mathf.Clamp(pos.x, minXPos + horzExtent, maxXPos - horzExtent);
         pos.y = Mathf.Clamp(pos.y, minYPos + vertExtent, maxYPos - vertExtent);
         pos.z = -10f;
@@ -158,7 +158,7 @@ public class CameraZoom : MonoBehaviour
     {
         if (playerInterrupt) return;
 
-        float scroll = zoomValue; // Fare tekerleði okuma
+        float scroll = zoomValue; // Fare tekerleÄŸi okuma
         desiredZoom -= scroll * zoomSpeed * Time.deltaTime;
 
 
@@ -195,7 +195,7 @@ public class CameraZoom : MonoBehaviour
         {
             Vector2 delta = cursorPOS - lastMousePosition;
             Vector3 move = new Vector3(-delta.x, -delta.y, 0) * panSpeed * Time.deltaTime;
-            transform.position += move; // Kamerayý hareket ettir
+            transform.position += move; // KamerayÄ± hareket ettir
             lastMousePosition = cursorPOS;
 
 
@@ -227,6 +227,26 @@ public class CameraZoom : MonoBehaviour
         if (playerInterrupt) return;
 
         isPanning = false;
+    }
+
+    // Dokunmatik: parmaÄŸÄ± birebir takip eden kaydÄ±rma (ekran pikseli -> dÃ¼nya birimi)
+    public void touchPanCam(Vector2 screenDelta)
+    {
+        if (playerInterrupt) return;
+
+        float worldPerPixel = (Camera.main.orthographicSize * 2f) / Screen.height;
+        transform.position -= new Vector3(screenDelta.x, screenDelta.y, 0f) * worldPerPixel;
+    }
+
+    // Dokunmatik: pinch zoom. ratio > 1 uzaklaÅŸÄ±r, < 1 yakÄ±nlaÅŸÄ±r
+    public void touchZoomCam(float ratio)
+    {
+        if (playerInterrupt) return;
+
+        desiredZoom = Mathf.Clamp(desiredZoom * ratio, minZoom, maxZoom);
+        // Lerp gecikmesi olmasÄ±n, parmakla birlikte hareket etsin
+        Camera.main.orthographicSize = desiredZoom;
+        panSpeed = Mathf.Lerp(0.5f, 2.5f, (desiredZoom - minZoom) / (maxZoom - minZoom));
     }
 
     public void TxtDisplayOption()

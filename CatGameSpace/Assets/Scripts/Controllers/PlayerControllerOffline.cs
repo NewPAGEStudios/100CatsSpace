@@ -1,4 +1,3 @@
-using Steamworks;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -25,7 +24,7 @@ public class PlayerControllerOffline : MonoBehaviour
 
         Cursor.visible = false;
 
-        playerName = SteamFriends.GetPersonaName();
+        playerName = PlayerIdentity.GetPlayerName();
         CursorDisplayOffline.changeColor(color);
 
         gameController = GameController.Instance;
@@ -60,6 +59,7 @@ public class PlayerControllerOffline : MonoBehaviour
 
             if (inputManager.zoomAction() != 0 && !EventSystem.current.IsPointerOverGameObject()) cameraZoom.zoomCam(inputManager.zoomAction());
 
+            TouchCameraControl();
 
             if (ColourControll.Instance.colourMenuOpenned && EventSystem.current.IsPointerOverGameObject() && ColourControll.Instance.uniqueColorSelectionPanel.GetComponent<ColorsMenuHandle>().isHovered && inputManager.zoomAction() != 0)
             {
@@ -76,10 +76,20 @@ public class PlayerControllerOffline : MonoBehaviour
 
             if (inputManager.zoomAction() != 0 && !EventSystem.current.IsPointerOverGameObject()) cameraZoom.zoomCam(inputManager.zoomAction());
 
+            TouchCameraControl();
+
             if (inputManager.ChatOpenBtnPressed()) gameController.ChangeChatStatus();
         }
 
 
+    }
+
+    private void TouchCameraControl()
+    {
+        if (!InputManager.IsTouchMode) return;
+
+        if (inputManager.touchPan() != Vector2.zero) cameraZoom.touchPanCam(inputManager.touchPan());
+        if (inputManager.touchPinch() != 1f) cameraZoom.touchZoomCam(inputManager.touchPinch());
     }
 
     private Vector2 getMousePosOnUI()

@@ -1,7 +1,9 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+#if STEAMWORKS_NET
 using Steamworks;
+#endif
 using TMPro;
 using Mirror;
 using System;
@@ -15,12 +17,14 @@ public class SteamLobby : MonoBehaviour
 {
     public static SteamLobby instance;
 
+#if STEAMWORKS_NET
     protected Callback<LobbyCreated_t> LobbyCreated;
     protected Callback<GameLobbyJoinRequested_t> JoinRequest;
     protected Callback<LobbyEnter_t> LobbyEnter;
     protected Callback<LobbyChatMsg_t> LobbyChatMsg;
     protected Callback<LobbyMatchList_t> LobbyMatchList;
-    
+#endif
+
     public ulong CurrentLobbyID;
     public string currentCode;
     private const string HostAdressKey = "HostAddress";
@@ -51,6 +55,7 @@ public class SteamLobby : MonoBehaviour
         }
     }
 
+#if STEAMWORKS_NET
     private void Start()
     {
         if (!SteamManager.Initialized) return;
@@ -159,28 +164,28 @@ public class SteamLobby : MonoBehaviour
     {
         if (response == EChatRoomEnterResponse.k_EChatRoomEnterResponseSuccess)
         {
-            Debug.Log("Lobiye baþarýyla katýldýn!");
+            Debug.Log("Lobiye baÅŸarÄ±yla katÄ±ldÄ±n!");
         }
         else
         {
-            string mainMsg = $"Lobiye katýlamadý: {response}";
+            string mainMsg = $"Lobiye katÄ±lamadÄ±: {response}";
 
             switch (response)
             {
                 case EChatRoomEnterResponse.k_EChatRoomEnterResponseDoesntExist:
-                    ShowError("Bu lobi mevcut deðil.");
+                    ShowError("Bu lobi mevcut deÄŸil.");
                     break;
 
                 case EChatRoomEnterResponse.k_EChatRoomEnterResponseNotAllowed:
-                    ShowError("Bu lobiye katýlma iznin yok.");
+                    ShowError("Bu lobiye katÄ±lma iznin yok.");
                     break;
 
                 case EChatRoomEnterResponse.k_EChatRoomEnterResponseBanned:
-                    ShowError("Bu lobiye eriþimin engellenmiþ.");
+                    ShowError("Bu lobiye eriÅŸimin engellenmiÅŸ.");
                     break;
 
                 default:
-                    ShowError("Lobiye katýlamadý. Kod: " + response);
+                    ShowError("Lobiye katÄ±lamadÄ±. Kod: " + response);
                     break;
             }
         }
@@ -235,9 +240,11 @@ public class SteamLobby : MonoBehaviour
 
         chatManager.AddChat(sender, message, callback.m_ulSteamIDUser == GameObject.Find("LocalGamePlayer").GetComponent<PlayerController>().PlayerSteamID);
     }
+#endif
 
     public void SendChatMessage(string msg)
     {
+#if STEAMWORKS_NET
         byte[] bytes = System.Text.Encoding.UTF8.GetBytes(msg);
 
 
@@ -248,8 +255,42 @@ public class SteamLobby : MonoBehaviour
         );
 
         Debug.Log("SendLobbyChatMsg success: " + success);
+#endif
     }
 
+    public string GetLobbyData(string key)
+    {
+#if STEAMWORKS_NET
+        return SteamMatchmaking.GetLobbyData(new CSteamID(CurrentLobbyID), key);
+#else
+        return "";
+#endif
+    }
+
+    public void SetLobbyData(string key, string value)
+    {
+#if STEAMWORKS_NET
+        SteamMatchmaking.SetLobbyData(new CSteamID(CurrentLobbyID), key, value);
+#endif
+    }
+
+    public void LeaveCurrentLobby()
+    {
+#if STEAMWORKS_NET
+        SteamMatchmaking.LeaveLobby(new CSteamID(CurrentLobbyID));
+#endif
+    }
+
+    public ulong GetLobbyMemberSteamID(int index)
+    {
+#if STEAMWORKS_NET
+        return (ulong)SteamMatchmaking.GetLobbyMemberByIndex(new CSteamID(CurrentLobbyID), index);
+#else
+        return 0;
+#endif
+    }
+
+#if STEAMWORKS_NET
     private void TryGenerateUniqueCode()
     {
         currentCode = GenerateRandomCode(6);
@@ -263,17 +304,18 @@ public class SteamLobby : MonoBehaviour
     {
         if (cb.m_nLobbiesMatching > 0)
         {
-            // Ayný kodlu lobby var, tekrar dene
+            // AynÄ± kodlu lobby var, tekrar dene
             TryGenerateUniqueCode();
         }
         else
         {
-            // Eþsiz kod bulundu
+            // EÅŸsiz kod bulundu
             SteamMatchmaking.SetLobbyData(new CSteamID(CurrentLobbyID), "joinCode", currentCode);
             LobbyController.instance.SetDisplayLobbyNumber();
             Debug.Log("Lobby kodun: " + currentCode);
         }
     }
+#endif
 
     private string GenerateRandomCode(int length = 6)
     {

@@ -1,4 +1,6 @@
+ï»¿#if STEAMWORKS_NET
 using Steamworks;
+#endif
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
@@ -18,18 +20,21 @@ public class SteamLeaderboard : MonoBehaviour
     public GameObject leaderListItemPrefab;
     public List<LeaderboardConfig> leaderboards = new List<LeaderboardConfig>();
 
+#if STEAMWORKS_NET
     private Dictionary<string, SteamLeaderboardInstance> _instances = new Dictionary<string, SteamLeaderboardInstance>();
 
-    // Callback'ler artýk sadece Avatar için gerekli, isim data'dan geliyor.
+    // Callback'ler artÄ±k sadece Avatar iÃ§in gerekli, isim data'dan geliyor.
     private Callback<AvatarImageLoaded_t> _avatarLoadedCallback;
 
     bool isReady = false;
+#endif
 
     private void Awake()
     {
         if (Instance == null) Instance = this;
     }
 
+#if STEAMWORKS_NET
     private void Start()
     {
         if (!SteamManager.Initialized)
@@ -59,21 +64,27 @@ public class SteamLeaderboard : MonoBehaviour
             instance.OnAvatarLoadedReceived(param);
         }
     }
+#endif
 
     public void UpdateScore(string leaderboardID, int score)
     {
+#if STEAMWORKS_NET
         StartCoroutine(routineWaitStart(leaderboardID, score));
+#endif
     }
 
     public void RefreshLeaderboard(string leaderboardID)
     {
+#if STEAMWORKS_NET
         if (_instances.TryGetValue(leaderboardID, out var instance))
         {
             instance.DownloadScores(false); // Global
             instance.DownloadScores(true);  // Friend
         }
+#endif
     }
 
+#if STEAMWORKS_NET
     IEnumerator routineWaitStart(string id, int score)
     {
         yield return new WaitUntil(() => isReady);
@@ -81,10 +92,11 @@ public class SteamLeaderboard : MonoBehaviour
         if (_instances.TryGetValue(id, out var instance))
             instance.UploadScore(score);
         else
-            Debug.LogError($"Leaderboard bulunamadý: {id}");
+            Debug.LogError($"Leaderboard bulunamadÄ±: {id}");
 
 
     }
+#endif
 
 
     public void RefreshLeaderboardByIndex(int index)
@@ -93,7 +105,7 @@ public class SteamLeaderboard : MonoBehaviour
             RefreshLeaderboard(leaderboards[index].id);
     }
 
-    // UI Butonlarý
+    // UI ButonlarÄ±
     public void LeaderBoardButton(int i)
     {
         for (int c = 0; c < Buts.Length; c++)
@@ -122,12 +134,12 @@ public class SteamLeaderboard : MonoBehaviour
 }
 public static class SteamHelper
 {
-    // Upload ederken: String Ýsmi -> Int Array'e çevirir
+    // Upload ederken: String Ä°smi -> Int Array'e Ã§evirir
     public static int[] EncodeNameToDetails(string name)
     {
         if (string.IsNullOrEmpty(name)) return new int[0];
 
-        // Ýsim çok uzunsa keselim (Güvenlik önlemi)
+        // Ä°sim Ã§ok uzunsa keselim (GÃ¼venlik Ã¶nlemi)
         if (name.Length > 200) name = name.Substring(0, 200);
 
         byte[] bytes = Encoding.UTF8.GetBytes(name);
@@ -145,7 +157,7 @@ public static class SteamHelper
         return details.ToArray();
     }
 
-    // Download ederken: Int Array'i -> String Ýsme çevirir
+    // Download ederken: Int Array'i -> String Ä°sme Ã§evirir
     public static string DecodeNameFromDetails(int[] details)
     {
         if (details == null || details.Length == 0) return "Unknown";
@@ -156,7 +168,7 @@ public static class SteamHelper
             for (int j = 0; j < 4; j++)
             {
                 byte b = (byte)((val >> (j * 8)) & 0xFF);
-                if (b == 0) break; // String bitiþi
+                if (b == 0) break; // String bitiÅŸi
                 bytes.Add(b);
             }
         }

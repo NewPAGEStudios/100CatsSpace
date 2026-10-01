@@ -50,7 +50,7 @@ public class InputFieldBtnAction : MonoBehaviour, IPointerDownHandler, IPointerU
 
     public void OnEndEdit()
     {
-        if (Keyboard.current.enterKey.wasPressedThisFrame)
+        if (Keyboard.current != null && Keyboard.current.enterKey.wasPressedThisFrame)
         {
             Debug.Log("Tried to Submit");
             GetComponent<InputfieldSelectBtnHolder>().enterBtn.onClick.Invoke();

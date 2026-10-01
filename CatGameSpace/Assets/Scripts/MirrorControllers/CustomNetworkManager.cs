@@ -1,8 +1,7 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using Mirror;
-using Steamworks;
 using UnityEngine.SceneManagement;
 using System;
 using Unity.VisualScripting;
@@ -22,7 +21,7 @@ public class CustomNetworkManager : NetworkManager
 
         if (instance != null && instance != this)
         {
-            Debug.LogWarning("Ýkinci bir NetworkManager bulundu ve yok edildi.");
+            Debug.LogWarning("Ä°kinci bir NetworkManager bulundu ve yok edildi.");
             Destroy(this.gameObject);
             return;
         }
@@ -41,7 +40,7 @@ public class CustomNetworkManager : NetworkManager
 
         GamePlayerInstance.connectionID = conn.connectionId;
         GamePlayerInstance.playerID = GamePlayers.Count + 1;
-        GamePlayerInstance.PlayerSteamID = (ulong)SteamMatchmaking.GetLobbyMemberByIndex((CSteamID)SteamLobby.instance.CurrentLobbyID, GamePlayers.Count);
+        GamePlayerInstance.PlayerSteamID = SteamLobby.instance.GetLobbyMemberSteamID(GamePlayers.Count);
 
 
         NetworkServer.AddPlayerForConnection(conn, GamePlayerInstance.gameObject);
@@ -49,15 +48,15 @@ public class CustomNetworkManager : NetworkManager
     }
     public override void OnServerConnect(NetworkConnectionToClient conn)
     {
-        // Eðer host þu anda LobbyScene’de deðilse, yeni baðlantýyý kes
+        // EÄŸer host ÅŸu anda LobbySceneâ€™de deÄŸilse, yeni baÄŸlantÄ±yÄ± kes
         if (SceneManager.GetActiveScene().name != "LobbyScene")
         {
-            Debug.Log($"Reddedilen baðlantý {conn.connectionId}: Host lobbyde deðil.");
+            Debug.Log($"Reddedilen baÄŸlantÄ± {conn.connectionId}: Host lobbyde deÄŸil.");
             conn.Disconnect();
             return;
         }
 
-        // Aksi halde normal iþlemleri devam ettir
+        // Aksi halde normal iÅŸlemleri devam ettir
         base.OnServerConnect(conn);
     }
     public override void OnServerDisconnect(NetworkConnectionToClient conn)
@@ -71,13 +70,13 @@ public class CustomNetworkManager : NetworkManager
         base.OnServerDisconnect(conn);
     }
 
-    // Host için çaðrý (1. oyuncu)
+    // Host iÃ§in Ã§aÄŸrÄ± (1. oyuncu)
     public void StopHostAndGo(string sceneName)
     {
         nextOfflineScene = sceneName;
         StopHost();
     }
-    // Client için çaðrý (2. oyuncu)
+    // Client iÃ§in Ã§aÄŸrÄ± (2. oyuncu)
     public void StopClientAndGo(string sceneName)
     {
         nextOfflineScene = sceneName;

@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -113,7 +113,7 @@ public class MapParent : MonoBehaviour, IPointerEnterHandler, IPointerExitHandle
 
     public void OnSelect(BaseEventData eventData)
     {
-        Debug.Log("OnSelectÇalýþtý : " + gameObject.name);
+        Debug.Log("OnSelectÃ‡alÄ±ÅŸtÄ± : " + gameObject.name);
 
         OpenPopUp();
     }

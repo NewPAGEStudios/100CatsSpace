@@ -1,5 +1,4 @@
-using Mirror;
-using Steamworks;
+﻿using Mirror;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -68,6 +67,10 @@ public class MenuController : MonoBehaviour
     [Header("MenuKeysElement")]
     public GameObject HoveredElement;
 
+    [Header("Platform")]
+    [Tooltip("Steam olmayan platformlarda (Android) gizlenecek objeler: Leaderboard butonu vb.")]
+    public GameObject[] steamOnlyObjects;
+
     public string selectedPaintId = "";
 
     private void Awake()
@@ -104,6 +107,13 @@ public class MenuController : MonoBehaviour
         if (GameDataTracker.isCheat) CheatingTxt.SetActive(true);
         else CheatingTxt.SetActive(false);
 
+#if !STEAMWORKS_NET
+        foreach (GameObject go in steamOnlyObjects)
+        {
+            if (go != null) go.SetActive(false);
+        }
+#endif
+
     }
     private void Update()
     {
@@ -117,7 +127,7 @@ public class MenuController : MonoBehaviour
         //        runtimeCheatCode += key.ToString().ToLower();
         //        if (cheatCode[runtimeCheatCode.Length - 1] == runtimeCheatCode[runtimeCheatCode.Length - 1])
         //        {
-        //            Debug.Log($"Bas�lana tu�: {key} ** " + cheatCode + " ** " + runtimeCheatCode);
+        //            Debug.Log($"Basılana tuş: {key} ** " + cheatCode + " ** " + runtimeCheatCode);
         //            if (cheatCode == runtimeCheatCode)
         //            {
         //                OpenCheat();
@@ -125,7 +135,7 @@ public class MenuController : MonoBehaviour
         //        }
         //        else
         //        {
-        //            Debug.Log($"Patlanan tu�: {key} ** " + cheatCode + " ** " + runtimeCheatCode);
+        //            Debug.Log($"Patlanan tuş: {key} ** " + cheatCode + " ** " + runtimeCheatCode);
         //            runtimeCheatCode = "";
         //        }
 
@@ -250,7 +260,7 @@ public class MenuController : MonoBehaviour
     {
         if (MenuState == StateManager.MainMenuState.Wait) return;
 
-        if (EventSystem.current.currentSelectedGameObject.TryGetComponent<InputFieldBtnAction>(out InputFieldBtnAction ifba))
+        if (EventSystem.current.currentSelectedGameObject != null && EventSystem.current.currentSelectedGameObject.TryGetComponent<InputFieldBtnAction>(out InputFieldBtnAction ifba))
         {
             EventSystem.current.SetSelectedGameObject(EventSystem.current.GetComponent<EventSystemController>().GetLastSelected());
             return;
@@ -348,6 +358,22 @@ public class MenuController : MonoBehaviour
     }
     public void PlayButton(string selectedID)
     {
+#if !STEAMWORKS_NET
+        // Steam yok: Host/Offline paneli olmadığı için haritadan geri dönüş ana menüye gider
+        if (MenuState == StateManager.MainMenuState.Map && string.IsNullOrWhiteSpace(selectedID))
+        {
+            MapPanel.SetActive(false);
+            foreach (MapParent go in mapParents)
+            {
+                go.PopUpItem.gameObject.SetActive(false);
+            }
+            selectedPaintId = "";
+            ContinueBtn.gameObject.SetActive(false);
+            BacktoMenuButton();
+            return;
+        }
+#endif
+
         MenuState = StateManager.MainMenuState.hostOnlineLobby;
 
         if (PlayerPrefs.GetInt("FirstTime", 1) == 1)
@@ -359,6 +385,18 @@ public class MenuController : MonoBehaviour
 
         MapPanel.SetActive(false);
         mainMenuPanel.SetActive(true);
+
+#if !STEAMWORKS_NET
+        // Steam yok: online seçenekleri atla, direkt offline akışa geç
+        foreach (MapParent go in mapParents)
+        {
+            go.PopUpItem.gameObject.SetActive(false);
+        }
+        selectedPaintId = string.IsNullOrWhiteSpace(selectedID) ? "" : selectedID;
+        ContinueBtn.gameObject.SetActive(false);
+        OfflineButton();
+        return;
+#endif
 
 
         Host_OfflinePanel.SetActive(true);

@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,7 +6,7 @@ public class ScreenShotTaker : MonoBehaviour
 {
     void Update()
     {
-        // "K" tuşuna basıldığında ekran görüntüsü al
+        // "K" tuÅŸuna basÄ±ldÄ±ÄŸÄ±nda ekran gÃ¶rÃ¼ntÃ¼sÃ¼ al
         if (Input.GetKeyDown(KeyCode.Space))
         {
             string fileName = $"screenshot_{System.DateTime.Now:yyyyMMdd_HHmmss}.png";

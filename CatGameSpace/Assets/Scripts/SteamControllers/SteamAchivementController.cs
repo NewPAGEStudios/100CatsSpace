@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+#if STEAMWORKS_NET
 using Steamworks;
+#endif
 using System;
 public class SteamAchivementController : MonoBehaviour
 {
@@ -11,8 +13,9 @@ public class SteamAchivementController : MonoBehaviour
         get { return _instance; }
     }
 
-
+#if STEAMWORKS_NET
     protected Callback<UserStatsReceived_t> UserStatReceived;
+#endif
 
 
     private void Awake()
@@ -28,6 +31,8 @@ public class SteamAchivementController : MonoBehaviour
         }
         DontDestroyOnLoad(this);
     }
+
+#if STEAMWORKS_NET
     private void OnEnable()
     {
         UserStatReceived = Callback<UserStatsReceived_t>.Create(OnUserStat);
@@ -56,13 +61,14 @@ public class SteamAchivementController : MonoBehaviour
         bool success = SteamUserStats.ClearAchievement("FindAllCats");
         if (success)
         {
-            SteamUserStats.StoreStats(); // Deðiþikliði Steam'e gönder
+            SteamUserStats.StoreStats(); // DeÄŸiÅŸikliÄŸi Steam'e gÃ¶nder
         }
     }
+#endif
 
     public void TryUnlockAchivement(string id)
     {
-        if (!IsThisAchivementUnlocked(id)) 
+        if (!IsThisAchivementUnlocked(id))
         {
             UnlockAchivement(id);
         }
@@ -70,25 +76,35 @@ public class SteamAchivementController : MonoBehaviour
 
     public bool IsThisAchivementUnlocked(string id)
     {
+#if STEAMWORKS_NET
         SteamUserStats.GetAchievement(id, out bool achived);
 
         return achived;
+#else
+        return false;
+#endif
     }
     public void UnlockAchivement(string id)
     {
+#if STEAMWORKS_NET
         if (SteamUserStats.SetAchievement(id))
         {
             Debug.Log("id " + id + ": achived");
             SteamUserStats.StoreStats();
         }
+#endif
 
     }
     public string GetAchivementDsipaly(string id)
     {
+#if STEAMWORKS_NET
         string name = SteamUserStats.GetAchievementDisplayAttribute(id, "name");
         string desc = SteamUserStats.GetAchievementDisplayAttribute(id, "desc");
 
         return name + "/" + desc;
+#else
+        return "";
+#endif
     }
 
 

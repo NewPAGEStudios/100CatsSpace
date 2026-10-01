@@ -1,4 +1,6 @@
+ï»¿#if STEAMWORKS_NET
 using Steamworks;
+#endif
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,12 +10,13 @@ using UnityEngine.UI;
 
 public class LeaderboardListItem : MonoBehaviour
 {
-    [Header("UI Elemanlarý")]
+    [Header("UI ElemanlarÄ±")]
     public TextMeshProUGUI PlayerNameText;
     public TextMeshProUGUI NumberText;
     public TextMeshProUGUI ScoreText;
     public RawImage PlayerIcon;
 
+#if STEAMWORKS_NET
     public CSteamID steamID;
 
     public void SetPlayerInfos(int number, string name, int ImageID, CSteamID csteamID, int score)
@@ -34,8 +37,8 @@ public class LeaderboardListItem : MonoBehaviour
             ScoreText.text = string.Format("{0:00}:{1:00}", minutes, seconds);
         }
 
-        // --- ÝSÝM (Direkt yazýyoruz) ---
-        // Veri zaten detaylardan geldiði için "Loading" beklemeye gerek yok.
+        // --- Ä°SÄ°M (Direkt yazÄ±yoruz) ---
+        // Veri zaten detaylardan geldiÄŸi iÃ§in "Loading" beklemeye gerek yok.
         PlayerNameText.text = name;
 
         // --- AVATAR ---
@@ -66,4 +69,5 @@ public class LeaderboardListItem : MonoBehaviour
         }
         PlayerIcon.texture = texture;
     }
+#endif
 }

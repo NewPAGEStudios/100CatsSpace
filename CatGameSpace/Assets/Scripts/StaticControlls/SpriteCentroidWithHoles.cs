@@ -1,4 +1,4 @@
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -11,11 +11,11 @@ public class SpriteCentroidWithHoles
         Sprite sprite = sr.sprite;
         int shapeCount = sprite.GetPhysicsShapeCount();
 
-        // Alt-poligonları ve alanlarını toplayacağımız listeler
+        // Alt-poligonlarÄ± ve alanlarÄ±nÄ± toplayacaÄŸÄ±mÄ±z listeler
         var allPaths = new List<Vector2[]>();
         var signedAreas = new List<float>();
 
-        // 1) Tüm physics-shape path’lerini oku
+        // 1) TÃ¼m physics-shape pathâ€™lerini oku
         for (int i = 0; i < shapeCount; i++)
         {
             var path = new List<Vector2>();
@@ -33,7 +33,7 @@ public class SpriteCentroidWithHoles
             return false;
         }
 
-        // 2) Alt-poligon centroid’lerini hesapla ve alanla ağırlıklandır
+        // 2) Alt-poligon centroidâ€™lerini hesapla ve alanla aÄŸÄ±rlÄ±klandÄ±r
         Vector2 weightedSum = Vector2.zero;
         float totalArea = 0f;
 
@@ -53,20 +53,20 @@ public class SpriteCentroidWithHoles
             return false;
         }
 
-        // 3) Bileşik centroid (local uzayda)
+        // 3) BileÅŸik centroid (local uzayda)
         Vector2 localCentroid = weightedSum / totalArea;
 
-        // 4) Dünya uzayına dönüştür
+        // 4) DÃ¼nya uzayÄ±na dÃ¶nÃ¼ÅŸtÃ¼r
         centroid = sr.transform.TransformPoint(localCentroid);
 
-        // 5) Opsiyonel: içeride kalıp kalmadığını test et
+        // 5) Opsiyonel: iÃ§eride kalÄ±p kalmadÄ±ÄŸÄ±nÄ± test et
         // if (!IsPointInCompositePolygon(centroid, allPaths, sr))
         //     centroid = FindNearestInteriorPoint(centroid, allPaths, sr);
 
         return true;
     }
 
-    // Shoelace formülü ile imzalı alan
+    // Shoelace formÃ¼lÃ¼ ile imzalÄ± alan
     private static float SignedArea(IList<Vector2> verts)
     {
         float area = 0f;
@@ -75,7 +75,7 @@ public class SpriteCentroidWithHoles
         return area * 0.5f;
     }
 
-    // Çokgen centroid hesaplaması
+    // Ã‡okgen centroid hesaplamasÄ±
     private static Vector2 ComputeCentroid(Vector2[] verts)
     {
         float signedArea = 0f, cx = 0f, cy = 0f;
@@ -93,6 +93,6 @@ public class SpriteCentroidWithHoles
         return new Vector2(cx, cy);
     }
 
-    // (İhtiyaç halinde) Bir noktanın çoklu path’lerden oluşan bileşik şeklin içinde olup olmadığını
-    // test etmek için her alt-poligon için ray-casting testi yapılabilir.
+    // (Ä°htiyaÃ§ halinde) Bir noktanÄ±n Ã§oklu pathâ€™lerden oluÅŸan bileÅŸik ÅŸeklin iÃ§inde olup olmadÄ±ÄŸÄ±nÄ±
+    // test etmek iÃ§in her alt-poligon iÃ§in ray-casting testi yapÄ±labilir.
 }

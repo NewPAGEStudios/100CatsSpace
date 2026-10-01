@@ -1,5 +1,4 @@
 using Mirror;
-using Steamworks;
 using System.Collections;
 using TMPro;
 using UnityEngine;
@@ -115,7 +114,7 @@ public class GameController : MonoBehaviour
 
         if (isOnline)
         {
-            selectedPaintID = SteamMatchmaking.GetLobbyData(new CSteamID(SteamLobby.instance.CurrentLobbyID), "selectedID");//GetSteamData
+            selectedPaintID = SteamLobby.instance.GetLobbyData("selectedID");//GetSteamData
             Debug.Log(selectedPaintID);
             GameDataTracker.paint_SaveSoloCorrupted = true;
         }

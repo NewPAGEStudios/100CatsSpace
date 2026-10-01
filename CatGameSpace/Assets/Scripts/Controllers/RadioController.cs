@@ -1,4 +1,4 @@
-using Mirror;
+﻿using Mirror;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ public class RadioController : MonoBehaviour
 {
     public static RadioController instance;
 
-    private readonly char[] timeBuffer = new char[5]; // �rn: "00:00"
+    private readonly char[] timeBuffer = new char[5]; // örn: "00:00"
 
     public GameObject MutedIndicator;
     public Sprite sync;

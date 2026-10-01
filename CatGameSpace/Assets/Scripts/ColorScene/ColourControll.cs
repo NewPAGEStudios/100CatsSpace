@@ -1,5 +1,4 @@
-using Steamworks;
-using System.Collections;
+ï»¿using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
@@ -511,10 +510,10 @@ public class ColourControll : MonoBehaviour
     }
     bool IsColorDark(Color color)
     {
-        // W3C'ye göre algýlanan parlaklýk (Relative Luminance) hesaplamasý
+        // W3C'ye gÃ¶re algÄ±lanan parlaklÄ±k (Relative Luminance) hesaplamasÄ±
         double luminance = (0.2126 * color.r) + (0.7152 * color.g) + (0.0722 * color.b);
 
-        // Eþik deðeri 0.5, daha küçükse koyu, büyükse açýk renk olarak kabul edilir
+        // EÅŸik deÄŸeri 0.5, daha kÃ¼Ã§Ã¼kse koyu, bÃ¼yÃ¼kse aÃ§Ä±k renk olarak kabul edilir
         return luminance < 0.5;
     }
 
@@ -523,21 +522,21 @@ public class ColourControll : MonoBehaviour
         Sprite sprite = sr.sprite;
         Texture2D tex = sprite.texture;
 
-        // Dünya koordinatýndan lokal sprite koordinatýna geç
+        // DÃ¼nya koordinatÄ±ndan lokal sprite koordinatÄ±na geÃ§
         Vector2 local = sr.transform.InverseTransformPoint(wp);
 
-        // Sprite'ýn ölçüsüne göre texture pozisyonu (pivot sol alt!)
+        // Sprite'Ä±n Ã¶lÃ§Ã¼sÃ¼ne gÃ¶re texture pozisyonu (pivot sol alt!)
         float px = local.x * sprite.pixelsPerUnit + sprite.textureRect.x;
         float py = local.y * sprite.pixelsPerUnit + sprite.textureRect.y;
 
         int x = Mathf.FloorToInt(px);
         int y = Mathf.FloorToInt(py);
 
-        // Güvenlik kontrolü
+        // GÃ¼venlik kontrolÃ¼
         if (x < 0 || y < 0 || x >= tex.width || y >= tex.height)
             return false;
 
-        Color pixel = tex.GetPixel(x, y); // Texture readable olmalý!
+        Color pixel = tex.GetPixel(x, y); // Texture readable olmalÄ±!
         return pixel.a == 1f;
     }
     #endregion
