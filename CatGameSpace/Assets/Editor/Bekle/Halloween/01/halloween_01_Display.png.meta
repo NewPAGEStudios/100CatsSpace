@@ -1,0 +1,1625 @@
+fileFormatVersion: 2
+guid: 0de6034a45124b849bfdd259d5ba0c63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7220939691229844957
+    second: halloween_01_Display_0
+  - first:
+      213: -4450048021303939288
+    second: halloween_01_Display_1
+  - first:
+      213: 2592915355330669594
+    second: halloween_01_Display_2
+  - first:
+      213: 934253281656993308
+    second: halloween_01_Display_3
+  - first:
+      213: -864562918146037127
+    second: halloween_01_Display_4
+  - first:
+      213: -822586569760966861
+    second: halloween_01_Display_5
+  - first:
+      213: 3187177605146851956
+    second: halloween_01_Display_6
+  - first:
+      213: 2575612070842671782
+    second: halloween_01_Display_7
+  - first:
+      213: 977471981752187178
+    second: halloween_01_Display_8
+  - first:
+      213: -3850612824737380013
+    second: halloween_01_Display_9
+  - first:
+      213: 2922409960946015272
+    second: halloween_01_Display_10
+  - first:
+      213: 8473546811534695454
+    second: halloween_01_Display_11
+  - first:
+      213: -8724111129910791032
+    second: halloween_01_Display_12
+  - first:
+      213: 4250829293802428592
+    second: halloween_01_Display_13
+  - first:
+      213: -6611211014688851431
+    second: halloween_01_Display_14
+  - first:
+      213: 3378131814930436751
+    second: halloween_01_Display_15
+  - first:
+      213: 185720248325615558
+    second: halloween_01_Display_16
+  - first:
+      213: 1995491081866263742
+    second: halloween_01_Display_17
+  - first:
+      213: 6126410371148792380
+    second: halloween_01_Display_18
+  - first:
+      213: 8475612862239841313
+    second: halloween_01_Display_19
+  - first:
+      213: 8345567478700777664
+    second: halloween_01_Display_20
+  - first:
+      213: -8891922077048344766
+    second: halloween_01_Display_21
+  - first:
+      213: 6595244295518492833
+    second: halloween_01_Display_22
+  - first:
+      213: 4611872263685397214
+    second: halloween_01_Display_23
+  - first:
+      213: 5090762948196923933
+    second: halloween_01_Display_24
+  - first:
+      213: -3535760409741052052
+    second: halloween_01_Display_25
+  - first:
+      213: 4792035830465143567
+    second: halloween_01_Display_26
+  - first:
+      213: 7943933084279891681
+    second: halloween_01_Display_27
+  - first:
+      213: -7676900643966289608
+    second: halloween_01_Display_28
+  - first:
+      213: 2932718004207104452
+    second: halloween_01_Display_29
+  - first:
+      213: 6291777312787597686
+    second: halloween_01_Display_30
+  - first:
+      213: 6171341936629540904
+    second: halloween_01_Display_31
+  - first:
+      213: -8517031156077153640
+    second: halloween_01_Display_32
+  - first:
+      213: 1234990685188107497
+    second: halloween_01_Display_33
+  - first:
+      213: -300414532870784385
+    second: halloween_01_Display_34
+  - first:
+      213: 7260285898261300132
+    second: halloween_01_Display_35
+  - first:
+      213: 546322004870778759
+    second: halloween_01_Display_36
+  - first:
+      213: 4050113537645259881
+    second: halloween_01_Display_37
+  - first:
+      213: 6182623837654581976
+    second: halloween_01_Display_38
+  - first:
+      213: -688264937495456474
+    second: halloween_01_Display_39
+  - first:
+      213: -3343971210402220059
+    second: halloween_01_Display_40
+  - first:
+      213: -2917852740717019573
+    second: halloween_01_Display_41
+  - first:
+      213: 1534973572410268861
+    second: halloween_01_Display_42
+  - first:
+      213: 3521116638134627735
+    second: halloween_01_Display_43
+  - first:
+      213: -7190013896661492744
+    second: halloween_01_Display_44
+  - first:
+      213: -730273153712922347
+    second: halloween_01_Display_45
+  - first:
+      213: -8226142395467191957
+    second: halloween_01_Display_46
+  - first:
+      213: -5939152324041134961
+    second: halloween_01_Display_47
+  - first:
+      213: 928208190558719313
+    second: halloween_01_Display_48
+  - first:
+      213: 6711879312326318135
+    second: halloween_01_Display_49
+  - first:
+      213: 4759085335152524870
+    second: halloween_01_Display_50
+  - first:
+      213: -8513654062987647826
+    second: halloween_01_Display_51
+  - first:
+      213: -6733950654445340982
+    second: halloween_01_Display_52
+  - first:
+      213: 4344932131825676364
+    second: halloween_01_Display_53
+  - first:
+      213: -544439703369323560
+    second: halloween_01_Display_54
+  - first:
+      213: -6642510896134193250
+    second: halloween_01_Display_55
+  - first:
+      213: -3673722856593476065
+    second: halloween_01_Display_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: halloween_01_Display_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2396
+        width: 4389
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae9b7eb911acb90800000000000000
+      internalID: -7220939691229844957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2135
+        width: 615
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fafb8e6e04e32c0800000000000000
+      internalID: -4450048021303939288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1940
+        width: 631
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ce32f17c2ebf320800000000000000
+      internalID: 2592915355330669594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1722
+        width: 1696
+        height: 1143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c167867e86227fc00800000000000000
+      internalID: 934253281656993308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_4
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 2246
+        width: 669
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2ee94b947004f0800000000000000
+      internalID: -864562918146037127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_5
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 2258
+        width: 1191
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337f3608fd59594f0800000000000000
+      internalID: -822586569760966861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_6
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2511
+        width: 1382
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47abbde35212b3c20800000000000000
+      internalID: 3187177605146851956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_7
+      rect:
+        serializedVersion: 2
+        x: 3618
+        y: 2379
+        width: 126
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a229c148896eb320800000000000000
+      internalID: 2575612070842671782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_8
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2328
+        width: 165
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a297c3aa69da09d00800000000000000
+      internalID: 977471981752187178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_9
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 2369
+        width: 239
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35907fd8900ef8ac0800000000000000
+      internalID: -3850612824737380013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_10
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 2293
+        width: 250
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c104a306c7e8820800000000000000
+      internalID: 2922409960946015272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_11
+      rect:
+        serializedVersion: 2
+        x: 4457
+        y: 2202
+        width: 459
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c5b292ee5189570800000000000000
+      internalID: 8473546811534695454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_12
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 2311
+        width: 260
+        height: 576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884b2a0562bbde680800000000000000
+      internalID: -8724111129910791032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_13
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 2330
+        width: 242
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b81be988bafdfa30800000000000000
+      internalID: 4250829293802428592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_14
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2015
+        width: 171
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a325e1c924044a0800000000000000
+      internalID: -6611211014688851431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_15
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 2194
+        width: 121
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82df51dcf881ee20800000000000000
+      internalID: 3378131814930436751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_16
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 2129
+        width: 1181
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfab05f49fc39200800000000000000
+      internalID: 185720248325615558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_17
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1915
+        width: 1530
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc391ff09861bb10800000000000000
+      internalID: 1995491081866263742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3942
+        height: 2183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32c79006c1650550800000000000000
+      internalID: 6126410371148792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_19
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 2140
+        width: 426
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c99831efc6f9570800000000000000
+      internalID: 8475612862239841313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_20
+      rect:
+        serializedVersion: 2
+        x: 3421
+        y: 1880
+        width: 320
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c02309b76961d370800000000000000
+      internalID: 8345567478700777664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_21
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1192
+        width: 656
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f641b7bfb899480800000000000000
+      internalID: -8891922077048344766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_22
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 1560
+        width: 1372
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a81d416eb3078b50800000000000000
+      internalID: 6595244295518492833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_23
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 1346
+        width: 235
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edad17a9369a00040800000000000000
+      internalID: 4611872263685397214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_24
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 1431
+        width: 290
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a7ffaede506a640800000000000000
+      internalID: 5090762948196923933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_25
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 1155
+        width: 671
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67be7ef3a47eeec0800000000000000
+      internalID: -3535760409741052052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_26
+      rect:
+        serializedVersion: 2
+        x: 4025
+        y: 1160
+        width: 226
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a1d1d23bb08240800000000000000
+      internalID: 4792035830465143567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_27
+      rect:
+        serializedVersion: 2
+        x: 4112
+        y: 1403
+        width: 304
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6e9f72d058e3e60800000000000000
+      internalID: 7943933084279891681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_28
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 1161
+        width: 229
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839fb6cc98b267590800000000000000
+      internalID: -7676900643966289608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_29
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 921
+        width: 464
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c138239c7b13b820800000000000000
+      internalID: 2932718004207104452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_30
+      rect:
+        serializedVersion: 2
+        x: 3935
+        y: 971
+        width: 282
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67901967122e05750800000000000000
+      internalID: 6291777312787597686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_31
+      rect:
+        serializedVersion: 2
+        x: 3953
+        y: 1122
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82866405bc205a550800000000000000
+      internalID: 6171341936629540904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_32
+      rect:
+        serializedVersion: 2
+        x: 3959
+        y: 1120
+        width: 324
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8923619e94d6dc980800000000000000
+      internalID: -8517031156077153640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_33
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 1095
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecad832c71932110800000000000000
+      internalID: 1234990685188107497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_34
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 971
+        width: 182
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a3fd2f296b4dbf0800000000000000
+      internalID: -300414532870784385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_35
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 1040
+        width: 180
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a384adce87b1c460800000000000000
+      internalID: 7260285898261300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_36
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 786
+        width: 261
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f4d4908fce49700800000000000000
+      internalID: 546322004870778759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_37
+      rect:
+        serializedVersion: 2
+        x: 4553
+        y: 495
+        width: 447
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ca857ddc4e43830800000000000000
+      internalID: 4050113537645259881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_38
+      rect:
+        serializedVersion: 2
+        x: 4149
+        y: 1016
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d283479f971dc550800000000000000
+      internalID: 6182623837654581976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_39
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 855
+        width: 459
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6251a399faac276f0800000000000000
+      internalID: -688264937495456474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_40
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 877
+        width: 29
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b7d8b6e3d791d0800000000000000
+      internalID: -3343971210402220059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_41
+      rect:
+        serializedVersion: 2
+        x: 3933
+        y: 875
+        width: 484
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e79aa4464b187d0800000000000000
+      internalID: -2917852740717019573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_42
+      rect:
+        serializedVersion: 2
+        x: 4222
+        y: 677
+        width: 195
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc502bd4525d4510800000000000000
+      internalID: 1534973572410268861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_43
+      rect:
+        serializedVersion: 2
+        x: 4279
+        y: 770
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d6bbc3de48dd030800000000000000
+      internalID: 3521116638134627735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_44
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 573
+        width: 144
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb9e5f8470f73c90800000000000000
+      internalID: -7190013896661492744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_45
+      rect:
+        serializedVersion: 2
+        x: 3914
+        y: 541
+        width: 429
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511efe39f6c8dd5f0800000000000000
+      internalID: -730273153712922347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_46
+      rect:
+        serializedVersion: 2
+        x: 3921
+        y: 836
+        width: 375
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69a566431fd6dd80800000000000000
+      internalID: -8226142395467191957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_47
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 608
+        width: 103
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca792ad64e39da0800000000000000
+      internalID: -5939152324041134961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_48
+      rect:
+        serializedVersion: 2
+        x: 4403
+        y: 758
+        width: 112
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d4cd37e68a1ec00800000000000000
+      internalID: 928208190558719313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_49
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 689
+        width: 61
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d08a6ca2652d50800000000000000
+      internalID: 6711879312326318135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_50
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 476
+        width: 463
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7989c5eaab0240800000000000000
+      internalID: 4759085335152524870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_51
+      rect:
+        serializedVersion: 2
+        x: 4332
+        y: 546
+        width: 89
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea46f0bacbc69d980800000000000000
+      internalID: -8513654062987647826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_52
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 624
+        width: 43
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6b6cace833c82a0800000000000000
+      internalID: -6733950654445340982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_53
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 611
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4076a2e0cc4c4c30800000000000000
+      internalID: 4344932131825676364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_54
+      rect:
+        serializedVersion: 2
+        x: 4709
+        y: 490
+        width: 234
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db6d0f69f2c178f0800000000000000
+      internalID: -544439703369323560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_55
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 0
+        width: 1447
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f7243988f01d3a0800000000000000
+      internalID: -6642510896134193250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_01_Display_56
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 470
+        width: 234
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f163381b680540dc0800000000000000
+      internalID: -3673722856593476065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      halloween_01_Display_0: -7220939691229844957
+      halloween_01_Display_1: -4450048021303939288
+      halloween_01_Display_10: 2922409960946015272
+      halloween_01_Display_11: 8473546811534695454
+      halloween_01_Display_12: -8724111129910791032
+      halloween_01_Display_13: 4250829293802428592
+      halloween_01_Display_14: -6611211014688851431
+      halloween_01_Display_15: 3378131814930436751
+      halloween_01_Display_16: 185720248325615558
+      halloween_01_Display_17: 1995491081866263742
+      halloween_01_Display_18: 6126410371148792380
+      halloween_01_Display_19: 8475612862239841313
+      halloween_01_Display_2: 2592915355330669594
+      halloween_01_Display_20: 8345567478700777664
+      halloween_01_Display_21: -8891922077048344766
+      halloween_01_Display_22: 6595244295518492833
+      halloween_01_Display_23: 4611872263685397214
+      halloween_01_Display_24: 5090762948196923933
+      halloween_01_Display_25: -3535760409741052052
+      halloween_01_Display_26: 4792035830465143567
+      halloween_01_Display_27: 7943933084279891681
+      halloween_01_Display_28: -7676900643966289608
+      halloween_01_Display_29: 2932718004207104452
+      halloween_01_Display_3: 934253281656993308
+      halloween_01_Display_30: 6291777312787597686
+      halloween_01_Display_31: 6171341936629540904
+      halloween_01_Display_32: -8517031156077153640
+      halloween_01_Display_33: 1234990685188107497
+      halloween_01_Display_34: -300414532870784385
+      halloween_01_Display_35: 7260285898261300132
+      halloween_01_Display_36: 546322004870778759
+      halloween_01_Display_37: 4050113537645259881
+      halloween_01_Display_38: 6182623837654581976
+      halloween_01_Display_39: -688264937495456474
+      halloween_01_Display_4: -864562918146037127
+      halloween_01_Display_40: -3343971210402220059
+      halloween_01_Display_41: -2917852740717019573
+      halloween_01_Display_42: 1534973572410268861
+      halloween_01_Display_43: 3521116638134627735
+      halloween_01_Display_44: -7190013896661492744
+      halloween_01_Display_45: -730273153712922347
+      halloween_01_Display_46: -8226142395467191957
+      halloween_01_Display_47: -5939152324041134961
+      halloween_01_Display_48: 928208190558719313
+      halloween_01_Display_49: 6711879312326318135
+      halloween_01_Display_5: -822586569760966861
+      halloween_01_Display_50: 4759085335152524870
+      halloween_01_Display_51: -8513654062987647826
+      halloween_01_Display_52: -6733950654445340982
+      halloween_01_Display_53: 4344932131825676364
+      halloween_01_Display_54: -544439703369323560
+      halloween_01_Display_55: -6642510896134193250
+      halloween_01_Display_56: -3673722856593476065
+      halloween_01_Display_6: 3187177605146851956
+      halloween_01_Display_7: 2575612070842671782
+      halloween_01_Display_8: 977471981752187178
+      halloween_01_Display_9: -3850612824737380013
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 0a39007e8a013d24b891683bc09264d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8972987421106561509
+    second: japan2_01_Cats_0
+  - first:
+      213: 3954185542805926323
+    second: japan2_01_Cats_1
+  - first:
+      213: 3980780525902979398
+    second: japan2_01_Cats_2
+  - first:
+      213: -4293431187876891120
+    second: japan2_01_Cats_3
+  - first:
+      213: 3116355955993070355
+    second: japan2_01_Cats_4
+  - first:
+      213: 4701042951952535543
+    second: japan2_01_Cats_5
+  - first:
+      213: -6315382668480594026
+    second: japan2_01_Cats_6
+  - first:
+      213: 5281631371829775303
+    second: japan2_01_Cats_7
+  - first:
+      213: -6125374807492887812
+    second: japan2_01_Cats_8
+  - first:
+      213: -4152152222037689015
+    second: japan2_01_Cats_9
+  - first:
+      213: -7460812569893633327
+    second: japan2_01_Cats_10
+  - first:
+      213: -1488406177338464830
+    second: japan2_01_Cats_11
+  - first:
+      213: 2438021880399584496
+    second: japan2_01_Cats_12
+  - first:
+      213: 8156798574928522101
+    second: japan2_01_Cats_13
+  - first:
+      213: -4609905596509256475
+    second: japan2_01_Cats_14
+  - first:
+      213: 9029687694628493599
+    second: japan2_01_Cats_15
+  - first:
+      213: 6178826883465256690
+    second: japan2_01_Cats_16
+  - first:
+      213: -7488956980555172317
+    second: japan2_01_Cats_17
+  - first:
+      213: -8847757763038319933
+    second: japan2_01_Cats_18
+  - first:
+      213: 208929775405996502
+    second: japan2_01_Cats_19
+  - first:
+      213: -434330451033183362
+    second: japan2_01_Cats_20
+  - first:
+      213: 1852119753323120660
+    second: japan2_01_Cats_21
+  - first:
+      213: -2642309355060940837
+    second: japan2_01_Cats_22
+  - first:
+      213: 5962545487923214696
+    second: japan2_01_Cats_23
+  - first:
+      213: -6751619391177639304
+    second: japan2_01_Cats_24
+  - first:
+      213: 5336336804015738904
+    second: japan2_01_Cats_25
+  - first:
+      213: 5447877105828915161
+    second: japan2_01_Cats_26
+  - first:
+      213: -5044070421981112616
+    second: japan2_01_Cats_27
+  - first:
+      213: -4777763476925450688
+    second: japan2_01_Cats_28
+  - first:
+      213: -1781009337458253888
+    second: japan2_01_Cats_29
+  - first:
+      213: -7655284837254626687
+    second: japan2_01_Cats_30
+  - first:
+      213: -6196261905078711791
+    second: japan2_01_Cats_31
+  - first:
+      213: -6861983537810766011
+    second: japan2_01_Cats_32
+  - first:
+      213: -1228276404996104971
+    second: japan2_01_Cats_33
+  - first:
+      213: 4307303665683184782
+    second: japan2_01_Cats_34
+  - first:
+      213: -2957440332597944397
+    second: japan2_01_Cats_35
+  - first:
+      213: 2833128475352867192
+    second: japan2_01_Cats_36
+  - first:
+      213: 5631927245988890601
+    second: japan2_01_Cats_37
+  - first:
+      213: -6740163477317186526
+    second: japan2_01_Cats_38
+  - first:
+      213: 1666944245215914708
+    second: japan2_01_Cats_39
+  - first:
+      213: 1185528403137312057
+    second: japan2_01_Cats_40
+  - first:
+      213: 3540580005151666069
+    second: japan2_01_Cats_41
+  - first:
+      213: 2482202112375005871
+    second: japan2_01_Cats_42
+  - first:
+      213: -9115678170366923344
+    second: japan2_01_Cats_43
+  - first:
+      213: 238906300935087019
+    second: japan2_01_Cats_44
+  - first:
+      213: -3269813019018026506
+    second: japan2_01_Cats_45
+  - first:
+      213: -906176346488326250
+    second: japan2_01_Cats_46
+  - first:
+      213: -4571582148209230689
+    second: japan2_01_Cats_47
+  - first:
+      213: 3003846771058145632
+    second: japan2_01_Cats_48
+  - first:
+      213: 3875599779772852908
+    second: japan2_01_Cats_49
+  - first:
+      213: -2585205636005957470
+    second: japan2_01_Cats_50
+  - first:
+      213: -8515419242151271887
+    second: japan2_01_Cats_51
+  - first:
+      213: 2627680494477954184
+    second: japan2_01_Cats_52
+  - first:
+      213: 5492183587493231453
+    second: japan2_01_Cats_53
+  - first:
+      213: -1930113030085156849
+    second: japan2_01_Cats_54
+  - first:
+      213: -1789961489165759080
+    second: japan2_01_Cats_55
+  - first:
+      213: -2857265881506162256
+    second: japan2_01_Cats_56
+  - first:
+      213: 3864969509583890361
+    second: japan2_01_Cats_57
+  - first:
+      213: 1813248228171259995
+    second: japan2_01_Cats_58
+  - first:
+      213: 806971813316792961
+    second: japan2_01_Cats_59
+  - first:
+      213: 2251498379007220770
+    second: japan2_01_Cats_60
+  - first:
+      213: -5270756089862565385
+    second: japan2_01_Cats_61
+  - first:
+      213: -4373753433645012897
+    second: japan2_01_Cats_62
+  - first:
+      213: 4650523824984126333
+    second: japan2_01_Cats_63
+  - first:
+      213: -7956392220748205772
+    second: japan2_01_Cats_64
+  - first:
+      213: -6585610386467847735
+    second: japan2_01_Cats_65
+  - first:
+      213: -2808252873610802112
+    second: japan2_01_Cats_66
+  - first:
+      213: -3735039934717712425
+    second: japan2_01_Cats_67
+  - first:
+      213: 8267220372734700821
+    second: japan2_01_Cats_68
+  - first:
+      213: 5535815137719712477
+    second: japan2_01_Cats_69
+  - first:
+      213: 4797498066181519666
+    second: japan2_01_Cats_70
+  - first:
+      213: 3059310570380596856
+    second: japan2_01_Cats_71
+  - first:
+      213: 6419718594742159250
+    second: japan2_01_Cats_72
+  - first:
+      213: -3159869477358382368
+    second: japan2_01_Cats_73
+  - first:
+      213: -7220095692572107195
+    second: japan2_01_Cats_74
+  - first:
+      213: 8067957365126837036
+    second: japan2_01_Cats_75
+  - first:
+      213: -3925629708971923070
+    second: japan2_01_Cats_76
+  - first:
+      213: -3567471776910229806
+    second: japan2_01_Cats_77
+  - first:
+      213: -7510264539511524351
+    second: japan2_01_Cats_78
+  - first:
+      213: 4331584695012062087
+    second: japan2_01_Cats_79
+  - first:
+      213: 6425879361616508181
+    second: japan2_01_Cats_80
+  - first:
+      213: 8699315189595765079
+    second: japan2_01_Cats_81
+  - first:
+      213: 8049863776706406530
+    second: japan2_01_Cats_82
+  - first:
+      213: 5631251330719523842
+    second: japan2_01_Cats_83
+  - first:
+      213: -6751115128760220129
+    second: japan2_01_Cats_84
+  - first:
+      213: 8668597983025653315
+    second: japan2_01_Cats_85
+  - first:
+      213: 4512857573378294242
+    second: japan2_01_Cats_86
+  - first:
+      213: 7163720269391593780
+    second: japan2_01_Cats_87
+  - first:
+      213: 4651664260478261899
+    second: japan2_01_Cats_88
+  - first:
+      213: -1533112292649526637
+    second: japan2_01_Cats_89
+  - first:
+      213: -1995827878428315735
+    second: japan2_01_Cats_90
+  - first:
+      213: 7036164786447606125
+    second: japan2_01_Cats_91
+  - first:
+      213: 9067458251287906927
+    second: japan2_01_Cats_92
+  - first:
+      213: -1451011295173921969
+    second: japan2_01_Cats_93
+  - first:
+      213: -8507140543899361512
+    second: japan2_01_Cats_94
+  - first:
+      213: -5381610264978946397
+    second: japan2_01_Cats_95
+  - first:
+      213: 4491337708641241622
+    second: japan2_01_Cats_96
+  - first:
+      213: 664961629780216321
+    second: japan2_01_Cats_97
+  - first:
+      213: -1942087708008369663
+    second: japan2_01_Cats_98
+  - first:
+      213: 867527625745672372
+    second: japan2_01_Cats_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: japan2_01_Cats_0
+      rect:
+        serializedVersion: 2
+        x: 4532
+        y: 2957
+        width: 103
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1ea11c484768c70800000000000000
+      internalID: 8972987421106561509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_1
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2851
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1beee0dc610e630800000000000000
+      internalID: 3954185542805926323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_2
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 2793
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416d371cc29e3730800000000000000
+      internalID: 3980780525902979398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_3
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 2571
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016b30b051baa64c0800000000000000
+      internalID: -4293431187876891120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_4
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2611
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc3a61b358f3b20800000000000000
+      internalID: 3116355955993070355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_5
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 2559
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff0cf858a57d3140800000000000000
+      internalID: 4701042951952535543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2539
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f3e806ce04b58a0800000000000000
+      internalID: -6315382668480594026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_7
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 2569
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb0978dfbf1c4940800000000000000
+      internalID: 5281631371829775303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2503
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa7243f01c4efaa0800000000000000
+      internalID: -6125374807492887812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_9
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 2522
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d38189d879066c0800000000000000
+      internalID: -4152152222037689015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_10
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 2466
+        width: 73
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d288bb2f7ed57890800000000000000
+      internalID: -7460812569893633327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_11
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 2472
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c56e36b77e185be0800000000000000
+      internalID: -1488406177338464830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_12
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 2533
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd8d7abf795d120800000000000000
+      internalID: 2438021880399584496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_13
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 2400
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be60b5615c23170800000000000000
+      internalID: 8156798574928522101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_14
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 2456
+        width: 58
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e40bf7c8435600c0800000000000000
+      internalID: -4609905596509256475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_15
+      rect:
+        serializedVersion: 2
+        x: 4058
+        y: 2448
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f191c0fed15ef4d70800000000000000
+      internalID: 9029687694628493599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_16
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 2339
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe949d405a9fb550800000000000000
+      internalID: 6178826883465256690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_17
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2343
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326b3dbed41e11890800000000000000
+      internalID: -7488956980555172317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_18
+      rect:
+        serializedVersion: 2
+        x: 3289
+        y: 2383
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca65632133763580800000000000000
+      internalID: -8847757763038319933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_19
+      rect:
+        serializedVersion: 2
+        x: 2658
+        y: 2247
+        width: 26
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99316168446e200800000000000000
+      internalID: 208929775405996502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_20
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2314
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b280781c2f8f9f0800000000000000
+      internalID: -434330451033183362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_21
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 2285
+        width: 95
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180f4a4a1d04b910800000000000000
+      internalID: 1852119753323120660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2139
+        width: 67
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa6e024a1a45bd0800000000000000
+      internalID: -2642309355060940837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_23
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 2164
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86975c4c7873fb250800000000000000
+      internalID: 5962545487923214696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_24
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 2207
+        width: 32
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ab7327fed6d42a0800000000000000
+      internalID: -6751619391177639304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_25
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 2124
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109335dc0a7e0a40800000000000000
+      internalID: 5336336804015738904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_26
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 2144
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d76ae81d5fba9b40800000000000000
+      internalID: 5447877105828915161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_27
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 2160
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6d2c30dacdff9b0800000000000000
+      internalID: -5044070421981112616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_28
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 2103
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046f5017e69f1bdb0800000000000000
+      internalID: -4777763476925450688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_29
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 2146
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf952b91759847e0800000000000000
+      internalID: -1781009337458253888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_30
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2041
+        width: 73
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182010dfff6f2c590800000000000000
+      internalID: -7655284837254626687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_31
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 2054
+        width: 62
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a8f7460a4720aa0800000000000000
+      internalID: -6196261905078711791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_32
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2018
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5470636245655c0a0800000000000000
+      internalID: -6861983537810766011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_33
+      rect:
+        serializedVersion: 2
+        x: 3224
+        y: 2057
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc963a0e1944fee0800000000000000
+      internalID: -1228276404996104971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_34
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 1959
+        width: 117
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cb8c4ecdd96cb30800000000000000
+      internalID: 4307303665683184782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_35
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1903
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf161bcfaf05f6d0800000000000000
+      internalID: -2957440332597944397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_36
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 1972
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871a378765b415720800000000000000
+      internalID: 2833128475352867192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_37
+      rect:
+        serializedVersion: 2
+        x: 3569
+        y: 1992
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e70302bdff982e40800000000000000
+      internalID: 5631927245988890601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_38
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1951
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c827e37012672a0800000000000000
+      internalID: -6740163477317186526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_39
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 1945
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dae97c85fc222710800000000000000
+      internalID: 1666944245215914708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_40
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 1766
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935b22c2dc7d37010800000000000000
+      internalID: 1185528403137312057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_41
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 1796
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f6ae181caa22130800000000000000
+      internalID: 3540580005151666069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_42
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 1743
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa226d08bad827220800000000000000
+      internalID: 2482202112375005871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_43
+      rect:
+        serializedVersion: 2
+        x: 4051
+        y: 1715
+        width: 33
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd2f70400b9e7180800000000000000
+      internalID: -9115678170366923344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_44
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1648
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3a6d1d304c05300800000000000000
+      internalID: 238906300935087019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_45
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1638
+        width: 38
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1ab77226a4f92d0800000000000000
+      internalID: -3269813019018026506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_46
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1639
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697b3bbf96d9c63f0800000000000000
+      internalID: -906176346488326250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_47
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1646
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb87ae14a7e80c0800000000000000
+      internalID: -4571582148209230689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_48
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 1621
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069ff9429becfa920800000000000000
+      internalID: 3003846771058145632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_49
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 1614
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa61f44775e8c530800000000000000
+      internalID: 3875599779772852908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_50
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 1577
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0f68acb218f1cd0800000000000000
+      internalID: -2585205636005957470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_51
+      rect:
+        serializedVersion: 2
+        x: 4627
+        y: 1592
+        width: 93
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1322c0ed05723d980800000000000000
+      internalID: -8515419242151271887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_52
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1552
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cc498dc75677420800000000000000
+      internalID: 2627680494477954184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_53
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 1554
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bb3cdbfd7283c40800000000000000
+      internalID: 5492183587493231453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_54
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 1592
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00eb61ec6cd635e0800000000000000
+      internalID: -1930113030085156849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_55
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1471
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d45ac5287c827e0800000000000000
+      internalID: -1789961489165759080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_56
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 1485
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b95bf7b1d3f858d0800000000000000
+      internalID: -2857265881506162256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_57
+      rect:
+        serializedVersion: 2
+        x: 2975
+        y: 1515
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7a67e9a4123a530800000000000000
+      internalID: 3864969509583890361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_58
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 1478
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5021c118a3f92910800000000000000
+      internalID: 1813248228171259995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_59
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1451
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1821084b690f23b00800000000000000
+      internalID: 806971813316792961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_60
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1352
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd715c8ddee3f10800000000000000
+      internalID: 2251498379007220770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_61
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1405
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d30e03438ad6b0800000000000000
+      internalID: -5270756089862565385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_62
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1302
+        width: 35
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a17cdc6e4d43c0800000000000000
+      internalID: -4373753433645012897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_63
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1351
+        width: 90
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d737baf77caf98040800000000000000
+      internalID: 4650523824984126333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_64
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1339
+        width: 86
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4313f941e67359190800000000000000
+      internalID: -7956392220748205772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_65
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 1285
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1067dde363b94a0800000000000000
+      internalID: -6585610386467847735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_66
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 1245
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c45f4e3e41709d0800000000000000
+      internalID: -2808252873610802112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_67
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1281
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7a04de7f87a2cc0800000000000000
+      internalID: -3735039934717712425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_68
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1279
+        width: 80
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d69bc90211bb270800000000000000
+      internalID: 8267220372734700821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_69
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1147
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda730aa98a23dc40800000000000000
+      internalID: 5535815137719712477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_70
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1189
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397f5da213249240800000000000000
+      internalID: 4797498066181519666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_71
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 1057
+        width: 35
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876122d31cad47a20800000000000000
+      internalID: 3059310570380596856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_72
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 1106
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297839d7c0c671950800000000000000
+      internalID: 6419718594742159250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_73
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 1017
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e25479b373e524d0800000000000000
+      internalID: -3159869477358382368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_74
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 931
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e59e7a8311dcb90800000000000000
+      internalID: -7220095692572107195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_75
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 890
+        width: 46
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b16b4a7427ff60800000000000000
+      internalID: 8067957365126837036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_76
+      rect:
+        serializedVersion: 2
+        x: 4217
+        y: 880
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289220d149c5589c0800000000000000
+      internalID: -3925629708971923070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_77
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 733
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deb807f15bcd7ec0800000000000000
+      internalID: -3567471776910229806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_78
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 724
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104f331413e26c790800000000000000
+      internalID: -7510264539511524351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_79
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 769
+        width: 135
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78376b49451ec1c30800000000000000
+      internalID: 4331584695012062087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_80
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 743
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5157aaecb3f4d2950800000000000000
+      internalID: 6425879361616508181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_81
+      rect:
+        serializedVersion: 2
+        x: 4838
+        y: 737
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759f301f21d2ab870800000000000000
+      internalID: 8699315189595765079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_82
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 685
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288aed4747cd6bf60800000000000000
+      internalID: 8049863776706406530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_83
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 646
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204ab78ef39362e40800000000000000
+      internalID: 5631251330719523842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_84
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 555
+        width: 116
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164b703f883f42a0800000000000000
+      internalID: -6751115128760220129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_85
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 603
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34669e6ffeb0d4870800000000000000
+      internalID: 8668597983025653315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_86
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 521
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e105278d04e0ae30800000000000000
+      internalID: 4512857573378294242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_87
+      rect:
+        serializedVersion: 2
+        x: 4414
+        y: 535
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4310a5741a5aa6360800000000000000
+      internalID: 7163720269391593780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_88
+      rect:
+        serializedVersion: 2
+        x: 3016
+        y: 477
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8adf24dff70e8040800000000000000
+      internalID: 4651664260478261899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_89
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 326
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a17db1e7a49bae0800000000000000
+      internalID: -1533112292649526637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_90
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 343
+        width: 98
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af65717e156d44e0800000000000000
+      internalID: -1995827878428315735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_91
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 420
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d616255189a75a160800000000000000
+      internalID: 7036164786447606125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_92
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 399
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a43b3fc3516dd70800000000000000
+      internalID: 9067458251287906927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_93
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 325
+        width: 190
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4334123ae8fcdbe0800000000000000
+      internalID: -1451011295173921969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_94
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 255
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f1e828fb090f980800000000000000
+      internalID: -8507140543899361512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_95
+      rect:
+        serializedVersion: 2
+        x: 3374
+        y: 249
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6855c1afda055b0800000000000000
+      internalID: -5381610264978946397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_96
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 200
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac0e199df645e30800000000000000
+      internalID: 4491337708641241622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_97
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 175
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a8054441b6a3900800000000000000
+      internalID: 664961629780216321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1023289e4815c05e0800000000000000
+      internalID: -1942087708008369663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Cats_99
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 108
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a86d77c31a0c00800000000000000
+      internalID: 867527625745672372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      japan2_01_Cats_0: 8972987421106561509
+      japan2_01_Cats_1: 3954185542805926323
+      japan2_01_Cats_10: -7460812569893633327
+      japan2_01_Cats_11: -1488406177338464830
+      japan2_01_Cats_12: 2438021880399584496
+      japan2_01_Cats_13: 8156798574928522101
+      japan2_01_Cats_14: -4609905596509256475
+      japan2_01_Cats_15: 9029687694628493599
+      japan2_01_Cats_16: 6178826883465256690
+      japan2_01_Cats_17: -7488956980555172317
+      japan2_01_Cats_18: -8847757763038319933
+      japan2_01_Cats_19: 208929775405996502
+      japan2_01_Cats_2: 3980780525902979398
+      japan2_01_Cats_20: -434330451033183362
+      japan2_01_Cats_21: 1852119753323120660
+      japan2_01_Cats_22: -2642309355060940837
+      japan2_01_Cats_23: 5962545487923214696
+      japan2_01_Cats_24: -6751619391177639304
+      japan2_01_Cats_25: 5336336804015738904
+      japan2_01_Cats_26: 5447877105828915161
+      japan2_01_Cats_27: -5044070421981112616
+      japan2_01_Cats_28: -4777763476925450688
+      japan2_01_Cats_29: -1781009337458253888
+      japan2_01_Cats_3: -4293431187876891120
+      japan2_01_Cats_30: -7655284837254626687
+      japan2_01_Cats_31: -6196261905078711791
+      japan2_01_Cats_32: -6861983537810766011
+      japan2_01_Cats_33: -1228276404996104971
+      japan2_01_Cats_34: 4307303665683184782
+      japan2_01_Cats_35: -2957440332597944397
+      japan2_01_Cats_36: 2833128475352867192
+      japan2_01_Cats_37: 5631927245988890601
+      japan2_01_Cats_38: -6740163477317186526
+      japan2_01_Cats_39: 1666944245215914708
+      japan2_01_Cats_4: 3116355955993070355
+      japan2_01_Cats_40: 1185528403137312057
+      japan2_01_Cats_41: 3540580005151666069
+      japan2_01_Cats_42: 2482202112375005871
+      japan2_01_Cats_43: -9115678170366923344
+      japan2_01_Cats_44: 238906300935087019
+      japan2_01_Cats_45: -3269813019018026506
+      japan2_01_Cats_46: -906176346488326250
+      japan2_01_Cats_47: -4571582148209230689
+      japan2_01_Cats_48: 3003846771058145632
+      japan2_01_Cats_49: 3875599779772852908
+      japan2_01_Cats_5: 4701042951952535543
+      japan2_01_Cats_50: -2585205636005957470
+      japan2_01_Cats_51: -8515419242151271887
+      japan2_01_Cats_52: 2627680494477954184
+      japan2_01_Cats_53: 5492183587493231453
+      japan2_01_Cats_54: -1930113030085156849
+      japan2_01_Cats_55: -1789961489165759080
+      japan2_01_Cats_56: -2857265881506162256
+      japan2_01_Cats_57: 3864969509583890361
+      japan2_01_Cats_58: 1813248228171259995
+      japan2_01_Cats_59: 806971813316792961
+      japan2_01_Cats_6: -6315382668480594026
+      japan2_01_Cats_60: 2251498379007220770
+      japan2_01_Cats_61: -5270756089862565385
+      japan2_01_Cats_62: -4373753433645012897
+      japan2_01_Cats_63: 4650523824984126333
+      japan2_01_Cats_64: -7956392220748205772
+      japan2_01_Cats_65: -6585610386467847735
+      japan2_01_Cats_66: -2808252873610802112
+      japan2_01_Cats_67: -3735039934717712425
+      japan2_01_Cats_68: 8267220372734700821
+      japan2_01_Cats_69: 5535815137719712477
+      japan2_01_Cats_7: 5281631371829775303
+      japan2_01_Cats_70: 4797498066181519666
+      japan2_01_Cats_71: 3059310570380596856
+      japan2_01_Cats_72: 6419718594742159250
+      japan2_01_Cats_73: -3159869477358382368
+      japan2_01_Cats_74: -7220095692572107195
+      japan2_01_Cats_75: 8067957365126837036
+      japan2_01_Cats_76: -3925629708971923070
+      japan2_01_Cats_77: -3567471776910229806
+      japan2_01_Cats_78: -7510264539511524351
+      japan2_01_Cats_79: 4331584695012062087
+      japan2_01_Cats_8: -6125374807492887812
+      japan2_01_Cats_80: 6425879361616508181
+      japan2_01_Cats_81: 8699315189595765079
+      japan2_01_Cats_82: 8049863776706406530
+      japan2_01_Cats_83: 5631251330719523842
+      japan2_01_Cats_84: -6751115128760220129
+      japan2_01_Cats_85: 8668597983025653315
+      japan2_01_Cats_86: 4512857573378294242
+      japan2_01_Cats_87: 7163720269391593780
+      japan2_01_Cats_88: 4651664260478261899
+      japan2_01_Cats_89: -1533112292649526637
+      japan2_01_Cats_9: -4152152222037689015
+      japan2_01_Cats_90: -1995827878428315735
+      japan2_01_Cats_91: 7036164786447606125
+      japan2_01_Cats_92: 9067458251287906927
+      japan2_01_Cats_93: -1451011295173921969
+      japan2_01_Cats_94: -8507140543899361512
+      japan2_01_Cats_95: -5381610264978946397
+      japan2_01_Cats_96: 4491337708641241622
+      japan2_01_Cats_97: 664961629780216321
+      japan2_01_Cats_98: -1942087708008369663
+      japan2_01_Cats_99: 867527625745672372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: dae6b626340829742ab2da7f54faf75f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4545493494080694735
+    second: canada2_01_Line_0
+  - first:
+      213: 8083078103329399723
+    second: canada2_01_Line_1
+  - first:
+      213: 8827253342751088060
+    second: canada2_01_Line_2
+  - first:
+      213: 3025691585472240384
+    second: canada2_01_Line_3
+  - first:
+      213: 3146780504387292120
+    second: canada2_01_Line_4
+  - first:
+      213: 5254042229912397687
+    second: canada2_01_Line_5
+  - first:
+      213: -4050246419591236434
+    second: canada2_01_Line_6
+  - first:
+      213: -8987290276926193740
+    second: canada2_01_Line_7
+  - first:
+      213: 7546743752013125967
+    second: canada2_01_Line_8
+  - first:
+      213: 6458651674287252484
+    second: canada2_01_Line_9
+  - first:
+      213: -30670359384834719
+    second: canada2_01_Line_10
+  - first:
+      213: -2157308623248780265
+    second: canada2_01_Line_11
+  - first:
+      213: -3733385835682720301
+    second: canada2_01_Line_12
+  - first:
+      213: -450240312077178874
+    second: canada2_01_Line_13
+  - first:
+      213: -6937264563765451500
+    second: canada2_01_Line_14
+  - first:
+      213: -4027614929459804323
+    second: canada2_01_Line_15
+  - first:
+      213: 7532690526842373311
+    second: canada2_01_Line_16
+  - first:
+      213: -1270282321799731959
+    second: canada2_01_Line_17
+  - first:
+      213: -5601915877142576294
+    second: canada2_01_Line_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: canada2_01_Line_0
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2885
+        width: 476
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136987c00c92be0c0800000000000000
+      internalID: -4545493494080694735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_1
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 2860
+        width: 302
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3efa085bcdc2070800000000000000
+      internalID: 8083078103329399723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_2
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2881
+        width: 227
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdde0d7524b08a70800000000000000
+      internalID: 8827253342751088060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_3
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 2664
+        width: 276
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b16f7577a6df920800000000000000
+      internalID: 3025691585472240384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_4
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2726
+        width: 462
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db0126423c9bab20800000000000000
+      internalID: 3146780504387292120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_5
+      rect:
+        serializedVersion: 2
+        x: 2689
+        y: 2621
+        width: 705
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77764dc229b1ae840800000000000000
+      internalID: 5254042229912397687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_6
+      rect:
+        serializedVersion: 2
+        x: 3275
+        y: 2582
+        width: 673
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4777b2752aac7c0800000000000000
+      internalID: -4050246419591236434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_7
+      rect:
+        serializedVersion: 2
+        x: 4028
+        y: 2830
+        width: 342
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bffd7e1c1bb64380800000000000000
+      internalID: -8987290276926193740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_8
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 2885
+        width: 312
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4914a5457b6bb860800000000000000
+      internalID: 7546743752013125967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_9
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 2910
+        width: 195
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404afd57a7db1a950800000000000000
+      internalID: 6458651674287252484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2814
+        width: 135
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dbbbb7879039ff0800000000000000
+      internalID: -30670359384834719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 2695
+        width: 466
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7149e50bc33bf02e0800000000000000
+      internalID: -2157308623248780265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_12
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2773
+        width: 278
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d518aedc59503cc0800000000000000
+      internalID: -3733385835682720301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_13
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 2834
+        width: 88
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608241752dc60c9f0800000000000000
+      internalID: -450240312077178874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_14
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2792
+        width: 193
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415eadb62a2e9bf90800000000000000
+      internalID: -6937264563765451500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_15
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 2796
+        width: 222
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d570d759f890b18c0800000000000000
+      internalID: -4027614929459804323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_16
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 2660
+        width: 499
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c36fcf1e798860800000000000000
+      internalID: 7532690526842373311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5000
+        height: 2805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9052ba465fc0f5ee0800000000000000
+      internalID: -1270282321799731959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canada2_01_Line_18
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 2559
+        width: 621
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53cb41a03ff142b0800000000000000
+      internalID: -5601915877142576294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      canada2_01_Line_0: -4545493494080694735
+      canada2_01_Line_1: 8083078103329399723
+      canada2_01_Line_10: -30670359384834719
+      canada2_01_Line_11: -2157308623248780265
+      canada2_01_Line_12: -3733385835682720301
+      canada2_01_Line_13: -450240312077178874
+      canada2_01_Line_14: -6937264563765451500
+      canada2_01_Line_15: -4027614929459804323
+      canada2_01_Line_16: 7532690526842373311
+      canada2_01_Line_17: -1270282321799731959
+      canada2_01_Line_18: -5601915877142576294
+      canada2_01_Line_2: 8827253342751088060
+      canada2_01_Line_3: 3025691585472240384
+      canada2_01_Line_4: 3146780504387292120
+      canada2_01_Line_5: 5254042229912397687
+      canada2_01_Line_6: -4050246419591236434
+      canada2_01_Line_7: -8987290276926193740
+      canada2_01_Line_8: 7546743752013125967
+      canada2_01_Line_9: 6458651674287252484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

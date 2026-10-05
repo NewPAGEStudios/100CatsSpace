@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 6ed821416a60db24194c5b10570462b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -569878382297735211
+    second: Davinci_01_Cats_0
+  - first:
+      213: -3465348658759697240
+    second: Davinci_01_Cats_1
+  - first:
+      213: 2967276871388314514
+    second: Davinci_01_Cats_2
+  - first:
+      213: 9193398517077957217
+    second: Davinci_01_Cats_3
+  - first:
+      213: 7640296814088154571
+    second: Davinci_01_Cats_4
+  - first:
+      213: 3506014486411711104
+    second: Davinci_01_Cats_5
+  - first:
+      213: 8643964989844863416
+    second: Davinci_01_Cats_6
+  - first:
+      213: 6362508269309044548
+    second: Davinci_01_Cats_7
+  - first:
+      213: 5756941444290398768
+    second: Davinci_01_Cats_8
+  - first:
+      213: 151464253276125310
+    second: Davinci_01_Cats_9
+  - first:
+      213: 6024046234771164718
+    second: Davinci_01_Cats_10
+  - first:
+      213: -2606003297699851433
+    second: Davinci_01_Cats_11
+  - first:
+      213: -9210917708555334166
+    second: Davinci_01_Cats_12
+  - first:
+      213: 3264404917025357151
+    second: Davinci_01_Cats_13
+  - first:
+      213: -3451997773702823277
+    second: Davinci_01_Cats_14
+  - first:
+      213: 6674251763531894679
+    second: Davinci_01_Cats_15
+  - first:
+      213: 5091374012853442063
+    second: Davinci_01_Cats_16
+  - first:
+      213: -4203953430890592818
+    second: Davinci_01_Cats_17
+  - first:
+      213: -4770885710943540003
+    second: Davinci_01_Cats_18
+  - first:
+      213: -1388842418873031868
+    second: Davinci_01_Cats_19
+  - first:
+      213: -2540219744810332577
+    second: Davinci_01_Cats_20
+  - first:
+      213: 5521101092025160018
+    second: Davinci_01_Cats_21
+  - first:
+      213: 2632154464944712582
+    second: Davinci_01_Cats_22
+  - first:
+      213: 8997705788718236429
+    second: Davinci_01_Cats_23
+  - first:
+      213: 5424492653784764524
+    second: Davinci_01_Cats_24
+  - first:
+      213: -1543398020446258282
+    second: Davinci_01_Cats_25
+  - first:
+      213: 1838569733333798074
+    second: Davinci_01_Cats_26
+  - first:
+      213: -3403522318025502319
+    second: Davinci_01_Cats_27
+  - first:
+      213: 8513896383114325193
+    second: Davinci_01_Cats_28
+  - first:
+      213: -6357446832564683676
+    second: Davinci_01_Cats_29
+  - first:
+      213: -5815845725965788318
+    second: Davinci_01_Cats_30
+  - first:
+      213: -5544942483101949312
+    second: Davinci_01_Cats_31
+  - first:
+      213: -7386279072568544302
+    second: Davinci_01_Cats_32
+  - first:
+      213: -2172741135096502338
+    second: Davinci_01_Cats_33
+  - first:
+      213: -6582282846404902709
+    second: Davinci_01_Cats_34
+  - first:
+      213: 1702508057494665154
+    second: Davinci_01_Cats_35
+  - first:
+      213: -5140011227871191534
+    second: Davinci_01_Cats_36
+  - first:
+      213: 481421635243631147
+    second: Davinci_01_Cats_37
+  - first:
+      213: 1170335803990473434
+    second: Davinci_01_Cats_38
+  - first:
+      213: 1659572933253744511
+    second: Davinci_01_Cats_39
+  - first:
+      213: 6938935595712597779
+    second: Davinci_01_Cats_40
+  - first:
+      213: 2002883285495306339
+    second: Davinci_01_Cats_41
+  - first:
+      213: -4670078266449159704
+    second: Davinci_01_Cats_42
+  - first:
+      213: -2684266653986786005
+    second: Davinci_01_Cats_43
+  - first:
+      213: -7054062278041914306
+    second: Davinci_01_Cats_44
+  - first:
+      213: -7576931330674433024
+    second: Davinci_01_Cats_45
+  - first:
+      213: 5993560307897861464
+    second: Davinci_01_Cats_46
+  - first:
+      213: -1889190586544597083
+    second: Davinci_01_Cats_47
+  - first:
+      213: 7449893751585989892
+    second: Davinci_01_Cats_48
+  - first:
+      213: 8785853236404038399
+    second: Davinci_01_Cats_49
+  - first:
+      213: 4296966599919088969
+    second: Davinci_01_Cats_50
+  - first:
+      213: 2963259259674265118
+    second: Davinci_01_Cats_51
+  - first:
+      213: 331395547222698660
+    second: Davinci_01_Cats_52
+  - first:
+      213: -1747072307442218916
+    second: Davinci_01_Cats_53
+  - first:
+      213: 2625734867359924048
+    second: Davinci_01_Cats_54
+  - first:
+      213: -3469706490329339373
+    second: Davinci_01_Cats_55
+  - first:
+      213: 109714122369730479
+    second: Davinci_01_Cats_56
+  - first:
+      213: -1053904533341515304
+    second: Davinci_01_Cats_57
+  - first:
+      213: -2116009189968336638
+    second: Davinci_01_Cats_58
+  - first:
+      213: 5019920981912345608
+    second: Davinci_01_Cats_59
+  - first:
+      213: 3301927371207970053
+    second: Davinci_01_Cats_60
+  - first:
+      213: -3091118757333773176
+    second: Davinci_01_Cats_61
+  - first:
+      213: -5255414923888605485
+    second: Davinci_01_Cats_62
+  - first:
+      213: 3636691739228280125
+    second: Davinci_01_Cats_63
+  - first:
+      213: 6464722404899312797
+    second: Davinci_01_Cats_64
+  - first:
+      213: 8748972300233216804
+    second: Davinci_01_Cats_65
+  - first:
+      213: -4343829380922825222
+    second: Davinci_01_Cats_66
+  - first:
+      213: 1826353912744158154
+    second: Davinci_01_Cats_67
+  - first:
+      213: 9017724107625133581
+    second: Davinci_01_Cats_68
+  - first:
+      213: -9120477890472680331
+    second: Davinci_01_Cats_69
+  - first:
+      213: 3364571450323119730
+    second: Davinci_01_Cats_70
+  - first:
+      213: -5346082967617908958
+    second: Davinci_01_Cats_71
+  - first:
+      213: -137159535314321048
+    second: Davinci_01_Cats_72
+  - first:
+      213: 8396907675040193290
+    second: Davinci_01_Cats_73
+  - first:
+      213: 8651046127725885717
+    second: Davinci_01_Cats_74
+  - first:
+      213: 535397308250602250
+    second: Davinci_01_Cats_75
+  - first:
+      213: 6655733815626696497
+    second: Davinci_01_Cats_76
+  - first:
+      213: 450719603419452263
+    second: Davinci_01_Cats_77
+  - first:
+      213: -5956059800273845334
+    second: Davinci_01_Cats_78
+  - first:
+      213: 3055128790063842629
+    second: Davinci_01_Cats_79
+  - first:
+      213: 4426261733410440137
+    second: Davinci_01_Cats_80
+  - first:
+      213: 7419543141260789784
+    second: Davinci_01_Cats_81
+  - first:
+      213: 2998064647074743932
+    second: Davinci_01_Cats_82
+  - first:
+      213: -4648129245611715682
+    second: Davinci_01_Cats_83
+  - first:
+      213: 2318449287338287954
+    second: Davinci_01_Cats_84
+  - first:
+      213: 8260091052395242028
+    second: Davinci_01_Cats_85
+  - first:
+      213: -3681867693172212612
+    second: Davinci_01_Cats_86
+  - first:
+      213: 2666173132996067426
+    second: Davinci_01_Cats_87
+  - first:
+      213: -7716117387898554022
+    second: Davinci_01_Cats_88
+  - first:
+      213: -797183407836135964
+    second: Davinci_01_Cats_89
+  - first:
+      213: -5868997830102194984
+    second: Davinci_01_Cats_90
+  - first:
+      213: -3245729053117365839
+    second: Davinci_01_Cats_91
+  - first:
+      213: 3246043808151948260
+    second: Davinci_01_Cats_92
+  - first:
+      213: 1013315834333468012
+    second: Davinci_01_Cats_93
+  - first:
+      213: -4373698651269167980
+    second: Davinci_01_Cats_94
+  - first:
+      213: 3615910080899659426
+    second: Davinci_01_Cats_95
+  - first:
+      213: -9177250166970457310
+    second: Davinci_01_Cats_96
+  - first:
+      213: 1240339014710512256
+    second: Davinci_01_Cats_97
+  - first:
+      213: -5702633230307732909
+    second: Davinci_01_Cats_98
+  - first:
+      213: -6559709920602607790
+    second: Davinci_01_Cats_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Davinci_01_Cats_0
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2854
+        width: 111
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df18f171a26718f0800000000000000
+      internalID: -569878382297735211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_1
+      rect:
+        serializedVersion: 2
+        x: 2831
+        y: 2875
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac70cb41cb98efc0800000000000000
+      internalID: -3465348658759697240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_2
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 2881
+        width: 143
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b355dd792ed2920800000000000000
+      internalID: 2967276871388314514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_3
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2879
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ad8091e33859f70800000000000000
+      internalID: 9193398517077957217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_4
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2832
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcde54ee879c70a60800000000000000
+      internalID: 7640296814088154571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_5
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 2823
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08291f7899dd7a030800000000000000
+      internalID: 3506014486411711104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2738
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9bd9e4c5885f770800000000000000
+      internalID: 8643964989844863416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_7
+      rect:
+        serializedVersion: 2
+        x: 4119
+        y: 2723
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447a6a89f8b2c4850800000000000000
+      internalID: 6362508269309044548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_8
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2642
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a47a3fdb3c4ef40800000000000000
+      internalID: 5756941444290398768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_9
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 2695
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7871b49feb1a1200800000000000000
+      internalID: 151464253276125310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 2550
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e801e3226b99350800000000000000
+      internalID: 6024046234771164718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2566
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7539a15decd95dbd0800000000000000
+      internalID: -2606003297699851433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_12
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2538
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed4436452f3c2080800000000000000
+      internalID: -9210917708555334166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_13
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2592
+        width: 54
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5db55af9fe7d4d20800000000000000
+      internalID: 3264404917025357151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_14
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 2600
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3920105705a0810d0800000000000000
+      internalID: -3451997773702823277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_15
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 2567
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc7d20e94bf9c50800000000000000
+      internalID: 6674251763531894679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_16
+      rect:
+        serializedVersion: 2
+        x: 2764
+        y: 2542
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d8ce70b138a640800000000000000
+      internalID: 5091374012853442063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_17
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 2507
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec54b7bc0ae88a5c0800000000000000
+      internalID: -4203953430890592818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_18
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 2496
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc293f19b86acdb0800000000000000
+      internalID: -4770885710943540003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_19
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2526
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443241ead27d9bce0800000000000000
+      internalID: -1388842418873031868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_20
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 2496
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e852bc9935fbcd0800000000000000
+      internalID: -2540219744810332577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_21
+      rect:
+        serializedVersion: 2
+        x: 4228
+        y: 2506
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515e2fe034ee9c40800000000000000
+      internalID: 5521101092025160018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_22
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2418
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68becf44a8a478420800000000000000
+      internalID: 2632154464944712582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_23
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2440
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03c6023eb54edc70800000000000000
+      internalID: 8997705788718236429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_24
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2474
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c609e83145ba74b40800000000000000
+      internalID: 5424492653784764524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_25
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 2438
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b724c7dafb49ae0800000000000000
+      internalID: -1543398020446258282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_26
+      rect:
+        serializedVersion: 2
+        x: 4451
+        y: 2420
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc452a6e69e38910800000000000000
+      internalID: 1838569733333798074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_27
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2369
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191d9f00c7244c0d0800000000000000
+      internalID: -3403522318025502319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_28
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 2323
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc2302e6af672670800000000000000
+      internalID: 8513896383114325193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2246
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cbc8af9cfc5c7a0800000000000000
+      internalID: -6357446832564683676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_30
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 2296
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bd55b3027f94fa0800000000000000
+      internalID: -5815845725965788318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_31
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2330
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0826cb2a0386c03b0800000000000000
+      internalID: -5544942483101949312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_32
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2241
+        width: 72
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d376a3515aae7990800000000000000
+      internalID: -7386279072568544302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_33
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2263
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7a1b5037fd8d1e0800000000000000
+      internalID: -2172741135096502338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_34
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 2245
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc083e820a807a4a0800000000000000
+      internalID: -6582282846404902709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_35
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 2256
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7b53ade0680a710800000000000000
+      internalID: 1702508057494665154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_36
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2187
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed73d65030ba8b0800000000000000
+      internalID: -5140011227871191534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_37
+      rect:
+        serializedVersion: 2
+        x: 3894
+        y: 2181
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2262e33d6a5ea600800000000000000
+      internalID: 481421635243631147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_38
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 2180
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaf5c8863edd3010800000000000000
+      internalID: 1170335803990473434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2101
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77417d3accf70710800000000000000
+      internalID: 1659572933253744511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_40
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 2127
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f43c5092d0c4060800000000000000
+      internalID: 6938935595712597779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_41
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2021
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368d3868cbbabcb10800000000000000
+      internalID: 2002883285495306339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_42
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 2031
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9960f4f8c803fb0800000000000000
+      internalID: -4670078266449159704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_43
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2027
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25f0b633b19fbad0800000000000000
+      internalID: -2684266653986786005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_44
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2058
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3434dd6bbfea1e90800000000000000
+      internalID: -7054062278041914306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_45
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 2025
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0046f9b591559d690800000000000000
+      internalID: -7576931330674433024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_46
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1981
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855022448576d2350800000000000000
+      internalID: 5993560307897861464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_47
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1991
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a75fffbb2f38c5e0800000000000000
+      internalID: -1889190586544597083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_48
+      rect:
+        serializedVersion: 2
+        x: 2763
+        y: 1986
+        width: 112
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4056fa555e6536760800000000000000
+      internalID: 7449893751585989892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_49
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 1966
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa249418fe9de970800000000000000
+      internalID: 8785853236404038399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1875
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94535e73b54e1ab30800000000000000
+      internalID: 4296966599919088969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_51
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1905
+        width: 69
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16854eb89c9f1920800000000000000
+      internalID: 2963259259674265118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_52
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1917
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaea509e7a599400800000000000000
+      internalID: 331395547222698660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_53
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 1892
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c580cf52ef621c7e0800000000000000
+      internalID: -1747072307442218916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_54
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 1852
+        width: 93
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f785b33fb707420800000000000000
+      internalID: 2625734867359924048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_55
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 1828
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a6d01945029dfc0800000000000000
+      internalID: -3469706490329339373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_56
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 1809
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa701bab968c58100800000000000000
+      internalID: 109714122369730479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_57
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 1763
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d151072967cf51f0800000000000000
+      internalID: -1053904533341515304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_58
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1715
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209a9725adc62a2e0800000000000000
+      internalID: -2116009189968336638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_59
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1724
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c5a6f49875aa540800000000000000
+      internalID: 5019920981912345608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_60
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 1712
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d8df2237dc2dd20800000000000000
+      internalID: 3301927371207970053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_61
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1607
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884d29e1ed32a15d0800000000000000
+      internalID: -3091118757333773176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_62
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 1661
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6455a98f30117b0800000000000000
+      internalID: -5255414923888605485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_63
+      rect:
+        serializedVersion: 2
+        x: 3206
+        y: 1607
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d359c4a6edf187230800000000000000
+      internalID: 3636691739228280125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_64
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 1607
+        width: 109
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94588396ce47b950800000000000000
+      internalID: 6464722404899312797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_65
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1503
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4231229f3f79a6970800000000000000
+      internalID: 8748972300233216804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_66
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1537
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5a031513e97b3c0800000000000000
+      internalID: -4343829380922825222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_67
+      rect:
+        serializedVersion: 2
+        x: 4859
+        y: 1542
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3a24b0533885910800000000000000
+      internalID: 1826353912744158154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1496
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06f8754c44652d70800000000000000
+      internalID: 9017724107625133581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_69
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1393
+        width: 87
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57462945ead8d6180800000000000000
+      internalID: -9120477890472680331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_70
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1439
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2ee568eb51be20800000000000000
+      internalID: 3364571450323119730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_71
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1374
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f4e5f9dd5eec5b0800000000000000
+      internalID: -5346082967617908958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_72
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1309
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861480c1126b81ef0800000000000000
+      internalID: -137159535314321048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_73
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1156
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b958eaa0fc78470800000000000000
+      internalID: 8396907675040193290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_74
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 1215
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519be923e90be0870800000000000000
+      internalID: 8651046127725885717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_75
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1149
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b3af3e30d1e6700800000000000000
+      internalID: 535397308250602250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_76
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 1141
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1370cf744aaed5c50800000000000000
+      internalID: 6655733815626696497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_77
+      rect:
+        serializedVersion: 2
+        x: 4065
+        y: 1122
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631f1f5717414600800000000000000
+      internalID: 450719603419452263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_78
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 952
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa381bf0b23d75da0800000000000000
+      internalID: -5956059800273845334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_79
+      rect:
+        serializedVersion: 2
+        x: 2979
+        y: 918
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54503d2a27ff56a20800000000000000
+      internalID: 3055128790063842629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_80
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 942
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c385de589d3d6d30800000000000000
+      internalID: 4426261733410440137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_81
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 882
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81809823d2387f660800000000000000
+      internalID: 7419543141260789784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_82
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 842
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c760c8e79e34b9920800000000000000
+      internalID: 2998064647074743932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_83
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 869
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e939535f3178e7fb0800000000000000
+      internalID: -4648129245611715682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_84
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 821
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2536e89d759cc2020800000000000000
+      internalID: 2318449287338287954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_85
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 632
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22a66e5c0db1a270800000000000000
+      internalID: 8260091052395242028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_86
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 672
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cbb7627d067ecc0800000000000000
+      internalID: -3681867693172212612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_87
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 612
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260cbe5a656200520800000000000000
+      internalID: 2666173132996067426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_88
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 581
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5977111e18dae490800000000000000
+      internalID: -7716117387898554022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_89
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 621
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed771b0ae5dfe4f0800000000000000
+      internalID: -797183407836135964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_90
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 548
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4683d91912d8ea0800000000000000
+      internalID: -5868997830102194984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_91
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 454
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b146cf6f9ad4f2d0800000000000000
+      internalID: -3245729053117365839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 275
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebc04e25a34c0d20800000000000000
+      internalID: 3246043808151948260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_93
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 323
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6599bee165001e00800000000000000
+      internalID: 1013315834333468012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_94
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 269
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4940f70ef308d43c0800000000000000
+      internalID: -4373698651269167980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_95
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 43
+        width: 91
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a637c78f0b4e2230800000000000000
+      internalID: 3615910080899659426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_96
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 80
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223e4d6a89bd3a080800000000000000
+      internalID: -9177250166970457310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_97
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 25
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ac0e423c1963110800000000000000
+      internalID: 1240339014710512256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_98
+      rect:
+        serializedVersion: 2
+        x: 4725
+        y: 84
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3525b277a4d2cd0b0800000000000000
+      internalID: -5702633230307732909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Cats_99
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 92
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f20e0059a37f4a0800000000000000
+      internalID: -6559709920602607790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Davinci_01_Cats_0: -569878382297735211
+      Davinci_01_Cats_1: -3465348658759697240
+      Davinci_01_Cats_10: 6024046234771164718
+      Davinci_01_Cats_11: -2606003297699851433
+      Davinci_01_Cats_12: -9210917708555334166
+      Davinci_01_Cats_13: 3264404917025357151
+      Davinci_01_Cats_14: -3451997773702823277
+      Davinci_01_Cats_15: 6674251763531894679
+      Davinci_01_Cats_16: 5091374012853442063
+      Davinci_01_Cats_17: -4203953430890592818
+      Davinci_01_Cats_18: -4770885710943540003
+      Davinci_01_Cats_19: -1388842418873031868
+      Davinci_01_Cats_2: 2967276871388314514
+      Davinci_01_Cats_20: -2540219744810332577
+      Davinci_01_Cats_21: 5521101092025160018
+      Davinci_01_Cats_22: 2632154464944712582
+      Davinci_01_Cats_23: 8997705788718236429
+      Davinci_01_Cats_24: 5424492653784764524
+      Davinci_01_Cats_25: -1543398020446258282
+      Davinci_01_Cats_26: 1838569733333798074
+      Davinci_01_Cats_27: -3403522318025502319
+      Davinci_01_Cats_28: 8513896383114325193
+      Davinci_01_Cats_29: -6357446832564683676
+      Davinci_01_Cats_3: 9193398517077957217
+      Davinci_01_Cats_30: -5815845725965788318
+      Davinci_01_Cats_31: -5544942483101949312
+      Davinci_01_Cats_32: -7386279072568544302
+      Davinci_01_Cats_33: -2172741135096502338
+      Davinci_01_Cats_34: -6582282846404902709
+      Davinci_01_Cats_35: 1702508057494665154
+      Davinci_01_Cats_36: -5140011227871191534
+      Davinci_01_Cats_37: 481421635243631147
+      Davinci_01_Cats_38: 1170335803990473434
+      Davinci_01_Cats_39: 1659572933253744511
+      Davinci_01_Cats_4: 7640296814088154571
+      Davinci_01_Cats_40: 6938935595712597779
+      Davinci_01_Cats_41: 2002883285495306339
+      Davinci_01_Cats_42: -4670078266449159704
+      Davinci_01_Cats_43: -2684266653986786005
+      Davinci_01_Cats_44: -7054062278041914306
+      Davinci_01_Cats_45: -7576931330674433024
+      Davinci_01_Cats_46: 5993560307897861464
+      Davinci_01_Cats_47: -1889190586544597083
+      Davinci_01_Cats_48: 7449893751585989892
+      Davinci_01_Cats_49: 8785853236404038399
+      Davinci_01_Cats_5: 3506014486411711104
+      Davinci_01_Cats_50: 4296966599919088969
+      Davinci_01_Cats_51: 2963259259674265118
+      Davinci_01_Cats_52: 331395547222698660
+      Davinci_01_Cats_53: -1747072307442218916
+      Davinci_01_Cats_54: 2625734867359924048
+      Davinci_01_Cats_55: -3469706490329339373
+      Davinci_01_Cats_56: 109714122369730479
+      Davinci_01_Cats_57: -1053904533341515304
+      Davinci_01_Cats_58: -2116009189968336638
+      Davinci_01_Cats_59: 5019920981912345608
+      Davinci_01_Cats_6: 8643964989844863416
+      Davinci_01_Cats_60: 3301927371207970053
+      Davinci_01_Cats_61: -3091118757333773176
+      Davinci_01_Cats_62: -5255414923888605485
+      Davinci_01_Cats_63: 3636691739228280125
+      Davinci_01_Cats_64: 6464722404899312797
+      Davinci_01_Cats_65: 8748972300233216804
+      Davinci_01_Cats_66: -4343829380922825222
+      Davinci_01_Cats_67: 1826353912744158154
+      Davinci_01_Cats_68: 9017724107625133581
+      Davinci_01_Cats_69: -9120477890472680331
+      Davinci_01_Cats_7: 6362508269309044548
+      Davinci_01_Cats_70: 3364571450323119730
+      Davinci_01_Cats_71: -5346082967617908958
+      Davinci_01_Cats_72: -137159535314321048
+      Davinci_01_Cats_73: 8396907675040193290
+      Davinci_01_Cats_74: 8651046127725885717
+      Davinci_01_Cats_75: 535397308250602250
+      Davinci_01_Cats_76: 6655733815626696497
+      Davinci_01_Cats_77: 450719603419452263
+      Davinci_01_Cats_78: -5956059800273845334
+      Davinci_01_Cats_79: 3055128790063842629
+      Davinci_01_Cats_8: 5756941444290398768
+      Davinci_01_Cats_80: 4426261733410440137
+      Davinci_01_Cats_81: 7419543141260789784
+      Davinci_01_Cats_82: 2998064647074743932
+      Davinci_01_Cats_83: -4648129245611715682
+      Davinci_01_Cats_84: 2318449287338287954
+      Davinci_01_Cats_85: 8260091052395242028
+      Davinci_01_Cats_86: -3681867693172212612
+      Davinci_01_Cats_87: 2666173132996067426
+      Davinci_01_Cats_88: -7716117387898554022
+      Davinci_01_Cats_89: -797183407836135964
+      Davinci_01_Cats_9: 151464253276125310
+      Davinci_01_Cats_90: -5868997830102194984
+      Davinci_01_Cats_91: -3245729053117365839
+      Davinci_01_Cats_92: 3246043808151948260
+      Davinci_01_Cats_93: 1013315834333468012
+      Davinci_01_Cats_94: -4373698651269167980
+      Davinci_01_Cats_95: 3615910080899659426
+      Davinci_01_Cats_96: -9177250166970457310
+      Davinci_01_Cats_97: 1240339014710512256
+      Davinci_01_Cats_98: -5702633230307732909
+      Davinci_01_Cats_99: -6559709920602607790
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

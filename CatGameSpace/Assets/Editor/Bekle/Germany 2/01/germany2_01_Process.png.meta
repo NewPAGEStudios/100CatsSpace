@@ -1,0 +1,5733 @@
+fileFormatVersion: 2
+guid: bd9427db28013694daa180fef7ed071d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3154183768440201950
+    second: germany2_01_Process_0
+  - first:
+      213: -3121906071303910359
+    second: germany2_01_Process_1
+  - first:
+      213: -566223712442006067
+    second: germany2_01_Process_2
+  - first:
+      213: 182071797312319250
+    second: germany2_01_Process_3
+  - first:
+      213: -3691297105635374449
+    second: germany2_01_Process_4
+  - first:
+      213: 196133618146612980
+    second: germany2_01_Process_5
+  - first:
+      213: 2412875736285184672
+    second: germany2_01_Process_6
+  - first:
+      213: -1552489507312415809
+    second: germany2_01_Process_7
+  - first:
+      213: 1272014914821449127
+    second: germany2_01_Process_8
+  - first:
+      213: 5796230662590447151
+    second: germany2_01_Process_9
+  - first:
+      213: -533514726549849265
+    second: germany2_01_Process_10
+  - first:
+      213: 180613674674794466
+    second: germany2_01_Process_11
+  - first:
+      213: -8866547875373669937
+    second: germany2_01_Process_12
+  - first:
+      213: -3103499971242538572
+    second: germany2_01_Process_13
+  - first:
+      213: 1021760284093579370
+    second: germany2_01_Process_14
+  - first:
+      213: -228373773202163375
+    second: germany2_01_Process_15
+  - first:
+      213: -5732347799470139345
+    second: germany2_01_Process_16
+  - first:
+      213: -2251365540247044702
+    second: germany2_01_Process_17
+  - first:
+      213: 7611225715291352840
+    second: germany2_01_Process_18
+  - first:
+      213: 8700273704363008355
+    second: germany2_01_Process_19
+  - first:
+      213: 9075613124151186037
+    second: germany2_01_Process_20
+  - first:
+      213: 7188331255165588648
+    second: germany2_01_Process_21
+  - first:
+      213: 7318638096148621600
+    second: germany2_01_Process_22
+  - first:
+      213: 2078080034153093002
+    second: germany2_01_Process_23
+  - first:
+      213: -4291886060666489374
+    second: germany2_01_Process_24
+  - first:
+      213: 6942438530145281650
+    second: germany2_01_Process_25
+  - first:
+      213: 6948822193215229620
+    second: germany2_01_Process_26
+  - first:
+      213: -5707909689238930041
+    second: germany2_01_Process_27
+  - first:
+      213: 2636481034752620525
+    second: germany2_01_Process_28
+  - first:
+      213: -1260328127241142540
+    second: germany2_01_Process_29
+  - first:
+      213: 5659418143530678818
+    second: germany2_01_Process_30
+  - first:
+      213: -4166723342879626076
+    second: germany2_01_Process_31
+  - first:
+      213: 3436113896668630025
+    second: germany2_01_Process_32
+  - first:
+      213: -8327116902255920147
+    second: germany2_01_Process_33
+  - first:
+      213: -5545187054531058888
+    second: germany2_01_Process_34
+  - first:
+      213: 1664110323297251209
+    second: germany2_01_Process_35
+  - first:
+      213: -4396413959418611152
+    second: germany2_01_Process_36
+  - first:
+      213: -4105102847126416078
+    second: germany2_01_Process_37
+  - first:
+      213: -3884541869360432946
+    second: germany2_01_Process_38
+  - first:
+      213: 8306914429172917177
+    second: germany2_01_Process_39
+  - first:
+      213: 7185167588232993142
+    second: germany2_01_Process_40
+  - first:
+      213: -6586932838337173771
+    second: germany2_01_Process_41
+  - first:
+      213: 8145423605931158092
+    second: germany2_01_Process_42
+  - first:
+      213: 3935113317502399690
+    second: germany2_01_Process_43
+  - first:
+      213: -8221950882252996973
+    second: germany2_01_Process_44
+  - first:
+      213: -5665661294149190791
+    second: germany2_01_Process_45
+  - first:
+      213: -7407837729680903433
+    second: germany2_01_Process_46
+  - first:
+      213: 5264653769548692421
+    second: germany2_01_Process_47
+  - first:
+      213: -8224812370053309080
+    second: germany2_01_Process_48
+  - first:
+      213: -1693193372945814381
+    second: germany2_01_Process_49
+  - first:
+      213: -2902525904411211488
+    second: germany2_01_Process_50
+  - first:
+      213: 7460212461580096165
+    second: germany2_01_Process_51
+  - first:
+      213: 8813369784529852788
+    second: germany2_01_Process_52
+  - first:
+      213: -1356246793851381557
+    second: germany2_01_Process_53
+  - first:
+      213: -2739599373037060018
+    second: germany2_01_Process_54
+  - first:
+      213: 2145394095085918771
+    second: germany2_01_Process_55
+  - first:
+      213: -3566706099427640811
+    second: germany2_01_Process_56
+  - first:
+      213: 3039335765540013234
+    second: germany2_01_Process_57
+  - first:
+      213: -7074544453195779902
+    second: germany2_01_Process_58
+  - first:
+      213: -7636185389749188204
+    second: germany2_01_Process_59
+  - first:
+      213: -7605196227889694103
+    second: germany2_01_Process_60
+  - first:
+      213: 5724990319298423961
+    second: germany2_01_Process_61
+  - first:
+      213: -4548810322897315731
+    second: germany2_01_Process_62
+  - first:
+      213: 3529458095738992975
+    second: germany2_01_Process_63
+  - first:
+      213: 8226937447274544055
+    second: germany2_01_Process_64
+  - first:
+      213: 7213523372574205839
+    second: germany2_01_Process_65
+  - first:
+      213: -1979498080638028554
+    second: germany2_01_Process_66
+  - first:
+      213: 6014319948804046434
+    second: germany2_01_Process_67
+  - first:
+      213: 1627714914801215803
+    second: germany2_01_Process_68
+  - first:
+      213: 4077079572528659645
+    second: germany2_01_Process_69
+  - first:
+      213: 4211716176292272337
+    second: germany2_01_Process_70
+  - first:
+      213: -6402029764059111469
+    second: germany2_01_Process_71
+  - first:
+      213: -4270151911387452727
+    second: germany2_01_Process_72
+  - first:
+      213: 1717500861046534558
+    second: germany2_01_Process_73
+  - first:
+      213: 2381828899110361555
+    second: germany2_01_Process_74
+  - first:
+      213: 3170431920367312670
+    second: germany2_01_Process_75
+  - first:
+      213: 3602150397413058742
+    second: germany2_01_Process_76
+  - first:
+      213: -7695473930189371523
+    second: germany2_01_Process_77
+  - first:
+      213: 5822568203321758937
+    second: germany2_01_Process_78
+  - first:
+      213: -7856623174548541999
+    second: germany2_01_Process_79
+  - first:
+      213: 4100557696413652060
+    second: germany2_01_Process_80
+  - first:
+      213: -5106668679586374935
+    second: germany2_01_Process_81
+  - first:
+      213: -6821261468458489953
+    second: germany2_01_Process_82
+  - first:
+      213: -4346450664562228875
+    second: germany2_01_Process_83
+  - first:
+      213: -2230258983814480657
+    second: germany2_01_Process_84
+  - first:
+      213: -6429346278312766409
+    second: germany2_01_Process_85
+  - first:
+      213: 8329729423135928299
+    second: germany2_01_Process_86
+  - first:
+      213: 3710357601600982099
+    second: germany2_01_Process_87
+  - first:
+      213: 8307601824607736976
+    second: germany2_01_Process_88
+  - first:
+      213: -63211160692977439
+    second: germany2_01_Process_89
+  - first:
+      213: -5993128873920360779
+    second: germany2_01_Process_90
+  - first:
+      213: -5189049496388363695
+    second: germany2_01_Process_91
+  - first:
+      213: 3939834142425344152
+    second: germany2_01_Process_92
+  - first:
+      213: -8162088873314422130
+    second: germany2_01_Process_93
+  - first:
+      213: 751905397664162638
+    second: germany2_01_Process_94
+  - first:
+      213: -645114921056020505
+    second: germany2_01_Process_95
+  - first:
+      213: -728130964305021903
+    second: germany2_01_Process_96
+  - first:
+      213: -5368192695876172708
+    second: germany2_01_Process_97
+  - first:
+      213: 4047621791743471120
+    second: germany2_01_Process_98
+  - first:
+      213: 2942236495984232901
+    second: germany2_01_Process_99
+  - first:
+      213: -4899626240055780322
+    second: germany2_01_Process_100
+  - first:
+      213: 2754990382915841046
+    second: germany2_01_Process_101
+  - first:
+      213: 3008873999129293899
+    second: germany2_01_Process_102
+  - first:
+      213: 7383597660483989599
+    second: germany2_01_Process_103
+  - first:
+      213: -7178052623729593408
+    second: germany2_01_Process_104
+  - first:
+      213: -1024426144652022345
+    second: germany2_01_Process_105
+  - first:
+      213: 8282609045731826100
+    second: germany2_01_Process_106
+  - first:
+      213: -3985385595457230108
+    second: germany2_01_Process_107
+  - first:
+      213: -769478473100408977
+    second: germany2_01_Process_108
+  - first:
+      213: 2823602410926694916
+    second: germany2_01_Process_109
+  - first:
+      213: -3026896339083704825
+    second: germany2_01_Process_110
+  - first:
+      213: 3653735068205059009
+    second: germany2_01_Process_111
+  - first:
+      213: -6376322954421441585
+    second: germany2_01_Process_112
+  - first:
+      213: 8449082971545549318
+    second: germany2_01_Process_113
+  - first:
+      213: 6439710875476295517
+    second: germany2_01_Process_114
+  - first:
+      213: 679978890396155290
+    second: germany2_01_Process_115
+  - first:
+      213: -6463610348044160302
+    second: germany2_01_Process_116
+  - first:
+      213: -7661402970700823368
+    second: germany2_01_Process_117
+  - first:
+      213: -3034221294445819151
+    second: germany2_01_Process_118
+  - first:
+      213: -2396185553242467971
+    second: germany2_01_Process_119
+  - first:
+      213: -3643898467646432319
+    second: germany2_01_Process_120
+  - first:
+      213: -1406293599676374076
+    second: germany2_01_Process_121
+  - first:
+      213: 2776323243634264077
+    second: germany2_01_Process_122
+  - first:
+      213: -6216024771996089819
+    second: germany2_01_Process_123
+  - first:
+      213: 8882384813641095858
+    second: germany2_01_Process_124
+  - first:
+      213: -4960451747791494
+    second: germany2_01_Process_125
+  - first:
+      213: -2413390323108036268
+    second: germany2_01_Process_126
+  - first:
+      213: -7944871506094927913
+    second: germany2_01_Process_127
+  - first:
+      213: -5183127485054603255
+    second: germany2_01_Process_128
+  - first:
+      213: -5464457095446918550
+    second: germany2_01_Process_129
+  - first:
+      213: 8037421203825135817
+    second: germany2_01_Process_130
+  - first:
+      213: -6241517583771460591
+    second: germany2_01_Process_131
+  - first:
+      213: -8310417337755376183
+    second: germany2_01_Process_132
+  - first:
+      213: -4124962608562652302
+    second: germany2_01_Process_133
+  - first:
+      213: 3362247539758402485
+    second: germany2_01_Process_134
+  - first:
+      213: -2212520742132105112
+    second: germany2_01_Process_135
+  - first:
+      213: 7834178174125958837
+    second: germany2_01_Process_136
+  - first:
+      213: -4359663492641245405
+    second: germany2_01_Process_137
+  - first:
+      213: -209838522195440509
+    second: germany2_01_Process_138
+  - first:
+      213: -5013352460540927828
+    second: germany2_01_Process_139
+  - first:
+      213: -5851308678546405063
+    second: germany2_01_Process_140
+  - first:
+      213: 1540624627932701377
+    second: germany2_01_Process_141
+  - first:
+      213: 5580490621044563874
+    second: germany2_01_Process_142
+  - first:
+      213: 2575945969133620744
+    second: germany2_01_Process_143
+  - first:
+      213: -7521325634336430837
+    second: germany2_01_Process_144
+  - first:
+      213: -360883276665681153
+    second: germany2_01_Process_145
+  - first:
+      213: 8959457318700370183
+    second: germany2_01_Process_146
+  - first:
+      213: -5626799284067048301
+    second: germany2_01_Process_147
+  - first:
+      213: 3111725761716396426
+    second: germany2_01_Process_148
+  - first:
+      213: 4352838773252539932
+    second: germany2_01_Process_149
+  - first:
+      213: -8741805169758769898
+    second: germany2_01_Process_150
+  - first:
+      213: 255667515797101367
+    second: germany2_01_Process_151
+  - first:
+      213: 87488019616999306
+    second: germany2_01_Process_152
+  - first:
+      213: 8253590894175280081
+    second: germany2_01_Process_153
+  - first:
+      213: -8473716834997323642
+    second: germany2_01_Process_154
+  - first:
+      213: -1372684809619510255
+    second: germany2_01_Process_155
+  - first:
+      213: 8799284149118378658
+    second: germany2_01_Process_156
+  - first:
+      213: 3296209913886209936
+    second: germany2_01_Process_157
+  - first:
+      213: -3268841183378773791
+    second: germany2_01_Process_158
+  - first:
+      213: -1958683021304750741
+    second: germany2_01_Process_159
+  - first:
+      213: 5564505182110148298
+    second: germany2_01_Process_160
+  - first:
+      213: 2307458435453626974
+    second: germany2_01_Process_161
+  - first:
+      213: 1036301187379388201
+    second: germany2_01_Process_162
+  - first:
+      213: -817907101207678759
+    second: germany2_01_Process_163
+  - first:
+      213: 5500423339347369524
+    second: germany2_01_Process_164
+  - first:
+      213: -992002876637917014
+    second: germany2_01_Process_165
+  - first:
+      213: 3344579366600574180
+    second: germany2_01_Process_166
+  - first:
+      213: 3241857503657586306
+    second: germany2_01_Process_167
+  - first:
+      213: 9033284963077893214
+    second: germany2_01_Process_168
+  - first:
+      213: 3866294176721769495
+    second: germany2_01_Process_169
+  - first:
+      213: -3919677374507362047
+    second: germany2_01_Process_170
+  - first:
+      213: -1533281464409470475
+    second: germany2_01_Process_171
+  - first:
+      213: 229678031409117226
+    second: germany2_01_Process_172
+  - first:
+      213: -7095516313072407519
+    second: germany2_01_Process_173
+  - first:
+      213: 7653838926226547145
+    second: germany2_01_Process_174
+  - first:
+      213: -7927468125931480299
+    second: germany2_01_Process_175
+  - first:
+      213: -5630904178456692763
+    second: germany2_01_Process_176
+  - first:
+      213: -5427265619318764823
+    second: germany2_01_Process_177
+  - first:
+      213: 3569793635100536434
+    second: germany2_01_Process_178
+  - first:
+      213: 8661093638169700038
+    second: germany2_01_Process_179
+  - first:
+      213: 6148954435234718968
+    second: germany2_01_Process_180
+  - first:
+      213: 7739072082049158794
+    second: germany2_01_Process_181
+  - first:
+      213: 1971312230550366920
+    second: germany2_01_Process_182
+  - first:
+      213: -3487655082449702934
+    second: germany2_01_Process_183
+  - first:
+      213: -3625352164948616977
+    second: germany2_01_Process_184
+  - first:
+      213: -4970594637887171352
+    second: germany2_01_Process_185
+  - first:
+      213: 8578953505668245282
+    second: germany2_01_Process_186
+  - first:
+      213: 5247119560280532343
+    second: germany2_01_Process_187
+  - first:
+      213: -4703017191720339761
+    second: germany2_01_Process_188
+  - first:
+      213: -845069695619184818
+    second: germany2_01_Process_189
+  - first:
+      213: 1675825093187734687
+    second: germany2_01_Process_190
+  - first:
+      213: 4406307796434715890
+    second: germany2_01_Process_191
+  - first:
+      213: 8956591088169850705
+    second: germany2_01_Process_192
+  - first:
+      213: -932785313288250584
+    second: germany2_01_Process_193
+  - first:
+      213: -5227325633350234825
+    second: germany2_01_Process_194
+  - first:
+      213: 5579763699385043100
+    second: germany2_01_Process_195
+  - first:
+      213: 5264310926758510210
+    second: germany2_01_Process_196
+  - first:
+      213: 2106725550570707448
+    second: germany2_01_Process_197
+  - first:
+      213: 6535827840067004565
+    second: germany2_01_Process_198
+  - first:
+      213: -3345452185564843698
+    second: germany2_01_Process_199
+  - first:
+      213: 7909450927518767822
+    second: germany2_01_Process_200
+  - first:
+      213: -872303553306334252
+    second: germany2_01_Process_201
+  - first:
+      213: -1591686568999130484
+    second: germany2_01_Process_202
+  - first:
+      213: -1782392706165249937
+    second: germany2_01_Process_203
+  - first:
+      213: -2033208028762198640
+    second: germany2_01_Process_204
+  - first:
+      213: -5611499495718684777
+    second: germany2_01_Process_205
+  - first:
+      213: 1772214515245276838
+    second: germany2_01_Process_206
+  - first:
+      213: 5021680925999832137
+    second: germany2_01_Process_207
+  - first:
+      213: 7090566926609916577
+    second: germany2_01_Process_208
+  - first:
+      213: 2186636266319365953
+    second: germany2_01_Process_209
+  - first:
+      213: 7511982053575530562
+    second: germany2_01_Process_210
+  - first:
+      213: 2382904263916624646
+    second: germany2_01_Process_211
+  - first:
+      213: 3272944677952756835
+    second: germany2_01_Process_212
+  - first:
+      213: -4171470913731014653
+    second: germany2_01_Process_213
+  - first:
+      213: 6625364946571243860
+    second: germany2_01_Process_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: germany2_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2258
+        width: 5000
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed26e220d69e5cb20800000000000000
+      internalID: 3154183768440201950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2108
+        width: 190
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c8bcdf7f2cca4d0800000000000000
+      internalID: -3121906071303910359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2160
+        width: 196
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5cd74988e5428f0800000000000000
+      internalID: -566223712442006067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2071
+        width: 340
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fea62c559d68200800000000000000
+      internalID: 182071797312319250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2015
+        width: 213
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a0d2af6d0e5ccc0800000000000000
+      internalID: -3691297105635374449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2101
+        width: 288
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6142e8c7ec8b200800000000000000
+      internalID: 196133618146612980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2093
+        width: 215
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2007cb2b14c7120800000000000000
+      internalID: 2412875736285184672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2150
+        width: 222
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb4f1fb403747ae0800000000000000
+      internalID: -1552489507312415809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2097
+        width: 344
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a56eea53da17a110800000000000000
+      internalID: 1272014914821449127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1903
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e3eefe319507050800000000000000
+      internalID: 5796230662590447151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2207
+        width: 169
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b7e81de239898f0800000000000000
+      internalID: -533514726549849265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2240
+        width: 116
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efa1902e2ba18200800000000000000
+      internalID: 180613674674794466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2064
+        width: 168
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ab503fa1b3f480800000000000000
+      internalID: -8866547875373669937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2105
+        width: 125
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b947ad18372ee4d0800000000000000
+      internalID: -3103499971242538572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1847
+        width: 263
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60000b90950e2e00800000000000000
+      internalID: 1021760284093579370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2108
+        width: 63
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159f4446347a4dcf0800000000000000
+      internalID: -228373773202163375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2133
+        width: 201
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2817933c0c9270b0800000000000000
+      internalID: -5732347799470139345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2094
+        width: 130
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adf40a28fa81c0e0800000000000000
+      internalID: -2251365540247044702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2101
+        width: 237
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f6249467180a960800000000000000
+      internalID: 7611225715291352840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2211
+        width: 197
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361aa3d86d49db870800000000000000
+      internalID: 8700273704363008355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2074
+        width: 52
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57297ef3d0e03fd70800000000000000
+      internalID: 9075613124151186037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2042
+        width: 106
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a49bffe03512c360800000000000000
+      internalID: 7188331255165588648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2037
+        width: 308
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02964989296019560800000000000000
+      internalID: 7318638096148621600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1986
+        width: 297
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d68ae7c2d6dc10800000000000000
+      internalID: 2078080034153093002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 2005
+        width: 925
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5f5810e582074c0800000000000000
+      internalID: -4291886060666489374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1979
+        width: 163
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2766b408f0f785060800000000000000
+      internalID: 6942438530145281650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2211
+        width: 150
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bec1f1e7fc2f6060800000000000000
+      internalID: 6948822193215229620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2069
+        width: 81
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d37e2216e69c0b0800000000000000
+      internalID: -5707909689238930041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1979
+        width: 163
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7fb7d4889a69420800000000000000
+      internalID: 2636481034752620525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2062
+        width: 159
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4febb5bee3a628ee0800000000000000
+      internalID: -1260328127241142540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2067
+        width: 81
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22afb8011da4a8e40800000000000000
+      internalID: 5659418143530678818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 2245
+        width: 193
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ace4562233dc26c0800000000000000
+      internalID: -4166723342879626076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2099
+        width: 197
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c87ba32678faf20800000000000000
+      internalID: 3436113896668630025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2141
+        width: 313
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb72eddb43207c80800000000000000
+      internalID: -8327116902255920147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2046
+        width: 509
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833e499e0c98b03b0800000000000000
+      internalID: -5545187054531058888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 2172
+        width: 397
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f613fa58b181710800000000000000
+      internalID: 1664110323297251209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 1854
+        width: 911
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03af84f0cccccf2c0800000000000000
+      internalID: -4396413959418611152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 2089
+        width: 357
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235d596d5beb707c0800000000000000
+      internalID: -4105102847126416078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1933
+        width: 117
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8b3a140c5571ac0800000000000000
+      internalID: -3884541869360432946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2054
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b32b6259a6184370800000000000000
+      internalID: 8306914429172917177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2034
+        width: 56
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67917445ad7d6b360800000000000000
+      internalID: 7185167588232993142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2030
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6ae8b8b738694a0800000000000000
+      internalID: -6586932838337173771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1877
+        width: 121
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4aab900d9b5a0170800000000000000
+      internalID: 8145423605931158092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1961
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4b3a096b45c9630800000000000000
+      internalID: 3935113317502399690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1638
+        width: 591
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb99efb33c5ed80800000000000000
+      internalID: -8221950882252996973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1987
+        width: 176
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bbe8822178f51b0800000000000000
+      internalID: -5665661294149190791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2121
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f232a055d2123990800000000000000
+      internalID: -7407837729680903433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2067
+        width: 158
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfe57c5becf0940800000000000000
+      internalID: 5264653769548692421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2007
+        width: 198
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ddbb2f9b89bdd80800000000000000
+      internalID: -8224812370053309080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2067
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ce48529919088e0800000000000000
+      internalID: -1693193372945814381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2001
+        width: 184
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0294334711828b7d0800000000000000
+      internalID: -2902525904411211488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2059
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a29c6935bff78760800000000000000
+      internalID: 7460212461580096165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1971
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791011bf116f4a70800000000000000
+      internalID: 8813369784529852788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1965
+        width: 283
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d9b80ab4ad2de0800000000000000
+      internalID: -1356246793851381557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1807
+        width: 38
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e404e3f92ecfaf9d0800000000000000
+      internalID: -2739599373037060018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1956
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a11dc0098f5cd10800000000000000
+      internalID: 2145394095085918771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1807
+        width: 39
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a756523b3808ec0800000000000000
+      internalID: -3566706099427640811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1877
+        width: 95
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4072296c3ed2a20800000000000000
+      internalID: 3039335765540013234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1807
+        width: 39
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03e876d4b22dd90800000000000000
+      internalID: -7074544453195779902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1956
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499c8f4a8d1d60690800000000000000
+      internalID: -7636185389749188204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 1807
+        width: 38
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a7e75235ae47690800000000000000
+      internalID: -7605196227889694103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 1857
+        width: 606
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2554fc50437f40800000000000000
+      internalID: 5724990319298423961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 2059
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d685319ac116fd0c0800000000000000
+      internalID: -4548810322897315731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1967
+        width: 284
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49362e20772bf030800000000000000
+      internalID: 3529458095738992975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2030
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb78262504fb2270800000000000000
+      internalID: 8226937447274544055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1965
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f876349d9459b1460800000000000000
+      internalID: 7213523372574205839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1993
+        width: 167
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4b006cbf86784e0800000000000000
+      internalID: -1979498080638028554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2029
+        width: 200
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26eb202d028277350800000000000000
+      internalID: 6014319948804046434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1991
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39e45c471ec69610800000000000000
+      internalID: 1627714914801215803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1995
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc72991542b49830800000000000000
+      internalID: 4077079572528659645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2001
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8daa63c85037a30800000000000000
+      internalID: 4211716176292272337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1888
+        width: 33
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df57c759db6727a0800000000000000
+      internalID: -6402029764059111469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1918
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caabc8f57f5db4c0800000000000000
+      internalID: -4270151911387452727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2055
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913b14fee9c5d710800000000000000
+      internalID: 1717500861046534558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2001
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d99b37a3c4fd0120800000000000000
+      internalID: 2381828899110361555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2040
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f9d0ea803affb20800000000000000
+      internalID: 3170431920367312670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1902
+        width: 47
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8665193b86df130800000000000000
+      internalID: 3602150397413058742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1867
+        width: 105
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7788cc9b3f243590800000000000000
+      internalID: -7695473930189371523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1807
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d45a7f7eeaedc050800000000000000
+      internalID: 5822568203321758937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1807
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddaee259daa7f290800000000000000
+      internalID: -7856623174548541999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1545
+        width: 201
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54dabbcf7b18e830800000000000000
+      internalID: 4100557696413652060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 1906
+        width: 98
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea14a764e77129b0800000000000000
+      internalID: -5106668679586374935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1719
+        width: 635
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97e874c5d20651a0800000000000000
+      internalID: -6821261468458489953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1916
+        width: 254
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5710209262e4ea3c0800000000000000
+      internalID: -4346450664562228875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1719
+        width: 583
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec3d9845478c01e0800000000000000
+      internalID: -2230258983814480657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1947
+        width: 206
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734103fbf9f56c6a0800000000000000
+      internalID: -6429346278312766409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1652
+        width: 178
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe22d07c4299370800000000000000
+      internalID: 8329729423135928299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1793
+        width: 176
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cc8119496dd7330800000000000000
+      internalID: 3710357601600982099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1983
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094912b08d78a4370800000000000000
+      internalID: 8307601824607736976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1719
+        width: 67
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e01e05c8cd6f1ff0800000000000000
+      internalID: -63211160692977439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_90
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1773
+        width: 83
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be07d8ca0124dca0800000000000000
+      internalID: -5993128873920360779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_91
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1983
+        width: 184
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1addc9faccf7b0800000000000000
+      internalID: -5189049496388363695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_92
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1738
+        width: 165
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898e735474a1da630800000000000000
+      internalID: 3939834142425344152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_93
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 1535
+        width: 293
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82fce01a6f6abe80800000000000000
+      internalID: -8162088873314422130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_94
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1675
+        width: 171
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43a874b9fd4f6a00800000000000000
+      internalID: 751905397664162638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_95
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1666
+        width: 328
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7d623b5671c07f0800000000000000
+      internalID: -645114921056020505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_96
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1683
+        width: 168
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134f2aaeeb825e5f0800000000000000
+      internalID: -728130964305021903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_97
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 1829
+        width: 178
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54447c5f295085b0800000000000000
+      internalID: -5368192695876172708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_98
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 1815
+        width: 148
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01eeff9039a0c2830800000000000000
+      internalID: 4047621791743471120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_99
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1719
+        width: 297
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c98454218ce4d820800000000000000
+      internalID: 2942236495984232901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_100
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1719
+        width: 530
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cda4dd4e7010cb0800000000000000
+      internalID: -4899626240055780322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_101
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1737
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ce05d1821bb3620800000000000000
+      internalID: 2754990382915841046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_102
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1712
+        width: 211
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44b204e5faa1c920800000000000000
+      internalID: 3008873999129293899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_103
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1649
+        width: 444
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50bd85c3fec77660800000000000000
+      internalID: 7383597660483989599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_104
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1571
+        width: 281
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3798f6b2f626c90800000000000000
+      internalID: -7178052623729593408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_105
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1694
+        width: 36
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bda46d59d188c1f0800000000000000
+      internalID: -1024426144652022345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_106
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1683
+        width: 40
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b958404b0db1f270800000000000000
+      internalID: 8282609045731826100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_107
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1683
+        width: 40
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea20d99ae011b8c0800000000000000
+      internalID: -3985385595457230108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_108
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1694
+        width: 36
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674a84d7634255f0800000000000000
+      internalID: -769478473100408977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_109
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 1469
+        width: 1139
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402e832ce637f2720800000000000000
+      internalID: 2823602410926694916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_110
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 1842
+        width: 396
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7064cf811dd4ef5d0800000000000000
+      internalID: -3026896339083704825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_111
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1727
+        width: 483
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb00cbafaca4b230800000000000000
+      internalID: 3653735068205059009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_112
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1684
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb6a806e00c287a0800000000000000
+      internalID: -6376322954421441585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_113
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1774
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a36cc823c214570800000000000000
+      internalID: 8449082971545549318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_114
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1563
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ffbf41ce27e5950800000000000000
+      internalID: 6439710875476295517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_115
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1774
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9db3d8b235cf6900800000000000000
+      internalID: 679978890396155290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_116
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1665
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2f94652a4ac46a0800000000000000
+      internalID: -6463610348044160302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_117
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1774
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4414a079a3da590800000000000000
+      internalID: -7661402970700823368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_118
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1563
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa81a60fc744e5d0800000000000000
+      internalID: -3034221294445819151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_119
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1774
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d715f035fe90fbed0800000000000000
+      internalID: -2396185553242467971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_120
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 1444
+        width: 1073
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb185e56a54e6dc0800000000000000
+      internalID: -3643898467646432319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 2154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c362650c67db7ce0800000000000000
+      internalID: -1406293599676374076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_122
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1468
+        width: 294
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d080b7ec74b778620800000000000000
+      internalID: 2776323243634264077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_123
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1405
+        width: 288
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522052e576e3cb9a0800000000000000
+      internalID: -6216024771996089819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_124
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1534
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bad6675de1944b70800000000000000
+      internalID: 8882384813641095858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_125
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1249
+        width: 229
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7db5a3de706eeff0800000000000000
+      internalID: -4960451747791494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_126
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1551
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451c7cea94ae18ed0800000000000000
+      internalID: -2413390323108036268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_127
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1336
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfc61d75752eb190800000000000000
+      internalID: -7944871506094927913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_128
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1261
+        width: 194
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b1c38305d118b0800000000000000
+      internalID: -5183127485054603255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_129
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 1518
+        width: 27
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a068f39395a24b0800000000000000
+      internalID: -5464457095446918550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_130
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1453
+        width: 36
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c090343008aa8f60800000000000000
+      internalID: 8037421203825135817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_131
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1595
+        width: 76
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c92f793dca169a0800000000000000
+      internalID: -6241517583771460591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_132
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1594
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5e7d736777bac80800000000000000
+      internalID: -8310417337755376183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_133
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 937
+        width: 178
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bbadccc5031c6c0800000000000000
+      internalID: -4124962608562652302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_134
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1302
+        width: 328
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb0b3ec25a19ae20800000000000000
+      internalID: 3362247539758402485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_135
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 1067
+        width: 176
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86048038b1c8b41e0800000000000000
+      internalID: -2212520742132105112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_136
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1594
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b665e7ca8798bc60800000000000000
+      internalID: 7834178174125958837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_137
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 1595
+        width: 76
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32731e4e62d5f73c0800000000000000
+      internalID: -4359663492641245405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_138
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1418
+        width: 36
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c0950d9f0861df0800000000000000
+      internalID: -209838522195440509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_139
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 1208
+        width: 40
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0a0afbf7efc6ab0800000000000000
+      internalID: -5013352460540927828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 2134
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c41822c9fbcea0800000000000000
+      internalID: -5851308678546405063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_141
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1214
+        width: 367
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2a520cfe5616510800000000000000
+      internalID: 1540624627932701377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_142
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1563
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af92c337a2e17d40800000000000000
+      internalID: 5580490621044563874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_143
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1563
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e0fc206399fb320800000000000000
+      internalID: 2575945969133620744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_144
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1563
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05665d6f22ee9790800000000000000
+      internalID: -7521325634336430837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_145
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1563
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa86f86292edfaf0800000000000000
+      internalID: -360883276665681153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 2097
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709c86d46f2665c70800000000000000
+      internalID: 8959457318700370183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_147
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1024
+        width: 910
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394e2cafcd799e1b0800000000000000
+      internalID: -5626799284067048301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_148
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1314
+        width: 90
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81a989f7121f2b20800000000000000
+      internalID: 3111725761716396426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_149
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1363
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16c34c4dc3686c30800000000000000
+      internalID: 4352838773252539932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_150
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1399
+        width: 103
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61dead0a38edea680800000000000000
+      internalID: -8741805169758769898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_151
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1357
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b51b340405c8300800000000000000
+      internalID: 255667515797101367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_152
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1460
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87af5be3e1d63100800000000000000
+      internalID: 87488019616999306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_153
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1303
+        width: 68
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db57b85035aa8270800000000000000
+      internalID: 8253590894175280081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_154
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1304
+        width: 205
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688bcba2f6f476a80800000000000000
+      internalID: -8473716834997323642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_155
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1209
+        width: 36
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ced0e307e33fce0800000000000000
+      internalID: -1372684809619510255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_156
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 1067
+        width: 128
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a22de120565d1a70800000000000000
+      internalID: 8799284149118378658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_157
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 1067
+        width: 991
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097fe4ed37d7ebd20800000000000000
+      internalID: 3296209913886209936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_158
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 1154
+        width: 119
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e86a85434eb2a2d0800000000000000
+      internalID: -3268841183378773791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_159
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 879
+        width: 1110
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d9a8f6b2c51d4e0800000000000000
+      internalID: -1958683021304750741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_160
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 654
+        width: 757
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6ee7a2bf7193d40800000000000000
+      internalID: 5564505182110148298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_161
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1147
+        width: 350
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a213bb83db50020800000000000000
+      internalID: 2307458435453626974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_162
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 937
+        width: 234
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f501a707ea16e00800000000000000
+      internalID: 1036301187379388201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_163
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 937
+        width: 235
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d03f3d23d536a4f0800000000000000
+      internalID: -817907101207678759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_164
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1067
+        width: 96
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e511872ed655c40800000000000000
+      internalID: 5500423339347369524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_165
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1112
+        width: 161
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0d4d9b3a2bb32f0800000000000000
+      internalID: -992002876637917014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_166
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1067
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4045da6355a6e20800000000000000
+      internalID: 3344579366600574180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_167
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1161
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ee1f539346dfc20800000000000000
+      internalID: 3241857503657586306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_168
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1067
+        width: 215
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca22340dcac5d70800000000000000
+      internalID: 9033284963077893214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_169
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1054
+        width: 122
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71499a8b116d7a530800000000000000
+      internalID: 3866294176721769495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 41
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1095a5af1328a99c0800000000000000
+      internalID: -3919677374507362047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_171
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 482
+        width: 409
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9ce2db1a0b8bae0800000000000000
+      internalID: -1533281464409470475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_172
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 588
+        width: 80
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28f9d2e3faff2300800000000000000
+      internalID: 229678031409117226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_173
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 174
+        width: 57
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6455c189a78d90800000000000000
+      internalID: -7095516313072407519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_174
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 523
+        width: 262
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c16acd93f5e73a60800000000000000
+      internalID: 7653838926226547145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_175
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 244
+        width: 172
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5f91bdb9fbf190800000000000000
+      internalID: -7927468125931480299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_176
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 182
+        width: 542
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e773d6cb720bd1b0800000000000000
+      internalID: -5630904178456692763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_177
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 605
+        width: 314
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea80d29caa7ea4b0800000000000000
+      internalID: -5427265619318764823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_178
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 301
+        width: 210
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e2e95c5647a8130800000000000000
+      internalID: 3569793635100536434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_179
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 639
+        width: 658
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6208586c2623870800000000000000
+      internalID: 8661093638169700038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_180
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 525
+        width: 614
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f46a34fa79755550800000000000000
+      internalID: 6148954435234718968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_181
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 177
+        width: 1678
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ecea52e05b66b60800000000000000
+      internalID: 7739072082049158794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_182
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 618
+        width: 441
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca665b77028b5b10800000000000000
+      internalID: 1971312230550366920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_183
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 434
+        width: 1606
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefef7f4e2c599fc0800000000000000
+      internalID: -3487655082449702934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_184
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 169
+        width: 401
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85b86f96920bdc0800000000000000
+      internalID: -3625352164948616977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_185
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 321
+        width: 235
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4164e1386e40bb0800000000000000
+      internalID: -4970594637887171352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_186
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 320
+        width: 159
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227a2f992c09e0770800000000000000
+      internalID: 8578953505668245282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_187
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 171
+        width: 366
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775668c807381d840800000000000000
+      internalID: 5247119560280532343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_188
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 141
+        width: 95
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc634f228c68bbeb0800000000000000
+      internalID: -4703017191720339761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_189
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 147
+        width: 458
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47cb26d695b544f0800000000000000
+      internalID: -845069695619184818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_190
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 144
+        width: 155
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c04291b0ab14710800000000000000
+      internalID: 1675825093187734687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_191
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 43
+        width: 1028
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f486816899562d30800000000000000
+      internalID: 4406307796434715890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_192
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 163
+        width: 309
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1571bc004243c4c70800000000000000
+      internalID: 8956591088169850705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_193
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 132
+        width: 399
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b90cd13b41e03f0800000000000000
+      internalID: -932785313288250584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_194
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 150
+        width: 327
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d8dd2380fc477b0800000000000000
+      internalID: -5227325633350234825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_195
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 224
+        width: 267
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c980770958d4f6d40800000000000000
+      internalID: 5579763699385043100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_196
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 198
+        width: 309
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ef5a875e69e0940800000000000000
+      internalID: 5264310926758510210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_197
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 198
+        width: 191
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f99101f9b79c3d10800000000000000
+      internalID: 2106725550570707448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_198
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 287
+        width: 394
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5986d40dacce3ba50800000000000000
+      internalID: 6535827840067004565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_199
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 196
+        width: 233
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e417a5256f09291d0800000000000000
+      internalID: -3345452185564843698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_200
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 198
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad32766b304cd60800000000000000
+      internalID: 7909450927518767822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_201
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 128
+        width: 364
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db6dd83a84f4e3f0800000000000000
+      internalID: -872303553306334252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_202
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 280
+        width: 327
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aeb05af7139e9e0800000000000000
+      internalID: -1591686568999130484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2078
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68e5caf64ba347e0800000000000000
+      internalID: -1782392706165249937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_204
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 266
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d282bf11898c3e0800000000000000
+      internalID: -2033208028762198640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_205
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 179
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797776c80f2ff12b0800000000000000
+      internalID: -5611499495718684777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_206
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 0
+        width: 494
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae5cf646bb289810800000000000000
+      internalID: 1772214515245276838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_207
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 1582
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c1399323890b540800000000000000
+      internalID: 5021680925999832137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_208
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 0
+        width: 376
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a7b46d01c66260800000000000000
+      internalID: 7090566926609916577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_209
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 0
+        width: 572
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c3f2591e785e10800000000000000
+      internalID: 2186636266319365953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_210
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 7
+        width: 301
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2489a76a0ebef3860800000000000000
+      internalID: 7511982053575530562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_211
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 20
+        width: 72
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b93888dc6c11120800000000000000
+      internalID: 2382904263916624646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_212
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 0
+        width: 583
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c11e208d5db6d20800000000000000
+      internalID: 3272944677952756835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_213
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 0
+        width: 259
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300503c2e45fb16c0800000000000000
+      internalID: -4171470913731014653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: germany2_01_Process_214
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 0
+        width: 147
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45134b3f05602fb50800000000000000
+      internalID: 6625364946571243860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      germany2_01_Process_0: 3154183768440201950
+      germany2_01_Process_1: -3121906071303910359
+      germany2_01_Process_10: -533514726549849265
+      germany2_01_Process_100: -4899626240055780322
+      germany2_01_Process_101: 2754990382915841046
+      germany2_01_Process_102: 3008873999129293899
+      germany2_01_Process_103: 7383597660483989599
+      germany2_01_Process_104: -7178052623729593408
+      germany2_01_Process_105: -1024426144652022345
+      germany2_01_Process_106: 8282609045731826100
+      germany2_01_Process_107: -3985385595457230108
+      germany2_01_Process_108: -769478473100408977
+      germany2_01_Process_109: 2823602410926694916
+      germany2_01_Process_11: 180613674674794466
+      germany2_01_Process_110: -3026896339083704825
+      germany2_01_Process_111: 3653735068205059009
+      germany2_01_Process_112: -6376322954421441585
+      germany2_01_Process_113: 8449082971545549318
+      germany2_01_Process_114: 6439710875476295517
+      germany2_01_Process_115: 679978890396155290
+      germany2_01_Process_116: -6463610348044160302
+      germany2_01_Process_117: -7661402970700823368
+      germany2_01_Process_118: -3034221294445819151
+      germany2_01_Process_119: -2396185553242467971
+      germany2_01_Process_12: -8866547875373669937
+      germany2_01_Process_120: -3643898467646432319
+      germany2_01_Process_121: -1406293599676374076
+      germany2_01_Process_122: 2776323243634264077
+      germany2_01_Process_123: -6216024771996089819
+      germany2_01_Process_124: 8882384813641095858
+      germany2_01_Process_125: -4960451747791494
+      germany2_01_Process_126: -2413390323108036268
+      germany2_01_Process_127: -7944871506094927913
+      germany2_01_Process_128: -5183127485054603255
+      germany2_01_Process_129: -5464457095446918550
+      germany2_01_Process_13: -3103499971242538572
+      germany2_01_Process_130: 8037421203825135817
+      germany2_01_Process_131: -6241517583771460591
+      germany2_01_Process_132: -8310417337755376183
+      germany2_01_Process_133: -4124962608562652302
+      germany2_01_Process_134: 3362247539758402485
+      germany2_01_Process_135: -2212520742132105112
+      germany2_01_Process_136: 7834178174125958837
+      germany2_01_Process_137: -4359663492641245405
+      germany2_01_Process_138: -209838522195440509
+      germany2_01_Process_139: -5013352460540927828
+      germany2_01_Process_14: 1021760284093579370
+      germany2_01_Process_140: -5851308678546405063
+      germany2_01_Process_141: 1540624627932701377
+      germany2_01_Process_142: 5580490621044563874
+      germany2_01_Process_143: 2575945969133620744
+      germany2_01_Process_144: -7521325634336430837
+      germany2_01_Process_145: -360883276665681153
+      germany2_01_Process_146: 8959457318700370183
+      germany2_01_Process_147: -5626799284067048301
+      germany2_01_Process_148: 3111725761716396426
+      germany2_01_Process_149: 4352838773252539932
+      germany2_01_Process_15: -228373773202163375
+      germany2_01_Process_150: -8741805169758769898
+      germany2_01_Process_151: 255667515797101367
+      germany2_01_Process_152: 87488019616999306
+      germany2_01_Process_153: 8253590894175280081
+      germany2_01_Process_154: -8473716834997323642
+      germany2_01_Process_155: -1372684809619510255
+      germany2_01_Process_156: 8799284149118378658
+      germany2_01_Process_157: 3296209913886209936
+      germany2_01_Process_158: -3268841183378773791
+      germany2_01_Process_159: -1958683021304750741
+      germany2_01_Process_16: -5732347799470139345
+      germany2_01_Process_160: 5564505182110148298
+      germany2_01_Process_161: 2307458435453626974
+      germany2_01_Process_162: 1036301187379388201
+      germany2_01_Process_163: -817907101207678759
+      germany2_01_Process_164: 5500423339347369524
+      germany2_01_Process_165: -992002876637917014
+      germany2_01_Process_166: 3344579366600574180
+      germany2_01_Process_167: 3241857503657586306
+      germany2_01_Process_168: 9033284963077893214
+      germany2_01_Process_169: 3866294176721769495
+      germany2_01_Process_17: -2251365540247044702
+      germany2_01_Process_170: -3919677374507362047
+      germany2_01_Process_171: -1533281464409470475
+      germany2_01_Process_172: 229678031409117226
+      germany2_01_Process_173: -7095516313072407519
+      germany2_01_Process_174: 7653838926226547145
+      germany2_01_Process_175: -7927468125931480299
+      germany2_01_Process_176: -5630904178456692763
+      germany2_01_Process_177: -5427265619318764823
+      germany2_01_Process_178: 3569793635100536434
+      germany2_01_Process_179: 8661093638169700038
+      germany2_01_Process_18: 7611225715291352840
+      germany2_01_Process_180: 6148954435234718968
+      germany2_01_Process_181: 7739072082049158794
+      germany2_01_Process_182: 1971312230550366920
+      germany2_01_Process_183: -3487655082449702934
+      germany2_01_Process_184: -3625352164948616977
+      germany2_01_Process_185: -4970594637887171352
+      germany2_01_Process_186: 8578953505668245282
+      germany2_01_Process_187: 5247119560280532343
+      germany2_01_Process_188: -4703017191720339761
+      germany2_01_Process_189: -845069695619184818
+      germany2_01_Process_19: 8700273704363008355
+      germany2_01_Process_190: 1675825093187734687
+      germany2_01_Process_191: 4406307796434715890
+      germany2_01_Process_192: 8956591088169850705
+      germany2_01_Process_193: -932785313288250584
+      germany2_01_Process_194: -5227325633350234825
+      germany2_01_Process_195: 5579763699385043100
+      germany2_01_Process_196: 5264310926758510210
+      germany2_01_Process_197: 2106725550570707448
+      germany2_01_Process_198: 6535827840067004565
+      germany2_01_Process_199: -3345452185564843698
+      germany2_01_Process_2: -566223712442006067
+      germany2_01_Process_20: 9075613124151186037
+      germany2_01_Process_200: 7909450927518767822
+      germany2_01_Process_201: -872303553306334252
+      germany2_01_Process_202: -1591686568999130484
+      germany2_01_Process_203: -1782392706165249937
+      germany2_01_Process_204: -2033208028762198640
+      germany2_01_Process_205: -5611499495718684777
+      germany2_01_Process_206: 1772214515245276838
+      germany2_01_Process_207: 5021680925999832137
+      germany2_01_Process_208: 7090566926609916577
+      germany2_01_Process_209: 2186636266319365953
+      germany2_01_Process_21: 7188331255165588648
+      germany2_01_Process_210: 7511982053575530562
+      germany2_01_Process_211: 2382904263916624646
+      germany2_01_Process_212: 3272944677952756835
+      germany2_01_Process_213: -4171470913731014653
+      germany2_01_Process_214: 6625364946571243860
+      germany2_01_Process_22: 7318638096148621600
+      germany2_01_Process_23: 2078080034153093002
+      germany2_01_Process_24: -4291886060666489374
+      germany2_01_Process_25: 6942438530145281650
+      germany2_01_Process_26: 6948822193215229620
+      germany2_01_Process_27: -5707909689238930041
+      germany2_01_Process_28: 2636481034752620525
+      germany2_01_Process_29: -1260328127241142540
+      germany2_01_Process_3: 182071797312319250
+      germany2_01_Process_30: 5659418143530678818
+      germany2_01_Process_31: -4166723342879626076
+      germany2_01_Process_32: 3436113896668630025
+      germany2_01_Process_33: -8327116902255920147
+      germany2_01_Process_34: -5545187054531058888
+      germany2_01_Process_35: 1664110323297251209
+      germany2_01_Process_36: -4396413959418611152
+      germany2_01_Process_37: -4105102847126416078
+      germany2_01_Process_38: -3884541869360432946
+      germany2_01_Process_39: 8306914429172917177
+      germany2_01_Process_4: -3691297105635374449
+      germany2_01_Process_40: 7185167588232993142
+      germany2_01_Process_41: -6586932838337173771
+      germany2_01_Process_42: 8145423605931158092
+      germany2_01_Process_43: 3935113317502399690
+      germany2_01_Process_44: -8221950882252996973
+      germany2_01_Process_45: -5665661294149190791
+      germany2_01_Process_46: -7407837729680903433
+      germany2_01_Process_47: 5264653769548692421
+      germany2_01_Process_48: -8224812370053309080
+      germany2_01_Process_49: -1693193372945814381
+      germany2_01_Process_5: 196133618146612980
+      germany2_01_Process_50: -2902525904411211488
+      germany2_01_Process_51: 7460212461580096165
+      germany2_01_Process_52: 8813369784529852788
+      germany2_01_Process_53: -1356246793851381557
+      germany2_01_Process_54: -2739599373037060018
+      germany2_01_Process_55: 2145394095085918771
+      germany2_01_Process_56: -3566706099427640811
+      germany2_01_Process_57: 3039335765540013234
+      germany2_01_Process_58: -7074544453195779902
+      germany2_01_Process_59: -7636185389749188204
+      germany2_01_Process_6: 2412875736285184672
+      germany2_01_Process_60: -7605196227889694103
+      germany2_01_Process_61: 5724990319298423961
+      germany2_01_Process_62: -4548810322897315731
+      germany2_01_Process_63: 3529458095738992975
+      germany2_01_Process_64: 8226937447274544055
+      germany2_01_Process_65: 7213523372574205839
+      germany2_01_Process_66: -1979498080638028554
+      germany2_01_Process_67: 6014319948804046434
+      germany2_01_Process_68: 1627714914801215803
+      germany2_01_Process_69: 4077079572528659645
+      germany2_01_Process_7: -1552489507312415809
+      germany2_01_Process_70: 4211716176292272337
+      germany2_01_Process_71: -6402029764059111469
+      germany2_01_Process_72: -4270151911387452727
+      germany2_01_Process_73: 1717500861046534558
+      germany2_01_Process_74: 2381828899110361555
+      germany2_01_Process_75: 3170431920367312670
+      germany2_01_Process_76: 3602150397413058742
+      germany2_01_Process_77: -7695473930189371523
+      germany2_01_Process_78: 5822568203321758937
+      germany2_01_Process_79: -7856623174548541999
+      germany2_01_Process_8: 1272014914821449127
+      germany2_01_Process_80: 4100557696413652060
+      germany2_01_Process_81: -5106668679586374935
+      germany2_01_Process_82: -6821261468458489953
+      germany2_01_Process_83: -4346450664562228875
+      germany2_01_Process_84: -2230258983814480657
+      germany2_01_Process_85: -6429346278312766409
+      germany2_01_Process_86: 8329729423135928299
+      germany2_01_Process_87: 3710357601600982099
+      germany2_01_Process_88: 8307601824607736976
+      germany2_01_Process_89: -63211160692977439
+      germany2_01_Process_9: 5796230662590447151
+      germany2_01_Process_90: -5993128873920360779
+      germany2_01_Process_91: -5189049496388363695
+      germany2_01_Process_92: 3939834142425344152
+      germany2_01_Process_93: -8162088873314422130
+      germany2_01_Process_94: 751905397664162638
+      germany2_01_Process_95: -645114921056020505
+      germany2_01_Process_96: -728130964305021903
+      germany2_01_Process_97: -5368192695876172708
+      germany2_01_Process_98: 4047621791743471120
+      germany2_01_Process_99: 2942236495984232901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

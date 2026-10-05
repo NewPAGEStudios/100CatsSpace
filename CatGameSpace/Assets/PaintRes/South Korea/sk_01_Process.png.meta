@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: 689a68571a676fa40bcc5d090acced4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3425781666155793176
+    second: sk_01_Process_0
+  - first:
+      213: 4635941776638844825
+    second: sk_01_Process_1
+  - first:
+      213: 2947716224391944197
+    second: sk_01_Process_2
+  - first:
+      213: -7054634638164845121
+    second: sk_01_Process_3
+  - first:
+      213: 2266436612183155737
+    second: sk_01_Process_4
+  - first:
+      213: 8137581307287984622
+    second: sk_01_Process_5
+  - first:
+      213: 2241475106973400583
+    second: sk_01_Process_6
+  - first:
+      213: 1046098477472331861
+    second: sk_01_Process_7
+  - first:
+      213: -7351515246177800894
+    second: sk_01_Process_8
+  - first:
+      213: 2904809290922856708
+    second: sk_01_Process_9
+  - first:
+      213: 2429088232470822360
+    second: sk_01_Process_10
+  - first:
+      213: -6824834374041489710
+    second: sk_01_Process_11
+  - first:
+      213: 5777130130202920712
+    second: sk_01_Process_12
+  - first:
+      213: 6625946463350807137
+    second: sk_01_Process_13
+  - first:
+      213: -5754068724601388374
+    second: sk_01_Process_14
+  - first:
+      213: -7020636230091762253
+    second: sk_01_Process_15
+  - first:
+      213: 4083777862749686568
+    second: sk_01_Process_16
+  - first:
+      213: 1024873760064145482
+    second: sk_01_Process_17
+  - first:
+      213: 4403440967279248961
+    second: sk_01_Process_18
+  - first:
+      213: -2561691150551314059
+    second: sk_01_Process_19
+  - first:
+      213: -2334323203309082498
+    second: sk_01_Process_20
+  - first:
+      213: -6220657326158225072
+    second: sk_01_Process_21
+  - first:
+      213: 5538255426138436131
+    second: sk_01_Process_22
+  - first:
+      213: 8023654556504848486
+    second: sk_01_Process_23
+  - first:
+      213: -2982932231187834792
+    second: sk_01_Process_24
+  - first:
+      213: -7789695878009570991
+    second: sk_01_Process_25
+  - first:
+      213: 3109119435493793038
+    second: sk_01_Process_26
+  - first:
+      213: 6278278561815383682
+    second: sk_01_Process_27
+  - first:
+      213: 2394409647894761869
+    second: sk_01_Process_28
+  - first:
+      213: 6976089392396069169
+    second: sk_01_Process_29
+  - first:
+      213: 5208926169769803801
+    second: sk_01_Process_30
+  - first:
+      213: 8362372448667886625
+    second: sk_01_Process_31
+  - first:
+      213: -3664891037870032943
+    second: sk_01_Process_32
+  - first:
+      213: 8610771258900795391
+    second: sk_01_Process_33
+  - first:
+      213: 2281190040899509616
+    second: sk_01_Process_34
+  - first:
+      213: -7361134703616976063
+    second: sk_01_Process_35
+  - first:
+      213: -8092713707415675232
+    second: sk_01_Process_36
+  - first:
+      213: -6907684618935218749
+    second: sk_01_Process_37
+  - first:
+      213: -3657394382259926706
+    second: sk_01_Process_38
+  - first:
+      213: -9078744223815197739
+    second: sk_01_Process_39
+  - first:
+      213: -542316865582530595
+    second: sk_01_Process_40
+  - first:
+      213: 5752361451077274379
+    second: sk_01_Process_41
+  - first:
+      213: 2516592515675240826
+    second: sk_01_Process_42
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sk_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 2446
+        height: 2646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4fcb6a9bd2570d0800000000000000
+      internalID: -3425781666155793176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2626
+        width: 519
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f93fbcb7c265040800000000000000
+      internalID: 4635941776638844825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 2873
+        width: 16
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5089985d94468e820800000000000000
+      internalID: 2947716224391944197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 2873
+        width: 83
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd94047c27e81e90800000000000000
+      internalID: -7054634638164845121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 2874
+        width: 14
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914ed173710047f10800000000000000
+      internalID: 2266436612183155737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 299
+        width: 2443
+        height: 2701
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee952cf851f7ee070800000000000000
+      internalID: 8137581307287984622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2427
+        width: 630
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70eb704ebb15b1f10800000000000000
+      internalID: 2241475106973400583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 2507
+        width: 468
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558b0d5d50d748e00800000000000000
+      internalID: 1046098477472331861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2353
+        width: 630
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d24b665db2af990800000000000000
+      internalID: -7351515246177800894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2327
+        width: 630
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40116b5e8a4ff4820800000000000000
+      internalID: 2904809290922856708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 2241
+        width: 630
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd3188a0ead5b120800000000000000
+      internalID: 2429088232470822360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 290
+        width: 912
+        height: 1706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dea16cdb415941a0800000000000000
+      internalID: -6824834374041489710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1931
+        width: 630
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80783ffae3d7c2050800000000000000
+      internalID: 5777130130202920712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 82
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ad7c0e33714fb50800000000000000
+      internalID: 6625946463350807137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5000
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa203f83bf07520b0800000000000000
+      internalID: -5754068724601388374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 288
+        width: 139
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b59420bb80b19e90800000000000000
+      internalID: -7020636230091762253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 240
+        width: 1148
+        height: 583
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b8cc2545e7ca830800000000000000
+      internalID: 4083777862749686568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 203
+        width: 161
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a480e383145193e00800000000000000
+      internalID: 1024873760064145482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 186
+        width: 133
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460514ba3a2c1d30800000000000000
+      internalID: 4403440967279248961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 193
+        width: 164
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5719023987b037cd0800000000000000
+      internalID: -2561691150551314059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 229
+        width: 428
+        height: 566
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e786fc31a61da9fd0800000000000000
+      internalID: -2334323203309082498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 195
+        width: 400
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05168ecce19cba9a0800000000000000
+      internalID: -6220657326158225072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 249
+        width: 313
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3227c5697f5dbdc40800000000000000
+      internalID: 5538255426138436131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 293
+        width: 89
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6687ae8de4fb95f60800000000000000
+      internalID: 8023654556504848486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 273
+        width: 13
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8585cf2a0fe7a96d0800000000000000
+      internalID: -2982932231187834792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 278
+        width: 133
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1593aeaded075e390800000000000000
+      internalID: -7789695878009570991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 286
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ddedc57afc52b20800000000000000
+      internalID: 3109119435493793038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 242
+        width: 268
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ec4f5961de02750800000000000000
+      internalID: 6278278561815383682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 256
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81198d73e6aa3120800000000000000
+      internalID: 2394409647894761869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 287
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139632b675c00d060800000000000000
+      internalID: 6976089392396069169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 276
+        width: 177
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9108d5ad0c2d94840800000000000000
+      internalID: 5208926169769803801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 266
+        width: 139
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124ec52bf6d1d0470800000000000000
+      internalID: 8362372448667886625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 288
+        width: 153
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d77e3bb401b32dc0800000000000000
+      internalID: -3664891037870032943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 249
+        width: 121
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffcce096da9f7770800000000000000
+      internalID: 8610771258900795391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 177
+        width: 416
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d59f4814a68af10800000000000000
+      internalID: 2281190040899509616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 283
+        width: 334
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b1c1fecfef7d990800000000000000
+      internalID: -7361134703616976063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 250
+        width: 282
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aedd8892c7e0bf80800000000000000
+      internalID: -8092713707415675232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 224
+        width: 943
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdcfe30079f220a0800000000000000
+      internalID: -6907684618935218749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 160
+        width: 206
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4943e1ef235e3dc0800000000000000
+      internalID: -3657394382259926706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 4454
+        y: 218
+        width: 35
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9ddcca32d10280800000000000000
+      internalID: -9078744223815197739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 4505
+        y: 270
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfff3f1fad4978f0800000000000000
+      internalID: -542316865582530595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 4573
+        y: 225
+        width: 338
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b8c1f234e74df40800000000000000
+      internalID: 5752361451077274379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sk_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 4613
+        y: 82
+        width: 266
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79ba3d3f8bbce220800000000000000
+      internalID: 2516592515675240826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sk_01_Process_0: -3425781666155793176
+      sk_01_Process_1: 4635941776638844825
+      sk_01_Process_10: 2429088232470822360
+      sk_01_Process_11: -6824834374041489710
+      sk_01_Process_12: 5777130130202920712
+      sk_01_Process_13: 6625946463350807137
+      sk_01_Process_14: -5754068724601388374
+      sk_01_Process_15: -7020636230091762253
+      sk_01_Process_16: 4083777862749686568
+      sk_01_Process_17: 1024873760064145482
+      sk_01_Process_18: 4403440967279248961
+      sk_01_Process_19: -2561691150551314059
+      sk_01_Process_2: 2947716224391944197
+      sk_01_Process_20: -2334323203309082498
+      sk_01_Process_21: -6220657326158225072
+      sk_01_Process_22: 5538255426138436131
+      sk_01_Process_23: 8023654556504848486
+      sk_01_Process_24: -2982932231187834792
+      sk_01_Process_25: -7789695878009570991
+      sk_01_Process_26: 3109119435493793038
+      sk_01_Process_27: 6278278561815383682
+      sk_01_Process_28: 2394409647894761869
+      sk_01_Process_29: 6976089392396069169
+      sk_01_Process_3: -7054634638164845121
+      sk_01_Process_30: 5208926169769803801
+      sk_01_Process_31: 8362372448667886625
+      sk_01_Process_32: -3664891037870032943
+      sk_01_Process_33: 8610771258900795391
+      sk_01_Process_34: 2281190040899509616
+      sk_01_Process_35: -7361134703616976063
+      sk_01_Process_36: -8092713707415675232
+      sk_01_Process_37: -6907684618935218749
+      sk_01_Process_38: -3657394382259926706
+      sk_01_Process_39: -9078744223815197739
+      sk_01_Process_4: 2266436612183155737
+      sk_01_Process_40: -542316865582530595
+      sk_01_Process_41: 5752361451077274379
+      sk_01_Process_42: 2516592515675240826
+      sk_01_Process_5: 8137581307287984622
+      sk_01_Process_6: 2241475106973400583
+      sk_01_Process_7: 1046098477472331861
+      sk_01_Process_8: -7351515246177800894
+      sk_01_Process_9: 2904809290922856708
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

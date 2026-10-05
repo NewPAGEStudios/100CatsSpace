@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: d609c1310b34c1a44aea98a777c21a04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6487916631047434663
+    second: england2_01_Cats_0
+  - first:
+      213: -2899159173225650343
+    second: england2_01_Cats_1
+  - first:
+      213: -2815420009130762107
+    second: england2_01_Cats_2
+  - first:
+      213: 1592145639181971021
+    second: england2_01_Cats_3
+  - first:
+      213: -2645609509998402669
+    second: england2_01_Cats_4
+  - first:
+      213: -2132477644351213360
+    second: england2_01_Cats_5
+  - first:
+      213: 827226056674750327
+    second: england2_01_Cats_6
+  - first:
+      213: -883261955788247372
+    second: england2_01_Cats_7
+  - first:
+      213: -7054667371596523998
+    second: england2_01_Cats_8
+  - first:
+      213: 4532522653924776364
+    second: england2_01_Cats_9
+  - first:
+      213: 1950375714716768586
+    second: england2_01_Cats_10
+  - first:
+      213: -6439565306634721814
+    second: england2_01_Cats_11
+  - first:
+      213: 1929625246534945110
+    second: england2_01_Cats_12
+  - first:
+      213: 2315438868304921281
+    second: england2_01_Cats_13
+  - first:
+      213: -3305452517344979685
+    second: england2_01_Cats_14
+  - first:
+      213: 293692989946517145
+    second: england2_01_Cats_15
+  - first:
+      213: 8014961548773860480
+    second: england2_01_Cats_16
+  - first:
+      213: 7393626804637464563
+    second: england2_01_Cats_17
+  - first:
+      213: -9138020568588983486
+    second: england2_01_Cats_18
+  - first:
+      213: 8740879564504741060
+    second: england2_01_Cats_19
+  - first:
+      213: 3975364520191428197
+    second: england2_01_Cats_20
+  - first:
+      213: -47361511498769968
+    second: england2_01_Cats_21
+  - first:
+      213: -5339609226721948769
+    second: england2_01_Cats_22
+  - first:
+      213: 2894462017398907388
+    second: england2_01_Cats_23
+  - first:
+      213: -7429891042602402781
+    second: england2_01_Cats_24
+  - first:
+      213: -7466963097577517131
+    second: england2_01_Cats_25
+  - first:
+      213: 2468713963785963437
+    second: england2_01_Cats_26
+  - first:
+      213: 6584796264978593909
+    second: england2_01_Cats_27
+  - first:
+      213: 3114851623733288664
+    second: england2_01_Cats_28
+  - first:
+      213: -5901745478096475377
+    second: england2_01_Cats_29
+  - first:
+      213: 2241995907473545587
+    second: england2_01_Cats_30
+  - first:
+      213: -8589107630280114303
+    second: england2_01_Cats_31
+  - first:
+      213: 6665849935671195700
+    second: england2_01_Cats_32
+  - first:
+      213: 2075158084697405535
+    second: england2_01_Cats_33
+  - first:
+      213: -2555373651545312888
+    second: england2_01_Cats_34
+  - first:
+      213: -7841626684672482604
+    second: england2_01_Cats_35
+  - first:
+      213: 2928755110239017224
+    second: england2_01_Cats_36
+  - first:
+      213: 7156572603798140082
+    second: england2_01_Cats_37
+  - first:
+      213: -5349977349719019355
+    second: england2_01_Cats_38
+  - first:
+      213: 3527217838033548668
+    second: england2_01_Cats_39
+  - first:
+      213: -8645398303669755227
+    second: england2_01_Cats_40
+  - first:
+      213: 2941692012901694343
+    second: england2_01_Cats_41
+  - first:
+      213: 6588398948136115126
+    second: england2_01_Cats_42
+  - first:
+      213: 4063257279104039612
+    second: england2_01_Cats_43
+  - first:
+      213: 8895277969185369054
+    second: england2_01_Cats_44
+  - first:
+      213: 1736120586565845673
+    second: england2_01_Cats_45
+  - first:
+      213: -5619348839381521006
+    second: england2_01_Cats_46
+  - first:
+      213: -1589822763424854511
+    second: england2_01_Cats_47
+  - first:
+      213: -7295290560453119606
+    second: england2_01_Cats_48
+  - first:
+      213: -7697482473346912181
+    second: england2_01_Cats_49
+  - first:
+      213: 3526487676958611578
+    second: england2_01_Cats_50
+  - first:
+      213: 3776735038683293496
+    second: england2_01_Cats_51
+  - first:
+      213: -5207814648002888266
+    second: england2_01_Cats_52
+  - first:
+      213: 1559932182034547863
+    second: england2_01_Cats_53
+  - first:
+      213: 2279145204542797694
+    second: england2_01_Cats_54
+  - first:
+      213: 4452585871102696519
+    second: england2_01_Cats_55
+  - first:
+      213: -6082793165127424137
+    second: england2_01_Cats_56
+  - first:
+      213: -2940912460564076281
+    second: england2_01_Cats_57
+  - first:
+      213: -3738783502325578579
+    second: england2_01_Cats_58
+  - first:
+      213: 8262414475627921351
+    second: england2_01_Cats_59
+  - first:
+      213: 5839721462829484291
+    second: england2_01_Cats_60
+  - first:
+      213: 7937248791271411586
+    second: england2_01_Cats_61
+  - first:
+      213: 6509824166533937534
+    second: england2_01_Cats_62
+  - first:
+      213: 5801459099936362659
+    second: england2_01_Cats_63
+  - first:
+      213: -2884836373996558475
+    second: england2_01_Cats_64
+  - first:
+      213: 880701099586366273
+    second: england2_01_Cats_65
+  - first:
+      213: -7457444870583878874
+    second: england2_01_Cats_66
+  - first:
+      213: 1847382337933245417
+    second: england2_01_Cats_67
+  - first:
+      213: -3121122616867238573
+    second: england2_01_Cats_68
+  - first:
+      213: 2904412495372908169
+    second: england2_01_Cats_69
+  - first:
+      213: -8924927403739991096
+    second: england2_01_Cats_70
+  - first:
+      213: 3573760960053958120
+    second: england2_01_Cats_71
+  - first:
+      213: -3303902919672682580
+    second: england2_01_Cats_72
+  - first:
+      213: -232692867424169868
+    second: england2_01_Cats_73
+  - first:
+      213: -8675962634469718100
+    second: england2_01_Cats_74
+  - first:
+      213: -8143449910962400304
+    second: england2_01_Cats_75
+  - first:
+      213: 8324566263622617919
+    second: england2_01_Cats_76
+  - first:
+      213: 7214537166696897153
+    second: england2_01_Cats_77
+  - first:
+      213: -6821058513674906865
+    second: england2_01_Cats_78
+  - first:
+      213: 7437510582739775453
+    second: england2_01_Cats_79
+  - first:
+      213: 2860511199574510764
+    second: england2_01_Cats_80
+  - first:
+      213: 4423911483857550089
+    second: england2_01_Cats_81
+  - first:
+      213: -94943428957515764
+    second: england2_01_Cats_82
+  - first:
+      213: -5910244858181763821
+    second: england2_01_Cats_83
+  - first:
+      213: 8340895098445273233
+    second: england2_01_Cats_84
+  - first:
+      213: 2714002330887331981
+    second: england2_01_Cats_85
+  - first:
+      213: -4796431166430877970
+    second: england2_01_Cats_86
+  - first:
+      213: -7424905584150844252
+    second: england2_01_Cats_87
+  - first:
+      213: -7152708790275514169
+    second: england2_01_Cats_88
+  - first:
+      213: 3523732806164734560
+    second: england2_01_Cats_89
+  - first:
+      213: 2637264854021839850
+    second: england2_01_Cats_90
+  - first:
+      213: -2582012721091479338
+    second: england2_01_Cats_91
+  - first:
+      213: 2283999126405244275
+    second: england2_01_Cats_92
+  - first:
+      213: -1898723037645441579
+    second: england2_01_Cats_93
+  - first:
+      213: 2428645294581732962
+    second: england2_01_Cats_94
+  - first:
+      213: 3608741120470552255
+    second: england2_01_Cats_95
+  - first:
+      213: -3294161412503692834
+    second: england2_01_Cats_96
+  - first:
+      213: 2932829481149025174
+    second: england2_01_Cats_97
+  - first:
+      213: -9007536141791894259
+    second: england2_01_Cats_98
+  - first:
+      213: -8840498366945650004
+    second: england2_01_Cats_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: england2_01_Cats_0
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 2858
+        width: 113
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a17eed2dc5b90a50800000000000000
+      internalID: 6487916631047434663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_1
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 2936
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957e194a71e14c7d0800000000000000
+      internalID: -2899159173225650343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2820
+        width: 85
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580eb3e1b6e9de8d0800000000000000
+      internalID: -2815420009130762107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2857
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ee026f500781610800000000000000
+      internalID: 1592145639181971021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_4
+      rect:
+        serializedVersion: 2
+        x: 3802
+        y: 2854
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393662eea28e84bd0800000000000000
+      internalID: -2645609509998402669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_5
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 2837
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0fbfc71eae762e0800000000000000
+      internalID: -2132477644351213360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_6
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 2794
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fab0937b5ea7b00800000000000000
+      internalID: 827226056674750327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 2783
+        width: 90
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beef915ee50eb3f0800000000000000
+      internalID: -883261955788247372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_8
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2643
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226537b1769c81e90800000000000000
+      internalID: -7054667371596523998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 2585
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d893e651c6ee30800000000000000
+      internalID: 4532522653924776364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_10
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2613
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49dd360160211b10800000000000000
+      internalID: 1950375714716768586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_11
+      rect:
+        serializedVersion: 2
+        x: 4190
+        y: 2605
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5ab1ec87112a6a0800000000000000
+      internalID: -6439565306634721814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2583
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659475920f767ca10800000000000000
+      internalID: 1929625246534945110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_13
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2565
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2827c0267122020800000000000000
+      internalID: 2315438868304921281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_14
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2523
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b155bb1d27ca022d0800000000000000
+      internalID: -3305452517344979685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2446
+        width: 93
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996d8c2e738631400800000000000000
+      internalID: 293692989946517145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_16
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2457
+        width: 54
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a413401dda3f60800000000000000
+      internalID: 8014961548773860480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_17
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2402
+        width: 53
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7f83cd7607b9660800000000000000
+      internalID: 7393626804637464563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_18
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 2440
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2436a0b45ba3f2180800000000000000
+      internalID: -9138020568588983486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_19
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2394
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4b6ca17a7dd4970800000000000000
+      internalID: 8740879564504741060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_20
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 2363
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56683bef7f45b2730800000000000000
+      internalID: 3975364520191428197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_21
+      rect:
+        serializedVersion: 2
+        x: 3490
+        y: 2381
+        width: 79
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9171bc4fcb75ff0800000000000000
+      internalID: -47361511498769968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2244
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b07d1e2b5e5e5b0800000000000000
+      internalID: -5339609226721948769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_23
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 2290
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12cea8ed13b2820800000000000000
+      internalID: 2894462017398907388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_24
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 2255
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb3d54679b3e890800000000000000
+      internalID: -7429891042602402781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_25
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 2297
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf01f9df94006890800000000000000
+      internalID: -7466963097577517131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_26
+      rect:
+        serializedVersion: 2
+        x: 4073
+        y: 2230
+        width: 85
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7428f2542a24220800000000000000
+      internalID: 2468713963785963437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_27
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 2152
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5783e54b055e16b50800000000000000
+      internalID: 6584796264978593909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_28
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 2104
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dedba07c0d2a3b20800000000000000
+      internalID: 3114851623733288664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_29
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 2195
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0baa47a1c9c81ea0800000000000000
+      internalID: -5901745478096475377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2019
+        width: 84
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37917d4366b2d1f10800000000000000
+      internalID: 2241995907473545587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_31
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2079
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f7e870e1c5dc880800000000000000
+      internalID: -8589107630280114303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_32
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 2089
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438fdb5033bd18c50800000000000000
+      internalID: 6665849935671195700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_33
+      rect:
+        serializedVersion: 2
+        x: 4813
+        y: 2099
+        width: 179
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583b2b88417ccc10800000000000000
+      internalID: 2075158084697405535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_34
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1973
+        width: 61
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881bf3fe33d798cd0800000000000000
+      internalID: -2555373651545312888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_35
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1983
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d26fd6b312fc2390800000000000000
+      internalID: -7841626684672482604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_36
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 2016
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80918eb614705a820800000000000000
+      internalID: 2928755110239017224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1890
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b43ea2bdd0415360800000000000000
+      internalID: 7156572603798140082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_38
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1791
+        width: 89
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0bc9122ff01c5b0800000000000000
+      internalID: -5349977349719019355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_39
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1935
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7539698fe133f030800000000000000
+      internalID: 3527217838033548668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_40
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1928
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2efff4c00650880800000000000000
+      internalID: -8645398303669755227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_41
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1929
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bfb9bcc4df2d820800000000000000
+      internalID: 2941692012901694343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_42
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 1868
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbd53ebfe1be6b50800000000000000
+      internalID: 6588398948136115126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_43
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1832
+        width: 42
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3400a7f6936830800000000000000
+      internalID: 4063257279104039612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_44
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1873
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe6ab0f20627b70800000000000000
+      internalID: 8895277969185369054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_45
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 1846
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a20081a970f71810800000000000000
+      internalID: 1736120586565845673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_46
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1742
+        width: 95
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d29afc0001402b0800000000000000
+      internalID: -5619348839381521006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_47
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1634
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e4b32be90dfe9e0800000000000000
+      internalID: -1589822763424854511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_48
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1664
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a817eea23ebe1ca90800000000000000
+      internalID: -7295290560453119606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1623
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40bc57397c0d2590800000000000000
+      internalID: -7697482473346912181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_50
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 1594
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7819e9abd990f030800000000000000
+      internalID: 3526487676958611578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_51
+      rect:
+        serializedVersion: 2
+        x: 2931
+        y: 1565
+        width: 51
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8372d77f188a96430800000000000000
+      internalID: 3776735038683293496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_52
+      rect:
+        serializedVersion: 2
+        x: 4097
+        y: 1577
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd36b97b202ab7b0800000000000000
+      internalID: -5207814648002888266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_53
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 1578
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948edffd0ef5a510800000000000000
+      internalID: 1559932182034547863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_54
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1433
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77fe44fc7621af10800000000000000
+      internalID: 2279145204542797694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_55
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1347
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cdffa4243cacd30800000000000000
+      internalID: 4452585871102696519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_56
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 1284
+        width: 88
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777e76628d3959ba0800000000000000
+      internalID: -6082793165127424137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1258
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709ee80e2b7cf27d0800000000000000
+      internalID: -2940912460564076281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_58
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 1243
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da40bcba63c2d1cc0800000000000000
+      internalID: -3738783502325578579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_59
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1173
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cff8de703ef9a270800000000000000
+      internalID: 8262414475627921351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_60
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 1188
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3090d23fabbda0150800000000000000
+      internalID: 5839721462829484291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_61
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 1172
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f81a9e8b5c62e60800000000000000
+      internalID: 7937248791271411586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_62
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1077
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e793284c69a875a50800000000000000
+      internalID: 6509824166533937534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_63
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1086
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a01aae505ce28050800000000000000
+      internalID: 5801459099936362659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_64
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 1023
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5772fc43a9007f7d0800000000000000
+      internalID: -2884836373996558475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_65
+      rect:
+        serializedVersion: 2
+        x: 3956
+        y: 1099
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b2422ebf0e83c00800000000000000
+      internalID: 880701099586366273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_66
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1048
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bf9c4c665d18890800000000000000
+      internalID: -7457444870583878874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_67
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 845
+        width: 24
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb77d0d27833a910800000000000000
+      internalID: 1847382337933245417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_68
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 849
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc031348b8fa4d0800000000000000
+      internalID: -3121122616867238573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_69
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 844
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98678ebb6cb8e4820800000000000000
+      internalID: 2904412495372908169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_70
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 872
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3bde500d9442480800000000000000
+      internalID: -8924927403739991096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_71
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 796
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5dc2898ac889130800000000000000
+      internalID: 3573760960053958120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_72
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 719
+        width: 67
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7a884accd2622d0800000000000000
+      internalID: -3303902919672682580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_73
+      rect:
+        serializedVersion: 2
+        x: 4704
+        y: 685
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4705a67e11f45ccf0800000000000000
+      internalID: -232692867424169868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_74
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 623
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7cedf73f9c89780800000000000000
+      internalID: -8675962634469718100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_75
+      rect:
+        serializedVersion: 2
+        x: 3526
+        y: 606
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d356eaa377acfe80800000000000000
+      internalID: -8143449910962400304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_76
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 524
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b4d6c49ecc68370800000000000000
+      internalID: 8324566263622617919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_77
+      rect:
+        serializedVersion: 2
+        x: 3673
+        y: 493
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a52df245f2f1460800000000000000
+      internalID: 7214537166696897153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_78
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 467
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03d04cdb6bb651a0800000000000000
+      internalID: -6821058513674906865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_79
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 486
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfa9692878573760800000000000000
+      internalID: 7437510582739775453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_80
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 462
+        width: 70
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac4aa6c7c392b720800000000000000
+      internalID: 2860511199574510764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_81
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 320
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb9114e04e46d30800000000000000
+      internalID: 4423911483857550089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_82
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 367
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00da335471beaef0800000000000000
+      internalID: -94943428957515764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_83
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 250
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d3f748d979afda0800000000000000
+      internalID: -5910244858181763821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_84
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 321
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19890ab66efc0c370800000000000000
+      internalID: 8340895098445273233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_85
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 297
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d802f149db21aa520800000000000000
+      internalID: 2714002330887331981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_86
+      rect:
+        serializedVersion: 2
+        x: 3269
+        y: 241
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee666474447af6db0800000000000000
+      internalID: -4796431166430877970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_87
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 266
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acefd5c5bf65f890800000000000000
+      internalID: -7424905584150844252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_88
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 242
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c060dd70497cbc90800000000000000
+      internalID: -7152708790275514169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_89
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 258
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062e6d25150d6e030800000000000000
+      internalID: 3523732806164734560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_90
+      rect:
+        serializedVersion: 2
+        x: 4049
+        y: 243
+        width: 72
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb18927962799420800000000000000
+      internalID: 2637264854021839850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_91
+      rect:
+        serializedVersion: 2
+        x: 4699
+        y: 238
+        width: 72
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d87dc93c19da2cd0800000000000000
+      internalID: -2582012721091479338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_92
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 159
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375efa4ba1562bf10800000000000000
+      internalID: 2283999126405244275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_93
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 193
+        width: 65
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5fa46057166a5e0800000000000000
+      internalID: -1898723037645441579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_94
+      rect:
+        serializedVersion: 2
+        x: 4081
+        y: 144
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266d7f4270844b120800000000000000
+      internalID: 2428645294581732962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_95
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 142
+        width: 69
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe0efbdde2d41230800000000000000
+      internalID: 3608741120470552255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_96
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 54
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed91be606a9c842d0800000000000000
+      internalID: -3294161412503692834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 95
+        width: 81
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b4ea2dfd083b820800000000000000
+      internalID: 2932829481149025174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_98
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 87
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05600f5a9dcef280800000000000000
+      internalID: -9007536141791894259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: england2_01_Cats_99
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 63
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa98c0039d305580800000000000000
+      internalID: -8840498366945650004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      england2_01_Cats_0: 6487916631047434663
+      england2_01_Cats_1: -2899159173225650343
+      england2_01_Cats_10: 1950375714716768586
+      england2_01_Cats_11: -6439565306634721814
+      england2_01_Cats_12: 1929625246534945110
+      england2_01_Cats_13: 2315438868304921281
+      england2_01_Cats_14: -3305452517344979685
+      england2_01_Cats_15: 293692989946517145
+      england2_01_Cats_16: 8014961548773860480
+      england2_01_Cats_17: 7393626804637464563
+      england2_01_Cats_18: -9138020568588983486
+      england2_01_Cats_19: 8740879564504741060
+      england2_01_Cats_2: -2815420009130762107
+      england2_01_Cats_20: 3975364520191428197
+      england2_01_Cats_21: -47361511498769968
+      england2_01_Cats_22: -5339609226721948769
+      england2_01_Cats_23: 2894462017398907388
+      england2_01_Cats_24: -7429891042602402781
+      england2_01_Cats_25: -7466963097577517131
+      england2_01_Cats_26: 2468713963785963437
+      england2_01_Cats_27: 6584796264978593909
+      england2_01_Cats_28: 3114851623733288664
+      england2_01_Cats_29: -5901745478096475377
+      england2_01_Cats_3: 1592145639181971021
+      england2_01_Cats_30: 2241995907473545587
+      england2_01_Cats_31: -8589107630280114303
+      england2_01_Cats_32: 6665849935671195700
+      england2_01_Cats_33: 2075158084697405535
+      england2_01_Cats_34: -2555373651545312888
+      england2_01_Cats_35: -7841626684672482604
+      england2_01_Cats_36: 2928755110239017224
+      england2_01_Cats_37: 7156572603798140082
+      england2_01_Cats_38: -5349977349719019355
+      england2_01_Cats_39: 3527217838033548668
+      england2_01_Cats_4: -2645609509998402669
+      england2_01_Cats_40: -8645398303669755227
+      england2_01_Cats_41: 2941692012901694343
+      england2_01_Cats_42: 6588398948136115126
+      england2_01_Cats_43: 4063257279104039612
+      england2_01_Cats_44: 8895277969185369054
+      england2_01_Cats_45: 1736120586565845673
+      england2_01_Cats_46: -5619348839381521006
+      england2_01_Cats_47: -1589822763424854511
+      england2_01_Cats_48: -7295290560453119606
+      england2_01_Cats_49: -7697482473346912181
+      england2_01_Cats_5: -2132477644351213360
+      england2_01_Cats_50: 3526487676958611578
+      england2_01_Cats_51: 3776735038683293496
+      england2_01_Cats_52: -5207814648002888266
+      england2_01_Cats_53: 1559932182034547863
+      england2_01_Cats_54: 2279145204542797694
+      england2_01_Cats_55: 4452585871102696519
+      england2_01_Cats_56: -6082793165127424137
+      england2_01_Cats_57: -2940912460564076281
+      england2_01_Cats_58: -3738783502325578579
+      england2_01_Cats_59: 8262414475627921351
+      england2_01_Cats_6: 827226056674750327
+      england2_01_Cats_60: 5839721462829484291
+      england2_01_Cats_61: 7937248791271411586
+      england2_01_Cats_62: 6509824166533937534
+      england2_01_Cats_63: 5801459099936362659
+      england2_01_Cats_64: -2884836373996558475
+      england2_01_Cats_65: 880701099586366273
+      england2_01_Cats_66: -7457444870583878874
+      england2_01_Cats_67: 1847382337933245417
+      england2_01_Cats_68: -3121122616867238573
+      england2_01_Cats_69: 2904412495372908169
+      england2_01_Cats_7: -883261955788247372
+      england2_01_Cats_70: -8924927403739991096
+      england2_01_Cats_71: 3573760960053958120
+      england2_01_Cats_72: -3303902919672682580
+      england2_01_Cats_73: -232692867424169868
+      england2_01_Cats_74: -8675962634469718100
+      england2_01_Cats_75: -8143449910962400304
+      england2_01_Cats_76: 8324566263622617919
+      england2_01_Cats_77: 7214537166696897153
+      england2_01_Cats_78: -6821058513674906865
+      england2_01_Cats_79: 7437510582739775453
+      england2_01_Cats_8: -7054667371596523998
+      england2_01_Cats_80: 2860511199574510764
+      england2_01_Cats_81: 4423911483857550089
+      england2_01_Cats_82: -94943428957515764
+      england2_01_Cats_83: -5910244858181763821
+      england2_01_Cats_84: 8340895098445273233
+      england2_01_Cats_85: 2714002330887331981
+      england2_01_Cats_86: -4796431166430877970
+      england2_01_Cats_87: -7424905584150844252
+      england2_01_Cats_88: -7152708790275514169
+      england2_01_Cats_89: 3523732806164734560
+      england2_01_Cats_9: 4532522653924776364
+      england2_01_Cats_90: 2637264854021839850
+      england2_01_Cats_91: -2582012721091479338
+      england2_01_Cats_92: 2283999126405244275
+      england2_01_Cats_93: -1898723037645441579
+      england2_01_Cats_94: 2428645294581732962
+      england2_01_Cats_95: 3608741120470552255
+      england2_01_Cats_96: -3294161412503692834
+      england2_01_Cats_97: 2932829481149025174
+      england2_01_Cats_98: -9007536141791894259
+      england2_01_Cats_99: -8840498366945650004
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

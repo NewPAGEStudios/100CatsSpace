@@ -1,0 +1,3679 @@
+fileFormatVersion: 2
+guid: fffcc257e3c5969418a160d31068efab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6627712359897048017
+    second: Davinci_01_Process_0
+  - first:
+      213: 7632517881923124380
+    second: Davinci_01_Process_1
+  - first:
+      213: 8909340038187160233
+    second: Davinci_01_Process_2
+  - first:
+      213: 2084644697616808823
+    second: Davinci_01_Process_3
+  - first:
+      213: -1547714285803194297
+    second: Davinci_01_Process_4
+  - first:
+      213: 6095191248077585889
+    second: Davinci_01_Process_5
+  - first:
+      213: -2140876268523995208
+    second: Davinci_01_Process_6
+  - first:
+      213: -2592081608334032375
+    second: Davinci_01_Process_7
+  - first:
+      213: -8473437637517104834
+    second: Davinci_01_Process_8
+  - first:
+      213: -5078136044388791058
+    second: Davinci_01_Process_9
+  - first:
+      213: -812178392839158309
+    second: Davinci_01_Process_10
+  - first:
+      213: 7682925076840855230
+    second: Davinci_01_Process_11
+  - first:
+      213: 7988672260710742681
+    second: Davinci_01_Process_12
+  - first:
+      213: 4757310146866129030
+    second: Davinci_01_Process_13
+  - first:
+      213: -7151255842427124277
+    second: Davinci_01_Process_14
+  - first:
+      213: 7075207589426066285
+    second: Davinci_01_Process_15
+  - first:
+      213: -2258637368772407708
+    second: Davinci_01_Process_16
+  - first:
+      213: -3913771894310215131
+    second: Davinci_01_Process_17
+  - first:
+      213: 1730190422675607728
+    second: Davinci_01_Process_18
+  - first:
+      213: 8333315188939050694
+    second: Davinci_01_Process_19
+  - first:
+      213: 7956154968598443042
+    second: Davinci_01_Process_20
+  - first:
+      213: -7085229369197171906
+    second: Davinci_01_Process_21
+  - first:
+      213: 2037078617873136961
+    second: Davinci_01_Process_22
+  - first:
+      213: 1432544004601370483
+    second: Davinci_01_Process_23
+  - first:
+      213: 8105269242835744859
+    second: Davinci_01_Process_24
+  - first:
+      213: -7978588331123272632
+    second: Davinci_01_Process_25
+  - first:
+      213: 5369414450304300646
+    second: Davinci_01_Process_26
+  - first:
+      213: 3784587418067259945
+    second: Davinci_01_Process_27
+  - first:
+      213: 5199412092163959754
+    second: Davinci_01_Process_28
+  - first:
+      213: 1739950138208100332
+    second: Davinci_01_Process_29
+  - first:
+      213: 8400515234424420966
+    second: Davinci_01_Process_30
+  - first:
+      213: 1526133322829230577
+    second: Davinci_01_Process_31
+  - first:
+      213: 5241130092099176591
+    second: Davinci_01_Process_32
+  - first:
+      213: 30037143965226545
+    second: Davinci_01_Process_33
+  - first:
+      213: 5130298708833669622
+    second: Davinci_01_Process_34
+  - first:
+      213: 2124170118641114830
+    second: Davinci_01_Process_35
+  - first:
+      213: -5022966573340967963
+    second: Davinci_01_Process_36
+  - first:
+      213: 7787994187489270871
+    second: Davinci_01_Process_37
+  - first:
+      213: -1030927778005184224
+    second: Davinci_01_Process_38
+  - first:
+      213: -295294836169977445
+    second: Davinci_01_Process_39
+  - first:
+      213: -5102236242141584131
+    second: Davinci_01_Process_40
+  - first:
+      213: 1208714803352969711
+    second: Davinci_01_Process_41
+  - first:
+      213: 6886211970104364870
+    second: Davinci_01_Process_42
+  - first:
+      213: 5819377868924651581
+    second: Davinci_01_Process_43
+  - first:
+      213: -5515222083072386230
+    second: Davinci_01_Process_44
+  - first:
+      213: -5502641518473540926
+    second: Davinci_01_Process_45
+  - first:
+      213: 5058864616616857166
+    second: Davinci_01_Process_46
+  - first:
+      213: -996202464517940736
+    second: Davinci_01_Process_47
+  - first:
+      213: -5878450878757532411
+    second: Davinci_01_Process_48
+  - first:
+      213: -3351788021706692375
+    second: Davinci_01_Process_49
+  - first:
+      213: -9129926426694405911
+    second: Davinci_01_Process_50
+  - first:
+      213: -3573182020059992260
+    second: Davinci_01_Process_51
+  - first:
+      213: 973306433507724532
+    second: Davinci_01_Process_52
+  - first:
+      213: -6711130290211635360
+    second: Davinci_01_Process_53
+  - first:
+      213: 7609614885542322262
+    second: Davinci_01_Process_54
+  - first:
+      213: -1340516623548964251
+    second: Davinci_01_Process_55
+  - first:
+      213: -1996957221858016767
+    second: Davinci_01_Process_56
+  - first:
+      213: -5213383627628461845
+    second: Davinci_01_Process_57
+  - first:
+      213: -3292869679554329379
+    second: Davinci_01_Process_58
+  - first:
+      213: -5848424296332058128
+    second: Davinci_01_Process_59
+  - first:
+      213: -5038446488102452745
+    second: Davinci_01_Process_60
+  - first:
+      213: -359993249466638403
+    second: Davinci_01_Process_61
+  - first:
+      213: -2268645207433540294
+    second: Davinci_01_Process_62
+  - first:
+      213: 664738296108910295
+    second: Davinci_01_Process_63
+  - first:
+      213: 2088092057769281666
+    second: Davinci_01_Process_64
+  - first:
+      213: -5933652402758749606
+    second: Davinci_01_Process_65
+  - first:
+      213: 4154139132769910763
+    second: Davinci_01_Process_66
+  - first:
+      213: -4412083775656793926
+    second: Davinci_01_Process_67
+  - first:
+      213: -2816229607359916824
+    second: Davinci_01_Process_68
+  - first:
+      213: -8332687168976204704
+    second: Davinci_01_Process_69
+  - first:
+      213: -2819727785187906271
+    second: Davinci_01_Process_70
+  - first:
+      213: -2037957584207095456
+    second: Davinci_01_Process_71
+  - first:
+      213: 7586660897273470693
+    second: Davinci_01_Process_72
+  - first:
+      213: 845955747479485414
+    second: Davinci_01_Process_73
+  - first:
+      213: -5422326909384345556
+    second: Davinci_01_Process_74
+  - first:
+      213: 4583428316967869224
+    second: Davinci_01_Process_75
+  - first:
+      213: 7094907842255670258
+    second: Davinci_01_Process_76
+  - first:
+      213: 3931546622935199527
+    second: Davinci_01_Process_77
+  - first:
+      213: -1710018406513246976
+    second: Davinci_01_Process_78
+  - first:
+      213: -2798264941542069370
+    second: Davinci_01_Process_79
+  - first:
+      213: 4394557143294679156
+    second: Davinci_01_Process_80
+  - first:
+      213: -3328274198592000570
+    second: Davinci_01_Process_81
+  - first:
+      213: -8231121032724741469
+    second: Davinci_01_Process_82
+  - first:
+      213: 1680976816360904839
+    second: Davinci_01_Process_83
+  - first:
+      213: 8565341691540165648
+    second: Davinci_01_Process_84
+  - first:
+      213: 2780566027195518829
+    second: Davinci_01_Process_85
+  - first:
+      213: -1675016051332582610
+    second: Davinci_01_Process_86
+  - first:
+      213: 8724524383543683966
+    second: Davinci_01_Process_87
+  - first:
+      213: 8976133022134723818
+    second: Davinci_01_Process_88
+  - first:
+      213: 2960015116859941572
+    second: Davinci_01_Process_89
+  - first:
+      213: 1053873534202492752
+    second: Davinci_01_Process_90
+  - first:
+      213: -1818273383361340702
+    second: Davinci_01_Process_91
+  - first:
+      213: -5288195342558831242
+    second: Davinci_01_Process_92
+  - first:
+      213: 6916165693099529612
+    second: Davinci_01_Process_93
+  - first:
+      213: 5275934054667282161
+    second: Davinci_01_Process_94
+  - first:
+      213: -5344284456139760255
+    second: Davinci_01_Process_95
+  - first:
+      213: -850945441647956926
+    second: Davinci_01_Process_96
+  - first:
+      213: -6146733722476211530
+    second: Davinci_01_Process_97
+  - first:
+      213: 4682225631710658249
+    second: Davinci_01_Process_98
+  - first:
+      213: -5657345918407720267
+    second: Davinci_01_Process_99
+  - first:
+      213: -9186480566982299947
+    second: Davinci_01_Process_100
+  - first:
+      213: -6936364259898427480
+    second: Davinci_01_Process_101
+  - first:
+      213: -3070497715209263225
+    second: Davinci_01_Process_102
+  - first:
+      213: 1127097136156171739
+    second: Davinci_01_Process_103
+  - first:
+      213: 271271967884237587
+    second: Davinci_01_Process_104
+  - first:
+      213: -3110808311811907662
+    second: Davinci_01_Process_105
+  - first:
+      213: 7712898964594107497
+    second: Davinci_01_Process_106
+  - first:
+      213: -6002972227421514446
+    second: Davinci_01_Process_107
+  - first:
+      213: 5763536896678007434
+    second: Davinci_01_Process_108
+  - first:
+      213: -9133298405108720593
+    second: Davinci_01_Process_109
+  - first:
+      213: 6562537921194311396
+    second: Davinci_01_Process_110
+  - first:
+      213: -6752354409526518133
+    second: Davinci_01_Process_111
+  - first:
+      213: 4532620162659424820
+    second: Davinci_01_Process_112
+  - first:
+      213: -2444802491253400308
+    second: Davinci_01_Process_113
+  - first:
+      213: 561335338655240698
+    second: Davinci_01_Process_114
+  - first:
+      213: -7193500056482428742
+    second: Davinci_01_Process_115
+  - first:
+      213: 1819329828431973104
+    second: Davinci_01_Process_116
+  - first:
+      213: -4716047000391584367
+    second: Davinci_01_Process_117
+  - first:
+      213: -8312940607201326135
+    second: Davinci_01_Process_118
+  - first:
+      213: 564282216621402017
+    second: Davinci_01_Process_119
+  - first:
+      213: -6504703878066654541
+    second: Davinci_01_Process_120
+  - first:
+      213: -6803273579826003099
+    second: Davinci_01_Process_121
+  - first:
+      213: -742144102050412965
+    second: Davinci_01_Process_122
+  - first:
+      213: 743742406160842683
+    second: Davinci_01_Process_123
+  - first:
+      213: -4224533993476295449
+    second: Davinci_01_Process_124
+  - first:
+      213: -6688456798357091865
+    second: Davinci_01_Process_125
+  - first:
+      213: -436743685354151833
+    second: Davinci_01_Process_126
+  - first:
+      213: 104731406827611936
+    second: Davinci_01_Process_127
+  - first:
+      213: -2456898739110077425
+    second: Davinci_01_Process_128
+  - first:
+      213: 5915328059343669888
+    second: Davinci_01_Process_129
+  - first:
+      213: -556258863081162146
+    second: Davinci_01_Process_130
+  - first:
+      213: 8111138267217419647
+    second: Davinci_01_Process_131
+  - first:
+      213: 413968268122255837
+    second: Davinci_01_Process_132
+  - first:
+      213: 5337166262319616306
+    second: Davinci_01_Process_133
+  - first:
+      213: 1968054619234847422
+    second: Davinci_01_Process_134
+  - first:
+      213: 5875734138079288757
+    second: Davinci_01_Process_135
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Davinci_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1585
+        width: 3589
+        height: 1415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cdeda49b2a504a0800000000000000
+      internalID: -6627712359897048017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 2847
+        width: 477
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c38d523962ce960800000000000000
+      internalID: 7632517881923124380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 3466
+        y: 2880
+        width: 349
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a29f4f9f8554ab70800000000000000
+      internalID: 8909340038187160233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 1592
+        width: 1309
+        height: 1408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77bf95cbe452eec10800000000000000
+      internalID: 2084644697616808823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 2155
+        width: 1008
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74837e4ae0a658ae0800000000000000
+      internalID: -1547714285803194297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 3291
+        y: 2822
+        width: 476
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edfbbb7528769450800000000000000
+      internalID: 6095191248077585889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1256
+        width: 1608
+        height: 904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf309a60641a42e0800000000000000
+      internalID: -2140876268523995208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 2032
+        width: 1492
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9024d6ab283170cd0800000000000000
+      internalID: -2592081608334032375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 610
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e392e55ec5d486a80800000000000000
+      internalID: -8473437637517104834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1534
+        width: 127
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec49193c26d689b0800000000000000
+      internalID: -5078136044388791058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1325
+        width: 710
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd503980e009ab4f0800000000000000
+      internalID: -812178392839158309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1087
+        width: 352
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63a09c6ab3f9a60800000000000000
+      internalID: 7682925076840855230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1199
+        width: 235
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3ea668177dde60800000000000000
+      internalID: 7988672260710742681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 888
+        width: 1039
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688215e8f5c550240800000000000000
+      internalID: 4757310146866129030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1007
+        width: 624
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5c13643b2a1cc90800000000000000
+      internalID: -7151255842427124277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1525
+        width: 301
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6373e701df203260800000000000000
+      internalID: 7075207589426066285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 1015
+        width: 1059
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ec5e5a745b7a0e0800000000000000
+      internalID: -2258637368772407708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 997
+        width: 171
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5226bbbb23d7fa9c0800000000000000
+      internalID: -3913771894310215131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 1170
+        width: 72
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0dc51c50fd20810800000000000000
+      internalID: 1730190422675607728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 1113
+        width: 523
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce44163302e5a370800000000000000
+      internalID: 8333315188939050694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 3896
+        y: 1162
+        width: 310
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f4495ac0f96e60800000000000000
+      internalID: 7956154968598443042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 1347
+        width: 193
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b66d88d653cad90800000000000000
+      internalID: -7085229369197171906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1126
+        width: 306
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3fd5c538254c10800000000000000
+      internalID: 2037078617873136961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1232
+        width: 217
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3775167ae2b61e310800000000000000
+      internalID: 1432544004601370483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1261
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58bf1cce63bb7070800000000000000
+      internalID: 8105269242835744859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 784
+        width: 253
+        height: 590
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844125a6f2c564190800000000000000
+      internalID: -7978588331123272632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 769
+        width: 373
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666bc328efdf38a40800000000000000
+      internalID: 5369414450304300646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 1136
+        width: 587
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922df43843e858430800000000000000
+      internalID: 3784587418067259945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 4635
+        y: 1133
+        width: 318
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbad4a00c5082840800000000000000
+      internalID: 5199412092163959754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 1310
+        width: 190
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef19ca9e6b852810800000000000000
+      internalID: 1739950138208100332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 880
+        width: 142
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66aff1e0910a49470800000000000000
+      internalID: 8400515234424420966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 811
+        width: 453
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f17f1bdb2aed2510800000000000000
+      internalID: 1526133322829230577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 686
+        width: 705
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f888e21dc0c3cb840800000000000000
+      internalID: 5241130092099176591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1021
+        width: 289
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1365d109f96ba6000800000000000000
+      internalID: 30037143965226545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1133
+        width: 233
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f11da38e7b723740800000000000000
+      internalID: 5130298708833669622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 886
+        width: 471
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece5a14f7719a7d10800000000000000
+      internalID: 2124170118641114830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 995
+        width: 199
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebb95da386da4ab0800000000000000
+      internalID: -5022966573340967963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 976
+        width: 434
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cda127373841c60800000000000000
+      internalID: 7787994187489270871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 1052
+        width: 159
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0211be2e5a861b1f0800000000000000
+      internalID: -1030927778005184224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 1056
+        width: 247
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d41a39e6e6ebf0800000000000000
+      internalID: -295294836169977445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 1007
+        width: 1177
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e60bab273139b0800000000000000
+      internalID: -5102236242141584131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 1106
+        width: 88
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe12c98a5b736c010800000000000000
+      internalID: 1208714803352969711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 4602
+        y: 908
+        width: 347
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f0d165d4db09f50800000000000000
+      internalID: 6886211970104364870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 216
+        height: 587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d380603e65592c050800000000000000
+      internalID: 5819377868924651581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 724
+        width: 341
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b94118cbef573b0800000000000000
+      internalID: -5515222083072386230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 400
+        width: 926
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca811571b0b2a3b0800000000000000
+      internalID: -5502641518473540926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 648
+        width: 241
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e8d38d092b43640800000000000000
+      internalID: 5058864616616857166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 627
+        width: 63
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a1a0af227cc22f0800000000000000
+      internalID: -996202464517940736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 33
+        width: 560
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0316321c8b6ea0800000000000000
+      internalID: -5878450878757532411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 691
+        width: 140
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e863c38d8e0c71d0800000000000000
+      internalID: -3351788021706692375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 952
+        width: 167
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0bd6f894cfb4180800000000000000
+      internalID: -9129926426694405911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 644
+        width: 244
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fe28062e1896ec0800000000000000
+      internalID: -3573182020059992260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 936
+        width: 471
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc84d26b01e18d00800000000000000
+      internalID: 973306433507724532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 679
+        width: 474
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f3292ee864dd2a0800000000000000
+      internalID: -6711130290211635360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 877
+        width: 287
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6506642cb68ca9960800000000000000
+      internalID: 7609614885542322262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 3257
+        y: 670
+        width: 649
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562abd5bb37856de0800000000000000
+      internalID: -1340516623548964251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 747
+        width: 491
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102808facf16944e0800000000000000
+      internalID: -1996957221858016767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 964
+        width: 476
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be04e5d563756a7b0800000000000000
+      internalID: -5213383627628461845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 932
+        width: 472
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4828a09706d42d0800000000000000
+      internalID: -3292869679554329379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 323
+        width: 549
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f12d59b61936dea0800000000000000
+      internalID: -5848424296332058128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 678
+        width: 434
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1c6d82d97d31ab0800000000000000
+      internalID: -5038446488102452745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 627
+        width: 202
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf90040c0c010bf0800000000000000
+      internalID: -359993249466638403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 386
+        width: 135
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d088124372480e0800000000000000
+      internalID: -2268645207433540294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 839
+        width: 450
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d68b2855ff993900800000000000000
+      internalID: 664738296108910295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 813
+        width: 423
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28807a1d9a46afc10800000000000000
+      internalID: 2088092057769281666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 729
+        width: 230
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52fbe8d39e67ada0800000000000000
+      internalID: -5933652402758749606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 570
+        width: 372
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befbc4c188776a930800000000000000
+      internalID: 4154139132769910763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 369
+        width: 308
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab866b8ae2125c2c0800000000000000
+      internalID: -4412083775656793926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 645
+        width: 164
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4df57d71ebae8d0800000000000000
+      internalID: -2816229607359916824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 456
+        width: 381
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc7b41b295c5c80800000000000000
+      internalID: -8332687168976204704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 540
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d6398d4805ed8d0800000000000000
+      internalID: -2819727785187906271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 428
+        width: 175
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069d50eef58b7b3e0800000000000000
+      internalID: -2037957584207095456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 613
+        width: 154
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eed455e3eb394960800000000000000
+      internalID: 7586660897273470693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 610
+        width: 106
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ebf63035407dbb00800000000000000
+      internalID: 845955747479485414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 601
+        width: 103
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28ba16976600c4b0800000000000000
+      internalID: -5422326909384345556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 543
+        width: 423
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b165e25cb9b9f30800000000000000
+      internalID: 4583428316967869224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 2556
+        y: 675
+        width: 412
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb48c3971d267260800000000000000
+      internalID: 7094907842255670258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 613
+        width: 281
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f60f5c2d8af8630800000000000000
+      internalID: 3931546622935199527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 624
+        width: 775
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00df560c15bc448e0800000000000000
+      internalID: -1710018406513246976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 650
+        width: 710
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba4fb8cd09a29d0800000000000000
+      internalID: -2798264941542069370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 667
+        width: 216
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4781c3f307a9cfc30800000000000000
+      internalID: 4394557143294679156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 3582
+        y: 655
+        width: 90
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd63d510489fc1d0800000000000000
+      internalID: -3328274198592000570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 654
+        width: 145
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a20235f70f25cd80800000000000000
+      internalID: -8231121032724741469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 598
+        width: 263
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788dbde1287045710800000000000000
+      internalID: 1680976816360904839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 649
+        width: 106
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014581823e43ed670800000000000000
+      internalID: 8565341691540165648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 618
+        width: 27
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0285d11e869620800000000000000
+      internalID: 2780566027195518829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 616
+        width: 166
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237e33a6c521c8e0800000000000000
+      internalID: -1675016051332582610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 187
+        width: 439
+        height: 536
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bea5bc3bcb31970800000000000000
+      internalID: 8724524383543683966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 4611
+        y: 644
+        width: 44
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae46ef01d61a19c70800000000000000
+      internalID: 8976133022134723818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 559
+        width: 38
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22932e016141920800000000000000
+      internalID: 2960015116859941572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_90
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 373
+        width: 323
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057335c456c10ae00800000000000000
+      internalID: 1053873534202492752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_91
+      rect:
+        serializedVersion: 2
+        x: 2740
+        y: 99
+        width: 1262
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea1330ddf134c6e0800000000000000
+      internalID: -1818273383361340702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_92
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 606
+        width: 665
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dd7ef9a5e8c96b0800000000000000
+      internalID: -5288195342558831242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_93
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 598
+        width: 408
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85d0f0fd082bff50800000000000000
+      internalID: 6916165693099529612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_94
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 635
+        width: 230
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f664d2d112e73940800000000000000
+      internalID: 5275934054667282161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 451
+        width: 179
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd5253a9945d5b0800000000000000
+      internalID: -5344284456139760255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_96
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 486
+        width: 62
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ce55b11a5d034f0800000000000000
+      internalID: -850945441647956926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_97
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 332
+        width: 232
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b214e60f3a62baa0800000000000000
+      internalID: -6146733722476211530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_98
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 123
+        width: 320
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ceb750976b9af040800000000000000
+      internalID: 4682225631710658249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_99
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 455
+        width: 55
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b24dc17cd11d71b0800000000000000
+      internalID: -5657345918407720267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_100
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 264
+        width: 322
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deadfca890138080800000000000000
+      internalID: -9186480566982299947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_101
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 445
+        width: 241
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7f900c4751dbf90800000000000000
+      internalID: -6936364259898427480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_102
+      rect:
+        serializedVersion: 2
+        x: 4207
+        y: 463
+        width: 332
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787ad41a8966365d0800000000000000
+      internalID: -3070497715209263225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_103
+      rect:
+        serializedVersion: 2
+        x: 4209
+        y: 553
+        width: 316
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddd2fbafd044af00800000000000000
+      internalID: 1127097136156171739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_104
+      rect:
+        serializedVersion: 2
+        x: 4777
+        y: 408
+        width: 223
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bd243ea60c3c300800000000000000
+      internalID: 271271967884237587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_105
+      rect:
+        serializedVersion: 2
+        x: 4828
+        y: 529
+        width: 161
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5e1a725034d4d0800000000000000
+      internalID: -3110808311811907662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_106
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 190
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9642c1d5eb8b90b60800000000000000
+      internalID: 7712898964594107497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_107
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 347
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2355104709821bca0800000000000000
+      internalID: -6002972227421514446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_108
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 0
+        width: 2252
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82995065423cff40800000000000000
+      internalID: 5763536896678007434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_109
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 370
+        width: 183
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c5ad7ad71004180800000000000000
+      internalID: -9133298405108720593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_110
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 83
+        width: 229
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee31d13871d21b50800000000000000
+      internalID: 6562537921194311396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_111
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 355
+        width: 117
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e11a6a071da42a0800000000000000
+      internalID: -6752354409526518133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_112
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 408
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a9619e50a17ee30800000000000000
+      internalID: 4532620162659424820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_113
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 201
+        width: 170
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd9da5611521ed0800000000000000
+      internalID: -2444802491253400308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_114
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 323
+        width: 378
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af15b6434834ac700800000000000000
+      internalID: 561335338655240698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_115
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 389
+        width: 202
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8cc99bfcd8b2c90800000000000000
+      internalID: -7193500056482428742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_116
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 166
+        width: 213
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac5f8f6de8f3910800000000000000
+      internalID: 1819329828431973104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_117
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 170
+        width: 374
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195fc956d3c3d8eb0800000000000000
+      internalID: -4716047000391584367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_118
+      rect:
+        serializedVersion: 2
+        x: 4157
+        y: 165
+        width: 502
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb48d4cf8082ac80800000000000000
+      internalID: -8312940607201326135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_119
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 329
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7e9c2bfabb4d700800000000000000
+      internalID: 564282216621402017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 259
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b23bba4946aab5a0800000000000000
+      internalID: -6504703878066654541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_121
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 116
+        width: 259
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563cba479bae591a0800000000000000
+      internalID: -6803273579826003099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_122
+      rect:
+        serializedVersion: 2
+        x: 2284
+        y: 0
+        width: 1365
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5642290fdf53b5f0800000000000000
+      internalID: -742144102050412965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_123
+      rect:
+        serializedVersion: 2
+        x: 3984
+        y: 0
+        width: 216
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7c9327cd425a00800000000000000
+      internalID: 743742406160842683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_124
+      rect:
+        serializedVersion: 2
+        x: 4342
+        y: 66
+        width: 74
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4784927b07f55c0800000000000000
+      internalID: -4224533993476295449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_125
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 164
+        width: 258
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e901669af3dd23a0800000000000000
+      internalID: -6688456798357091865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_126
+      rect:
+        serializedVersion: 2
+        x: 4639
+        y: 158
+        width: 227
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7602290aeef50f9f0800000000000000
+      internalID: -436743685354151833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_127
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 0
+        width: 153
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02769ccd8a4147100800000000000000
+      internalID: 104731406827611936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_128
+      rect:
+        serializedVersion: 2
+        x: 4915
+        y: 264
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c1d3e2d9757edd0800000000000000
+      internalID: -2456898739110077425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_129
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 31
+        width: 627
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a841b7787771250800000000000000
+      internalID: 5915328059343669888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_130
+      rect:
+        serializedVersion: 2
+        x: 3392
+        y: 0
+        width: 593
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a72eed285c748f0800000000000000
+      internalID: -556258863081162146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_131
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 113
+        width: 195
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5295874d809070800000000000000
+      internalID: 8111138267217419647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_132
+      rect:
+        serializedVersion: 2
+        x: 4182
+        y: 57
+        width: 185
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f5b152f5beb500800000000000000
+      internalID: 413968268122255837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_133
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 0
+        width: 455
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23192c4207c611a40800000000000000
+      internalID: 5337166262319616306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_134
+      rect:
+        serializedVersion: 2
+        x: 4392
+        y: 114
+        width: 250
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4f0ebf3fef4b10800000000000000
+      internalID: 1968054619234847422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Davinci_01_Process_135
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 0
+        width: 236
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd1ade411dca8150800000000000000
+      internalID: 5875734138079288757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Davinci_01_Process_0: -6627712359897048017
+      Davinci_01_Process_1: 7632517881923124380
+      Davinci_01_Process_10: -812178392839158309
+      Davinci_01_Process_100: -9186480566982299947
+      Davinci_01_Process_101: -6936364259898427480
+      Davinci_01_Process_102: -3070497715209263225
+      Davinci_01_Process_103: 1127097136156171739
+      Davinci_01_Process_104: 271271967884237587
+      Davinci_01_Process_105: -3110808311811907662
+      Davinci_01_Process_106: 7712898964594107497
+      Davinci_01_Process_107: -6002972227421514446
+      Davinci_01_Process_108: 5763536896678007434
+      Davinci_01_Process_109: -9133298405108720593
+      Davinci_01_Process_11: 7682925076840855230
+      Davinci_01_Process_110: 6562537921194311396
+      Davinci_01_Process_111: -6752354409526518133
+      Davinci_01_Process_112: 4532620162659424820
+      Davinci_01_Process_113: -2444802491253400308
+      Davinci_01_Process_114: 561335338655240698
+      Davinci_01_Process_115: -7193500056482428742
+      Davinci_01_Process_116: 1819329828431973104
+      Davinci_01_Process_117: -4716047000391584367
+      Davinci_01_Process_118: -8312940607201326135
+      Davinci_01_Process_119: 564282216621402017
+      Davinci_01_Process_12: 7988672260710742681
+      Davinci_01_Process_120: -6504703878066654541
+      Davinci_01_Process_121: -6803273579826003099
+      Davinci_01_Process_122: -742144102050412965
+      Davinci_01_Process_123: 743742406160842683
+      Davinci_01_Process_124: -4224533993476295449
+      Davinci_01_Process_125: -6688456798357091865
+      Davinci_01_Process_126: -436743685354151833
+      Davinci_01_Process_127: 104731406827611936
+      Davinci_01_Process_128: -2456898739110077425
+      Davinci_01_Process_129: 5915328059343669888
+      Davinci_01_Process_13: 4757310146866129030
+      Davinci_01_Process_130: -556258863081162146
+      Davinci_01_Process_131: 8111138267217419647
+      Davinci_01_Process_132: 413968268122255837
+      Davinci_01_Process_133: 5337166262319616306
+      Davinci_01_Process_134: 1968054619234847422
+      Davinci_01_Process_135: 5875734138079288757
+      Davinci_01_Process_14: -7151255842427124277
+      Davinci_01_Process_15: 7075207589426066285
+      Davinci_01_Process_16: -2258637368772407708
+      Davinci_01_Process_17: -3913771894310215131
+      Davinci_01_Process_18: 1730190422675607728
+      Davinci_01_Process_19: 8333315188939050694
+      Davinci_01_Process_2: 8909340038187160233
+      Davinci_01_Process_20: 7956154968598443042
+      Davinci_01_Process_21: -7085229369197171906
+      Davinci_01_Process_22: 2037078617873136961
+      Davinci_01_Process_23: 1432544004601370483
+      Davinci_01_Process_24: 8105269242835744859
+      Davinci_01_Process_25: -7978588331123272632
+      Davinci_01_Process_26: 5369414450304300646
+      Davinci_01_Process_27: 3784587418067259945
+      Davinci_01_Process_28: 5199412092163959754
+      Davinci_01_Process_29: 1739950138208100332
+      Davinci_01_Process_3: 2084644697616808823
+      Davinci_01_Process_30: 8400515234424420966
+      Davinci_01_Process_31: 1526133322829230577
+      Davinci_01_Process_32: 5241130092099176591
+      Davinci_01_Process_33: 30037143965226545
+      Davinci_01_Process_34: 5130298708833669622
+      Davinci_01_Process_35: 2124170118641114830
+      Davinci_01_Process_36: -5022966573340967963
+      Davinci_01_Process_37: 7787994187489270871
+      Davinci_01_Process_38: -1030927778005184224
+      Davinci_01_Process_39: -295294836169977445
+      Davinci_01_Process_4: -1547714285803194297
+      Davinci_01_Process_40: -5102236242141584131
+      Davinci_01_Process_41: 1208714803352969711
+      Davinci_01_Process_42: 6886211970104364870
+      Davinci_01_Process_43: 5819377868924651581
+      Davinci_01_Process_44: -5515222083072386230
+      Davinci_01_Process_45: -5502641518473540926
+      Davinci_01_Process_46: 5058864616616857166
+      Davinci_01_Process_47: -996202464517940736
+      Davinci_01_Process_48: -5878450878757532411
+      Davinci_01_Process_49: -3351788021706692375
+      Davinci_01_Process_5: 6095191248077585889
+      Davinci_01_Process_50: -9129926426694405911
+      Davinci_01_Process_51: -3573182020059992260
+      Davinci_01_Process_52: 973306433507724532
+      Davinci_01_Process_53: -6711130290211635360
+      Davinci_01_Process_54: 7609614885542322262
+      Davinci_01_Process_55: -1340516623548964251
+      Davinci_01_Process_56: -1996957221858016767
+      Davinci_01_Process_57: -5213383627628461845
+      Davinci_01_Process_58: -3292869679554329379
+      Davinci_01_Process_59: -5848424296332058128
+      Davinci_01_Process_6: -2140876268523995208
+      Davinci_01_Process_60: -5038446488102452745
+      Davinci_01_Process_61: -359993249466638403
+      Davinci_01_Process_62: -2268645207433540294
+      Davinci_01_Process_63: 664738296108910295
+      Davinci_01_Process_64: 2088092057769281666
+      Davinci_01_Process_65: -5933652402758749606
+      Davinci_01_Process_66: 4154139132769910763
+      Davinci_01_Process_67: -4412083775656793926
+      Davinci_01_Process_68: -2816229607359916824
+      Davinci_01_Process_69: -8332687168976204704
+      Davinci_01_Process_7: -2592081608334032375
+      Davinci_01_Process_70: -2819727785187906271
+      Davinci_01_Process_71: -2037957584207095456
+      Davinci_01_Process_72: 7586660897273470693
+      Davinci_01_Process_73: 845955747479485414
+      Davinci_01_Process_74: -5422326909384345556
+      Davinci_01_Process_75: 4583428316967869224
+      Davinci_01_Process_76: 7094907842255670258
+      Davinci_01_Process_77: 3931546622935199527
+      Davinci_01_Process_78: -1710018406513246976
+      Davinci_01_Process_79: -2798264941542069370
+      Davinci_01_Process_8: -8473437637517104834
+      Davinci_01_Process_80: 4394557143294679156
+      Davinci_01_Process_81: -3328274198592000570
+      Davinci_01_Process_82: -8231121032724741469
+      Davinci_01_Process_83: 1680976816360904839
+      Davinci_01_Process_84: 8565341691540165648
+      Davinci_01_Process_85: 2780566027195518829
+      Davinci_01_Process_86: -1675016051332582610
+      Davinci_01_Process_87: 8724524383543683966
+      Davinci_01_Process_88: 8976133022134723818
+      Davinci_01_Process_89: 2960015116859941572
+      Davinci_01_Process_9: -5078136044388791058
+      Davinci_01_Process_90: 1053873534202492752
+      Davinci_01_Process_91: -1818273383361340702
+      Davinci_01_Process_92: -5288195342558831242
+      Davinci_01_Process_93: 6916165693099529612
+      Davinci_01_Process_94: 5275934054667282161
+      Davinci_01_Process_95: -5344284456139760255
+      Davinci_01_Process_96: -850945441647956926
+      Davinci_01_Process_97: -6146733722476211530
+      Davinci_01_Process_98: 4682225631710658249
+      Davinci_01_Process_99: -5657345918407720267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

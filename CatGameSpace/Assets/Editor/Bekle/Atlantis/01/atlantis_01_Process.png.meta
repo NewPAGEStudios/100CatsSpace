@@ -1,0 +1,4901 @@
+fileFormatVersion: 2
+guid: e6fbca6fecaaa714796f35ea5728059e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 380264977843761878
+    second: atlantis_01_Process_0
+  - first:
+      213: -7284255079818234015
+    second: atlantis_01_Process_1
+  - first:
+      213: -3885597174688355639
+    second: atlantis_01_Process_2
+  - first:
+      213: 5225307268357632566
+    second: atlantis_01_Process_3
+  - first:
+      213: -3278007431993045322
+    second: atlantis_01_Process_4
+  - first:
+      213: -1898488225313974498
+    second: atlantis_01_Process_5
+  - first:
+      213: 8610842469619765079
+    second: atlantis_01_Process_6
+  - first:
+      213: 622657648453137100
+    second: atlantis_01_Process_7
+  - first:
+      213: -431203913753440137
+    second: atlantis_01_Process_8
+  - first:
+      213: -7500144748936709763
+    second: atlantis_01_Process_9
+  - first:
+      213: 6628169372785977456
+    second: atlantis_01_Process_10
+  - first:
+      213: 2596146241211496009
+    second: atlantis_01_Process_11
+  - first:
+      213: 2307028052123166318
+    second: atlantis_01_Process_12
+  - first:
+      213: -141642995844821463
+    second: atlantis_01_Process_13
+  - first:
+      213: -4451963551728522867
+    second: atlantis_01_Process_14
+  - first:
+      213: -9103842418112865685
+    second: atlantis_01_Process_15
+  - first:
+      213: 5995927606821528163
+    second: atlantis_01_Process_16
+  - first:
+      213: 8766588034067820750
+    second: atlantis_01_Process_17
+  - first:
+      213: 5122446415314926523
+    second: atlantis_01_Process_18
+  - first:
+      213: -8704832319340555421
+    second: atlantis_01_Process_19
+  - first:
+      213: 973299963307107229
+    second: atlantis_01_Process_20
+  - first:
+      213: 2625459799008645081
+    second: atlantis_01_Process_21
+  - first:
+      213: 987560457184683389
+    second: atlantis_01_Process_22
+  - first:
+      213: 1170400201471571998
+    second: atlantis_01_Process_23
+  - first:
+      213: 5479572868126208635
+    second: atlantis_01_Process_24
+  - first:
+      213: -3233869386780659489
+    second: atlantis_01_Process_25
+  - first:
+      213: 6073071694130023519
+    second: atlantis_01_Process_26
+  - first:
+      213: 7115834622137606480
+    second: atlantis_01_Process_27
+  - first:
+      213: 8438616536904149833
+    second: atlantis_01_Process_28
+  - first:
+      213: -2491787139764877143
+    second: atlantis_01_Process_29
+  - first:
+      213: -4629418634622215569
+    second: atlantis_01_Process_30
+  - first:
+      213: -1526619849230416700
+    second: atlantis_01_Process_31
+  - first:
+      213: -6575325564247620544
+    second: atlantis_01_Process_32
+  - first:
+      213: 3022964973930278047
+    second: atlantis_01_Process_33
+  - first:
+      213: 335893268297408026
+    second: atlantis_01_Process_34
+  - first:
+      213: 2355604093693048731
+    second: atlantis_01_Process_35
+  - first:
+      213: 2802667040764608377
+    second: atlantis_01_Process_36
+  - first:
+      213: -6455315085041623552
+    second: atlantis_01_Process_37
+  - first:
+      213: 4997918154520337580
+    second: atlantis_01_Process_38
+  - first:
+      213: 4732914437641247791
+    second: atlantis_01_Process_39
+  - first:
+      213: -7463040291032313543
+    second: atlantis_01_Process_40
+  - first:
+      213: -6176357911457651467
+    second: atlantis_01_Process_41
+  - first:
+      213: 971451253141761812
+    second: atlantis_01_Process_42
+  - first:
+      213: -4674300801587579135
+    second: atlantis_01_Process_43
+  - first:
+      213: -1075805402839643796
+    second: atlantis_01_Process_44
+  - first:
+      213: 6880800235401529235
+    second: atlantis_01_Process_45
+  - first:
+      213: -4198691393838751862
+    second: atlantis_01_Process_46
+  - first:
+      213: -7589671737499371038
+    second: atlantis_01_Process_47
+  - first:
+      213: -6062391775425118178
+    second: atlantis_01_Process_48
+  - first:
+      213: -6462217046853092983
+    second: atlantis_01_Process_49
+  - first:
+      213: -5564584299079401888
+    second: atlantis_01_Process_50
+  - first:
+      213: -6175751361400059282
+    second: atlantis_01_Process_51
+  - first:
+      213: -4513160824734585574
+    second: atlantis_01_Process_52
+  - first:
+      213: -2471448270185416618
+    second: atlantis_01_Process_53
+  - first:
+      213: 7559574557124085879
+    second: atlantis_01_Process_54
+  - first:
+      213: -9004846544254363173
+    second: atlantis_01_Process_55
+  - first:
+      213: -4192235029831005652
+    second: atlantis_01_Process_56
+  - first:
+      213: -1959714327777826976
+    second: atlantis_01_Process_57
+  - first:
+      213: -3750763300243418404
+    second: atlantis_01_Process_58
+  - first:
+      213: -8019818955264624607
+    second: atlantis_01_Process_59
+  - first:
+      213: 7868280455454860643
+    second: atlantis_01_Process_60
+  - first:
+      213: 4470918444665961379
+    second: atlantis_01_Process_61
+  - first:
+      213: 1892813097698351736
+    second: atlantis_01_Process_62
+  - first:
+      213: 4465254001233863204
+    second: atlantis_01_Process_63
+  - first:
+      213: 1012013216288874680
+    second: atlantis_01_Process_64
+  - first:
+      213: 359237458925022831
+    second: atlantis_01_Process_65
+  - first:
+      213: -4127056199855415824
+    second: atlantis_01_Process_66
+  - first:
+      213: 1989610796319274718
+    second: atlantis_01_Process_67
+  - first:
+      213: 7673974911305016203
+    second: atlantis_01_Process_68
+  - first:
+      213: -8855322725216700287
+    second: atlantis_01_Process_69
+  - first:
+      213: 1481256452863071608
+    second: atlantis_01_Process_70
+  - first:
+      213: 7233598203216391724
+    second: atlantis_01_Process_71
+  - first:
+      213: 3140339416251388798
+    second: atlantis_01_Process_72
+  - first:
+      213: -7693453751212741524
+    second: atlantis_01_Process_73
+  - first:
+      213: -4408793971347696663
+    second: atlantis_01_Process_74
+  - first:
+      213: -5002367868170789171
+    second: atlantis_01_Process_75
+  - first:
+      213: -308073496700579096
+    second: atlantis_01_Process_76
+  - first:
+      213: -4106404710054705338
+    second: atlantis_01_Process_77
+  - first:
+      213: -6340159576053805279
+    second: atlantis_01_Process_78
+  - first:
+      213: 6655994474121648566
+    second: atlantis_01_Process_79
+  - first:
+      213: 7049767570683939219
+    second: atlantis_01_Process_80
+  - first:
+      213: -321421495988951919
+    second: atlantis_01_Process_81
+  - first:
+      213: -4536738638951842809
+    second: atlantis_01_Process_82
+  - first:
+      213: -7971500222084888604
+    second: atlantis_01_Process_83
+  - first:
+      213: -1496182065612349888
+    second: atlantis_01_Process_84
+  - first:
+      213: -4167638487453702633
+    second: atlantis_01_Process_85
+  - first:
+      213: 7150683292862620756
+    second: atlantis_01_Process_86
+  - first:
+      213: 5032044860771045906
+    second: atlantis_01_Process_87
+  - first:
+      213: 1049111939697501478
+    second: atlantis_01_Process_88
+  - first:
+      213: -7535111672087284114
+    second: atlantis_01_Process_89
+  - first:
+      213: -434530236075198002
+    second: atlantis_01_Process_90
+  - first:
+      213: 3696310368779182565
+    second: atlantis_01_Process_91
+  - first:
+      213: 4497198638619088067
+    second: atlantis_01_Process_92
+  - first:
+      213: -2622835682807675116
+    second: atlantis_01_Process_93
+  - first:
+      213: -1275597758235569078
+    second: atlantis_01_Process_94
+  - first:
+      213: -7530256599036140529
+    second: atlantis_01_Process_95
+  - first:
+      213: 8442250895853928834
+    second: atlantis_01_Process_96
+  - first:
+      213: 3950693733223757463
+    second: atlantis_01_Process_97
+  - first:
+      213: -1160879626462133355
+    second: atlantis_01_Process_98
+  - first:
+      213: 7934131401954088743
+    second: atlantis_01_Process_99
+  - first:
+      213: 7736828736105444593
+    second: atlantis_01_Process_100
+  - first:
+      213: -5150622346035922752
+    second: atlantis_01_Process_101
+  - first:
+      213: 6313435667088084187
+    second: atlantis_01_Process_102
+  - first:
+      213: 3607699711680919114
+    second: atlantis_01_Process_103
+  - first:
+      213: -2600169338013327388
+    second: atlantis_01_Process_104
+  - first:
+      213: -4947695781133049751
+    second: atlantis_01_Process_105
+  - first:
+      213: 7448596720592637419
+    second: atlantis_01_Process_106
+  - first:
+      213: 9093038451941257316
+    second: atlantis_01_Process_107
+  - first:
+      213: 1627430576453413237
+    second: atlantis_01_Process_108
+  - first:
+      213: -7942376232930851798
+    second: atlantis_01_Process_109
+  - first:
+      213: 3027601981175619282
+    second: atlantis_01_Process_110
+  - first:
+      213: -279604276537778657
+    second: atlantis_01_Process_111
+  - first:
+      213: -1096979675431256249
+    second: atlantis_01_Process_112
+  - first:
+      213: 4382928684444676686
+    second: atlantis_01_Process_113
+  - first:
+      213: -1497910632875458978
+    second: atlantis_01_Process_114
+  - first:
+      213: 6733012679713338220
+    second: atlantis_01_Process_115
+  - first:
+      213: -5933830192918849586
+    second: atlantis_01_Process_116
+  - first:
+      213: -7413809754117620673
+    second: atlantis_01_Process_117
+  - first:
+      213: 607005892469557300
+    second: atlantis_01_Process_118
+  - first:
+      213: -7817220245624504484
+    second: atlantis_01_Process_119
+  - first:
+      213: 609591617521183166
+    second: atlantis_01_Process_120
+  - first:
+      213: 2151719456920502909
+    second: atlantis_01_Process_121
+  - first:
+      213: 7108411330807928834
+    second: atlantis_01_Process_122
+  - first:
+      213: -6951222302157970456
+    second: atlantis_01_Process_123
+  - first:
+      213: -3072974443256414825
+    second: atlantis_01_Process_124
+  - first:
+      213: 7335905222417990368
+    second: atlantis_01_Process_125
+  - first:
+      213: -9176732844971338558
+    second: atlantis_01_Process_126
+  - first:
+      213: -6342944873413896424
+    second: atlantis_01_Process_127
+  - first:
+      213: -5340147802825939125
+    second: atlantis_01_Process_128
+  - first:
+      213: 5389706156152993364
+    second: atlantis_01_Process_129
+  - first:
+      213: 4009160777213798063
+    second: atlantis_01_Process_130
+  - first:
+      213: 1395872518215175628
+    second: atlantis_01_Process_131
+  - first:
+      213: -7746716755335107108
+    second: atlantis_01_Process_132
+  - first:
+      213: 3726871121360935081
+    second: atlantis_01_Process_133
+  - first:
+      213: 6323142297984476620
+    second: atlantis_01_Process_134
+  - first:
+      213: -4251082041930854324
+    second: atlantis_01_Process_135
+  - first:
+      213: -6346982688558342866
+    second: atlantis_01_Process_136
+  - first:
+      213: 9127055135311337093
+    second: atlantis_01_Process_137
+  - first:
+      213: 5811054521704029862
+    second: atlantis_01_Process_138
+  - first:
+      213: -5679658392101578445
+    second: atlantis_01_Process_139
+  - first:
+      213: 1232511565055743356
+    second: atlantis_01_Process_140
+  - first:
+      213: -4800990980136798246
+    second: atlantis_01_Process_141
+  - first:
+      213: -5456502201307761046
+    second: atlantis_01_Process_142
+  - first:
+      213: 8657763549413999734
+    second: atlantis_01_Process_143
+  - first:
+      213: 2173724325527077192
+    second: atlantis_01_Process_144
+  - first:
+      213: 5008519250930957778
+    second: atlantis_01_Process_145
+  - first:
+      213: 8043629086257898701
+    second: atlantis_01_Process_146
+  - first:
+      213: 2704937765872312336
+    second: atlantis_01_Process_147
+  - first:
+      213: 7936197879967600034
+    second: atlantis_01_Process_148
+  - first:
+      213: 3197270382844393563
+    second: atlantis_01_Process_149
+  - first:
+      213: 3066264026329914512
+    second: atlantis_01_Process_150
+  - first:
+      213: 4150787689409605721
+    second: atlantis_01_Process_151
+  - first:
+      213: -6326428109957093036
+    second: atlantis_01_Process_152
+  - first:
+      213: -2850619820420042041
+    second: atlantis_01_Process_153
+  - first:
+      213: -2903253810524921852
+    second: atlantis_01_Process_154
+  - first:
+      213: -4192543771260139844
+    second: atlantis_01_Process_155
+  - first:
+      213: -6533334732505343640
+    second: atlantis_01_Process_156
+  - first:
+      213: -1590929341011675478
+    second: atlantis_01_Process_157
+  - first:
+      213: -7252789983101213938
+    second: atlantis_01_Process_158
+  - first:
+      213: -7409022420722482038
+    second: atlantis_01_Process_159
+  - first:
+      213: -3429634802204300033
+    second: atlantis_01_Process_160
+  - first:
+      213: 7214283702631601277
+    second: atlantis_01_Process_161
+  - first:
+      213: 3365517534037674770
+    second: atlantis_01_Process_162
+  - first:
+      213: 7745352259912704832
+    second: atlantis_01_Process_163
+  - first:
+      213: -8038152487724038982
+    second: atlantis_01_Process_164
+  - first:
+      213: 125132864906714994
+    second: atlantis_01_Process_165
+  - first:
+      213: -310909685106578706
+    second: atlantis_01_Process_166
+  - first:
+      213: -3995818955746484839
+    second: atlantis_01_Process_167
+  - first:
+      213: -1139081833828305938
+    second: atlantis_01_Process_168
+  - first:
+      213: -585212511275453325
+    second: atlantis_01_Process_169
+  - first:
+      213: 4465519077802187597
+    second: atlantis_01_Process_170
+  - first:
+      213: 5582782791355788881
+    second: atlantis_01_Process_171
+  - first:
+      213: 4538965910707889001
+    second: atlantis_01_Process_172
+  - first:
+      213: 8724441759687923127
+    second: atlantis_01_Process_173
+  - first:
+      213: 8174349471779827873
+    second: atlantis_01_Process_174
+  - first:
+      213: -2507107432280216785
+    second: atlantis_01_Process_175
+  - first:
+      213: -1705758384619418013
+    second: atlantis_01_Process_176
+  - first:
+      213: -1568738012150926812
+    second: atlantis_01_Process_177
+  - first:
+      213: 1193230251886953381
+    second: atlantis_01_Process_178
+  - first:
+      213: 1509331013198495057
+    second: atlantis_01_Process_179
+  - first:
+      213: -512974759879094291
+    second: atlantis_01_Process_180
+  - first:
+      213: -1558650411100870639
+    second: atlantis_01_Process_181
+  - first:
+      213: 8870831183037951740
+    second: atlantis_01_Process_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlantis_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2336
+        width: 5000
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d236ec8bf8f64500800000000000000
+      internalID: 380264977843761878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2321
+        width: 860
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167791a399029ea90800000000000000
+      internalID: -7284255079818234015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2278
+        width: 902
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca6076d4f5931ac0800000000000000
+      internalID: -3885597174688355639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2084
+        width: 884
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63239b49645048840800000000000000
+      internalID: 5225307268357632566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2173
+        width: 312
+        height: 465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bec6f4bb9d2282d0800000000000000
+      internalID: -3278007431993045322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1749
+        width: 416
+        height: 677
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1716e7840737a5e0800000000000000
+      internalID: -1898488225313974498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2020
+        width: 563
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f888a9a9bdf7770800000000000000
+      internalID: 8610842469619765079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 2283
+        width: 254
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2bab015df14a800800000000000000
+      internalID: 622657648453137100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 2257
+        width: 514
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770d7f6335e040af0800000000000000
+      internalID: -431203913753440137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 2196
+        width: 149
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79bd9b96122ae790800000000000000
+      internalID: -7500144748936709763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 2196
+        width: 42
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07828005decfbfb50800000000000000
+      internalID: 6628169372785977456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 2196
+        width: 144
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946706c504d570420800000000000000
+      internalID: 2596146241211496009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 2274
+        width: 316
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66a9ad4ac5340020800000000000000
+      internalID: 2307028052123166318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 2186
+        width: 861
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e4fbb1278c80ef0800000000000000
+      internalID: -141642995844821463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2191
+        width: 2611
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d892c3abcb27732c0800000000000000
+      internalID: -4451963551728522867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1704
+        width: 1096
+        height: 634
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6adf311e87a8a180800000000000000
+      internalID: -9103842418112865685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1875
+        width: 1150
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3622e8ff360d53350800000000000000
+      internalID: 5995927606821528163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1744
+        width: 338
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec07dce9e5d29a970800000000000000
+      internalID: 8766588034067820750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1716
+        width: 446
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbb1d5ffd5961740800000000000000
+      internalID: 5122446415314926523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2051
+        width: 281
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363dd503029323780800000000000000
+      internalID: -8704832319340555421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2061
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9322dce82bd18d00800000000000000
+      internalID: 973299963307107229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1778
+        width: 410
+        height: 524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df8af3e6c18f6420800000000000000
+      internalID: 2625459799008645081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1997
+        width: 265
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7527b4e00584bd00800000000000000
+      internalID: 987560457184683389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 2070
+        width: 983
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1832cd38c81e3010800000000000000
+      internalID: 1170400201471571998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2151
+        width: 494
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72f785dd7a5b0c40800000000000000
+      internalID: 5479572868126208635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 2044
+        width: 993
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0bdee2decfe13d0800000000000000
+      internalID: -3233869386780659489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 4467
+        y: 1860
+        width: 358
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c89108782e74450800000000000000
+      internalID: 6073071694130023519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 4715
+        y: 2066
+        width: 285
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05120f433e580c260800000000000000
+      internalID: 7115834622137606480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 1968
+        width: 123
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba8e5d70dfb1570800000000000000
+      internalID: 8438616536904149833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1995
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a88d666cc46b6dd0800000000000000
+      internalID: -2491787139764877143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2002
+        width: 109
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ad4ce874001cfb0800000000000000
+      internalID: -4629418634622215569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1974
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c48f83e55b50dae0800000000000000
+      internalID: -1526619849230416700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1840
+        width: 132
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c974ac30cfb4a0800000000000000
+      internalID: -6575325564247620544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1837
+        width: 149
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cef8f90aab3f920800000000000000
+      internalID: 3022964973930278047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1774
+        width: 305
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1edf4bd52559a400800000000000000
+      internalID: 335893268297408026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1723
+        width: 590
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97b7045179c0b020800000000000000
+      internalID: 2355604093693048731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1440
+        width: 724
+        height: 629
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f387c03d215e620800000000000000
+      internalID: 2802667040764608377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 1909
+        width: 268
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9fd2c12d1a66a0800000000000000
+      internalID: -6455315085041623552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 2368
+        y: 1762
+        width: 303
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac19a8d41c2c5540800000000000000
+      internalID: 4997918154520337580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1726
+        width: 100
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c9cefda90bea140800000000000000
+      internalID: 4732914437641247791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 2721
+        y: 1927
+        width: 168
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931579c6564fd6890800000000000000
+      internalID: -7463040291032313543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 1996
+        width: 147
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4a4e9043b294aa0800000000000000
+      internalID: -6176357911457651467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 1874
+        width: 28
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f6f1c84c94b7d00800000000000000
+      internalID: 971451253141761812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1874
+        width: 121
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1077c0cbf2c812fb0800000000000000
+      internalID: -4674300801587579135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1705
+        width: 29
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c690c4c9fa8f111f0800000000000000
+      internalID: -1075805402839643796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 1689
+        width: 67
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974889ab538d7f50800000000000000
+      internalID: 6880800235401529235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 1446
+        width: 679
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f50c44c604bb5c0800000000000000
+      internalID: -4198691393838751862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 1761
+        width: 517
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9378c34c11ca690800000000000000
+      internalID: -7589671737499371038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 1822
+        width: 417
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e104988dcce0edba0800000000000000
+      internalID: -6062391775425118178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 4886
+        y: 1895
+        width: 114
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989f8dc85d79156a0800000000000000
+      internalID: -6462217046853092983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 116
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef7aaff00a6c2b0800000000000000
+      internalID: -5564584299079401888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1542
+        width: 587
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4d9a7bd25b4aa0800000000000000
+      internalID: -6175751361400059282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1747
+        width: 165
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d6c7344280e51c0800000000000000
+      internalID: -4513160824734585574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1640
+        width: 323
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65838de74e6a3bdd0800000000000000
+      internalID: -2471448270185416618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1773
+        width: 93
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7784672e10109e860800000000000000
+      internalID: 7559574557124085879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1805
+        width: 216
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd990d817cb580380800000000000000
+      internalID: -9004846544254363173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1720
+        width: 200
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a49f7a37032d5c0800000000000000
+      internalID: -4192235029831005652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1716
+        width: 562
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0672f8fa332bdc4e0800000000000000
+      internalID: -1959714327777826976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1694
+        width: 322
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25b6c96ac92fbc0800000000000000
+      internalID: -3750763300243418404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1788
+        width: 176
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128f188a621e3b090800000000000000
+      internalID: -8019818955264624607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 2715
+        y: 1785
+        width: 173
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3652984e26fb13d60800000000000000
+      internalID: 7868280455454860643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 1688
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab7e0233a4eb0e30800000000000000
+      internalID: 4470918444665961379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1687
+        width: 100
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a548adb7f944a10800000000000000
+      internalID: 1892813097698351736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1703
+        width: 223
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422af6f2bd4c7fd30800000000000000
+      internalID: 4465254001233863204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1592
+        width: 500
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b026e888a46b0e00800000000000000
+      internalID: 1012013216288874680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 4452
+        y: 1228
+        width: 548
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e6d39c0944cf400800000000000000
+      internalID: 359237458925022831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 1855
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd5b879040c9b6c0800000000000000
+      internalID: -4127056199855415824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1804
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed674e35a748c9b10800000000000000
+      internalID: 1989610796319274718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1781
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83689bf58f6f7a60800000000000000
+      internalID: 7673974911305016203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 1638
+        width: 424
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188b30026e29b1580800000000000000
+      internalID: -8855322725216700287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1730
+        width: 196
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875982655ea7e8410800000000000000
+      internalID: 1481256452863071608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1703
+        width: 197
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eed969d37e26460800000000000000
+      internalID: 7233598203216391724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 1562
+        width: 163
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7352d39f0ab49b20800000000000000
+      internalID: 3140339416251388798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1246
+        width: 270
+        height: 496
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c611f239c5b3590800000000000000
+      internalID: -7693453751212741524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1681
+        width: 211
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3dfe9ed31d0d2c0800000000000000
+      internalID: -4408793971347696663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1569
+        width: 169
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1ad57de4049ab0800000000000000
+      internalID: -5002367868170789171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1533
+        width: 267
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2137879c089bbf0800000000000000
+      internalID: -308073496700579096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1740
+        width: 233
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647c2314cae1307c0800000000000000
+      internalID: -4106404710054705338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1700
+        width: 164
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f850a057a3308a0800000000000000
+      internalID: -6340159576053805279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 1633
+        width: 242
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9dbf095b7de5c50800000000000000
+      internalID: 6655994474121648566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1698
+        width: 138
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3994fa7114ec5d160800000000000000
+      internalID: 7049767570683939219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1658
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19467643ad41a8bf0800000000000000
+      internalID: -321421495988951919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1438
+        width: 153
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c7c7a9e344a01c0800000000000000
+      internalID: -4536738638951842809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1527
+        width: 287
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7cea768ca8f5190800000000000000
+      internalID: -7971500222084888604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1662
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e9dd3a65e7c3be0800000000000000
+      internalID: -1496182065612349888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1606
+        width: 168
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716631370e29926c0800000000000000
+      internalID: -4167638487453702633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 3798
+        y: 1623
+        width: 102
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a564a1945c3360800000000000000
+      internalID: 7150683292862620756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1420
+        width: 335
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2129614d32a65d540800000000000000
+      internalID: 5032044860771045906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1567
+        width: 224
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6256a4f20c13f8e00800000000000000
+      internalID: 1049111939697501478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 1602
+        width: 254
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6676526bd7ed6790800000000000000
+      internalID: -7535111672087284114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_90
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 1417
+        width: 284
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec932927d0d38f9f0800000000000000
+      internalID: -434530236075198002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_91
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 1357
+        width: 218
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e12dae42beeb4330800000000000000
+      internalID: 3696310368779182565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_92
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1652
+        width: 193
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4d24ba552496e30800000000000000
+      internalID: 4497198638619088067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_93
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1577
+        width: 181
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4178706c7d0d99bd0800000000000000
+      internalID: -2622835682807675116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_94
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 1583
+        width: 167
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a449518e89a2c4ee0800000000000000
+      internalID: -1275597758235569078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_95
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 1582
+        width: 109
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04e8ea25872f7790800000000000000
+      internalID: -7530256599036140529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_96
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 1622
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281c818f576e82570800000000000000
+      internalID: 8442250895853928834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_97
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 1469
+        width: 179
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f929c40fa3d630800000000000000
+      internalID: 3950693733223757463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_98
+      rect:
+        serializedVersion: 2
+        x: 3246
+        y: 1515
+        width: 146
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5938cbd512ab3efe0800000000000000
+      internalID: -1160879626462133355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_99
+      rect:
+        serializedVersion: 2
+        x: 3336
+        y: 1301
+        width: 1273
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727deb62972bb1e60800000000000000
+      internalID: 7934131401954088743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_100
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1246
+        width: 517
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f479977ebcbe5b60800000000000000
+      internalID: 7736828736105444593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_101
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1407
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8f654f3405588b0800000000000000
+      internalID: -5150622346035922752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_102
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 1417
+        width: 248
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc01190a44dd9750800000000000000
+      internalID: 6313435667088084187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_103
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1276
+        width: 407
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46350bf5cf111230800000000000000
+      internalID: 3607699711680919114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_104
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1397
+        width: 498
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef5adb63c75aebd0800000000000000
+      internalID: -2600169338013327388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_105
+      rect:
+        serializedVersion: 2
+        x: 2706
+        y: 1379
+        width: 171
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960addca6e0465bb0800000000000000
+      internalID: -4947695781133049751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_106
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1558
+        width: 289
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed4016c04bbe5760800000000000000
+      internalID: 7448596720592637419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_107
+      rect:
+        serializedVersion: 2
+        x: 2883
+        y: 1583
+        width: 141
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4603de88b46f03e70800000000000000
+      internalID: 9093038451941257316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_108
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 1578
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5796d1e9c7bc59610800000000000000
+      internalID: 1627430576453413237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_109
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 1555
+        width: 27
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24c6ab85e207c190800000000000000
+      internalID: -7942376232930851798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_110
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1361
+        width: 68
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dedd3106f3340a20800000000000000
+      internalID: 3027601981175619282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_111
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1316
+        width: 43
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e19435465ae1cf0800000000000000
+      internalID: -279604276537778657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_112
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1393
+        width: 93
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fb8181cceb6c0f0800000000000000
+      internalID: -1096979675431256249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_113
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1246
+        width: 277
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42f130ba6a43dc30800000000000000
+      internalID: 4382928684444676686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_114
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1443
+        width: 156
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7d26373a563be0800000000000000
+      internalID: -1497910632875458978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_115
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1246
+        width: 159
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63b382fb57707d50800000000000000
+      internalID: 6733012679713338220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_116
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1246
+        width: 216
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec79599d0ecc6ada0800000000000000
+      internalID: -5933830192918849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_117
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 1321
+        width: 308
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c3e750f4bdc1990800000000000000
+      internalID: -7413809754117620673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_118
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1257
+        width: 441
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4388735a4a48c6800800000000000000
+      internalID: 607005892469557300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_119
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 1364
+        width: 419
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f3f80aa97a38390800000000000000
+      internalID: -7817220245624504484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_120
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1251
+        width: 179
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9e76ca854b57800800000000000000
+      internalID: 609591617521183166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_121
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 1409
+        width: 242
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720b0e12717cdd10800000000000000
+      internalID: 2151719456920502909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_122
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1404
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081b22817626a260800000000000000
+      internalID: 7108411330807928834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_123
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 1301
+        width: 589
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3e915352c488f90800000000000000
+      internalID: -6951222302157970456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_124
+      rect:
+        serializedVersion: 2
+        x: 2729
+        y: 1373
+        width: 454
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df8d1760a9a55d0800000000000000
+      internalID: -3072974443256414825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_125
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1487
+        width: 101
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e24828beee5ec560800000000000000
+      internalID: 7335905222417990368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_126
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1333
+        width: 238
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4d2d01912b5a080800000000000000
+      internalID: -9176732844971338558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1170
+        width: 5000
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81797467e3559f7a0800000000000000
+      internalID: -6342944873413896424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_128
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1246
+        width: 272
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b472a7cdddbf3e5b0800000000000000
+      internalID: -5340147802825939125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_129
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 1261
+        width: 78
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4563c3171351cca40800000000000000
+      internalID: 5389706156152993364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_130
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1246
+        width: 124
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6e1454c7663a730800000000000000
+      internalID: 4009160777213798063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_131
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1301
+        width: 281
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd02ffd8a22f5310800000000000000
+      internalID: 1395872518215175628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_132
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 1254
+        width: 187
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd2fa6a7222e7490800000000000000
+      internalID: -7746716755335107108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_133
+      rect:
+        serializedVersion: 2
+        x: 3056
+        y: 1253
+        width: 204
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a851600a8188b330800000000000000
+      internalID: 3726871121360935081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_134
+      rect:
+        serializedVersion: 2
+        x: 3252
+        y: 1301
+        width: 234
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5ac972b6050c750800000000000000
+      internalID: 6323142297984476620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_135
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1286
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c405ba3f76f1105c0800000000000000
+      internalID: -4251082041930854324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 1066
+        height: 790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1dec5fdcfae7a0800000000000000
+      internalID: -6346982688558342866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_137
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 339
+        width: 555
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58613a1d940d9ae70800000000000000
+      internalID: 9127055135311337093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_138
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 864
+        width: 301
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae98989c4305a050800000000000000
+      internalID: 5811054521704029862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_139
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 70
+        width: 387
+        height: 1099
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3391835d8cccd21b0800000000000000
+      internalID: -5679658392101578445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_140
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 841
+        width: 255
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7555b00db2ca1110800000000000000
+      internalID: 1232511565055743356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_141
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 313
+        width: 2343
+        height: 856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7771be3247f5db0800000000000000
+      internalID: -4800990980136798246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_142
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 130
+        width: 403
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66f9ee582c9644b0800000000000000
+      internalID: -5456502201307761046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_143
+      rect:
+        serializedVersion: 2
+        x: 3265
+        y: 95
+        width: 666
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6748520d31e862870800000000000000
+      internalID: 8657763549413999734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_144
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 176
+        width: 1152
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841caa6d1ce9a2e10800000000000000
+      internalID: 2173724325527077192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_145
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 177
+        width: 457
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ddf172f8b5d18540800000000000000
+      internalID: 5008519250930957778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_146
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 447
+        width: 385
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e6677906b0af60800000000000000
+      internalID: 8043629086257898701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_147
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 593
+        width: 211
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 010ab52119ed98520800000000000000
+      internalID: 2704937765872312336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_148
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 118
+        width: 756
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad4dae8ce9032e60800000000000000
+      internalID: 7936197879967600034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 405
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58315c297cfe5c20800000000000000
+      internalID: 3197270382844393563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 172
+        width: 504
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c14fcd2ee8d8a20800000000000000
+      internalID: 3066264026329914512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_151
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 144
+        width: 310
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950f255696f8a9930800000000000000
+      internalID: 4150787689409605721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_152
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 120
+        width: 252
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45926f027230438a0800000000000000
+      internalID: -6326428109957093036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_153
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 58
+        width: 115
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2fc2660609078d0800000000000000
+      internalID: -2850619820420042041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_154
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 163
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400ecda9a0295b7d0800000000000000
+      internalID: -2903253810524921852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_155
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 110
+        width: 344
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb643c037a711d5c0800000000000000
+      internalID: -4192543771260139844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_156
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 261
+        width: 57
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8691c460daee455a0800000000000000
+      internalID: -6533334732505343640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_157
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 110
+        width: 292
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b0468132ebe9e0800000000000000
+      internalID: -1590929341011675478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_158
+      rect:
+        serializedVersion: 2
+        x: 2274
+        y: 50
+        width: 525
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03adb2ffe9e85b90800000000000000
+      internalID: -7252789983101213938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_159
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 0
+        width: 725
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a848eefec5ddd2990800000000000000
+      internalID: -7409022420722482038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_160
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 188
+        width: 762
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcab41815d7760d0800000000000000
+      internalID: -3429634802204300033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_161
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 0
+        width: 234
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d741f3cfdc84e1460800000000000000
+      internalID: 7214283702631601277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_162
+      rect:
+        serializedVersion: 2
+        x: 3679
+        y: 0
+        width: 209
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b0aadad58b4be20800000000000000
+      internalID: 3365517534037674770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_163
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 101
+        width: 151
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043ad5008d40d7b60800000000000000
+      internalID: 7745352259912704832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_164
+      rect:
+        serializedVersion: 2
+        x: 3954
+        y: 54
+        width: 886
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab449ce76eeb27090800000000000000
+      internalID: -8038152487724038982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_165
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 25
+        width: 554
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fdd7a7daf8cb100800000000000000
+      internalID: 125132864906714994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_166
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 212
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea6ef5e94d6fabf0800000000000000
+      internalID: -310909685106578706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 7
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d55fb94dffb88c0800000000000000
+      internalID: -3995818955746484839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_168
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 30
+        width: 195
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee330947b1b2130f0800000000000000
+      internalID: -1139081833828305938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_169
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 625
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374ff435258e0e7f0800000000000000
+      internalID: -585212511275453325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_170
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 28
+        width: 429
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b112221f5b8fd30800000000000000
+      internalID: 4465519077802187597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_171
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 325
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15eece0be570a7d40800000000000000
+      internalID: 5582782791355788881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_172
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 0
+        width: 214
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963e9538275adfe30800000000000000
+      internalID: 4538965910707889001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_173
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 67
+        width: 658
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b558cd6e81731970800000000000000
+      internalID: 8724441759687923127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_174
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 0
+        width: 917
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b657f88f117170800000000000000
+      internalID: 8174349471779827873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_175
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 108
+        width: 246
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b2235d217f43dd0800000000000000
+      internalID: -2507107432280216785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_176
+      rect:
+        serializedVersion: 2
+        x: 2467
+        y: 0
+        width: 218
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e8d1469cde358e0800000000000000
+      internalID: -1705758384619418013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_177
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 0
+        width: 304
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4227718e619ba3ae0800000000000000
+      internalID: -1568738012150926812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_178
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 198
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3c8f297943f8010800000000000000
+      internalID: 1193230251886953381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_179
+      rect:
+        serializedVersion: 2
+        x: 3648
+        y: 0
+        width: 43
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d3d2a4f8832f410800000000000000
+      internalID: 1509331013198495057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_180
+      rect:
+        serializedVersion: 2
+        x: 3869
+        y: 0
+        width: 987
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def4aaa7c2c81e8f0800000000000000
+      internalID: -512974759879094291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_181
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 0
+        width: 201
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118e05d85bf8e5ae0800000000000000
+      internalID: -1558650411100870639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlantis_01_Process_182
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 311
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe6f6716f58b1b70800000000000000
+      internalID: 8870831183037951740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      atlantis_01_Process_0: 380264977843761878
+      atlantis_01_Process_1: -7284255079818234015
+      atlantis_01_Process_10: 6628169372785977456
+      atlantis_01_Process_100: 7736828736105444593
+      atlantis_01_Process_101: -5150622346035922752
+      atlantis_01_Process_102: 6313435667088084187
+      atlantis_01_Process_103: 3607699711680919114
+      atlantis_01_Process_104: -2600169338013327388
+      atlantis_01_Process_105: -4947695781133049751
+      atlantis_01_Process_106: 7448596720592637419
+      atlantis_01_Process_107: 9093038451941257316
+      atlantis_01_Process_108: 1627430576453413237
+      atlantis_01_Process_109: -7942376232930851798
+      atlantis_01_Process_11: 2596146241211496009
+      atlantis_01_Process_110: 3027601981175619282
+      atlantis_01_Process_111: -279604276537778657
+      atlantis_01_Process_112: -1096979675431256249
+      atlantis_01_Process_113: 4382928684444676686
+      atlantis_01_Process_114: -1497910632875458978
+      atlantis_01_Process_115: 6733012679713338220
+      atlantis_01_Process_116: -5933830192918849586
+      atlantis_01_Process_117: -7413809754117620673
+      atlantis_01_Process_118: 607005892469557300
+      atlantis_01_Process_119: -7817220245624504484
+      atlantis_01_Process_12: 2307028052123166318
+      atlantis_01_Process_120: 609591617521183166
+      atlantis_01_Process_121: 2151719456920502909
+      atlantis_01_Process_122: 7108411330807928834
+      atlantis_01_Process_123: -6951222302157970456
+      atlantis_01_Process_124: -3072974443256414825
+      atlantis_01_Process_125: 7335905222417990368
+      atlantis_01_Process_126: -9176732844971338558
+      atlantis_01_Process_127: -6342944873413896424
+      atlantis_01_Process_128: -5340147802825939125
+      atlantis_01_Process_129: 5389706156152993364
+      atlantis_01_Process_13: -141642995844821463
+      atlantis_01_Process_130: 4009160777213798063
+      atlantis_01_Process_131: 1395872518215175628
+      atlantis_01_Process_132: -7746716755335107108
+      atlantis_01_Process_133: 3726871121360935081
+      atlantis_01_Process_134: 6323142297984476620
+      atlantis_01_Process_135: -4251082041930854324
+      atlantis_01_Process_136: -6346982688558342866
+      atlantis_01_Process_137: 9127055135311337093
+      atlantis_01_Process_138: 5811054521704029862
+      atlantis_01_Process_139: -5679658392101578445
+      atlantis_01_Process_14: -4451963551728522867
+      atlantis_01_Process_140: 1232511565055743356
+      atlantis_01_Process_141: -4800990980136798246
+      atlantis_01_Process_142: -5456502201307761046
+      atlantis_01_Process_143: 8657763549413999734
+      atlantis_01_Process_144: 2173724325527077192
+      atlantis_01_Process_145: 5008519250930957778
+      atlantis_01_Process_146: 8043629086257898701
+      atlantis_01_Process_147: 2704937765872312336
+      atlantis_01_Process_148: 7936197879967600034
+      atlantis_01_Process_149: 3197270382844393563
+      atlantis_01_Process_15: -9103842418112865685
+      atlantis_01_Process_150: 3066264026329914512
+      atlantis_01_Process_151: 4150787689409605721
+      atlantis_01_Process_152: -6326428109957093036
+      atlantis_01_Process_153: -2850619820420042041
+      atlantis_01_Process_154: -2903253810524921852
+      atlantis_01_Process_155: -4192543771260139844
+      atlantis_01_Process_156: -6533334732505343640
+      atlantis_01_Process_157: -1590929341011675478
+      atlantis_01_Process_158: -7252789983101213938
+      atlantis_01_Process_159: -7409022420722482038
+      atlantis_01_Process_16: 5995927606821528163
+      atlantis_01_Process_160: -3429634802204300033
+      atlantis_01_Process_161: 7214283702631601277
+      atlantis_01_Process_162: 3365517534037674770
+      atlantis_01_Process_163: 7745352259912704832
+      atlantis_01_Process_164: -8038152487724038982
+      atlantis_01_Process_165: 125132864906714994
+      atlantis_01_Process_166: -310909685106578706
+      atlantis_01_Process_167: -3995818955746484839
+      atlantis_01_Process_168: -1139081833828305938
+      atlantis_01_Process_169: -585212511275453325
+      atlantis_01_Process_17: 8766588034067820750
+      atlantis_01_Process_170: 4465519077802187597
+      atlantis_01_Process_171: 5582782791355788881
+      atlantis_01_Process_172: 4538965910707889001
+      atlantis_01_Process_173: 8724441759687923127
+      atlantis_01_Process_174: 8174349471779827873
+      atlantis_01_Process_175: -2507107432280216785
+      atlantis_01_Process_176: -1705758384619418013
+      atlantis_01_Process_177: -1568738012150926812
+      atlantis_01_Process_178: 1193230251886953381
+      atlantis_01_Process_179: 1509331013198495057
+      atlantis_01_Process_18: 5122446415314926523
+      atlantis_01_Process_180: -512974759879094291
+      atlantis_01_Process_181: -1558650411100870639
+      atlantis_01_Process_182: 8870831183037951740
+      atlantis_01_Process_19: -8704832319340555421
+      atlantis_01_Process_2: -3885597174688355639
+      atlantis_01_Process_20: 973299963307107229
+      atlantis_01_Process_21: 2625459799008645081
+      atlantis_01_Process_22: 987560457184683389
+      atlantis_01_Process_23: 1170400201471571998
+      atlantis_01_Process_24: 5479572868126208635
+      atlantis_01_Process_25: -3233869386780659489
+      atlantis_01_Process_26: 6073071694130023519
+      atlantis_01_Process_27: 7115834622137606480
+      atlantis_01_Process_28: 8438616536904149833
+      atlantis_01_Process_29: -2491787139764877143
+      atlantis_01_Process_3: 5225307268357632566
+      atlantis_01_Process_30: -4629418634622215569
+      atlantis_01_Process_31: -1526619849230416700
+      atlantis_01_Process_32: -6575325564247620544
+      atlantis_01_Process_33: 3022964973930278047
+      atlantis_01_Process_34: 335893268297408026
+      atlantis_01_Process_35: 2355604093693048731
+      atlantis_01_Process_36: 2802667040764608377
+      atlantis_01_Process_37: -6455315085041623552
+      atlantis_01_Process_38: 4997918154520337580
+      atlantis_01_Process_39: 4732914437641247791
+      atlantis_01_Process_4: -3278007431993045322
+      atlantis_01_Process_40: -7463040291032313543
+      atlantis_01_Process_41: -6176357911457651467
+      atlantis_01_Process_42: 971451253141761812
+      atlantis_01_Process_43: -4674300801587579135
+      atlantis_01_Process_44: -1075805402839643796
+      atlantis_01_Process_45: 6880800235401529235
+      atlantis_01_Process_46: -4198691393838751862
+      atlantis_01_Process_47: -7589671737499371038
+      atlantis_01_Process_48: -6062391775425118178
+      atlantis_01_Process_49: -6462217046853092983
+      atlantis_01_Process_5: -1898488225313974498
+      atlantis_01_Process_50: -5564584299079401888
+      atlantis_01_Process_51: -6175751361400059282
+      atlantis_01_Process_52: -4513160824734585574
+      atlantis_01_Process_53: -2471448270185416618
+      atlantis_01_Process_54: 7559574557124085879
+      atlantis_01_Process_55: -9004846544254363173
+      atlantis_01_Process_56: -4192235029831005652
+      atlantis_01_Process_57: -1959714327777826976
+      atlantis_01_Process_58: -3750763300243418404
+      atlantis_01_Process_59: -8019818955264624607
+      atlantis_01_Process_6: 8610842469619765079
+      atlantis_01_Process_60: 7868280455454860643
+      atlantis_01_Process_61: 4470918444665961379
+      atlantis_01_Process_62: 1892813097698351736
+      atlantis_01_Process_63: 4465254001233863204
+      atlantis_01_Process_64: 1012013216288874680
+      atlantis_01_Process_65: 359237458925022831
+      atlantis_01_Process_66: -4127056199855415824
+      atlantis_01_Process_67: 1989610796319274718
+      atlantis_01_Process_68: 7673974911305016203
+      atlantis_01_Process_69: -8855322725216700287
+      atlantis_01_Process_7: 622657648453137100
+      atlantis_01_Process_70: 1481256452863071608
+      atlantis_01_Process_71: 7233598203216391724
+      atlantis_01_Process_72: 3140339416251388798
+      atlantis_01_Process_73: -7693453751212741524
+      atlantis_01_Process_74: -4408793971347696663
+      atlantis_01_Process_75: -5002367868170789171
+      atlantis_01_Process_76: -308073496700579096
+      atlantis_01_Process_77: -4106404710054705338
+      atlantis_01_Process_78: -6340159576053805279
+      atlantis_01_Process_79: 6655994474121648566
+      atlantis_01_Process_8: -431203913753440137
+      atlantis_01_Process_80: 7049767570683939219
+      atlantis_01_Process_81: -321421495988951919
+      atlantis_01_Process_82: -4536738638951842809
+      atlantis_01_Process_83: -7971500222084888604
+      atlantis_01_Process_84: -1496182065612349888
+      atlantis_01_Process_85: -4167638487453702633
+      atlantis_01_Process_86: 7150683292862620756
+      atlantis_01_Process_87: 5032044860771045906
+      atlantis_01_Process_88: 1049111939697501478
+      atlantis_01_Process_89: -7535111672087284114
+      atlantis_01_Process_9: -7500144748936709763
+      atlantis_01_Process_90: -434530236075198002
+      atlantis_01_Process_91: 3696310368779182565
+      atlantis_01_Process_92: 4497198638619088067
+      atlantis_01_Process_93: -2622835682807675116
+      atlantis_01_Process_94: -1275597758235569078
+      atlantis_01_Process_95: -7530256599036140529
+      atlantis_01_Process_96: 8442250895853928834
+      atlantis_01_Process_97: 3950693733223757463
+      atlantis_01_Process_98: -1160879626462133355
+      atlantis_01_Process_99: 7934131401954088743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

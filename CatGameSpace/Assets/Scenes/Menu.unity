@@ -1477,7 +1477,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &33242171
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9914,7 +9914,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &494845121
 RectTransform:
   m_ObjectHideFlags: 0
@@ -10640,7 +10640,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: century_Normal_01
+          m_StringArgument: sk_Normal_01
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &532028655
@@ -14254,7 +14254,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 92.7, y: 198.3}
-  m_SizeDelta: {x: 1330, y: 667.6}
+  m_SizeDelta: {x: 1600, y: 667.6}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &778790860
 MonoBehaviour:
@@ -14276,7 +14276,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 4700198119621355365, guid: eeebc3efecf6e6940b51030c053af42a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1c5a9f15fe73d0f4d82a092e87850b73, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -24880,7 +24880,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: century_Normal_01
+          m_StringArgument: sk_Normal_01
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1242500934
@@ -25504,7 +25504,7 @@ MonoBehaviour:
   - {fileID: 1966063810}
   leaderListItemPrefab: {fileID: 7128952877530414385, guid: d8665f52e6b3f674fac0412c4339a4db, type: 3}
   leaderboards:
-  - id: century_Normal_01
+  - id: sk_Normal_01
     globalContentParent: {fileID: 1107819741}
     friendContentParent: {fileID: 24916984}
     selfStatsUI: {fileID: 996472342}
@@ -26669,7 +26669,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: https://steamcommunity.com/app/3809500/discussions/
+          m_StringArgument: https://steamcommunity.com/app/3911810/discussions/
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1333868197
@@ -36790,7 +36790,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1968025061
 RectTransform:
   m_ObjectHideFlags: 0

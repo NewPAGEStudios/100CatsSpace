@@ -1,0 +1,5187 @@
+fileFormatVersion: 2
+guid: 90828aafffa282d4f8d78ccbe088e601
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6894825346831416397
+    second: japan2_01_Display_0
+  - first:
+      213: -4341103619347382281
+    second: japan2_01_Display_1
+  - first:
+      213: -4868234351958272488
+    second: japan2_01_Display_2
+  - first:
+      213: 7996774345833235012
+    second: japan2_01_Display_3
+  - first:
+      213: -7500718803461200156
+    second: japan2_01_Display_4
+  - first:
+      213: 5789522853589772307
+    second: japan2_01_Display_5
+  - first:
+      213: 7938262332302739650
+    second: japan2_01_Display_6
+  - first:
+      213: -8896316137414039633
+    second: japan2_01_Display_7
+  - first:
+      213: -7854937075198342452
+    second: japan2_01_Display_8
+  - first:
+      213: -7994814236281445368
+    second: japan2_01_Display_9
+  - first:
+      213: 3495862192078599122
+    second: japan2_01_Display_10
+  - first:
+      213: -5713655329354945940
+    second: japan2_01_Display_11
+  - first:
+      213: -4033516438443971696
+    second: japan2_01_Display_12
+  - first:
+      213: -886000055659550794
+    second: japan2_01_Display_13
+  - first:
+      213: 4919395751438441164
+    second: japan2_01_Display_14
+  - first:
+      213: -3079301800781837259
+    second: japan2_01_Display_15
+  - first:
+      213: 3358449953830647149
+    second: japan2_01_Display_16
+  - first:
+      213: -7300483885956329314
+    second: japan2_01_Display_17
+  - first:
+      213: -5602817495508983804
+    second: japan2_01_Display_18
+  - first:
+      213: 2987642052099790401
+    second: japan2_01_Display_19
+  - first:
+      213: -3762756567733492565
+    second: japan2_01_Display_20
+  - first:
+      213: 2979159237920765284
+    second: japan2_01_Display_21
+  - first:
+      213: 7400298765805290338
+    second: japan2_01_Display_22
+  - first:
+      213: -4394829682435324993
+    second: japan2_01_Display_23
+  - first:
+      213: 3814249759680644386
+    second: japan2_01_Display_24
+  - first:
+      213: -8039755114560954164
+    second: japan2_01_Display_25
+  - first:
+      213: -1537017586147259228
+    second: japan2_01_Display_26
+  - first:
+      213: 874193281987704817
+    second: japan2_01_Display_27
+  - first:
+      213: 3116975303925145998
+    second: japan2_01_Display_28
+  - first:
+      213: -6761281787302009657
+    second: japan2_01_Display_29
+  - first:
+      213: 6545945160948186280
+    second: japan2_01_Display_30
+  - first:
+      213: 4819377696961047551
+    second: japan2_01_Display_31
+  - first:
+      213: -8732662108845867321
+    second: japan2_01_Display_32
+  - first:
+      213: 4628105835821735366
+    second: japan2_01_Display_33
+  - first:
+      213: -7254887542991980621
+    second: japan2_01_Display_34
+  - first:
+      213: 7567238739214991039
+    second: japan2_01_Display_35
+  - first:
+      213: -565859714002906664
+    second: japan2_01_Display_36
+  - first:
+      213: 2269272777419977677
+    second: japan2_01_Display_37
+  - first:
+      213: -232753507409431402
+    second: japan2_01_Display_38
+  - first:
+      213: -8805849169431784917
+    second: japan2_01_Display_39
+  - first:
+      213: -1220332502992733953
+    second: japan2_01_Display_40
+  - first:
+      213: 6519068843684933891
+    second: japan2_01_Display_41
+  - first:
+      213: 4039869608929475089
+    second: japan2_01_Display_42
+  - first:
+      213: -4547487698578405854
+    second: japan2_01_Display_43
+  - first:
+      213: 3912794225805995738
+    second: japan2_01_Display_44
+  - first:
+      213: 8356323393987382019
+    second: japan2_01_Display_45
+  - first:
+      213: -1655836822510337286
+    second: japan2_01_Display_46
+  - first:
+      213: 2186607618088255877
+    second: japan2_01_Display_47
+  - first:
+      213: 7399826225486002747
+    second: japan2_01_Display_48
+  - first:
+      213: 3670218415578899029
+    second: japan2_01_Display_49
+  - first:
+      213: -4991090184623765951
+    second: japan2_01_Display_50
+  - first:
+      213: 4277711919170900527
+    second: japan2_01_Display_51
+  - first:
+      213: 6442476732023070130
+    second: japan2_01_Display_52
+  - first:
+      213: 6446428299619791487
+    second: japan2_01_Display_53
+  - first:
+      213: -1138879810327277060
+    second: japan2_01_Display_54
+  - first:
+      213: -8842505600507516705
+    second: japan2_01_Display_55
+  - first:
+      213: -2689717465608052542
+    second: japan2_01_Display_56
+  - first:
+      213: -8561066028117544605
+    second: japan2_01_Display_57
+  - first:
+      213: 3428664449908275354
+    second: japan2_01_Display_58
+  - first:
+      213: -3074532332085878305
+    second: japan2_01_Display_59
+  - first:
+      213: -7524054534117767714
+    second: japan2_01_Display_60
+  - first:
+      213: 858923600422235159
+    second: japan2_01_Display_61
+  - first:
+      213: 674692429486586885
+    second: japan2_01_Display_62
+  - first:
+      213: 4728455408415383110
+    second: japan2_01_Display_63
+  - first:
+      213: -2593159906993201912
+    second: japan2_01_Display_64
+  - first:
+      213: 3373396394664975443
+    second: japan2_01_Display_65
+  - first:
+      213: -7970982899769823894
+    second: japan2_01_Display_66
+  - first:
+      213: -4202249752869048995
+    second: japan2_01_Display_67
+  - first:
+      213: 6032652517783656434
+    second: japan2_01_Display_68
+  - first:
+      213: -7689038214819142537
+    second: japan2_01_Display_69
+  - first:
+      213: 1530279533664527308
+    second: japan2_01_Display_70
+  - first:
+      213: -86908853128430398
+    second: japan2_01_Display_71
+  - first:
+      213: -7325509209210952185
+    second: japan2_01_Display_72
+  - first:
+      213: 5866981563115814508
+    second: japan2_01_Display_73
+  - first:
+      213: -6845660767811502476
+    second: japan2_01_Display_74
+  - first:
+      213: 2510081714871668577
+    second: japan2_01_Display_75
+  - first:
+      213: -1466975782768474088
+    second: japan2_01_Display_76
+  - first:
+      213: -623402158076697365
+    second: japan2_01_Display_77
+  - first:
+      213: -6210985134347655264
+    second: japan2_01_Display_78
+  - first:
+      213: -6084927180921842650
+    second: japan2_01_Display_79
+  - first:
+      213: -7024078676693770501
+    second: japan2_01_Display_80
+  - first:
+      213: 7988013631248691405
+    second: japan2_01_Display_81
+  - first:
+      213: 660269172535073576
+    second: japan2_01_Display_82
+  - first:
+      213: 8604536854923076930
+    second: japan2_01_Display_83
+  - first:
+      213: 6306311598929041835
+    second: japan2_01_Display_84
+  - first:
+      213: 7408132491371510908
+    second: japan2_01_Display_85
+  - first:
+      213: 4195416432920364823
+    second: japan2_01_Display_86
+  - first:
+      213: 2767462361428217981
+    second: japan2_01_Display_87
+  - first:
+      213: -2331824208451468935
+    second: japan2_01_Display_88
+  - first:
+      213: -7499535318442348295
+    second: japan2_01_Display_89
+  - first:
+      213: 3776006338722310740
+    second: japan2_01_Display_90
+  - first:
+      213: -6659942539885003169
+    second: japan2_01_Display_91
+  - first:
+      213: 3116722907652365158
+    second: japan2_01_Display_92
+  - first:
+      213: 2951764215669725820
+    second: japan2_01_Display_93
+  - first:
+      213: -1152282640656489576
+    second: japan2_01_Display_94
+  - first:
+      213: 3698471074437155698
+    second: japan2_01_Display_95
+  - first:
+      213: 613614960264560441
+    second: japan2_01_Display_96
+  - first:
+      213: 3779071190805418740
+    second: japan2_01_Display_97
+  - first:
+      213: -1095087678800844239
+    second: japan2_01_Display_98
+  - first:
+      213: 7827679283608437154
+    second: japan2_01_Display_99
+  - first:
+      213: 4862291425420943075
+    second: japan2_01_Display_100
+  - first:
+      213: -2591008704161046231
+    second: japan2_01_Display_101
+  - first:
+      213: -8265420933302722005
+    second: japan2_01_Display_102
+  - first:
+      213: -5450279117834706511
+    second: japan2_01_Display_103
+  - first:
+      213: -8267424240865626164
+    second: japan2_01_Display_104
+  - first:
+      213: 2899972070125405905
+    second: japan2_01_Display_105
+  - first:
+      213: 1273179231192956238
+    second: japan2_01_Display_106
+  - first:
+      213: -7609205210287952981
+    second: japan2_01_Display_107
+  - first:
+      213: -4895380803979691084
+    second: japan2_01_Display_108
+  - first:
+      213: -8539734092253413036
+    second: japan2_01_Display_109
+  - first:
+      213: 7254178164265565657
+    second: japan2_01_Display_110
+  - first:
+      213: -1089647306347737729
+    second: japan2_01_Display_111
+  - first:
+      213: 5898126189602379073
+    second: japan2_01_Display_112
+  - first:
+      213: -2344419040096345211
+    second: japan2_01_Display_113
+  - first:
+      213: 5993030877614474943
+    second: japan2_01_Display_114
+  - first:
+      213: 2219952265699251574
+    second: japan2_01_Display_115
+  - first:
+      213: -1780645308164584939
+    second: japan2_01_Display_116
+  - first:
+      213: 5414698720794745010
+    second: japan2_01_Display_117
+  - first:
+      213: -3814915872933833889
+    second: japan2_01_Display_118
+  - first:
+      213: 481103323810034138
+    second: japan2_01_Display_119
+  - first:
+      213: -1600085771952908237
+    second: japan2_01_Display_120
+  - first:
+      213: 2256825795139952743
+    second: japan2_01_Display_121
+  - first:
+      213: -2892584842334638577
+    second: japan2_01_Display_122
+  - first:
+      213: 4987570765152497263
+    second: japan2_01_Display_123
+  - first:
+      213: -7413914588057864585
+    second: japan2_01_Display_124
+  - first:
+      213: -618634554046659289
+    second: japan2_01_Display_125
+  - first:
+      213: 5886328081415039179
+    second: japan2_01_Display_126
+  - first:
+      213: -2872716033482347937
+    second: japan2_01_Display_127
+  - first:
+      213: -3466679054117440475
+    second: japan2_01_Display_128
+  - first:
+      213: -1531895505772489873
+    second: japan2_01_Display_129
+  - first:
+      213: -3834606560189125821
+    second: japan2_01_Display_130
+  - first:
+      213: 7683920107391159181
+    second: japan2_01_Display_131
+  - first:
+      213: 1893586096809013352
+    second: japan2_01_Display_132
+  - first:
+      213: -6793337025977025603
+    second: japan2_01_Display_133
+  - first:
+      213: -3479753174930831463
+    second: japan2_01_Display_134
+  - first:
+      213: -6796961790104913450
+    second: japan2_01_Display_135
+  - first:
+      213: -1701708653735962474
+    second: japan2_01_Display_136
+  - first:
+      213: -5390395912132897212
+    second: japan2_01_Display_137
+  - first:
+      213: 5569937273620164028
+    second: japan2_01_Display_138
+  - first:
+      213: 1054373406159733665
+    second: japan2_01_Display_139
+  - first:
+      213: 6436155358744555454
+    second: japan2_01_Display_140
+  - first:
+      213: 4465328960122447056
+    second: japan2_01_Display_141
+  - first:
+      213: -2126547822653279055
+    second: japan2_01_Display_142
+  - first:
+      213: 5166691145072588109
+    second: japan2_01_Display_143
+  - first:
+      213: 6902536007737607693
+    second: japan2_01_Display_144
+  - first:
+      213: 3985969956679920754
+    second: japan2_01_Display_145
+  - first:
+      213: -5638302707844571768
+    second: japan2_01_Display_146
+  - first:
+      213: 4181302215344065824
+    second: japan2_01_Display_147
+  - first:
+      213: 5191523926507091749
+    second: japan2_01_Display_148
+  - first:
+      213: 2399570579851520264
+    second: japan2_01_Display_149
+  - first:
+      213: -8935759809107989587
+    second: japan2_01_Display_150
+  - first:
+      213: 8896742825670733223
+    second: japan2_01_Display_151
+  - first:
+      213: 4368953364670816917
+    second: japan2_01_Display_152
+  - first:
+      213: -6382859537090150360
+    second: japan2_01_Display_153
+  - first:
+      213: 7699919947749586140
+    second: japan2_01_Display_154
+  - first:
+      213: -1911042754244770873
+    second: japan2_01_Display_155
+  - first:
+      213: -1809914648689341576
+    second: japan2_01_Display_156
+  - first:
+      213: -8425077384618425618
+    second: japan2_01_Display_157
+  - first:
+      213: 7547172547562762263
+    second: japan2_01_Display_158
+  - first:
+      213: 5700902174850903214
+    second: japan2_01_Display_159
+  - first:
+      213: -4695927834722788276
+    second: japan2_01_Display_160
+  - first:
+      213: 2536257520731305248
+    second: japan2_01_Display_161
+  - first:
+      213: 5906423523537685009
+    second: japan2_01_Display_162
+  - first:
+      213: 3630250976532430007
+    second: japan2_01_Display_163
+  - first:
+      213: 1596379914513967415
+    second: japan2_01_Display_164
+  - first:
+      213: -5757613708124182426
+    second: japan2_01_Display_165
+  - first:
+      213: -3305301426390061085
+    second: japan2_01_Display_166
+  - first:
+      213: -7449732910931520248
+    second: japan2_01_Display_167
+  - first:
+      213: -5523168812729877047
+    second: japan2_01_Display_168
+  - first:
+      213: -4105398642972290423
+    second: japan2_01_Display_169
+  - first:
+      213: -274794548436531042
+    second: japan2_01_Display_170
+  - first:
+      213: -7206264751907937954
+    second: japan2_01_Display_171
+  - first:
+      213: 6729106872431066626
+    second: japan2_01_Display_172
+  - first:
+      213: 2031749300186693739
+    second: japan2_01_Display_173
+  - first:
+      213: 7274392245790864879
+    second: japan2_01_Display_174
+  - first:
+      213: 5397454976046060961
+    second: japan2_01_Display_175
+  - first:
+      213: 8484538322321920033
+    second: japan2_01_Display_176
+  - first:
+      213: 5333172579726648036
+    second: japan2_01_Display_177
+  - first:
+      213: 1811505100456417597
+    second: japan2_01_Display_178
+  - first:
+      213: 7450109851373451727
+    second: japan2_01_Display_179
+  - first:
+      213: 8455261524894661349
+    second: japan2_01_Display_180
+  - first:
+      213: -6302680621621849191
+    second: japan2_01_Display_181
+  - first:
+      213: 4656968203058502328
+    second: japan2_01_Display_182
+  - first:
+      213: 6907231737219707619
+    second: japan2_01_Display_183
+  - first:
+      213: -7666546914069012738
+    second: japan2_01_Display_184
+  - first:
+      213: 7311389968779836070
+    second: japan2_01_Display_185
+  - first:
+      213: 8698637327742807026
+    second: japan2_01_Display_186
+  - first:
+      213: 4381000848349912447
+    second: japan2_01_Display_187
+  - first:
+      213: 2907736888968252380
+    second: japan2_01_Display_188
+  - first:
+      213: -6366816428460427790
+    second: japan2_01_Display_189
+  - first:
+      213: -7507119104715809449
+    second: japan2_01_Display_190
+  - first:
+      213: -7954593332426375339
+    second: japan2_01_Display_191
+  - first:
+      213: -3646390689242147195
+    second: japan2_01_Display_192
+  - first:
+      213: -4060815329175267815
+    second: japan2_01_Display_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: japan2_01_Display_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2615
+        width: 654
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b301cd90e8a050a0800000000000000
+      internalID: -6894825346831416397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1518
+        width: 654
+        height: 1465
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fff2a3224d41c3c0800000000000000
+      internalID: -4341103619347382281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2796
+        width: 4303
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165c2066ae807cb0800000000000000
+      internalID: -4868234351958272488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 2486
+        width: 22
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c85816ef3afe60800000000000000
+      internalID: 7996774345833235012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_4
+      rect:
+        serializedVersion: 2
+        x: 4072
+        y: 2486
+        width: 22
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e62a9f1df718e790800000000000000
+      internalID: -7500718803461200156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_5
+      rect:
+        serializedVersion: 2
+        x: 4293
+        y: 725
+        width: 707
+        height: 2275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31869337c54885050800000000000000
+      internalID: 5789522853589772307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2614
+        width: 258
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8c4c2588f5a2e60800000000000000
+      internalID: 7938262332302739650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_7
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2614
+        width: 3134
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa76cd39b9fe98480800000000000000
+      internalID: -8896316137414039633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_8
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2614
+        width: 196
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccac1cbe858adf290800000000000000
+      internalID: -7854937075198342452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1037
+        width: 556
+        height: 1576
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80465397fc6bc0190800000000000000
+      internalID: -7994814236281445368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_10
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1010
+        width: 2615
+        height: 1603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3309e442cc38030800000000000000
+      internalID: 3495862192078599122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_11
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 713
+        width: 562
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ae7cc00c405b0b0800000000000000
+      internalID: -5713655329354945940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_12
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 2288
+        width: 179
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b29d27b221608c0800000000000000
+      internalID: -4033516438443971696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_13
+      rect:
+        serializedVersion: 2
+        x: 4077
+        y: 926
+        width: 215
+        height: 1687
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7af63c4ab44b3f0800000000000000
+      internalID: -886000055659550794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_14
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2252
+        width: 159
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccadd023f54354440800000000000000
+      internalID: 4919395751438441164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_15
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 2201
+        width: 199
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c8d28b35f1445d0800000000000000
+      internalID: -3079301800781837259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_16
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 2149
+        width: 209
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65b00e607c9b9e20800000000000000
+      internalID: 3358449953830647149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_17
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 2096
+        width: 209
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901c19d5987faa90800000000000000
+      internalID: -7300483885956329314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_18
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 2044
+        width: 195
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400e7de3c2bce32b0800000000000000
+      internalID: -5602817495508983804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_19
+      rect:
+        serializedVersion: 2
+        x: 3998
+        y: 1998
+        width: 163
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1465d6ffd9c367920800000000000000
+      internalID: 2987642052099790401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_20
+      rect:
+        serializedVersion: 2
+        x: 3991
+        y: 1948
+        width: 177
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba42afb66d008cbc0800000000000000
+      internalID: -3762756567733492565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1396
+        width: 64
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4653799ea89185920800000000000000
+      internalID: 2979159237920765284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1398
+        width: 144
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263069fd48423b660800000000000000
+      internalID: 7400298765805290338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_23
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1399
+        width: 139
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3891a40bd6203c0800000000000000
+      internalID: -4394829682435324993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1483
+        width: 114
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225426a92ffeee430800000000000000
+      internalID: 3814249759680644386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_25
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 1408
+        width: 313
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0e67bd15d0d6090800000000000000
+      internalID: -8039755114560954164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_26
+      rect:
+        serializedVersion: 2
+        x: 4054
+        y: 1641
+        width: 57
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac0a2c16aa6baae0800000000000000
+      internalID: -1537017586147259228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1095
+        width: 64
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f8e58822c12c00800000000000000
+      internalID: 874193281987704817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1107
+        width: 144
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81af144688b14b20800000000000000
+      internalID: 3116975303925145998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_29
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1131
+        width: 149
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4ab89890a1b22a0800000000000000
+      internalID: -6761281787302009657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_30
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1262
+        width: 387
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acf085217ed7da50800000000000000
+      internalID: 6545945160948186280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1063
+        width: 358
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbadc13b7ed1e240800000000000000
+      internalID: 4819377696961047551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_32
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1105
+        width: 372
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce7ab2641a5fc680800000000000000
+      internalID: -8732662108845867321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_33
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 1285
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd1117acb55a3040800000000000000
+      internalID: 4628105835821735366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_34
+      rect:
+        serializedVersion: 2
+        x: 4052
+        y: 1330
+        width: 143
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b77e8ab736715b90800000000000000
+      internalID: -7254887542991980621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_35
+      rect:
+        serializedVersion: 2
+        x: 4070
+        y: 1181
+        width: 26
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbefb755a8b340960800000000000000
+      internalID: 7567238739214991039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 863
+        width: 148
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d117229699a528f0800000000000000
+      internalID: -565859714002906664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_37
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 907
+        width: 129
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f49461931e7f10800000000000000
+      internalID: 2269272777419977677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_38
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 988
+        width: 199
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69472ae0be715ccf0800000000000000
+      internalID: -232753507409431402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_39
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 932
+        width: 87
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b229956f5d65bc580800000000000000
+      internalID: -8805849169431784917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_40
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 925
+        width: 299
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8314bdd02801fe0800000000000000
+      internalID: -1220332502992733953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_41
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 989
+        width: 367
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3013826e292687a50800000000000000
+      internalID: 6519068843684933891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_42
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 805
+        width: 346
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a33235100801830800000000000000
+      internalID: 4039869608929475089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_43
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 835
+        width: 399
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22686c1280414e0c0800000000000000
+      internalID: -4547487698578405854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_44
+      rect:
+        serializedVersion: 2
+        x: 3230
+        y: 828
+        width: 380
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adead541e990d4630800000000000000
+      internalID: 3912794225805995738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_45
+      rect:
+        serializedVersion: 2
+        x: 4020
+        y: 1138
+        width: 107
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b87e66adf97f370800000000000000
+      internalID: 8356323393987382019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_46
+      rect:
+        serializedVersion: 2
+        x: 4286
+        y: 791
+        width: 372
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af28244de294509e0800000000000000
+      internalID: -1655836822510337286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 64
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58140532b04685e10800000000000000
+      internalID: 2186607618088255877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 820
+        width: 144
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a76b10fb671b660800000000000000
+      internalID: 7399826225486002747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_49
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 722
+        width: 266
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5526dac043c3fe230800000000000000
+      internalID: 3670218415578899029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_50
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 884
+        width: 499
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146cf87cbe51cbab0800000000000000
+      internalID: -4991090184623765951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_51
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1029
+        width: 121
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d2a1835c7d5b30800000000000000
+      internalID: 4277711919170900527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_52
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 999
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd54fd3476486950800000000000000
+      internalID: 6442476732023070130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_53
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1025
+        width: 244
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72fcd44260567950800000000000000
+      internalID: 6446428299619791487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_54
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1007
+        width: 109
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf11497b8d2e130f0800000000000000
+      internalID: -1138879810327277060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_55
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1010
+        width: 448
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e855810c194580800000000000000
+      internalID: -8842505600507516705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_56
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1010
+        width: 491
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0a44c37343caad0800000000000000
+      internalID: -2689717465608052542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 664
+        width: 104
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361b36f4ecbf03980800000000000000
+      internalID: -8561066028117544605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_58
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 710
+        width: 120
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98faceb620159f20800000000000000
+      internalID: 3428664449908275354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_59
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 809
+        width: 330
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1619f22211555d0800000000000000
+      internalID: -3074532332085878305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_60
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 862
+        width: 534
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed54e3fe340359790800000000000000
+      internalID: -7524054534117767714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_61
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 713
+        width: 401
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ced5cb6728beb00800000000000000
+      internalID: 858923600422235159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_62
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 757
+        width: 139
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c7130a03dfc5900800000000000000
+      internalID: 674692429486586885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_63
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 713
+        width: 508
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e9fda3429de9140800000000000000
+      internalID: 4728455408415383110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_64
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 672
+        width: 219
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d92e1cdce330cd0800000000000000
+      internalID: -2593159906993201912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_65
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 904
+        width: 101
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cd69ed526b0de20800000000000000
+      internalID: 3373396394664975443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_66
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 791
+        width: 119
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6da184e841616190800000000000000
+      internalID: -7970982899769823894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_67
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 694
+        width: 225
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d64ce3d1c9ea5c0800000000000000
+      internalID: -4202249752869048995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_68
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 612
+        width: 291
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f75cd7a08948b350800000000000000
+      internalID: 6032652517783656434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_69
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 896
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7742d4d5b7c0b4590800000000000000
+      internalID: -7689038214819142537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_70
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 713
+        width: 518
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3ef1bc025ac3510800000000000000
+      internalID: 1530279533664527308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_71
+      rect:
+        serializedVersion: 2
+        x: 3104
+        y: 608
+        width: 237
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc7179cbdc3bcef0800000000000000
+      internalID: -86908853128430398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_72
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 696
+        width: 134
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e02abf20965a90800000000000000
+      internalID: -7325509209210952185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_73
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 817
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eb845a5a4bb6150800000000000000
+      internalID: 5866981563115814508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_74
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 802
+        width: 157
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e74c13dc35ff0a0800000000000000
+      internalID: -6845660767811502476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_75
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 552
+        width: 220
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f012c450a95d220800000000000000
+      internalID: 2510081714871668577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_76
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 653
+        width: 674
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8180cf54c4144abe0800000000000000
+      internalID: -1466975782768474088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_77
+      rect:
+        serializedVersion: 2
+        x: 3846
+        y: 546
+        width: 33
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be460a74a0b3957f0800000000000000
+      internalID: -623402158076697365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_78
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 713
+        width: 1145
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7e9f17de52ec9a0800000000000000
+      internalID: -6210985134347655264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 566
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d801e7fefd8ba0800000000000000
+      internalID: -6084927180921842650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_80
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 538
+        width: 144
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe9541a8a5758e90800000000000000
+      internalID: -7024078676693770501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 600
+        width: 148
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc07e8743102bde60800000000000000
+      internalID: 7988013631248691405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_82
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 366
+        width: 512
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b181d605fb92900800000000000000
+      internalID: 660269172535073576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_83
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 750
+        width: 166
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24562764ea4796770800000000000000
+      internalID: 8604536854923076930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_84
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 738
+        width: 221
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95719acf4848750800000000000000
+      internalID: 6306311598929041835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_85
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 690
+        width: 535
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c7a3d3049fec660800000000000000
+      internalID: 7408132491371510908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_86
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 662
+        width: 157
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7170e09740d193a30800000000000000
+      internalID: 4195416432920364823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_87
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 551
+        width: 226
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d705136ea50086620800000000000000
+      internalID: 2767462361428217981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_88
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 718
+        width: 105
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9710898ac32b3afd0800000000000000
+      internalID: -2331824208451468935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_89
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 622
+        width: 165
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f07fb3bc5c4ce790800000000000000
+      internalID: -7499535318442348295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_90
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 662
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aaa2942c1176430800000000000000
+      internalID: 3776006338722310740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_91
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 695
+        width: 181
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e34adbb812393a0800000000000000
+      internalID: -6659942539885003169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_92
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 773
+        width: 178
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66b11fda8f2d04b20800000000000000
+      internalID: 3116722907652365158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_93
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 600
+        width: 192
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a14bf3ae5c6f820800000000000000
+      internalID: 2951764215669725820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_94
+      rect:
+        serializedVersion: 2
+        x: 4075
+        y: 599
+        width: 101
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89322da1b054200f0800000000000000
+      internalID: -1152282640656489576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_95
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 396
+        width: 40
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b42ebc8db935330800000000000000
+      internalID: 3698471074437155698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_96
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 707
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f3f672e8ff38800800000000000000
+      internalID: 613614960264560441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_97
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 317
+        width: 326
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f29ed4c935f17430800000000000000
+      internalID: 3779071190805418740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_98
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 335
+        width: 321
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a2b23ee877dc0f0800000000000000
+      internalID: -1095087678800844239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_99
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 676
+        width: 241
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a14a2be5d081ac60800000000000000
+      internalID: 7827679283608437154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_100
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 626
+        width: 169
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee94a63a445a7340800000000000000
+      internalID: 4862291425420943075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_101
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 624
+        width: 162
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9212982bf43ea0cd0800000000000000
+      internalID: -2591008704161046231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_102
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 679
+        width: 186
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22e96704735b4d80800000000000000
+      internalID: -8265420933302722005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_103
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 604
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1abb6e408bc54b0800000000000000
+      internalID: -5450279117834706511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_104
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 612
+        width: 181
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc730c3a475344d80800000000000000
+      internalID: -8267424240865626164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_105
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 612
+        width: 165
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6016aab35ce3820800000000000000
+      internalID: 2899972070125405905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_106
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 619
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d39a2e3cd3ba110800000000000000
+      internalID: 1273179231192956238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_107
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 626
+        width: 307
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab2cb13d2ca66690800000000000000
+      internalID: -7609205210287952981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_108
+      rect:
+        serializedVersion: 2
+        x: 3333
+        y: 619
+        width: 209
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb368a781d101cb0800000000000000
+      internalID: -4895380803979691084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_109
+      rect:
+        serializedVersion: 2
+        x: 3677
+        y: 626
+        width: 168
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45141faa615cc7980800000000000000
+      internalID: -8539734092253413036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_110
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 609
+        width: 253
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddb17a2b940ca460800000000000000
+      internalID: 7254178164265565657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_111
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 654
+        width: 478
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8eae4c8bc0e0f0800000000000000
+      internalID: -1089647306347737729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 580
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1459da3158a5ad150800000000000000
+      internalID: 5898126189602379073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_113
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 645
+        width: 282
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5832566ed43f67fd0800000000000000
+      internalID: -2344419040096345211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_114
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 454
+        width: 227
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6882ca4d58b2350800000000000000
+      internalID: 5993030877614474943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_115
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 612
+        width: 144
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d357e2dadece10800000000000000
+      internalID: 2219952265699251574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_116
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 591
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a42e7c680e947e0800000000000000
+      internalID: -1780645308164584939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_117
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 652
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b89bba5ccfd42b40800000000000000
+      internalID: 5414698720794745010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_118
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 595
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5397c1d932be0bc0800000000000000
+      internalID: -3814915872933833889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_119
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 593
+        width: 183
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f4fb8ce83da600800000000000000
+      internalID: 481103323810034138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_120
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 642
+        width: 283
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3381790d77a5bc9e0800000000000000
+      internalID: -1600085771952908237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_121
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 574
+        width: 151
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760614f7a1bd15f10800000000000000
+      internalID: 2256825795139952743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_122
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 619
+        width: 123
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ee6f559697bd7d0800000000000000
+      internalID: -2892584842334638577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_123
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 546
+        width: 301
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ea9058f29673540800000000000000
+      internalID: 4987570765152497263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_124
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 614
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77679b776fb7c1990800000000000000
+      internalID: -7413914588057864585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_125
+      rect:
+        serializedVersion: 2
+        x: 4473
+        y: 146
+        width: 47
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7254448962b2a67f0800000000000000
+      internalID: -618634554046659289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_126
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 146
+        width: 478
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc86624f33070b150800000000000000
+      internalID: 5886328081415039179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_127
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 519
+        width: 249
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a27b3ecff0228d0800000000000000
+      internalID: -2872716033482347937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_128
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 534
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524fa0d74c1e3efc0800000000000000
+      internalID: -3466679054117440475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_129
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 495
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63d961672d9dbae0800000000000000
+      internalID: -1531895505772489873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_130
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 557
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b6b8e66adb8cac0800000000000000
+      internalID: -3834606560189125821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_131
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 568
+        width: 248
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b088360a4c2aa60800000000000000
+      internalID: 7683920107391159181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_132
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 612
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8607bebb58e574a10800000000000000
+      internalID: 1893586096809013352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_133
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 598
+        width: 117
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb712fa7f739b1a0800000000000000
+      internalID: -6793337025977025603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_134
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 612
+        width: 229
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997c5368cee65bfc0800000000000000
+      internalID: -3479753174930831463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_135
+      rect:
+        serializedVersion: 2
+        x: 2821
+        y: 612
+        width: 68
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9b4e483475ca1a0800000000000000
+      internalID: -6796961790104913450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_136
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 590
+        width: 120
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6981cd6def05268e0800000000000000
+      internalID: -1701708653735962474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_137
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 544
+        width: 131
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d99a3a777135b0800000000000000
+      internalID: -5390395912132897212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_138
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 551
+        width: 123
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd665780746c4d40800000000000000
+      internalID: 5569937273620164028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_139
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 519
+        width: 167
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a305cec603e1ae00800000000000000
+      internalID: 1054373406159733665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_140
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 519
+        width: 238
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf2235d231d15950800000000000000
+      internalID: 6436155358744555454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_141
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 563
+        width: 96
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4ec59e70908fd30800000000000000
+      internalID: 4465328960122447056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_142
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 589
+        width: 137
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4fed0b50cfc72e0800000000000000
+      internalID: -2126547822653279055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_143
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 596
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45353ed836c3b740800000000000000
+      internalID: 5166691145072588109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_144
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 527
+        width: 163
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d060b868debbacf50800000000000000
+      internalID: 6902536007737607693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_145
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 602
+        width: 97
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c29499e82015730800000000000000
+      internalID: 3985969956679920754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_146
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 596
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d1dca6f89b0c1b0800000000000000
+      internalID: -5638302707844571768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_147
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 317
+        width: 222
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d032c1638f60a30800000000000000
+      internalID: 4181302215344065824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_148
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 518
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527756a518ffb0840800000000000000
+      internalID: 5191523926507091749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_149
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 57
+        width: 244
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80927899abcfc4120800000000000000
+      internalID: 2399570579851520264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_150
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 57
+        width: 2672
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabe7eb1ccdcdf380800000000000000
+      internalID: -8935759809107989587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_151
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 351
+        width: 419
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adeb168674977b70800000000000000
+      internalID: 8896742825670733223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_152
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 253
+        width: 1410
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592a37dffe3a1ac30800000000000000
+      internalID: 4368953364670816917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_153
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 343
+        width: 487
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8200780a1178b67a0800000000000000
+      internalID: -6382859537090150360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_154
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 58
+        width: 419
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4fe84856c9bda60800000000000000
+      internalID: 7699919947749586140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_155
+      rect:
+        serializedVersion: 2
+        x: 3880
+        y: 174
+        width: 593
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c308aa7dbc9a75e0800000000000000
+      internalID: -1911042754244770873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_156
+      rect:
+        serializedVersion: 2
+        x: 3881
+        y: 420
+        width: 296
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b88136734e1e6e0800000000000000
+      internalID: -1809914648689341576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_157
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 528
+        width: 89
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee244a4b1cc141b80800000000000000
+      internalID: -8425077384618425618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_158
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 463
+        width: 254
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710fe040271fcb860800000000000000
+      internalID: 7547172547562762263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_159
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 512
+        width: 242
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac6d37c25cad1f40800000000000000
+      internalID: 5700902174850903214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_160
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 383
+        width: 468
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9a70b386b4deb0800000000000000
+      internalID: -4695927834722788276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_161
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 242
+        width: 166
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0253a1607c8923320800000000000000
+      internalID: 2536257520731305248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_162
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 383
+        width: 157
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a897da6e4d7f150800000000000000
+      internalID: 5906423523537685009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_163
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 239
+        width: 453
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcfabd770e316230800000000000000
+      internalID: 3630250976532430007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_164
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 348
+        width: 201
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7396c23031b772610800000000000000
+      internalID: 1596379914513967415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_165
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 292
+        width: 188
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668a65d66d8d810b0800000000000000
+      internalID: -5757613708124182426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_166
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 289
+        width: 178
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efad6c6dd53122d0800000000000000
+      internalID: -3305301426390061085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_167
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 383
+        width: 369
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805d36c436b3d9890800000000000000
+      internalID: -7449732910931520248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 451
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd38b25a33c953b0800000000000000
+      internalID: -5523168812729877047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_169
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 239
+        width: 301
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98214408fa1b607c0800000000000000
+      internalID: -4105398642972290423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_170
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 156
+        width: 272
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e980a3a60dbbf2cf0800000000000000
+      internalID: -274794548436531042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_171
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 236
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51eb1973643efb90800000000000000
+      internalID: -7206264751907937954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_172
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 239
+        width: 288
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb4e25c07926d50800000000000000
+      internalID: 6729106872431066626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_173
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 192
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60c64e4939323c10800000000000000
+      internalID: 2031749300186693739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_174
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 79
+        width: 298
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57837c435d3f460800000000000000
+      internalID: 7274392245790864879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_175
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 239
+        width: 409
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5d36a24bc97ea40800000000000000
+      internalID: 5397454976046060961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 179
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120df21b6a22fb570800000000000000
+      internalID: 8484538322321920033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_177
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 545
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2e574743c330a40800000000000000
+      internalID: 5333172579726648036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_178
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 100
+        width: 517
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3953858a42c32910800000000000000
+      internalID: 1811505100456417597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_179
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 100
+        width: 207
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9b0ccff6b146760800000000000000
+      internalID: 7450109851373451727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_180
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 100
+        width: 167
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eabf5a1f8f175570800000000000000
+      internalID: 8455261524894661349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_181
+      rect:
+        serializedVersion: 2
+        x: 3897
+        y: 0
+        width: 866
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993dd7f1e516888a0800000000000000
+      internalID: -6302680621621849191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_182
+      rect:
+        serializedVersion: 2
+        x: 4122
+        y: 100
+        width: 661
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba579138efd0a040800000000000000
+      internalID: 4656968203058502328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_183
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 99
+        width: 293
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f84e3baa6bdf50800000000000000
+      internalID: 6907231737219707619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 344
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9c056334fa9590800000000000000
+      internalID: -7666546914069012738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_185
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 498
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aaf97f6076477560800000000000000
+      internalID: 7311389968779836070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_186
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 481
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb201eef84c7b870800000000000000
+      internalID: 8698637327742807026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_187
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 492
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dd49e5f017ccc30800000000000000
+      internalID: 4381000848349912447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_188
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 0
+        width: 478
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb804f6b4b5a5820800000000000000
+      internalID: 2907736888968252380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_189
+      rect:
+        serializedVersion: 2
+        x: 2126
+        y: 0
+        width: 514
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5be7fe03684a7a0800000000000000
+      internalID: -6366816428460427790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_190
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 0
+        width: 449
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d9ddcd2fa51d790800000000000000
+      internalID: -7507119104715809449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_191
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 482
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ff808628b9b9190800000000000000
+      internalID: -7954593332426375339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_192
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 0
+        width: 377
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5861e6fccfa656dc0800000000000000
+      internalID: -3646390689242147195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: japan2_01_Display_193
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 0
+        width: 375
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9161c0629f515a7c0800000000000000
+      internalID: -4060815329175267815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      japan2_01_Display_0: -6894825346831416397
+      japan2_01_Display_1: -4341103619347382281
+      japan2_01_Display_10: 3495862192078599122
+      japan2_01_Display_100: 4862291425420943075
+      japan2_01_Display_101: -2591008704161046231
+      japan2_01_Display_102: -8265420933302722005
+      japan2_01_Display_103: -5450279117834706511
+      japan2_01_Display_104: -8267424240865626164
+      japan2_01_Display_105: 2899972070125405905
+      japan2_01_Display_106: 1273179231192956238
+      japan2_01_Display_107: -7609205210287952981
+      japan2_01_Display_108: -4895380803979691084
+      japan2_01_Display_109: -8539734092253413036
+      japan2_01_Display_11: -5713655329354945940
+      japan2_01_Display_110: 7254178164265565657
+      japan2_01_Display_111: -1089647306347737729
+      japan2_01_Display_112: 5898126189602379073
+      japan2_01_Display_113: -2344419040096345211
+      japan2_01_Display_114: 5993030877614474943
+      japan2_01_Display_115: 2219952265699251574
+      japan2_01_Display_116: -1780645308164584939
+      japan2_01_Display_117: 5414698720794745010
+      japan2_01_Display_118: -3814915872933833889
+      japan2_01_Display_119: 481103323810034138
+      japan2_01_Display_12: -4033516438443971696
+      japan2_01_Display_120: -1600085771952908237
+      japan2_01_Display_121: 2256825795139952743
+      japan2_01_Display_122: -2892584842334638577
+      japan2_01_Display_123: 4987570765152497263
+      japan2_01_Display_124: -7413914588057864585
+      japan2_01_Display_125: -618634554046659289
+      japan2_01_Display_126: 5886328081415039179
+      japan2_01_Display_127: -2872716033482347937
+      japan2_01_Display_128: -3466679054117440475
+      japan2_01_Display_129: -1531895505772489873
+      japan2_01_Display_13: -886000055659550794
+      japan2_01_Display_130: -3834606560189125821
+      japan2_01_Display_131: 7683920107391159181
+      japan2_01_Display_132: 1893586096809013352
+      japan2_01_Display_133: -6793337025977025603
+      japan2_01_Display_134: -3479753174930831463
+      japan2_01_Display_135: -6796961790104913450
+      japan2_01_Display_136: -1701708653735962474
+      japan2_01_Display_137: -5390395912132897212
+      japan2_01_Display_138: 5569937273620164028
+      japan2_01_Display_139: 1054373406159733665
+      japan2_01_Display_14: 4919395751438441164
+      japan2_01_Display_140: 6436155358744555454
+      japan2_01_Display_141: 4465328960122447056
+      japan2_01_Display_142: -2126547822653279055
+      japan2_01_Display_143: 5166691145072588109
+      japan2_01_Display_144: 6902536007737607693
+      japan2_01_Display_145: 3985969956679920754
+      japan2_01_Display_146: -5638302707844571768
+      japan2_01_Display_147: 4181302215344065824
+      japan2_01_Display_148: 5191523926507091749
+      japan2_01_Display_149: 2399570579851520264
+      japan2_01_Display_15: -3079301800781837259
+      japan2_01_Display_150: -8935759809107989587
+      japan2_01_Display_151: 8896742825670733223
+      japan2_01_Display_152: 4368953364670816917
+      japan2_01_Display_153: -6382859537090150360
+      japan2_01_Display_154: 7699919947749586140
+      japan2_01_Display_155: -1911042754244770873
+      japan2_01_Display_156: -1809914648689341576
+      japan2_01_Display_157: -8425077384618425618
+      japan2_01_Display_158: 7547172547562762263
+      japan2_01_Display_159: 5700902174850903214
+      japan2_01_Display_16: 3358449953830647149
+      japan2_01_Display_160: -4695927834722788276
+      japan2_01_Display_161: 2536257520731305248
+      japan2_01_Display_162: 5906423523537685009
+      japan2_01_Display_163: 3630250976532430007
+      japan2_01_Display_164: 1596379914513967415
+      japan2_01_Display_165: -5757613708124182426
+      japan2_01_Display_166: -3305301426390061085
+      japan2_01_Display_167: -7449732910931520248
+      japan2_01_Display_168: -5523168812729877047
+      japan2_01_Display_169: -4105398642972290423
+      japan2_01_Display_17: -7300483885956329314
+      japan2_01_Display_170: -274794548436531042
+      japan2_01_Display_171: -7206264751907937954
+      japan2_01_Display_172: 6729106872431066626
+      japan2_01_Display_173: 2031749300186693739
+      japan2_01_Display_174: 7274392245790864879
+      japan2_01_Display_175: 5397454976046060961
+      japan2_01_Display_176: 8484538322321920033
+      japan2_01_Display_177: 5333172579726648036
+      japan2_01_Display_178: 1811505100456417597
+      japan2_01_Display_179: 7450109851373451727
+      japan2_01_Display_18: -5602817495508983804
+      japan2_01_Display_180: 8455261524894661349
+      japan2_01_Display_181: -6302680621621849191
+      japan2_01_Display_182: 4656968203058502328
+      japan2_01_Display_183: 6907231737219707619
+      japan2_01_Display_184: -7666546914069012738
+      japan2_01_Display_185: 7311389968779836070
+      japan2_01_Display_186: 8698637327742807026
+      japan2_01_Display_187: 4381000848349912447
+      japan2_01_Display_188: 2907736888968252380
+      japan2_01_Display_189: -6366816428460427790
+      japan2_01_Display_19: 2987642052099790401
+      japan2_01_Display_190: -7507119104715809449
+      japan2_01_Display_191: -7954593332426375339
+      japan2_01_Display_192: -3646390689242147195
+      japan2_01_Display_193: -4060815329175267815
+      japan2_01_Display_2: -4868234351958272488
+      japan2_01_Display_20: -3762756567733492565
+      japan2_01_Display_21: 2979159237920765284
+      japan2_01_Display_22: 7400298765805290338
+      japan2_01_Display_23: -4394829682435324993
+      japan2_01_Display_24: 3814249759680644386
+      japan2_01_Display_25: -8039755114560954164
+      japan2_01_Display_26: -1537017586147259228
+      japan2_01_Display_27: 874193281987704817
+      japan2_01_Display_28: 3116975303925145998
+      japan2_01_Display_29: -6761281787302009657
+      japan2_01_Display_3: 7996774345833235012
+      japan2_01_Display_30: 6545945160948186280
+      japan2_01_Display_31: 4819377696961047551
+      japan2_01_Display_32: -8732662108845867321
+      japan2_01_Display_33: 4628105835821735366
+      japan2_01_Display_34: -7254887542991980621
+      japan2_01_Display_35: 7567238739214991039
+      japan2_01_Display_36: -565859714002906664
+      japan2_01_Display_37: 2269272777419977677
+      japan2_01_Display_38: -232753507409431402
+      japan2_01_Display_39: -8805849169431784917
+      japan2_01_Display_4: -7500718803461200156
+      japan2_01_Display_40: -1220332502992733953
+      japan2_01_Display_41: 6519068843684933891
+      japan2_01_Display_42: 4039869608929475089
+      japan2_01_Display_43: -4547487698578405854
+      japan2_01_Display_44: 3912794225805995738
+      japan2_01_Display_45: 8356323393987382019
+      japan2_01_Display_46: -1655836822510337286
+      japan2_01_Display_47: 2186607618088255877
+      japan2_01_Display_48: 7399826225486002747
+      japan2_01_Display_49: 3670218415578899029
+      japan2_01_Display_5: 5789522853589772307
+      japan2_01_Display_50: -4991090184623765951
+      japan2_01_Display_51: 4277711919170900527
+      japan2_01_Display_52: 6442476732023070130
+      japan2_01_Display_53: 6446428299619791487
+      japan2_01_Display_54: -1138879810327277060
+      japan2_01_Display_55: -8842505600507516705
+      japan2_01_Display_56: -2689717465608052542
+      japan2_01_Display_57: -8561066028117544605
+      japan2_01_Display_58: 3428664449908275354
+      japan2_01_Display_59: -3074532332085878305
+      japan2_01_Display_6: 7938262332302739650
+      japan2_01_Display_60: -7524054534117767714
+      japan2_01_Display_61: 858923600422235159
+      japan2_01_Display_62: 674692429486586885
+      japan2_01_Display_63: 4728455408415383110
+      japan2_01_Display_64: -2593159906993201912
+      japan2_01_Display_65: 3373396394664975443
+      japan2_01_Display_66: -7970982899769823894
+      japan2_01_Display_67: -4202249752869048995
+      japan2_01_Display_68: 6032652517783656434
+      japan2_01_Display_69: -7689038214819142537
+      japan2_01_Display_7: -8896316137414039633
+      japan2_01_Display_70: 1530279533664527308
+      japan2_01_Display_71: -86908853128430398
+      japan2_01_Display_72: -7325509209210952185
+      japan2_01_Display_73: 5866981563115814508
+      japan2_01_Display_74: -6845660767811502476
+      japan2_01_Display_75: 2510081714871668577
+      japan2_01_Display_76: -1466975782768474088
+      japan2_01_Display_77: -623402158076697365
+      japan2_01_Display_78: -6210985134347655264
+      japan2_01_Display_79: -6084927180921842650
+      japan2_01_Display_8: -7854937075198342452
+      japan2_01_Display_80: -7024078676693770501
+      japan2_01_Display_81: 7988013631248691405
+      japan2_01_Display_82: 660269172535073576
+      japan2_01_Display_83: 8604536854923076930
+      japan2_01_Display_84: 6306311598929041835
+      japan2_01_Display_85: 7408132491371510908
+      japan2_01_Display_86: 4195416432920364823
+      japan2_01_Display_87: 2767462361428217981
+      japan2_01_Display_88: -2331824208451468935
+      japan2_01_Display_89: -7499535318442348295
+      japan2_01_Display_9: -7994814236281445368
+      japan2_01_Display_90: 3776006338722310740
+      japan2_01_Display_91: -6659942539885003169
+      japan2_01_Display_92: 3116722907652365158
+      japan2_01_Display_93: 2951764215669725820
+      japan2_01_Display_94: -1152282640656489576
+      japan2_01_Display_95: 3698471074437155698
+      japan2_01_Display_96: 613614960264560441
+      japan2_01_Display_97: 3779071190805418740
+      japan2_01_Display_98: -1095087678800844239
+      japan2_01_Display_99: 7827679283608437154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

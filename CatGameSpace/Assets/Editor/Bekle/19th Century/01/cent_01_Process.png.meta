@@ -1,0 +1,5733 @@
+fileFormatVersion: 2
+guid: 8951a653e81617241ab60d84dbee950d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1274075058468276774
+    second: cent_01_Process_0
+  - first:
+      213: -3574432114603878437
+    second: cent_01_Process_1
+  - first:
+      213: 4242460707779268472
+    second: cent_01_Process_2
+  - first:
+      213: 1026475153922276973
+    second: cent_01_Process_3
+  - first:
+      213: -3804536367124090540
+    second: cent_01_Process_4
+  - first:
+      213: 1455256944967212387
+    second: cent_01_Process_5
+  - first:
+      213: 7236219641942137484
+    second: cent_01_Process_6
+  - first:
+      213: -8564905829901658705
+    second: cent_01_Process_7
+  - first:
+      213: -4397402278447216453
+    second: cent_01_Process_8
+  - first:
+      213: 5286398026097213189
+    second: cent_01_Process_9
+  - first:
+      213: 281202913652731682
+    second: cent_01_Process_10
+  - first:
+      213: 4353692561279261867
+    second: cent_01_Process_11
+  - first:
+      213: -663732657210058605
+    second: cent_01_Process_12
+  - first:
+      213: 1127910342108084566
+    second: cent_01_Process_13
+  - first:
+      213: 4547117840806523951
+    second: cent_01_Process_14
+  - first:
+      213: -5012974504151422142
+    second: cent_01_Process_15
+  - first:
+      213: 6673550714967348404
+    second: cent_01_Process_16
+  - first:
+      213: -1494107672761499834
+    second: cent_01_Process_17
+  - first:
+      213: -717521173472360769
+    second: cent_01_Process_18
+  - first:
+      213: 8275918062406127755
+    second: cent_01_Process_19
+  - first:
+      213: 4178106076990244353
+    second: cent_01_Process_20
+  - first:
+      213: -2765549412809607156
+    second: cent_01_Process_21
+  - first:
+      213: -2876432746402147525
+    second: cent_01_Process_22
+  - first:
+      213: 7664995220605245223
+    second: cent_01_Process_23
+  - first:
+      213: 325891431078956713
+    second: cent_01_Process_24
+  - first:
+      213: 924639338197774902
+    second: cent_01_Process_25
+  - first:
+      213: 8774032308165896375
+    second: cent_01_Process_26
+  - first:
+      213: -1171863027815329061
+    second: cent_01_Process_27
+  - first:
+      213: 2477415811325318840
+    second: cent_01_Process_28
+  - first:
+      213: 2811918294406323193
+    second: cent_01_Process_29
+  - first:
+      213: -5849948433673836902
+    second: cent_01_Process_30
+  - first:
+      213: 8161815152654543132
+    second: cent_01_Process_31
+  - first:
+      213: -8982340784497199564
+    second: cent_01_Process_32
+  - first:
+      213: 1419688614347318645
+    second: cent_01_Process_33
+  - first:
+      213: -1591325069061205045
+    second: cent_01_Process_34
+  - first:
+      213: 1885467887240892693
+    second: cent_01_Process_35
+  - first:
+      213: 6587751379654182832
+    second: cent_01_Process_36
+  - first:
+      213: 1672178561509605792
+    second: cent_01_Process_37
+  - first:
+      213: 2089370991591381572
+    second: cent_01_Process_38
+  - first:
+      213: -2527235201564954497
+    second: cent_01_Process_39
+  - first:
+      213: -523692608031929300
+    second: cent_01_Process_40
+  - first:
+      213: 8282281103241454853
+    second: cent_01_Process_41
+  - first:
+      213: 7495243104552465287
+    second: cent_01_Process_42
+  - first:
+      213: 7095584314478146926
+    second: cent_01_Process_43
+  - first:
+      213: -8492780115390786820
+    second: cent_01_Process_44
+  - first:
+      213: -4306804004060561897
+    second: cent_01_Process_45
+  - first:
+      213: -316748520367434560
+    second: cent_01_Process_46
+  - first:
+      213: 7304772407415212208
+    second: cent_01_Process_47
+  - first:
+      213: 4801468025597179499
+    second: cent_01_Process_48
+  - first:
+      213: -6228304569447683544
+    second: cent_01_Process_49
+  - first:
+      213: -5020543723097398984
+    second: cent_01_Process_50
+  - first:
+      213: 3622516380225931161
+    second: cent_01_Process_51
+  - first:
+      213: -7314137397090237759
+    second: cent_01_Process_52
+  - first:
+      213: 1136451859284481776
+    second: cent_01_Process_53
+  - first:
+      213: 4016910493216967326
+    second: cent_01_Process_54
+  - first:
+      213: -7962713394655491211
+    second: cent_01_Process_55
+  - first:
+      213: 4844894994965448814
+    second: cent_01_Process_56
+  - first:
+      213: -2015498883076281264
+    second: cent_01_Process_57
+  - first:
+      213: 1495322534556113570
+    second: cent_01_Process_58
+  - first:
+      213: 489314851963326996
+    second: cent_01_Process_59
+  - first:
+      213: 1871835550628133129
+    second: cent_01_Process_60
+  - first:
+      213: -2818066178425264474
+    second: cent_01_Process_61
+  - first:
+      213: 5734000074977349347
+    second: cent_01_Process_62
+  - first:
+      213: -2227945730733044518
+    second: cent_01_Process_63
+  - first:
+      213: -3488022137478749517
+    second: cent_01_Process_64
+  - first:
+      213: 3739324273168451312
+    second: cent_01_Process_65
+  - first:
+      213: 6550669374303571779
+    second: cent_01_Process_66
+  - first:
+      213: -2313524178406206961
+    second: cent_01_Process_67
+  - first:
+      213: 57859116029326440
+    second: cent_01_Process_68
+  - first:
+      213: -2571900833170036170
+    second: cent_01_Process_69
+  - first:
+      213: 8856558523688321277
+    second: cent_01_Process_70
+  - first:
+      213: 939865269755899647
+    second: cent_01_Process_71
+  - first:
+      213: 3934989807100422941
+    second: cent_01_Process_72
+  - first:
+      213: -382757226646745906
+    second: cent_01_Process_73
+  - first:
+      213: 8119478606517322636
+    second: cent_01_Process_74
+  - first:
+      213: -8663112203102243298
+    second: cent_01_Process_75
+  - first:
+      213: -8091712988486212893
+    second: cent_01_Process_76
+  - first:
+      213: -2784189508209907200
+    second: cent_01_Process_77
+  - first:
+      213: -7975082843829590331
+    second: cent_01_Process_78
+  - first:
+      213: 2913504303678518427
+    second: cent_01_Process_79
+  - first:
+      213: 7481867118671722823
+    second: cent_01_Process_80
+  - first:
+      213: -7979483783394933421
+    second: cent_01_Process_81
+  - first:
+      213: 3263645309018452156
+    second: cent_01_Process_82
+  - first:
+      213: -7585621624285113905
+    second: cent_01_Process_83
+  - first:
+      213: 627012537714909163
+    second: cent_01_Process_84
+  - first:
+      213: 4177022559267357318
+    second: cent_01_Process_85
+  - first:
+      213: -5951824633825103123
+    second: cent_01_Process_86
+  - first:
+      213: 6720297468859250108
+    second: cent_01_Process_87
+  - first:
+      213: 5749692214857929284
+    second: cent_01_Process_88
+  - first:
+      213: -5479664740762991386
+    second: cent_01_Process_89
+  - first:
+      213: 2131352493636542470
+    second: cent_01_Process_90
+  - first:
+      213: -8208465755874940626
+    second: cent_01_Process_91
+  - first:
+      213: 1142360742611989246
+    second: cent_01_Process_92
+  - first:
+      213: -2670747301387887196
+    second: cent_01_Process_93
+  - first:
+      213: -4701652561128447203
+    second: cent_01_Process_94
+  - first:
+      213: 4116474903607139037
+    second: cent_01_Process_95
+  - first:
+      213: 2653723888945152280
+    second: cent_01_Process_96
+  - first:
+      213: 7918388656717258723
+    second: cent_01_Process_97
+  - first:
+      213: -4659672171258499580
+    second: cent_01_Process_98
+  - first:
+      213: 1933330367159453979
+    second: cent_01_Process_99
+  - first:
+      213: -8786539644261334831
+    second: cent_01_Process_100
+  - first:
+      213: 8661979212600553677
+    second: cent_01_Process_101
+  - first:
+      213: 5980135543502513818
+    second: cent_01_Process_102
+  - first:
+      213: 7132583396370417976
+    second: cent_01_Process_103
+  - first:
+      213: 8817539163374724459
+    second: cent_01_Process_104
+  - first:
+      213: 1548418456795744985
+    second: cent_01_Process_105
+  - first:
+      213: -6691677556586817715
+    second: cent_01_Process_106
+  - first:
+      213: -255801506702403510
+    second: cent_01_Process_107
+  - first:
+      213: 3050567208310278794
+    second: cent_01_Process_108
+  - first:
+      213: -8787824596782308380
+    second: cent_01_Process_109
+  - first:
+      213: 1871458280453227633
+    second: cent_01_Process_110
+  - first:
+      213: -4804482174871460475
+    second: cent_01_Process_111
+  - first:
+      213: 7239033143749450013
+    second: cent_01_Process_112
+  - first:
+      213: 5219811407340310025
+    second: cent_01_Process_113
+  - first:
+      213: -8830747557862928777
+    second: cent_01_Process_114
+  - first:
+      213: -8120243516064623223
+    second: cent_01_Process_115
+  - first:
+      213: -4788982597244231083
+    second: cent_01_Process_116
+  - first:
+      213: 1725031547825999199
+    second: cent_01_Process_117
+  - first:
+      213: -2166752309198969266
+    second: cent_01_Process_118
+  - first:
+      213: -1942440522639300221
+    second: cent_01_Process_119
+  - first:
+      213: -2989653775102568050
+    second: cent_01_Process_120
+  - first:
+      213: 406342225808465319
+    second: cent_01_Process_121
+  - first:
+      213: 8083724136309064301
+    second: cent_01_Process_122
+  - first:
+      213: -3466845788429949588
+    second: cent_01_Process_123
+  - first:
+      213: -4136527347649164126
+    second: cent_01_Process_124
+  - first:
+      213: 4506927716371618539
+    second: cent_01_Process_125
+  - first:
+      213: -6964063530830470836
+    second: cent_01_Process_126
+  - first:
+      213: -2057613997955369708
+    second: cent_01_Process_127
+  - first:
+      213: -2939666691396448630
+    second: cent_01_Process_128
+  - first:
+      213: -436138155128875131
+    second: cent_01_Process_129
+  - first:
+      213: 7080952167732524956
+    second: cent_01_Process_130
+  - first:
+      213: 2451334892719217956
+    second: cent_01_Process_131
+  - first:
+      213: -7416417284976615675
+    second: cent_01_Process_132
+  - first:
+      213: -7058546275296795491
+    second: cent_01_Process_133
+  - first:
+      213: 8446635080990278009
+    second: cent_01_Process_134
+  - first:
+      213: 131029721585318206
+    second: cent_01_Process_135
+  - first:
+      213: -6111097395308675346
+    second: cent_01_Process_136
+  - first:
+      213: 7139504180516730570
+    second: cent_01_Process_137
+  - first:
+      213: 8402629567998701454
+    second: cent_01_Process_138
+  - first:
+      213: -7755315533206854291
+    second: cent_01_Process_139
+  - first:
+      213: -5807745407473164848
+    second: cent_01_Process_140
+  - first:
+      213: 7384938885501745843
+    second: cent_01_Process_141
+  - first:
+      213: -2628322133952859809
+    second: cent_01_Process_142
+  - first:
+      213: -1711489248784697226
+    second: cent_01_Process_143
+  - first:
+      213: -2283349938201100881
+    second: cent_01_Process_144
+  - first:
+      213: 3163904002318157646
+    second: cent_01_Process_145
+  - first:
+      213: -7734533870110752685
+    second: cent_01_Process_146
+  - first:
+      213: -5157649729573586844
+    second: cent_01_Process_147
+  - first:
+      213: 3844504035766362571
+    second: cent_01_Process_148
+  - first:
+      213: 2509472862624032283
+    second: cent_01_Process_149
+  - first:
+      213: -2820282607956304550
+    second: cent_01_Process_150
+  - first:
+      213: 4404683997262581584
+    second: cent_01_Process_151
+  - first:
+      213: 5854863043784065865
+    second: cent_01_Process_152
+  - first:
+      213: -6281173995533804128
+    second: cent_01_Process_153
+  - first:
+      213: 7255434206571543091
+    second: cent_01_Process_154
+  - first:
+      213: 7485809118569371356
+    second: cent_01_Process_155
+  - first:
+      213: -2530710372867018108
+    second: cent_01_Process_156
+  - first:
+      213: -1339000655194700371
+    second: cent_01_Process_157
+  - first:
+      213: 7359594052247134850
+    second: cent_01_Process_158
+  - first:
+      213: 4555209523282325546
+    second: cent_01_Process_159
+  - first:
+      213: -4945302214067739163
+    second: cent_01_Process_160
+  - first:
+      213: -4408742314778790716
+    second: cent_01_Process_161
+  - first:
+      213: 6492577242944865728
+    second: cent_01_Process_162
+  - first:
+      213: -4266456774158462695
+    second: cent_01_Process_163
+  - first:
+      213: 2073184608325384462
+    second: cent_01_Process_164
+  - first:
+      213: -2448237683007957186
+    second: cent_01_Process_165
+  - first:
+      213: -3793086635795791286
+    second: cent_01_Process_166
+  - first:
+      213: -736805128617604704
+    second: cent_01_Process_167
+  - first:
+      213: 1811062682320072238
+    second: cent_01_Process_168
+  - first:
+      213: -1498271263420214273
+    second: cent_01_Process_169
+  - first:
+      213: -1749111708654028940
+    second: cent_01_Process_170
+  - first:
+      213: 151773892534007818
+    second: cent_01_Process_171
+  - first:
+      213: -8747593546604622404
+    second: cent_01_Process_172
+  - first:
+      213: -7642318457846086679
+    second: cent_01_Process_173
+  - first:
+      213: -1543672265626689901
+    second: cent_01_Process_174
+  - first:
+      213: 7351949780356985086
+    second: cent_01_Process_175
+  - first:
+      213: 4126267643452291003
+    second: cent_01_Process_176
+  - first:
+      213: 8687444660801236039
+    second: cent_01_Process_177
+  - first:
+      213: -9153107935069637023
+    second: cent_01_Process_178
+  - first:
+      213: -2293401020898691752
+    second: cent_01_Process_179
+  - first:
+      213: -7381977574955038194
+    second: cent_01_Process_180
+  - first:
+      213: -2553170194208101297
+    second: cent_01_Process_181
+  - first:
+      213: -8071073410502645112
+    second: cent_01_Process_182
+  - first:
+      213: 7631482209230490853
+    second: cent_01_Process_183
+  - first:
+      213: -7455571305054329850
+    second: cent_01_Process_184
+  - first:
+      213: -3663392804470865353
+    second: cent_01_Process_185
+  - first:
+      213: 4769519335618368223
+    second: cent_01_Process_186
+  - first:
+      213: -1578155877440283104
+    second: cent_01_Process_187
+  - first:
+      213: -6108591097856671173
+    second: cent_01_Process_188
+  - first:
+      213: 774940164129356305
+    second: cent_01_Process_189
+  - first:
+      213: -6218092356983516545
+    second: cent_01_Process_190
+  - first:
+      213: 7517660822977294007
+    second: cent_01_Process_191
+  - first:
+      213: -3888594149631944713
+    second: cent_01_Process_192
+  - first:
+      213: 5810104430220617430
+    second: cent_01_Process_193
+  - first:
+      213: -5710027409955632986
+    second: cent_01_Process_194
+  - first:
+      213: 7295447133554071781
+    second: cent_01_Process_195
+  - first:
+      213: -3601467730784093136
+    second: cent_01_Process_196
+  - first:
+      213: -2960734108233155725
+    second: cent_01_Process_197
+  - first:
+      213: -960299088424676358
+    second: cent_01_Process_198
+  - first:
+      213: 5198169287710011378
+    second: cent_01_Process_199
+  - first:
+      213: 4887985608244267297
+    second: cent_01_Process_200
+  - first:
+      213: -2384499089973594613
+    second: cent_01_Process_201
+  - first:
+      213: 8919202606336557259
+    second: cent_01_Process_202
+  - first:
+      213: -633527950444564256
+    second: cent_01_Process_203
+  - first:
+      213: 1316620661274259992
+    second: cent_01_Process_204
+  - first:
+      213: 6328987935646112630
+    second: cent_01_Process_205
+  - first:
+      213: 2586404918587693306
+    second: cent_01_Process_206
+  - first:
+      213: 7654319839855803424
+    second: cent_01_Process_207
+  - first:
+      213: 3550359040523178750
+    second: cent_01_Process_208
+  - first:
+      213: 3313260182257732819
+    second: cent_01_Process_209
+  - first:
+      213: 8451333715700679314
+    second: cent_01_Process_210
+  - first:
+      213: -2703735633910714394
+    second: cent_01_Process_211
+  - first:
+      213: 2215373014220348042
+    second: cent_01_Process_212
+  - first:
+      213: 4215527292007411041
+    second: cent_01_Process_213
+  - first:
+      213: 5060536040146894656
+    second: cent_01_Process_214
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cent_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2258
+        width: 5000
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62acf2de38c6ea110800000000000000
+      internalID: 1274075058468276774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2108
+        width: 190
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7994f0ee0156ec0800000000000000
+      internalID: -3574432114603878437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2160
+        width: 196
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f4cb4498f30ea30800000000000000
+      internalID: 4242460707779268472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2071
+        width: 340
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e3d48c6b5ce3e00800000000000000
+      internalID: 1026475153922276973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2015
+        width: 213
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4517386d452933bc0800000000000000
+      internalID: -3804536367124090540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2101
+        width: 288
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd0bd2b7c123410800000000000000
+      internalID: 1455256944967212387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2093
+        width: 215
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a5aaadc673c6460800000000000000
+      internalID: 7236219641942137484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2150
+        width: 222
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa51a0ac687532980800000000000000
+      internalID: -8564905829901658705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2097
+        width: 344
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb809aa1de949f2c0800000000000000
+      internalID: -4397402278447216453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1903
+        width: 406
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb9d60ffe0d5940800000000000000
+      internalID: 5286398026097213189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2207
+        width: 169
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f63126f8807e300800000000000000
+      internalID: 281202913652731682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 2240
+        width: 116
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac9f40515c6b6c30800000000000000
+      internalID: 4353692561279261867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2064
+        width: 168
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981b253aa2f9c6f0800000000000000
+      internalID: -663732657210058605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 2105
+        width: 125
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65977dfea7427af00800000000000000
+      internalID: 1127910342108084566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1847
+        width: 263
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f243d15a59b9a1f30800000000000000
+      internalID: 4547117840806523951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 2108
+        width: 63
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be6f39f365e6ab0800000000000000
+      internalID: -5012974504151422142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 1879
+        y: 2133
+        width: 201
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4de2c64073d9c50800000000000000
+      internalID: 6673550714967348404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2094
+        width: 130
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f7ddcdcfcd34be0800000000000000
+      internalID: -1494107672761499834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 2101
+        width: 237
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6cb585b4ada06f0800000000000000
+      internalID: -717521173472360769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 2211
+        width: 197
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80d4fb41a7f9d270800000000000000
+      internalID: 8275918062406127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2074
+        width: 52
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10687e8275d9bf930800000000000000
+      internalID: 4178106076990244353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 2384
+        y: 2042
+        width: 106
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0871b8267bce99d0800000000000000
+      internalID: -2765549412809607156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2037
+        width: 308
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33166a38abd418d0800000000000000
+      internalID: -2876432746402147525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1986
+        width: 297
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271e31da888f5a60800000000000000
+      internalID: 7664995220605245223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 2005
+        width: 925
+        height: 493
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae0ec8a78cc58400800000000000000
+      internalID: 325891431078956713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1979
+        width: 163
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63271a2449af4dc00800000000000000
+      internalID: 924639338197774902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 3516
+        y: 2211
+        width: 150
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b86700c5ef93c970800000000000000
+      internalID: 8774032308165896375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 2069
+        width: 81
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd257a5f8c4bcbfe0800000000000000
+      internalID: -1171863027815329061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1979
+        width: 163
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b65bf2fd8c816220800000000000000
+      internalID: 2477415811325318840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 2062
+        width: 159
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbd2836ac0f50720800000000000000
+      internalID: 2811918294406323193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 2067
+        width: 81
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a488d4eec0dea0800000000000000
+      internalID: -5849948433673836902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 2245
+        width: 193
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ef5063a7944170800000000000000
+      internalID: 8161815152654543132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 2099
+        width: 197
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4367a80a5a0585380800000000000000
+      internalID: -8982340784497199564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2141
+        width: 313
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a6ddd54fb3b310800000000000000
+      internalID: 1419688614347318645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 2046
+        width: 509
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3de68e74a7ae9e0800000000000000
+      internalID: -1591325069061205045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 3887
+        y: 2172
+        width: 397
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115666cd078a2a10800000000000000
+      internalID: 1885467887240892693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 3963
+        y: 1854
+        width: 911
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b780e4f9f46c6b50800000000000000
+      internalID: 6587751379654182832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 2089
+        width: 357
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1cdc7ca85c43710800000000000000
+      internalID: 1672178561509605792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1933
+        width: 117
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a5fcdc8dfeefc10800000000000000
+      internalID: 2089370991591381572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2054
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70bbda59f47decd0800000000000000
+      internalID: -2527235201564954497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2034
+        width: 56
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c42cef8587bb8f0800000000000000
+      internalID: -523692608031929300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2030
+        width: 44
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50523a038c290f270800000000000000
+      internalID: 8282281103241454853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1877
+        width: 121
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783bb0064e3740860800000000000000
+      internalID: 7495243104552465287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1961
+        width: 57
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65bd4a0754987260800000000000000
+      internalID: 7095584314478146926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1638
+        width: 591
+        height: 501
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf291a25b75932a80800000000000000
+      internalID: -8492780115390786820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1987
+        width: 176
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e7db4a3982b34c0800000000000000
+      internalID: -4306804004060561897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2121
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c45e5026eeaa9bf0800000000000000
+      internalID: -316748520367434560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 2067
+        width: 158
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b80f0d5dc3cf5560800000000000000
+      internalID: 7304772407415212208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 2007
+        width: 198
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66bd12eabd32a240800000000000000
+      internalID: 4801468025597179499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2067
+        width: 195
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ae0293efd9099a0800000000000000
+      internalID: -6228304569447683544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 2001
+        width: 184
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83166757512735ab0800000000000000
+      internalID: -5020543723097398984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2059
+        width: 177
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99786647473c54230800000000000000
+      internalID: 3622516380225931161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1971
+        width: 161
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c249001ac6fe7a90800000000000000
+      internalID: -7314137397090237759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1965
+        width: 283
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6dbf0e1fc75cf00800000000000000
+      internalID: 1136451859284481776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1807
+        width: 38
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a8cb2afceeeb730800000000000000
+      internalID: 4016910493216967326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1956
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b80571b52ce7190800000000000000
+      internalID: -7962713394655491211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 3166
+        y: 1807
+        width: 39
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68cbfc14568c3340800000000000000
+      internalID: 4844894994965448814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 1877
+        width: 95
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05caa05c1728704e0800000000000000
+      internalID: -2015498883076281264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 3581
+        y: 1807
+        width: 39
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa9ad03ce370c410800000000000000
+      internalID: 1495322534556113570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1956
+        width: 163
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412d89ee3456ac600800000000000000
+      internalID: 489314851963326996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 1807
+        width: 38
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909332114881af910800000000000000
+      internalID: 1871835550628133129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 1857
+        width: 606
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a66b61ddb734e8d0800000000000000
+      internalID: -2818066178425264474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 2059
+        width: 184
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee861b20b2439f40800000000000000
+      internalID: 5734000074977349347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1967
+        width: 284
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc0fcc792fb411e0800000000000000
+      internalID: -2227945730733044518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2030
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b261e6a85e089fc0800000000000000
+      internalID: -3488022137478749517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1965
+        width: 102
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6833a5d9fb4e330800000000000000
+      internalID: 3739324273168451312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1993
+        width: 167
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f0568c617a8ea50800000000000000
+      internalID: 6550669374303571779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2029
+        width: 200
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0212de6406b4efd0800000000000000
+      internalID: -2313524178406206961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1991
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86432f93f8e8dc000800000000000000
+      internalID: 57859116029326440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1995
+        width: 83
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a6e5991d5ce4cd0800000000000000
+      internalID: -2571900833170036170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2001
+        width: 91
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df086e0ad01d8ea70800000000000000
+      internalID: 8856558523688321277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1888
+        width: 33
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee684bb721b0d00800000000000000
+      internalID: 939865269755899647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1918
+        width: 148
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1be00f8164eb9630800000000000000
+      internalID: 3934989807100422941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2055
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc18e845c20baf0800000000000000
+      internalID: -382757226646745906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2001
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8349d616ce2ea070800000000000000
+      internalID: 8119478606517322636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2040
+        width: 83
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e163db4b95176c780800000000000000
+      internalID: -8663112203102243298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1902
+        width: 47
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26dd0a8e574bf80800000000000000
+      internalID: -8091712988486212893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 1867
+        width: 105
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a67cfb4629c59d0800000000000000
+      internalID: -2784189508209907200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1807
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6a9374860d25190800000000000000
+      internalID: -7975082843829590331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 3621
+        y: 1807
+        width: 163
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9474505ab8de6820800000000000000
+      internalID: 2913504303678518427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 3818
+        y: 1545
+        width: 201
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7497a19f08ee4d760800000000000000
+      internalID: 7481867118671722823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 4902
+        y: 1906
+        width: 98
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35541cfa6cd234190800000000000000
+      internalID: -7979483783394933421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1719
+        width: 635
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03ae4fd1cca4d20800000000000000
+      internalID: 3263645309018452156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1916
+        width: 254
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1d6f3b2557ab690800000000000000
+      internalID: -7585621624285113905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1719
+        width: 583
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef963cb49893b800800000000000000
+      internalID: 627012537714909163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1947
+        width: 206
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6828ce703e3c7f930800000000000000
+      internalID: 4177022559267357318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 1652
+        width: 178
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27f67970fd66da0800000000000000
+      internalID: -5951824633825103123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 1793
+        width: 176
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ff4831fa434d50800000000000000
+      internalID: 6720297468859250108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1983
+        width: 69
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4429f623b920bcf40800000000000000
+      internalID: 5749692214857929284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 1719
+        width: 67
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4c69663f154f3b0800000000000000
+      internalID: -5479664740762991386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_90
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1773
+        width: 83
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6006952fcc5149d10800000000000000
+      internalID: 2131352493636542470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_91
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1983
+        width: 184
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ad16a2eba51e80800000000000000
+      internalID: -8208465755874940626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_92
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 1738
+        width: 165
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef23dbcfa0b7adf00800000000000000
+      internalID: 1142360742611989246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_93
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 1535
+        width: 293
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad11f7ca799fead0800000000000000
+      internalID: -2670747301387887196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_94
+      rect:
+        serializedVersion: 2
+        x: 3205
+        y: 1675
+        width: 171
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1322a4f7ef50ceb0800000000000000
+      internalID: -4701652561128447203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_95
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1666
+        width: 328
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda50546d18a02930800000000000000
+      internalID: 4116474903607139037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_96
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1683
+        width: 168
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8114b8421dbe3d420800000000000000
+      internalID: 2653723888945152280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_97
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 1829
+        width: 178
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5d15a784c3ed60800000000000000
+      internalID: 7918388656717258723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_98
+      rect:
+        serializedVersion: 2
+        x: 4761
+        y: 1815
+        width: 148
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e2d5629d4855fb0800000000000000
+      internalID: -4659672171258499580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_99
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1719
+        width: 297
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c308c9b194da10800000000000000
+      internalID: 1933330367159453979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_100
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1719
+        width: 530
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d08ae22fb0ff0680800000000000000
+      internalID: -8786539644261334831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_101
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1737
+        width: 171
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0bfd26338853870800000000000000
+      internalID: 8661979212600553677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_102
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1712
+        width: 211
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96a72bb795bdf250800000000000000
+      internalID: 5980135543502513818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_103
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 1649
+        width: 444
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83902871fc60cf260800000000000000
+      internalID: 7132583396370417976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_104
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1571
+        width: 281
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65ab0ad6213e5a70800000000000000
+      internalID: 8817539163374724459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_105
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1694
+        width: 36
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da08f0f1661d7510800000000000000
+      internalID: 1548418456795744985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_106
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 1683
+        width: 40
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47503067b26223a0800000000000000
+      internalID: -6691677556586817715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_107
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1683
+        width: 40
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a485efb82e5337cf0800000000000000
+      internalID: -255801506702403510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_108
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1694
+        width: 36
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a0ace96bac55a20800000000000000
+      internalID: 3050567208310278794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_109
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 1469
+        width: 1139
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a950d6106b0680800000000000000
+      internalID: -8787824596782308380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_110
+      rect:
+        serializedVersion: 2
+        x: 3939
+        y: 1842
+        width: 396
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174c0620461c8f910800000000000000
+      internalID: 1871458280453227633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_111
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 1727
+        width: 483
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585271dcaec035db0800000000000000
+      internalID: -4804482174871460475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_112
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1684
+        width: 73
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19177a4a46367460800000000000000
+      internalID: 7239033143749450013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_113
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1774
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0d09b1de707840800000000000000
+      internalID: 5219811407340310025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_114
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 1563
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e8e6822e1e27580800000000000000
+      internalID: -8830747557862928777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_115
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1774
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9859c478b891f4f80800000000000000
+      internalID: -8120243516064623223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_116
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 1665
+        width: 180
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552eabf63bd1a8db0800000000000000
+      internalID: -4788982597244231083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_117
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1774
+        width: 92
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc28a9d0b80f710800000000000000
+      internalID: 1725031547825999199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_118
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 1563
+        width: 107
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4620f531462ee1e0800000000000000
+      internalID: -2166752309198969266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_119
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1774
+        width: 95
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389a2cad2a01b05e0800000000000000
+      internalID: -1942440522639300221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_120
+      rect:
+        serializedVersion: 2
+        x: 3899
+        y: 1444
+        width: 1073
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891b9d3bbd9286d0800000000000000
+      internalID: -2989653775102568050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 2154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad1e8af91e93a500800000000000000
+      internalID: 406342225808465319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_122
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1468
+        width: 294
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6204f6c5482f2070800000000000000
+      internalID: 8083724136309064301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_123
+      rect:
+        serializedVersion: 2
+        x: 2208
+        y: 1405
+        width: 288
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65e291af1a43efc0800000000000000
+      internalID: -3466845788429949588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_124
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 1534
+        width: 199
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2accea72b4a1896c0800000000000000
+      internalID: -4136527347649164126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_125
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1249
+        width: 229
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea51ba11e2db8e30800000000000000
+      internalID: 4506927716371618539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_126
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 1551
+        width: 121
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41e89bad1daa5f90800000000000000
+      internalID: -6964063530830470836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_127
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 1336
+        width: 226
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415bff678f2e173e0800000000000000
+      internalID: -2057613997955369708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_128
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 1261
+        width: 194
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e444d18b43437d0800000000000000
+      internalID: -2939666691396448630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_129
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 1518
+        width: 27
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5879c8e98a682f9f0800000000000000
+      internalID: -436138155128875131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_130
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1453
+        width: 36
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ba35ea78944260800000000000000
+      internalID: 7080952167732524956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_131
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1595
+        width: 76
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d9c02e814e40220800000000000000
+      internalID: 2451334892719217956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_132
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 1594
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fd6eee5c7931990800000000000000
+      internalID: -7416417284976615675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_133
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 937
+        width: 178
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9427467f810b0e90800000000000000
+      internalID: -7058546275296795491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_134
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 1302
+        width: 328
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97147cd9ad9783570800000000000000
+      internalID: 8446635080990278009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_135
+      rect:
+        serializedVersion: 2
+        x: 3422
+        y: 1067
+        width: 176
+        height: 691
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e397c1a66d281d100800000000000000
+      internalID: 131029721585318206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_136
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1594
+        width: 71
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeebfc40c45013ba0800000000000000
+      internalID: -6111097395308675346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_137
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 1595
+        width: 76
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6bd18b93d941360800000000000000
+      internalID: 7139504180516730570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_138
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1418
+        width: 36
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa1c3b2132c9470800000000000000
+      internalID: 8402629567998701454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_139
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 1208
+        width: 40
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65e22aac959f5490800000000000000
+      internalID: -7755315533206854291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 2134
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddd7a9925eb66fa0800000000000000
+      internalID: -5807745407473164848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_141
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1214
+        width: 367
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bafc4e0ac29c7660800000000000000
+      internalID: 7384938885501745843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_142
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1563
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f517172d1f2568bd0800000000000000
+      internalID: -2628322133952859809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_143
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1563
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b94998919f38e0800000000000000
+      internalID: -1711489248784697226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_144
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1563
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadfc933459ef40e0800000000000000
+      internalID: -2283349938201100881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_145
+      rect:
+        serializedVersion: 2
+        x: 3753
+        y: 1563
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e474c915de178eb20800000000000000
+      internalID: 3163904002318157646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 2097
+        height: 975
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35042d8ac6a69a490800000000000000
+      internalID: -7734533870110752685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_147
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1024
+        width: 910
+        height: 470
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46870e8b5e85c68b0800000000000000
+      internalID: -5157649729573586844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_148
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1314
+        width: 90
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1e86d2d0c6a5530800000000000000
+      internalID: 3844504035766362571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_149
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1363
+        width: 123
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b162036d54073d220800000000000000
+      internalID: 2509472862624032283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_150
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 1399
+        width: 103
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d5d8a19e75cd8d0800000000000000
+      internalID: -2820282607956304550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_151
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 1357
+        width: 185
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0fac22c4902d30800000000000000
+      internalID: 4404683997262581584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_152
+      rect:
+        serializedVersion: 2
+        x: 3086
+        y: 1460
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943cf4dfae6a04150800000000000000
+      internalID: 5854863043784065865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_153
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 1303
+        width: 68
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad59c7b789c4d8a0800000000000000
+      internalID: -6281173995533804128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_154
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1304
+        width: 205
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a3aed48fa70b460800000000000000
+      internalID: 7255434206571543091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_155
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 1209
+        width: 36
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd615b85bbfe2e760800000000000000
+      internalID: 7485809118569371356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_156
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 1067
+        width: 128
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4827ddbf25c11ecd0800000000000000
+      internalID: -2530710372867018108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_157
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 1067
+        width: 991
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5ca199ff9ea6de0800000000000000
+      internalID: -1339000655194700371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_158
+      rect:
+        serializedVersion: 2
+        x: 4881
+        y: 1154
+        width: 119
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282a4473cc7822660800000000000000
+      internalID: 7359594052247134850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_159
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 879
+        width: 1110
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2038b84dea573f30800000000000000
+      internalID: 4555209523282325546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_160
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 654
+        width: 757
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e52a8f66d1ce5bb0800000000000000
+      internalID: -4945302214067739163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_161
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 1147
+        width: 350
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c47065293001d2c0800000000000000
+      internalID: -4408742314778790716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_162
+      rect:
+        serializedVersion: 2
+        x: 2953
+        y: 937
+        width: 234
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c583827a944a1a50800000000000000
+      internalID: 6492577242944865728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_163
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 937
+        width: 235
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911d9b62b208ac4c0800000000000000
+      internalID: -4266456774158462695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_164
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 1067
+        width: 96
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09ba05ca6e65cc10800000000000000
+      internalID: 2073184608325384462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_165
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1112
+        width: 161
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37d5927ccc160ed0800000000000000
+      internalID: -2448237683007957186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_166
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 1067
+        width: 158
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a424c172dcf3c5bc0800000000000000
+      internalID: -3793086635795791286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_167
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 1161
+        width: 96
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9cf08a3a756c5f0800000000000000
+      internalID: -736805128617604704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_168
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1067
+        width: 215
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e67a50aef222910800000000000000
+      internalID: 1811062682320072238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_169
+      rect:
+        serializedVersion: 2
+        x: 4878
+        y: 1054
+        width: 122
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff399ae5932153be0800000000000000
+      internalID: -1498271263420214273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 41
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477333d0b28e9b7e0800000000000000
+      internalID: -1749111708654028940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_171
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 482
+        width: 409
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08faa61d853b1200800000000000000
+      internalID: 151773892534007818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_172
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 588
+        width: 80
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc12f140e4a9680800000000000000
+      internalID: -8747593546604622404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_173
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 174
+        width: 57
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34ca37ad701f590800000000000000
+      internalID: -7642318457846086679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_174
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 523
+        width: 262
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ed2bdc046c39ae0800000000000000
+      internalID: -1543672265626689901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_175
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 244
+        width: 172
+        height: 571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef070b87f5f570660800000000000000
+      internalID: 7351949780356985086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_176
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 182
+        width: 542
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb779205f82734930800000000000000
+      internalID: 4126267643452291003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_177
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 605
+        width: 314
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74cebe414e0009870800000000000000
+      internalID: 8687444660801236039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_178
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 301
+        width: 210
+        height: 527
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1667d5b04d0a9f080800000000000000
+      internalID: -9153107935069637023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_179
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 639
+        width: 658
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b0d52ce33c20e0800000000000000
+      internalID: -2293401020898691752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_180
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 525
+        width: 614
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac7e8c182fd8990800000000000000
+      internalID: -7381977574955038194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_181
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 177
+        width: 1678
+        height: 618
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c6c135c31519cd0800000000000000
+      internalID: -2553170194208101297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_182
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 618
+        width: 441
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aa3eade79cdff80800000000000000
+      internalID: -8071073410502645112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_183
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 434
+        width: 1606
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec85eec2a878e960800000000000000
+      internalID: 7631482209230490853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_184
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 169
+        width: 401
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60424ac366d788890800000000000000
+      internalID: -7455571305054329850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_185
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 321
+        width: 235
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732cac067a3092dc0800000000000000
+      internalID: -3663392804470865353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_186
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 320
+        width: 159
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2d3e4d09cb03240800000000000000
+      internalID: 4769519335618368223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_187
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 171
+        width: 366
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e1af44793491ae0800000000000000
+      internalID: -1578155877440283104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_188
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 141
+        width: 95
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32c32ed2cce93ba0800000000000000
+      internalID: -6108591097856671173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_189
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 147
+        width: 458
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11afc1539f321ca00800000000000000
+      internalID: 774940164129356305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_190
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 144
+        width: 155
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f721d6932f5e4b9a0800000000000000
+      internalID: -6218092356983516545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_191
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 43
+        width: 1028
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7beae6f20b8145860800000000000000
+      internalID: 7517660822977294007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_192
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 163
+        width: 309
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7968b3930f80ac0800000000000000
+      internalID: -3888594149631944713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_193
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 132
+        width: 399
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6293f2233a1a050800000000000000
+      internalID: 5810104430220617430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_194
+      rect:
+        serializedVersion: 2
+        x: 3676
+        y: 150
+        width: 327
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c9dbd258e1c0b0800000000000000
+      internalID: -5710027409955632986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_195
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 224
+        width: 267
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8d129d382ae3560800000000000000
+      internalID: 7295447133554071781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_196
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 198
+        width: 309
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cf4942e24050ec0800000000000000
+      internalID: -3601467730784093136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_197
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 198
+        width: 191
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b3164e30c59e6d0800000000000000
+      internalID: -2960734108233155725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_198
+      rect:
+        serializedVersion: 2
+        x: 4325
+        y: 287
+        width: 394
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d05421155ca2f0800000000000000
+      internalID: -960299088424676358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_199
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 196
+        width: 233
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ffec441d6b932840800000000000000
+      internalID: 5198169287710011378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_200
+      rect:
+        serializedVersion: 2
+        x: 4599
+        y: 198
+        width: 122
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290f96530d95d340800000000000000
+      internalID: 4887985608244267297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_201
+      rect:
+        serializedVersion: 2
+        x: 4636
+        y: 128
+        width: 364
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06b1e616be88eed0800000000000000
+      internalID: -2384499089973594613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_202
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 280
+        width: 327
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0cd66b38f57cb70800000000000000
+      internalID: 8919202606336557259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2078
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e078768fa14537f0800000000000000
+      internalID: -633527950444564256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_204
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 266
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81231330483954210800000000000000
+      internalID: 1316620661274259992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_205
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 179
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b5bebbef415d750800000000000000
+      internalID: 6328987935646112630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_206
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 0
+        width: 494
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af81eb1f191c4e320800000000000000
+      internalID: 2586404918587693306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_207
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 0
+        width: 1582
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c74db075b993a60800000000000000
+      internalID: 7654319839855803424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_208
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 0
+        width: 376
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef21b7b9cb8654130800000000000000
+      internalID: 3550359040523178750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_209
+      rect:
+        serializedVersion: 2
+        x: 3373
+        y: 0
+        width: 572
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc0be3d4901bfd20800000000000000
+      internalID: 3313260182257732819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_210
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 7
+        width: 301
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2920f92cc3b294570800000000000000
+      internalID: 8451333715700679314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_211
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 20
+        width: 72
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efaf2614c66a7ad0800000000000000
+      internalID: -2703735633910714394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_212
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 0
+        width: 583
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a1795d4069ebe10800000000000000
+      internalID: 2215373014220348042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_213
+      rect:
+        serializedVersion: 2
+        x: 4728
+        y: 0
+        width: 259
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16de01dbcbf808a30800000000000000
+      internalID: 4215527292007411041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cent_01_Process_214
+      rect:
+        serializedVersion: 2
+        x: 4853
+        y: 0
+        width: 147
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f740677b2aa3640800000000000000
+      internalID: 5060536040146894656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cent_01_Process_0: 1274075058468276774
+      cent_01_Process_1: -3574432114603878437
+      cent_01_Process_10: 281202913652731682
+      cent_01_Process_100: -8786539644261334831
+      cent_01_Process_101: 8661979212600553677
+      cent_01_Process_102: 5980135543502513818
+      cent_01_Process_103: 7132583396370417976
+      cent_01_Process_104: 8817539163374724459
+      cent_01_Process_105: 1548418456795744985
+      cent_01_Process_106: -6691677556586817715
+      cent_01_Process_107: -255801506702403510
+      cent_01_Process_108: 3050567208310278794
+      cent_01_Process_109: -8787824596782308380
+      cent_01_Process_11: 4353692561279261867
+      cent_01_Process_110: 1871458280453227633
+      cent_01_Process_111: -4804482174871460475
+      cent_01_Process_112: 7239033143749450013
+      cent_01_Process_113: 5219811407340310025
+      cent_01_Process_114: -8830747557862928777
+      cent_01_Process_115: -8120243516064623223
+      cent_01_Process_116: -4788982597244231083
+      cent_01_Process_117: 1725031547825999199
+      cent_01_Process_118: -2166752309198969266
+      cent_01_Process_119: -1942440522639300221
+      cent_01_Process_12: -663732657210058605
+      cent_01_Process_120: -2989653775102568050
+      cent_01_Process_121: 406342225808465319
+      cent_01_Process_122: 8083724136309064301
+      cent_01_Process_123: -3466845788429949588
+      cent_01_Process_124: -4136527347649164126
+      cent_01_Process_125: 4506927716371618539
+      cent_01_Process_126: -6964063530830470836
+      cent_01_Process_127: -2057613997955369708
+      cent_01_Process_128: -2939666691396448630
+      cent_01_Process_129: -436138155128875131
+      cent_01_Process_13: 1127910342108084566
+      cent_01_Process_130: 7080952167732524956
+      cent_01_Process_131: 2451334892719217956
+      cent_01_Process_132: -7416417284976615675
+      cent_01_Process_133: -7058546275296795491
+      cent_01_Process_134: 8446635080990278009
+      cent_01_Process_135: 131029721585318206
+      cent_01_Process_136: -6111097395308675346
+      cent_01_Process_137: 7139504180516730570
+      cent_01_Process_138: 8402629567998701454
+      cent_01_Process_139: -7755315533206854291
+      cent_01_Process_14: 4547117840806523951
+      cent_01_Process_140: -5807745407473164848
+      cent_01_Process_141: 7384938885501745843
+      cent_01_Process_142: -2628322133952859809
+      cent_01_Process_143: -1711489248784697226
+      cent_01_Process_144: -2283349938201100881
+      cent_01_Process_145: 3163904002318157646
+      cent_01_Process_146: -7734533870110752685
+      cent_01_Process_147: -5157649729573586844
+      cent_01_Process_148: 3844504035766362571
+      cent_01_Process_149: 2509472862624032283
+      cent_01_Process_15: -5012974504151422142
+      cent_01_Process_150: -2820282607956304550
+      cent_01_Process_151: 4404683997262581584
+      cent_01_Process_152: 5854863043784065865
+      cent_01_Process_153: -6281173995533804128
+      cent_01_Process_154: 7255434206571543091
+      cent_01_Process_155: 7485809118569371356
+      cent_01_Process_156: -2530710372867018108
+      cent_01_Process_157: -1339000655194700371
+      cent_01_Process_158: 7359594052247134850
+      cent_01_Process_159: 4555209523282325546
+      cent_01_Process_16: 6673550714967348404
+      cent_01_Process_160: -4945302214067739163
+      cent_01_Process_161: -4408742314778790716
+      cent_01_Process_162: 6492577242944865728
+      cent_01_Process_163: -4266456774158462695
+      cent_01_Process_164: 2073184608325384462
+      cent_01_Process_165: -2448237683007957186
+      cent_01_Process_166: -3793086635795791286
+      cent_01_Process_167: -736805128617604704
+      cent_01_Process_168: 1811062682320072238
+      cent_01_Process_169: -1498271263420214273
+      cent_01_Process_17: -1494107672761499834
+      cent_01_Process_170: -1749111708654028940
+      cent_01_Process_171: 151773892534007818
+      cent_01_Process_172: -8747593546604622404
+      cent_01_Process_173: -7642318457846086679
+      cent_01_Process_174: -1543672265626689901
+      cent_01_Process_175: 7351949780356985086
+      cent_01_Process_176: 4126267643452291003
+      cent_01_Process_177: 8687444660801236039
+      cent_01_Process_178: -9153107935069637023
+      cent_01_Process_179: -2293401020898691752
+      cent_01_Process_18: -717521173472360769
+      cent_01_Process_180: -7381977574955038194
+      cent_01_Process_181: -2553170194208101297
+      cent_01_Process_182: -8071073410502645112
+      cent_01_Process_183: 7631482209230490853
+      cent_01_Process_184: -7455571305054329850
+      cent_01_Process_185: -3663392804470865353
+      cent_01_Process_186: 4769519335618368223
+      cent_01_Process_187: -1578155877440283104
+      cent_01_Process_188: -6108591097856671173
+      cent_01_Process_189: 774940164129356305
+      cent_01_Process_19: 8275918062406127755
+      cent_01_Process_190: -6218092356983516545
+      cent_01_Process_191: 7517660822977294007
+      cent_01_Process_192: -3888594149631944713
+      cent_01_Process_193: 5810104430220617430
+      cent_01_Process_194: -5710027409955632986
+      cent_01_Process_195: 7295447133554071781
+      cent_01_Process_196: -3601467730784093136
+      cent_01_Process_197: -2960734108233155725
+      cent_01_Process_198: -960299088424676358
+      cent_01_Process_199: 5198169287710011378
+      cent_01_Process_2: 4242460707779268472
+      cent_01_Process_20: 4178106076990244353
+      cent_01_Process_200: 4887985608244267297
+      cent_01_Process_201: -2384499089973594613
+      cent_01_Process_202: 8919202606336557259
+      cent_01_Process_203: -633527950444564256
+      cent_01_Process_204: 1316620661274259992
+      cent_01_Process_205: 6328987935646112630
+      cent_01_Process_206: 2586404918587693306
+      cent_01_Process_207: 7654319839855803424
+      cent_01_Process_208: 3550359040523178750
+      cent_01_Process_209: 3313260182257732819
+      cent_01_Process_21: -2765549412809607156
+      cent_01_Process_210: 8451333715700679314
+      cent_01_Process_211: -2703735633910714394
+      cent_01_Process_212: 2215373014220348042
+      cent_01_Process_213: 4215527292007411041
+      cent_01_Process_214: 5060536040146894656
+      cent_01_Process_22: -2876432746402147525
+      cent_01_Process_23: 7664995220605245223
+      cent_01_Process_24: 325891431078956713
+      cent_01_Process_25: 924639338197774902
+      cent_01_Process_26: 8774032308165896375
+      cent_01_Process_27: -1171863027815329061
+      cent_01_Process_28: 2477415811325318840
+      cent_01_Process_29: 2811918294406323193
+      cent_01_Process_3: 1026475153922276973
+      cent_01_Process_30: -5849948433673836902
+      cent_01_Process_31: 8161815152654543132
+      cent_01_Process_32: -8982340784497199564
+      cent_01_Process_33: 1419688614347318645
+      cent_01_Process_34: -1591325069061205045
+      cent_01_Process_35: 1885467887240892693
+      cent_01_Process_36: 6587751379654182832
+      cent_01_Process_37: 1672178561509605792
+      cent_01_Process_38: 2089370991591381572
+      cent_01_Process_39: -2527235201564954497
+      cent_01_Process_4: -3804536367124090540
+      cent_01_Process_40: -523692608031929300
+      cent_01_Process_41: 8282281103241454853
+      cent_01_Process_42: 7495243104552465287
+      cent_01_Process_43: 7095584314478146926
+      cent_01_Process_44: -8492780115390786820
+      cent_01_Process_45: -4306804004060561897
+      cent_01_Process_46: -316748520367434560
+      cent_01_Process_47: 7304772407415212208
+      cent_01_Process_48: 4801468025597179499
+      cent_01_Process_49: -6228304569447683544
+      cent_01_Process_5: 1455256944967212387
+      cent_01_Process_50: -5020543723097398984
+      cent_01_Process_51: 3622516380225931161
+      cent_01_Process_52: -7314137397090237759
+      cent_01_Process_53: 1136451859284481776
+      cent_01_Process_54: 4016910493216967326
+      cent_01_Process_55: -7962713394655491211
+      cent_01_Process_56: 4844894994965448814
+      cent_01_Process_57: -2015498883076281264
+      cent_01_Process_58: 1495322534556113570
+      cent_01_Process_59: 489314851963326996
+      cent_01_Process_6: 7236219641942137484
+      cent_01_Process_60: 1871835550628133129
+      cent_01_Process_61: -2818066178425264474
+      cent_01_Process_62: 5734000074977349347
+      cent_01_Process_63: -2227945730733044518
+      cent_01_Process_64: -3488022137478749517
+      cent_01_Process_65: 3739324273168451312
+      cent_01_Process_66: 6550669374303571779
+      cent_01_Process_67: -2313524178406206961
+      cent_01_Process_68: 57859116029326440
+      cent_01_Process_69: -2571900833170036170
+      cent_01_Process_7: -8564905829901658705
+      cent_01_Process_70: 8856558523688321277
+      cent_01_Process_71: 939865269755899647
+      cent_01_Process_72: 3934989807100422941
+      cent_01_Process_73: -382757226646745906
+      cent_01_Process_74: 8119478606517322636
+      cent_01_Process_75: -8663112203102243298
+      cent_01_Process_76: -8091712988486212893
+      cent_01_Process_77: -2784189508209907200
+      cent_01_Process_78: -7975082843829590331
+      cent_01_Process_79: 2913504303678518427
+      cent_01_Process_8: -4397402278447216453
+      cent_01_Process_80: 7481867118671722823
+      cent_01_Process_81: -7979483783394933421
+      cent_01_Process_82: 3263645309018452156
+      cent_01_Process_83: -7585621624285113905
+      cent_01_Process_84: 627012537714909163
+      cent_01_Process_85: 4177022559267357318
+      cent_01_Process_86: -5951824633825103123
+      cent_01_Process_87: 6720297468859250108
+      cent_01_Process_88: 5749692214857929284
+      cent_01_Process_89: -5479664740762991386
+      cent_01_Process_9: 5286398026097213189
+      cent_01_Process_90: 2131352493636542470
+      cent_01_Process_91: -8208465755874940626
+      cent_01_Process_92: 1142360742611989246
+      cent_01_Process_93: -2670747301387887196
+      cent_01_Process_94: -4701652561128447203
+      cent_01_Process_95: 4116474903607139037
+      cent_01_Process_96: 2653723888945152280
+      cent_01_Process_97: 7918388656717258723
+      cent_01_Process_98: -4659672171258499580
+      cent_01_Process_99: 1933330367159453979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

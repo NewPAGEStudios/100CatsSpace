@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: a8dfe57b42759de4b9b62dcda2b72173
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6765025823907489564
+    second: russia_01_Process_0
+  - first:
+      213: -6666728838119147524
+    second: russia_01_Process_1
+  - first:
+      213: -7099222408942703053
+    second: russia_01_Process_2
+  - first:
+      213: -5820849319851990744
+    second: russia_01_Process_3
+  - first:
+      213: 7558666261629102290
+    second: russia_01_Process_4
+  - first:
+      213: 2897458254473389197
+    second: russia_01_Process_5
+  - first:
+      213: 1000292064834770719
+    second: russia_01_Process_6
+  - first:
+      213: -2531187834031361074
+    second: russia_01_Process_7
+  - first:
+      213: 7847433002906994635
+    second: russia_01_Process_8
+  - first:
+      213: -9105981001537047120
+    second: russia_01_Process_9
+  - first:
+      213: 1223986018649127843
+    second: russia_01_Process_10
+  - first:
+      213: -6028896559152025790
+    second: russia_01_Process_11
+  - first:
+      213: 5182838023697730700
+    second: russia_01_Process_12
+  - first:
+      213: 3900842978590464490
+    second: russia_01_Process_13
+  - first:
+      213: 8330815322400867144
+    second: russia_01_Process_14
+  - first:
+      213: -523379890197736558
+    second: russia_01_Process_15
+  - first:
+      213: -3500306239401876685
+    second: russia_01_Process_16
+  - first:
+      213: 9084770530767930828
+    second: russia_01_Process_17
+  - first:
+      213: -3185318663174321255
+    second: russia_01_Process_18
+  - first:
+      213: -5885016551749837001
+    second: russia_01_Process_19
+  - first:
+      213: 6908366234307084939
+    second: russia_01_Process_20
+  - first:
+      213: -949178541017248768
+    second: russia_01_Process_21
+  - first:
+      213: 104186996220409298
+    second: russia_01_Process_22
+  - first:
+      213: 7465080776940352604
+    second: russia_01_Process_23
+  - first:
+      213: -1924737613232062642
+    second: russia_01_Process_24
+  - first:
+      213: -9022253472771005170
+    second: russia_01_Process_25
+  - first:
+      213: -5263033885312077343
+    second: russia_01_Process_26
+  - first:
+      213: -1467559698307771689
+    second: russia_01_Process_27
+  - first:
+      213: -6701034586654308196
+    second: russia_01_Process_28
+  - first:
+      213: 5411081365399941394
+    second: russia_01_Process_29
+  - first:
+      213: 6295033486756501634
+    second: russia_01_Process_30
+  - first:
+      213: 2490729248083273832
+    second: russia_01_Process_31
+  - first:
+      213: -7142037116312399216
+    second: russia_01_Process_32
+  - first:
+      213: 4636817300964111737
+    second: russia_01_Process_33
+  - first:
+      213: -1118565165116310321
+    second: russia_01_Process_34
+  - first:
+      213: 7783365143249617339
+    second: russia_01_Process_35
+  - first:
+      213: -3391799633772069513
+    second: russia_01_Process_36
+  - first:
+      213: 6166530472816168295
+    second: russia_01_Process_37
+  - first:
+      213: -8588184046746461743
+    second: russia_01_Process_38
+  - first:
+      213: -5097821587394113953
+    second: russia_01_Process_39
+  - first:
+      213: 3121038965557343157
+    second: russia_01_Process_40
+  - first:
+      213: 7172131996873693324
+    second: russia_01_Process_41
+  - first:
+      213: -3755465262891831783
+    second: russia_01_Process_42
+  - first:
+      213: 7735999795202158086
+    second: russia_01_Process_43
+  - first:
+      213: -5288594274776360626
+    second: russia_01_Process_44
+  - first:
+      213: 905909968098678182
+    second: russia_01_Process_45
+  - first:
+      213: -4717772899954287101
+    second: russia_01_Process_46
+  - first:
+      213: 803590533054584632
+    second: russia_01_Process_47
+  - first:
+      213: -7779937503147584026
+    second: russia_01_Process_48
+  - first:
+      213: 1420330002222529708
+    second: russia_01_Process_49
+  - first:
+      213: -7207614151314993866
+    second: russia_01_Process_50
+  - first:
+      213: -103323287131680327
+    second: russia_01_Process_51
+  - first:
+      213: -134387610692139103
+    second: russia_01_Process_52
+  - first:
+      213: 5410204610856010857
+    second: russia_01_Process_53
+  - first:
+      213: -7988155374076128410
+    second: russia_01_Process_54
+  - first:
+      213: -6914771736447721999
+    second: russia_01_Process_55
+  - first:
+      213: 8438103172911022007
+    second: russia_01_Process_56
+  - first:
+      213: -7429403247322383795
+    second: russia_01_Process_57
+  - first:
+      213: 3207798606922127067
+    second: russia_01_Process_58
+  - first:
+      213: -8892711325523804841
+    second: russia_01_Process_59
+  - first:
+      213: 2922828916038519059
+    second: russia_01_Process_60
+  - first:
+      213: -8513051558287073049
+    second: russia_01_Process_61
+  - first:
+      213: -5013125000148259741
+    second: russia_01_Process_62
+  - first:
+      213: -7184876461186319484
+    second: russia_01_Process_63
+  - first:
+      213: -2278944588124978162
+    second: russia_01_Process_64
+  - first:
+      213: -1779791587282253554
+    second: russia_01_Process_65
+  - first:
+      213: 3884962431838569859
+    second: russia_01_Process_66
+  - first:
+      213: -264338503307005263
+    second: russia_01_Process_67
+  - first:
+      213: 8610123434596489936
+    second: russia_01_Process_68
+  - first:
+      213: -8623746168568431204
+    second: russia_01_Process_69
+  - first:
+      213: -7786822402557829313
+    second: russia_01_Process_70
+  - first:
+      213: 6382698308805440510
+    second: russia_01_Process_71
+  - first:
+      213: 8757998194286600661
+    second: russia_01_Process_72
+  - first:
+      213: 7364912628857945955
+    second: russia_01_Process_73
+  - first:
+      213: 4732918978590956978
+    second: russia_01_Process_74
+  - first:
+      213: 3085873022145580132
+    second: russia_01_Process_75
+  - first:
+      213: 3233918546562236197
+    second: russia_01_Process_76
+  - first:
+      213: -6517825565874558041
+    second: russia_01_Process_77
+  - first:
+      213: -678828591316781904
+    second: russia_01_Process_78
+  - first:
+      213: -5297875249747659443
+    second: russia_01_Process_79
+  - first:
+      213: 6312231210381044513
+    second: russia_01_Process_80
+  - first:
+      213: 4215446122931154083
+    second: russia_01_Process_81
+  - first:
+      213: 8953851591837497177
+    second: russia_01_Process_82
+  - first:
+      213: 5915629774894759368
+    second: russia_01_Process_83
+  - first:
+      213: 2811871772721160293
+    second: russia_01_Process_84
+  - first:
+      213: -5378783453405918932
+    second: russia_01_Process_85
+  - first:
+      213: -6488458027348400910
+    second: russia_01_Process_86
+  - first:
+      213: -5398410745812327465
+    second: russia_01_Process_87
+  - first:
+      213: 2042973985795843244
+    second: russia_01_Process_88
+  - first:
+      213: -9161357512209623628
+    second: russia_01_Process_89
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 65
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: russia_01_Process_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 5000
+        height: 1146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e856a51bdccd12a0800000000000000
+      internalID: -6765025823907489564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1741
+        width: 290
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf73e0e81750b73a0800000000000000
+      internalID: -6666728838119147524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1652
+        width: 134
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e2a7515de7a7d90800000000000000
+      internalID: -7099222408942703053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1550
+        width: 392
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821e52f3260383fa0800000000000000
+      internalID: -5820849319851990744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1802
+        width: 129
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8e12cdae6c5e860800000000000000
+      internalID: 7558666261629102290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1576
+        width: 168
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e8695ee6d53820800000000000000
+      internalID: 2897458254473389197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1676
+        width: 244
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f175e1c4550c1ed00800000000000000
+      internalID: 1000292064834770719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1838
+        width: 221
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec335c4631a6fdcd0800000000000000
+      internalID: -2531187834031361074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1819
+        width: 246
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7c2f81dbea7ec60800000000000000
+      internalID: 7847433002906994635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_9
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1323
+        width: 612
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5bdef468e01a180800000000000000
+      internalID: -9105981001537047120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_10
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1451
+        width: 244
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab30ab8cc87cf010800000000000000
+      internalID: 1223986018649127843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_11
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1403
+        width: 284
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f2b2c958e055ca0800000000000000
+      internalID: -6028896559152025790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_12
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1806
+        width: 651
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c04e209b32de740800000000000000
+      internalID: 5182838023697730700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_13
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1412
+        width: 488
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9167f7504922630800000000000000
+      internalID: 3900842978590464490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_14
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1557
+        width: 183
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843c51da5600d9370800000000000000
+      internalID: 8330815322400867144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_15
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 1853
+        width: 218
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2935e2a43c49cb8f0800000000000000
+      internalID: -523379890197736558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_16
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 1755
+        width: 317
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3332e5b450a6c6fc0800000000000000
+      internalID: -3500306239401876685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_17
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 980
+        width: 696
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc50c502aa6931e70800000000000000
+      internalID: 9084770530767930828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_18
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 1438
+        width: 744
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b82196d897bc3d0800000000000000
+      internalID: -3185318663174321255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_19
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1489
+        width: 236
+        height: 573
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f18a750a8345ea0800000000000000
+      internalID: -5885016551749837001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_20
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 1325
+        width: 226
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b824d2eec727fdf50800000000000000
+      internalID: 6908366234307084939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_21
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1686
+        width: 123
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c4e3a5527d3d2f0800000000000000
+      internalID: -949178541017248768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_22
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1835
+        width: 1530
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5bee36585227100800000000000000
+      internalID: 104186996220409298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 941
+        height: 1249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5470293a6b499760800000000000000
+      internalID: 7465080776940352604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_24
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1699
+        width: 208
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f3875a655f945e0800000000000000
+      internalID: -1924737613232062642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_25
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1377
+        width: 175
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0523f9b4448ac280800000000000000
+      internalID: -9022253472771005170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_26
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 1114
+        width: 1630
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e13129e092f5f6b0800000000000000
+      internalID: -5263033885312077343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_27
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 1157
+        width: 978
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d29fa7da3e22abe0800000000000000
+      internalID: -1467559698307771689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_28
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 770
+        width: 745
+        height: 707
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c980dda0c842103a0800000000000000
+      internalID: -6701034586654308196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_29
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1352
+        width: 134
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211366b25d5081b40800000000000000
+      internalID: 5411081365399941394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_30
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1347
+        width: 173
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2885f4b8a937c5750800000000000000
+      internalID: 6295033486756501634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_31
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1319
+        width: 436
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868edaffd09d09220800000000000000
+      internalID: 2490729248083273832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_32
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1357
+        width: 154
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0925b85351362ec90800000000000000
+      internalID: -7142037116312399216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_33
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1339
+        width: 321
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975f950b4c8495040800000000000000
+      internalID: 4636817300964111737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_34
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 1327
+        width: 229
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccbd13a8ee0a70f0800000000000000
+      internalID: -1118565165116310321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_35
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 1308
+        width: 184
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb10d881c51140c60800000000000000
+      internalID: 7783365143249617339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_36
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1114
+        width: 280
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d37bf1438ede0d0800000000000000
+      internalID: -3391799633772069513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_37
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 968
+        width: 288
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d44d81bcae39550800000000000000
+      internalID: 6166530472816168295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_38
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1185
+        width: 154
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d910049c14a0d880800000000000000
+      internalID: -8588184046746461743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_39
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 1017
+        width: 241
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e4e039646e049b0800000000000000
+      internalID: -5097821587394113953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_40
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1207
+        width: 294
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3b2383768205b20800000000000000
+      internalID: 3121038965557343157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_41
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1060
+        width: 109
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c889ed33d08888360800000000000000
+      internalID: 7172131996873693324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_42
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 1086
+        width: 2399
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e630f9d38e1ebc0800000000000000
+      internalID: -3755465262891831783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_43
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 757
+        width: 357
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ee48f93dacb5b60800000000000000
+      internalID: 7735999795202158086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_44
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 775
+        width: 465
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e495acaf6832b96b0800000000000000
+      internalID: -5288594274776360626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_45
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 869
+        width: 247
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5d107f050729c00800000000000000
+      internalID: 905909968098678182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_46
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 995
+        width: 225
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e92471b8a178eb0800000000000000
+      internalID: -4717772899954287101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_47
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 742
+        width: 357
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837d59b055de62b00800000000000000
+      internalID: 803590533054584632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_48
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 995
+        width: 255
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5162e8f0c180490800000000000000
+      internalID: -7779937503147584026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_49
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 861
+        width: 253
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacbd4e9c9606b310800000000000000
+      internalID: 1420330002222529708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_50
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 755
+        width: 486
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d8ac0fd1969fb90800000000000000
+      internalID: -7207614151314993866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_51
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 963
+        width: 1425
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b19d7d840ce09ef0800000000000000
+      internalID: -103323287131680327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_52
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 991
+        width: 1038
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a74b7a1e2f822ef0800000000000000
+      internalID: -134387610692139103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_53
+      rect:
+        serializedVersion: 2
+        x: 2606
+        y: 968
+        width: 1018
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964c048dd68e41b40800000000000000
+      internalID: 5410204610856010857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_54
+      rect:
+        serializedVersion: 2
+        x: 3987
+        y: 968
+        width: 1013
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6639095a20f542190800000000000000
+      internalID: -7988155374076128410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 404
+        width: 154
+        height: 541
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd5f12edbbc900a0800000000000000
+      internalID: -6914771736447721999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_56
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 131
+        width: 145
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf3577f02a2a1570800000000000000
+      internalID: 8438103172911022007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_57
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 150
+        width: 725
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a3736fb1575e890800000000000000
+      internalID: -7429403247322383795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_58
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 868
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6169c56d3648c20800000000000000
+      internalID: 3207798606922127067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_59
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 492
+        width: 248
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d7f004a2eb69480800000000000000
+      internalID: -8892711325523804841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_60
+      rect:
+        serializedVersion: 2
+        x: 3458
+        y: 881
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31947bfc969ff8820800000000000000
+      internalID: 2922828916038519059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_61
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 80
+        width: 421
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a6b936b09bd980800000000000000
+      internalID: -8513051558287073049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_62
+      rect:
+        serializedVersion: 2
+        x: 3575
+        y: 862
+        width: 68
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c688f7f5dcd6ab0800000000000000
+      internalID: -5013125000148259741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_63
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 876
+        width: 211
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b7ce7fce03a4c90800000000000000
+      internalID: -7184876461186319484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_64
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 870
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e040302b8ff8f50e0800000000000000
+      internalID: -2278944588124978162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_65
+      rect:
+        serializedVersion: 2
+        x: 3803
+        y: 497
+        width: 215
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0900d92bf8ec47e0800000000000000
+      internalID: -1779791587282253554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_66
+      rect:
+        serializedVersion: 2
+        x: 3821
+        y: 878
+        width: 194
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385c9739fb82ae530800000000000000
+      internalID: 3884962431838569859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_67
+      rect:
+        serializedVersion: 2
+        x: 3970
+        y: 864
+        width: 62
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b27de12881e45cf0800000000000000
+      internalID: -264338503307005263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_68
+      rect:
+        serializedVersion: 2
+        x: 3976
+        y: 476
+        width: 185
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dad36735ad4d7770800000000000000
+      internalID: 8610123434596489936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_69
+      rect:
+        serializedVersion: 2
+        x: 4026
+        y: 876
+        width: 126
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9db75ddc8c425880800000000000000
+      internalID: -8623746168568431204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_70
+      rect:
+        serializedVersion: 2
+        x: 4111
+        y: 867
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9c7ef746afe390800000000000000
+      internalID: -7786822402557829313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_71
+      rect:
+        serializedVersion: 2
+        x: 4155
+        y: 150
+        width: 731
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b5dc7b46e39850800000000000000
+      internalID: 6382698308805440510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_72
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 128
+        width: 142
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d127f1b4f8aa8970800000000000000
+      internalID: 8757998194286600661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2642
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fbdd4d30d653660800000000000000
+      internalID: 7364912628857945955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_74
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 423
+        width: 309
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd5e952cb4bea140800000000000000
+      internalID: 4732918978590956978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_75
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 360
+        width: 134
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cc2faf92933da20800000000000000
+      internalID: 3085873022145580132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_76
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 506
+        width: 354
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb368b8cf21ec20800000000000000
+      internalID: 3233918546562236197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_77
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 359
+        width: 112
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab66164e280c85a0800000000000000
+      internalID: -6517825565874558041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_78
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 419
+        width: 288
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b43f272ef05496f0800000000000000
+      internalID: -678828591316781904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_79
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 418
+        width: 178
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45f47a978a2a76b0800000000000000
+      internalID: -5297875249747659443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_80
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 509
+        width: 37
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b65ea97dc899750800000000000000
+      internalID: 6312231210381044513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_81
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 509
+        width: 391
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aceb171ae5408a30800000000000000
+      internalID: 4215446122931154083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_82
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 404
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9573a0f4598724c70800000000000000
+      internalID: 8953851591837497177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_83
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 398
+        width: 411
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd735b10f9881250800000000000000
+      internalID: 5915629774894759368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_84
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 312
+        width: 105
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5602ef6ba76c50720800000000000000
+      internalID: 2811871772721160293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_85
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 408
+        width: 288
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29cdf772f8ba55b0800000000000000
+      internalID: -5378783453405918932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_86
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 403
+        width: 439
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4eddb2dcd54f5a0800000000000000
+      internalID: -6488458027348400910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_87
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 375
+        width: 107
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d36438570ef415b0800000000000000
+      internalID: -5398410745812327465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_88
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 0
+        width: 2393
+        height: 643
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4a9b4140a1a5c10800000000000000
+      internalID: 2042973985795843244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: russia_01_Process_89
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 317
+        width: 835
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59360b1e15cd080800000000000000
+      internalID: -9161357512209623628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      russia_01_Process_0: -6765025823907489564
+      russia_01_Process_1: -6666728838119147524
+      russia_01_Process_10: 1223986018649127843
+      russia_01_Process_11: -6028896559152025790
+      russia_01_Process_12: 5182838023697730700
+      russia_01_Process_13: 3900842978590464490
+      russia_01_Process_14: 8330815322400867144
+      russia_01_Process_15: -523379890197736558
+      russia_01_Process_16: -3500306239401876685
+      russia_01_Process_17: 9084770530767930828
+      russia_01_Process_18: -3185318663174321255
+      russia_01_Process_19: -5885016551749837001
+      russia_01_Process_2: -7099222408942703053
+      russia_01_Process_20: 6908366234307084939
+      russia_01_Process_21: -949178541017248768
+      russia_01_Process_22: 104186996220409298
+      russia_01_Process_23: 7465080776940352604
+      russia_01_Process_24: -1924737613232062642
+      russia_01_Process_25: -9022253472771005170
+      russia_01_Process_26: -5263033885312077343
+      russia_01_Process_27: -1467559698307771689
+      russia_01_Process_28: -6701034586654308196
+      russia_01_Process_29: 5411081365399941394
+      russia_01_Process_3: -5820849319851990744
+      russia_01_Process_30: 6295033486756501634
+      russia_01_Process_31: 2490729248083273832
+      russia_01_Process_32: -7142037116312399216
+      russia_01_Process_33: 4636817300964111737
+      russia_01_Process_34: -1118565165116310321
+      russia_01_Process_35: 7783365143249617339
+      russia_01_Process_36: -3391799633772069513
+      russia_01_Process_37: 6166530472816168295
+      russia_01_Process_38: -8588184046746461743
+      russia_01_Process_39: -5097821587394113953
+      russia_01_Process_4: 7558666261629102290
+      russia_01_Process_40: 3121038965557343157
+      russia_01_Process_41: 7172131996873693324
+      russia_01_Process_42: -3755465262891831783
+      russia_01_Process_43: 7735999795202158086
+      russia_01_Process_44: -5288594274776360626
+      russia_01_Process_45: 905909968098678182
+      russia_01_Process_46: -4717772899954287101
+      russia_01_Process_47: 803590533054584632
+      russia_01_Process_48: -7779937503147584026
+      russia_01_Process_49: 1420330002222529708
+      russia_01_Process_5: 2897458254473389197
+      russia_01_Process_50: -7207614151314993866
+      russia_01_Process_51: -103323287131680327
+      russia_01_Process_52: -134387610692139103
+      russia_01_Process_53: 5410204610856010857
+      russia_01_Process_54: -7988155374076128410
+      russia_01_Process_55: -6914771736447721999
+      russia_01_Process_56: 8438103172911022007
+      russia_01_Process_57: -7429403247322383795
+      russia_01_Process_58: 3207798606922127067
+      russia_01_Process_59: -8892711325523804841
+      russia_01_Process_6: 1000292064834770719
+      russia_01_Process_60: 2922828916038519059
+      russia_01_Process_61: -8513051558287073049
+      russia_01_Process_62: -5013125000148259741
+      russia_01_Process_63: -7184876461186319484
+      russia_01_Process_64: -2278944588124978162
+      russia_01_Process_65: -1779791587282253554
+      russia_01_Process_66: 3884962431838569859
+      russia_01_Process_67: -264338503307005263
+      russia_01_Process_68: 8610123434596489936
+      russia_01_Process_69: -8623746168568431204
+      russia_01_Process_7: -2531187834031361074
+      russia_01_Process_70: -7786822402557829313
+      russia_01_Process_71: 6382698308805440510
+      russia_01_Process_72: 8757998194286600661
+      russia_01_Process_73: 7364912628857945955
+      russia_01_Process_74: 4732918978590956978
+      russia_01_Process_75: 3085873022145580132
+      russia_01_Process_76: 3233918546562236197
+      russia_01_Process_77: -6517825565874558041
+      russia_01_Process_78: -678828591316781904
+      russia_01_Process_79: -5297875249747659443
+      russia_01_Process_8: 7847433002906994635
+      russia_01_Process_80: 6312231210381044513
+      russia_01_Process_81: 4215446122931154083
+      russia_01_Process_82: 8953851591837497177
+      russia_01_Process_83: 5915629774894759368
+      russia_01_Process_84: 2811871772721160293
+      russia_01_Process_85: -5378783453405918932
+      russia_01_Process_86: -6488458027348400910
+      russia_01_Process_87: -5398410745812327465
+      russia_01_Process_88: 2042973985795843244
+      russia_01_Process_89: -9161357512209623628
+      russia_01_Process_9: -9105981001537047120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
